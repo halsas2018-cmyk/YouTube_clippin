@@ -301,15 +301,30 @@ const VideoRoot: React.FC = () => {
           const durationInFrames = Math.round((decision.end - decision.start) * FPS);
           // Calculate opacity for 5-frame fade-in and fade-out
           const fadeFrames = 5;
-          const opacity = interpolate(frame, [
-            from,
-            from + fadeFrames,
-            from + durationInFrames - fadeFrames,
-            from + durationInFrames,
-          ], [0, 1, 1, 0], {
-            extrapolateLeft: "clamp",
-            extrapolateRight: "clamp"
-          });
+
+          // Robust opacity interpolation that guarantees strictly increasing inputRange
+          // for all segment durations, following Remotion best practices
+          let opacity: number;
+          if (durationInFrames <= fadeFrames) {
+            // Too short for fade - simple linear ramp from 0 to 1
+            opacity = interpolate(frame, [from, from + durationInFrames], [0, 1], {
+              extrapolateLeft: "clamp",
+              extrapolateRight: "clamp",
+            });
+          } else if (durationInFrames <= 2 * fadeFrames) {
+            // Can only do symmetric partial fades: 0->1 over half, 1->0 over half
+            const midPoint = from + durationInFrames / 2;
+            opacity = interpolate(frame, [from, midPoint, from + durationInFrames], [0, 1, 0], {
+              extrapolateLeft: "clamp",
+              extrapolateRight: "clamp",
+            });
+          } else {
+            // Normal case: full fade-in, hold at 1, full fade-out
+            opacity = interpolate(frame, [from, from + fadeFrames, from + durationInFrames - fadeFrames, from + durationInFrames], [0, 1, 1, 0], {
+              extrapolateLeft: "clamp",
+              extrapolateRight: "clamp",
+            });
+          }
 
           return (
             <Video
