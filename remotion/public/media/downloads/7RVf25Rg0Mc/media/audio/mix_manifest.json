@@ -1,0 +1,18 @@
+{
+  "video_id": "7RVf25Rg0Mc",
+  "source_manifests": {
+    "audio_planning": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/audio_planning_manifest.json",
+    "acquisition": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/media/audio/acquisition_manifest.json"
+  },
+  "output_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/media/audio/mixed.wav",
+  "sample_rate_hz": 44100,
+  "duration_s": 16.073990929705214,
+  "background_music_volume_base": 0.3,
+  "speech_ducking_applied": 17,
+  "sfx_events_count": 20,
+  "validation": {
+    "duration_ok": true,
+    "non_silent_rms": 0.01710008265489959,
+    "ducking_verified": "checked"
+  }
+}

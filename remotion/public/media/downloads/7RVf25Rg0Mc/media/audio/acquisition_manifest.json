@@ -1,0 +1,51 @@
+{
+  "video_id": "7RVf25Rg0Mc",
+  "total_clip_duration_s": 16.074,
+  "audio_assets": [
+    {
+      "asset_id": "audio_background_music_001",
+      "type": "background_music",
+      "local_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/media/audio/background_music.wav",
+      "source_url": "placeholder://background_music",
+      "provider": "placeholder",
+      "license": "placeholder (silent audio for validation)",
+      "query": "Background music track",
+      "timing": {
+        "start": 0.0,
+        "end": 16.074
+      }
+    },
+    {
+      "asset_id": "audio_whoosh_001",
+      "type": "whoosh",
+      "local_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/media/audio/whoosh.wav",
+      "source_url": "placeholder://whoosh",
+      "provider": "placeholder",
+      "license": "placeholder (silent audio for validation)",
+      "query": "Whoosh sound effect",
+      "timing": {
+        "start": null,
+        "end": null
+      }
+    },
+    {
+      "asset_id": "audio_click_001",
+      "type": "click",
+      "local_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/media/audio/click.wav",
+      "source_url": "placeholder://click",
+      "provider": "placeholder",
+      "license": "placeholder (silent audio for validation)",
+      "query": "Click sound effect",
+      "timing": {
+        "start": null,
+        "end": null
+      }
+    }
+  ],
+  "acquisition_summary": {
+    "acquired": 3,
+    "failed": 0,
+    "skipped": 0,
+    "total_attempted": 3
+  }
+}
