@@ -1,0 +1,253 @@
+{
+  "video_id": "7RVf25Rg0Mc",
+  "video_url": "https://www.youtube.com/watch?v=7RVf25Rg0Mc",
+  "total_sections": 6,
+  "sections": [
+    {
+      "section_id": "section_001",
+      "candidate_id": 1,
+      "video_id": "7RVf25Rg0Mc",
+      "file_name": "section_001.mp4",
+      "file_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/sections/section_001.mp4",
+      "start_offset": 26.68,
+      "end_offset": 66.52,
+      "target_duration_s": 39.84,
+      "probed_duration_s": 39.853,
+      "original_candidate_ranges": [
+        {
+          "start": 34.68,
+          "end": 46.56
+        },
+        {
+          "start": 53.92,
+          "end": 58.52
+        }
+      ],
+      "padded_range": {
+        "start": 26.68,
+        "end": 66.52
+      },
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "av1",
+          "codec_type": "video",
+          "duration": "39.853000"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "duration": "39.845011"
+        }
+      ],
+      "combined_text": "In Paperclip, your agents become employees. You give them managers, you assign them tasks. They can talk to each other, but it's not what you think. It's through the task, intentional and focused. [...] And it doesn't matter what harness you have. Everyone can be brought into this company.",
+      "reason": "This clip quickly explains the core value proposition of Paperclip as a meta-harness for AI agents, making it perfect for a tech-focused short."
+    },
+    {
+      "section_id": "section_002",
+      "candidate_id": 2,
+      "video_id": "7RVf25Rg0Mc",
+      "file_name": "section_002.mp4",
+      "file_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/sections/section_002.mp4",
+      "start_offset": 99.08,
+      "end_offset": 134.0,
+      "target_duration_s": 34.92,
+      "probed_duration_s": 34.922,
+      "original_candidate_ranges": [
+        {
+          "start": 107.08,
+          "end": 117.8
+        },
+        {
+          "start": 121.44,
+          "end": 126.0
+        }
+      ],
+      "padded_range": {
+        "start": 99.08,
+        "end": 134.0
+      },
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "av1",
+          "codec_type": "video",
+          "duration": "34.921000"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "duration": "34.921995"
+        }
+      ],
+      "combined_text": "We're harness maxing. No matter what new harness comes out or model, paperclip is a meta harness. We can bring any other harness or model to it. Paperclip can use it. Paperclip is our company, and it's a company that can run the greatest and latest models, and the greatest and latest harnesses, and all the features they come out with. [...] All AI agents. Network and systems engineers, storage, security, a legit company running on Paperclip.",
+      "reason": "This highlights the 'meta-harness' concept, which is the most compelling technical selling point for AI enthusiasts."
+    },
+    {
+      "section_id": "section_003",
+      "candidate_id": 3,
+      "video_id": "7RVf25Rg0Mc",
+      "file_name": "section_003.mp4",
+      "file_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/sections/section_003.mp4",
+      "start_offset": 162.16,
+      "end_offset": 195.12,
+      "target_duration_s": 32.96,
+      "probed_duration_s": 32.98,
+      "original_candidate_ranges": [
+        {
+          "start": 170.16,
+          "end": 177.92
+        },
+        {
+          "start": 180.12,
+          "end": 187.12
+        }
+      ],
+      "padded_range": {
+        "start": 162.16,
+        "end": 195.12
+      },
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "av1",
+          "codec_type": "video",
+          "duration": "32.968000"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "duration": "32.980000"
+        }
+      ],
+      "combined_text": "We know how breaches happen now. It's not a mystery. Attackers don't hack in. They log in. Infostealer malware grabs everything. Passwords, session cookies, MFA tokens. 54% of ransomware victims had their info sitting inside stealer logs way before they ever got hacked. [...] Attackers only need 48 minutes. But with Flare, you realize things happen within seconds. They have real-time detection, and actually checks against Entra ID whether an account is actually real and active, and it can kill a session before anyone opens a ticket.",
+      "reason": "This provides a high-value, punchy security insight that works well as a standalone educational short."
+    },
+    {
+      "section_id": "section_004",
+      "candidate_id": 4,
+      "video_id": "7RVf25Rg0Mc",
+      "file_name": "section_004.mp4",
+      "file_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/sections/section_004.mp4",
+      "start_offset": 297.76,
+      "end_offset": 336.48,
+      "target_duration_s": 38.72,
+      "probed_duration_s": 38.743,
+      "original_candidate_ranges": [
+        {
+          "start": 305.76,
+          "end": 314.48
+        },
+        {
+          "start": 320.52,
+          "end": 328.48
+        }
+      ],
+      "padded_range": {
+        "start": 297.76,
+        "end": 336.48
+      },
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "av1",
+          "codec_type": "video",
+          "duration": "38.743000"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "duration": "38.720000"
+        }
+      ],
+      "combined_text": "Here, what you're about to see is one of the most powerful parts of Paperclip, and it's how we talk with our agents, how we interface with them. And that's through tasks. Now, we're about to assign our toilet task. But first, I want to just test this and make sure it works. [...] Boom, Dumbledore assigns a task to Ron. And that right there is our first moment where we talk to an agent and then an agent talk to another agent. And they're both working here.",
+      "reason": "Shows the 'agent-to-agent' communication feature in action, which is a highly engaging visual for viewers."
+    },
+    {
+      "section_id": "section_005",
+      "candidate_id": 5,
+      "video_id": "7RVf25Rg0Mc",
+      "file_name": "section_005.mp4",
+      "file_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/sections/section_005.mp4",
+      "start_offset": 621.8,
+      "end_offset": 648.0,
+      "target_duration_s": 26.2,
+      "probed_duration_s": 26.222,
+      "original_candidate_ranges": [
+        {
+          "start": 629.8,
+          "end": 640.0
+        },
+        {
+          "start": 668.8,
+          "end": 678.68
+        }
+      ],
+      "padded_range": {
+        "start": 621.8,
+        "end": 648.0
+      },
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "av1",
+          "codec_type": "video",
+          "duration": "26.214000"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "duration": "26.221995"
+        }
+      ],
+      "combined_text": "It's not a mystery. Four links on flu powder have been broken for 15 months. Flu powder is my MicroTik switch we're talking about. Anything that disturbs the building knocks them over. [...] It comes down to the transceivers. I have these SFPs. They are these third-party SFPs I bought off Amazon fairly cheap. I bought them in different batches over time as I've added more employees. And apparently the ports are all in one of the batches.",
+      "reason": "This is a satisfying 'tech mystery' resolution that provides real-world value for IT professionals."
+    },
+    {
+      "section_id": "section_006",
+      "candidate_id": 5,
+      "video_id": "7RVf25Rg0Mc",
+      "file_name": "section_006.mp4",
+      "file_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/sections/section_006.mp4",
+      "start_offset": 660.8,
+      "end_offset": 686.68,
+      "target_duration_s": 25.88,
+      "probed_duration_s": 25.886,
+      "original_candidate_ranges": [
+        {
+          "start": 629.8,
+          "end": 640.0
+        },
+        {
+          "start": 668.8,
+          "end": 678.68
+        }
+      ],
+      "padded_range": {
+        "start": 660.8,
+        "end": 686.68
+      },
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "av1",
+          "codec_type": "video",
+          "duration": "25.886000"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "duration": "25.883991"
+        }
+      ],
+      "combined_text": "It's not a mystery. Four links on flu powder have been broken for 15 months. Flu powder is my MicroTik switch we're talking about. Anything that disturbs the building knocks them over. [...] It comes down to the transceivers. I have these SFPs. They are these third-party SFPs I bought off Amazon fairly cheap. I bought them in different batches over time as I've added more employees. And apparently the ports are all in one of the batches.",
+      "reason": "This is a satisfying 'tech mystery' resolution that provides real-world value for IT professionals."
+    }
+  ]
+}

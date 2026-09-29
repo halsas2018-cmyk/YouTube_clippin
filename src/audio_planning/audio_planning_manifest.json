@@ -1,0 +1,245 @@
+{
+  "video_id": "FltNsyPXNdo",
+  "selected_candidate_id": 1,
+  "total_clip_duration_s": 17.882,
+  "background_music": [
+    {
+      "start": 0.0,
+      "end": 17.882,
+      "volume": 0.3,
+      "ducking": true
+    }
+  ],
+  "speech_ducking": [
+    {
+      "start": 0.0,
+      "end": 0.96,
+      "duck_amount": 0.7
+    },
+    {
+      "start": 1.22,
+      "end": 2.061,
+      "duck_amount": 0.7
+    },
+    {
+      "start": 2.101,
+      "end": 3.161,
+      "duck_amount": 0.7
+    },
+    {
+      "start": 3.261,
+      "end": 4.742,
+      "duck_amount": 0.7
+    },
+    {
+      "start": 4.762,
+      "end": 5.743,
+      "duck_amount": 0.7
+    },
+    {
+      "start": 5.783,
+      "end": 5.963,
+      "duck_amount": 0.7
+    },
+    {
+      "start": 5.963,
+      "end": 7.043,
+      "duck_amount": 0.7
+    },
+    {
+      "start": 7.083,
+      "end": 9.024,
+      "duck_amount": 0.7
+    },
+    {
+      "start": 9.044,
+      "end": 9.865,
+      "duck_amount": 0.7
+    },
+    {
+      "start": 9.885,
+      "end": 10.245,
+      "duck_amount": 0.7
+    },
+    {
+      "start": 10.465,
+      "end": 11.006,
+      "duck_amount": 0.7
+    },
+    {
+      "start": 11.026,
+      "end": 11.646,
+      "duck_amount": 0.7
+    },
+    {
+      "start": 11.786,
+      "end": 12.827,
+      "duck_amount": 0.7
+    },
+    {
+      "start": 12.847,
+      "end": 12.887,
+      "duck_amount": 0.7
+    },
+    {
+      "start": 12.887,
+      "end": 13.649,
+      "duck_amount": 0.7
+    },
+    {
+      "start": 13.689,
+      "end": 15.354,
+      "duck_amount": 0.7
+    },
+    {
+      "start": 15.394,
+      "end": 16.779,
+      "duck_amount": 0.7
+    },
+    {
+      "start": 16.799,
+      "end": 17.882,
+      "duck_amount": 0.7
+    }
+  ],
+  "sfx": [
+    {
+      "time": 0.0,
+      "type": "whoosh_in",
+      "description": "SFX at start of KEEP_ORIGINAL segment: YouTubers, I have great news. ...",
+      "volume": 0.4
+    },
+    {
+      "time": 1.22,
+      "type": "click",
+      "description": "Emphasis on word 'It' (score 0.99)",
+      "volume": 0.3
+    },
+    {
+      "time": 1.34,
+      "type": "click",
+      "description": "Emphasis on word 'no' (score 1.00)",
+      "volume": 0.3
+    },
+    {
+      "time": 1.48,
+      "type": "click",
+      "description": "Emphasis on word 'longer' (score 0.92)",
+      "volume": 0.3
+    },
+    {
+      "time": 2.101,
+      "type": "click",
+      "description": "Emphasis on word 'you' (score 0.91)",
+      "volume": 0.3
+    },
+    {
+      "time": 2.921,
+      "type": "click",
+      "description": "Emphasis on word 'to' (score 0.98)",
+      "volume": 0.3
+    },
+    {
+      "time": 3.922,
+      "type": "whoosh_out",
+      "description": "SFX at end of KEEP_ORIGINAL segment: YouTubers, I have great news. ...",
+      "volume": 0.4
+    },
+    {
+      "time": 4.902,
+      "type": "click",
+      "description": "Emphasis on word 'awkward' (score 0.90)",
+      "volume": 0.3
+    },
+    {
+      "time": 5.683,
+      "type": "click",
+      "description": "Emphasis on word 'it' (score 0.93)",
+      "volume": 0.3
+    },
+    {
+      "time": 6.823,
+      "type": "click",
+      "description": "Emphasis on word 'of' (score 1.00)",
+      "volume": 0.3
+    },
+    {
+      "time": 8.924,
+      "type": "whoosh_in",
+      "description": "SFX at start of USE_BROLL segment: some of these channels utilize...",
+      "volume": 0.4
+    },
+    {
+      "time": 8.924,
+      "type": "click",
+      "description": "Emphasis on word 'that' (score 0.98)",
+      "volume": 0.3
+    },
+    {
+      "time": 10.025,
+      "type": "click",
+      "description": "Emphasis on word 'me.' (score 0.97)",
+      "volume": 0.3
+    },
+    {
+      "time": 10.245,
+      "type": "whoosh_out",
+      "description": "SFX at end of USE_BROLL segment: some of these channels utilize...",
+      "volume": 0.4
+    },
+    {
+      "time": 10.465,
+      "type": "whoosh_in",
+      "description": "SFX at start of ORIGINAL_WITH_OVERLAY segment: which is starting to make me t...",
+      "volume": 0.4
+    },
+    {
+      "time": 11.026,
+      "type": "click",
+      "description": "Emphasis on word 'make' (score 0.96)",
+      "volume": 0.3
+    },
+    {
+      "time": 12.887,
+      "type": "whoosh_out",
+      "description": "SFX at end of ORIGINAL_WITH_OVERLAY segment: which is starting to make me t...",
+      "volume": 0.4
+    },
+    {
+      "time": 12.887,
+      "type": "whoosh_in",
+      "description": "SFX at start of USE_BROLL segment: And all of this means that you...",
+      "volume": 0.4
+    },
+    {
+      "time": 13.188,
+      "type": "click",
+      "description": "Emphasis on word 'that' (score 0.99)",
+      "volume": 0.3
+    },
+    {
+      "time": 14.432,
+      "type": "click",
+      "description": "Emphasis on word 'very' (score 0.94)",
+      "volume": 0.3
+    },
+    {
+      "time": 16.097,
+      "type": "click",
+      "description": "Emphasis on word 'in' (score 0.98)",
+      "volume": 0.3
+    },
+    {
+      "time": 16.799,
+      "type": "click",
+      "description": "Emphasis on word 'life' (score 0.97)",
+      "volume": 0.3
+    },
+    {
+      "time": 17.1,
+      "type": "whoosh_out",
+      "description": "SFX at end of USE_BROLL segment: And all of this means that you...",
+      "volume": 0.4
+    }
+  ]
+}

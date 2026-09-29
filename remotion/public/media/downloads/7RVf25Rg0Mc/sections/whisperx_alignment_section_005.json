@@ -1,0 +1,724 @@
+{
+  "section_id": "section_005",
+  "candidate_id": 5,
+  "video_id": "7RVf25Rg0Mc",
+  "file_name": "section_005.mp4",
+  "file_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/sections/section_005.mp4",
+  "start_offset": 621.8,
+  "end_offset": 648.0,
+  "target_duration_s": 26.2,
+  "probed_duration_s": 26.222,
+  "original_candidate_ranges": [
+    {
+      "start": 629.8,
+      "end": 640.0
+    },
+    {
+      "start": 668.8,
+      "end": 678.68
+    }
+  ],
+  "padded_range": {
+    "start": 621.8,
+    "end": 648.0
+  },
+  "combined_text": "It's not a mystery. Four links on flu powder have been broken for 15 months. Flu powder is my MicroTik switch we're talking about. Anything that disturbs the building knocks them over. [...] It comes down to the transceivers. I have these SFPs. They are these third-party SFPs I bought off Amazon fairly cheap. I bought them in different batches over time as I've added more employees. And apparently the ports are all in one of the batches.",
+  "reason": "This is a satisfying 'tech mystery' resolution that provides real-world value for IT professionals.",
+  "alignment": {
+    "whisper_model": "base",
+    "language": "en",
+    "device": "cpu",
+    "compute_type": "float32",
+    "total_words": 68,
+    "timestamp_note": "local_start/local_end are relative to the section MP4 file (0-based seconds). global_start/global_end are authoritative original-video timestamps = local_timestamp + start_offset."
+  },
+  "words": [
+    {
+      "word": "Alright,",
+      "local_start": 6.203,
+      "local_end": 6.383,
+      "global_start": 628.003,
+      "global_end": 628.183,
+      "score": 0.206,
+      "segment_index": 0,
+      "segment_text": "Alright, we get all the agents hired."
+    },
+    {
+      "word": "we",
+      "local_start": 6.684,
+      "local_end": 6.824,
+      "global_start": 628.484,
+      "global_end": 628.624,
+      "score": 0.903,
+      "segment_index": 0,
+      "segment_text": "Alright, we get all the agents hired."
+    },
+    {
+      "word": "get",
+      "local_start": 6.844,
+      "local_end": 6.984,
+      "global_start": 628.644,
+      "global_end": 628.784,
+      "score": 0.677,
+      "segment_index": 0,
+      "segment_text": "Alright, we get all the agents hired."
+    },
+    {
+      "word": "all",
+      "local_start": 7.045,
+      "local_end": 7.165,
+      "global_start": 628.845,
+      "global_end": 628.965,
+      "score": 0.801,
+      "segment_index": 0,
+      "segment_text": "Alright, we get all the agents hired."
+    },
+    {
+      "word": "the",
+      "local_start": 7.205,
+      "local_end": 7.265,
+      "global_start": 629.005,
+      "global_end": 629.065,
+      "score": 0.995,
+      "segment_index": 0,
+      "segment_text": "Alright, we get all the agents hired."
+    },
+    {
+      "word": "agents",
+      "local_start": 7.365,
+      "local_end": 7.626,
+      "global_start": 629.165,
+      "global_end": 629.426,
+      "score": 0.916,
+      "segment_index": 0,
+      "segment_text": "Alright, we get all the agents hired."
+    },
+    {
+      "word": "hired.",
+      "local_start": 7.646,
+      "local_end": 7.886,
+      "global_start": 629.446,
+      "global_end": 629.686,
+      "score": 0.684,
+      "segment_index": 0,
+      "segment_text": "Alright, we get all the agents hired."
+    },
+    {
+      "word": "Check",
+      "local_start": 8.287,
+      "local_end": 8.387,
+      "global_start": 630.087,
+      "global_end": 630.187,
+      "score": 0.0,
+      "segment_index": 1,
+      "segment_text": "Check this out."
+    },
+    {
+      "word": "this",
+      "local_start": 8.407,
+      "local_end": 8.527,
+      "global_start": 630.207,
+      "global_end": 630.327,
+      "score": 0.866,
+      "segment_index": 1,
+      "segment_text": "Check this out."
+    },
+    {
+      "word": "out.",
+      "local_start": 8.567,
+      "local_end": 8.707,
+      "global_start": 630.367,
+      "global_end": 630.507,
+      "score": 0.78,
+      "segment_index": 1,
+      "segment_text": "Check this out."
+    },
+    {
+      "word": "My",
+      "local_start": 9.008,
+      "local_end": 9.128,
+      "global_start": 630.808,
+      "global_end": 630.928,
+      "score": 0.993,
+      "segment_index": 2,
+      "segment_text": "My org chart."
+    },
+    {
+      "word": "org",
+      "local_start": 9.228,
+      "local_end": 9.429,
+      "global_start": 631.028,
+      "global_end": 631.229,
+      "score": 0.674,
+      "segment_index": 2,
+      "segment_text": "My org chart."
+    },
+    {
+      "word": "chart.",
+      "local_start": 9.489,
+      "local_end": 9.729,
+      "global_start": 631.289,
+      "global_end": 631.529,
+      "score": 0.719,
+      "segment_index": 2,
+      "segment_text": "My org chart."
+    },
+    {
+      "word": "We",
+      "local_start": 10.05,
+      "local_end": 10.13,
+      "global_start": 631.85,
+      "global_end": 631.93,
+      "score": 0.982,
+      "segment_index": 3,
+      "segment_text": "We got George and Fred on Hermes."
+    },
+    {
+      "word": "got",
+      "local_start": 10.17,
+      "local_end": 10.27,
+      "global_start": 631.97,
+      "global_end": 632.07,
+      "score": 0.821,
+      "segment_index": 3,
+      "segment_text": "We got George and Fred on Hermes."
+    },
+    {
+      "word": "George",
+      "local_start": 10.35,
+      "local_end": 10.751,
+      "global_start": 632.15,
+      "global_end": 632.551,
+      "score": 0.688,
+      "segment_index": 3,
+      "segment_text": "We got George and Fred on Hermes."
+    },
+    {
+      "word": "and",
+      "local_start": 11.012,
+      "local_end": 11.112,
+      "global_start": 632.812,
+      "global_end": 632.912,
+      "score": 0.782,
+      "segment_index": 3,
+      "segment_text": "We got George and Fred on Hermes."
+    },
+    {
+      "word": "Fred",
+      "local_start": 11.232,
+      "local_end": 11.572,
+      "global_start": 633.032,
+      "global_end": 633.372,
+      "score": 0.866,
+      "segment_index": 3,
+      "segment_text": "We got George and Fred on Hermes."
+    },
+    {
+      "word": "on",
+      "local_start": 11.713,
+      "local_end": 11.793,
+      "global_start": 633.513,
+      "global_end": 633.593,
+      "score": 0.898,
+      "segment_index": 3,
+      "segment_text": "We got George and Fred on Hermes."
+    },
+    {
+      "word": "Hermes.",
+      "local_start": 11.833,
+      "local_end": 12.234,
+      "global_start": 633.633,
+      "global_end": 634.034,
+      "score": 0.848,
+      "segment_index": 3,
+      "segment_text": "We got George and Fred on Hermes."
+    },
+    {
+      "word": "Arthur",
+      "local_start": 12.755,
+      "local_end": 12.995,
+      "global_start": 634.555,
+      "global_end": 634.795,
+      "score": 0.845,
+      "segment_index": 4,
+      "segment_text": "Arthur Weasley, which I did not choose that name."
+    },
+    {
+      "word": "Weasley,",
+      "local_start": 13.035,
+      "local_end": 13.356,
+      "global_start": 634.835,
+      "global_end": 635.156,
+      "score": 0.702,
+      "segment_index": 4,
+      "segment_text": "Arthur Weasley, which I did not choose that name."
+    },
+    {
+      "word": "which",
+      "local_start": 13.376,
+      "local_end": 13.516,
+      "global_start": 635.176,
+      "global_end": 635.316,
+      "score": 0.811,
+      "segment_index": 4,
+      "segment_text": "Arthur Weasley, which I did not choose that name."
+    },
+    {
+      "word": "I",
+      "local_start": 13.556,
+      "local_end": 13.576,
+      "global_start": 635.356,
+      "global_end": 635.376,
+      "score": 0.999,
+      "segment_index": 4,
+      "segment_text": "Arthur Weasley, which I did not choose that name."
+    },
+    {
+      "word": "did",
+      "local_start": 13.616,
+      "local_end": 13.736,
+      "global_start": 635.416,
+      "global_end": 635.536,
+      "score": 0.922,
+      "segment_index": 4,
+      "segment_text": "Arthur Weasley, which I did not choose that name."
+    },
+    {
+      "word": "not",
+      "local_start": 13.836,
+      "local_end": 14.057,
+      "global_start": 635.636,
+      "global_end": 635.857,
+      "score": 0.695,
+      "segment_index": 4,
+      "segment_text": "Arthur Weasley, which I did not choose that name."
+    },
+    {
+      "word": "choose",
+      "local_start": 14.137,
+      "local_end": 14.397,
+      "global_start": 635.937,
+      "global_end": 636.197,
+      "score": 0.76,
+      "segment_index": 4,
+      "segment_text": "Arthur Weasley, which I did not choose that name."
+    },
+    {
+      "word": "that",
+      "local_start": 14.437,
+      "local_end": 14.598,
+      "global_start": 636.237,
+      "global_end": 636.398,
+      "score": 0.796,
+      "segment_index": 4,
+      "segment_text": "Arthur Weasley, which I did not choose that name."
+    },
+    {
+      "word": "name.",
+      "local_start": 14.658,
+      "local_end": 14.878,
+      "global_start": 636.458,
+      "global_end": 636.678,
+      "score": 0.843,
+      "segment_index": 4,
+      "segment_text": "Arthur Weasley, which I did not choose that name."
+    },
+    {
+      "word": "I",
+      "local_start": 14.938,
+      "local_end": 14.978,
+      "global_start": 636.738,
+      "global_end": 636.778,
+      "score": 0.522,
+      "segment_index": 5,
+      "segment_text": "I love that the agent chose that."
+    },
+    {
+      "word": "love",
+      "local_start": 15.018,
+      "local_end": 15.119,
+      "global_start": 636.818,
+      "global_end": 636.919,
+      "score": 0.965,
+      "segment_index": 5,
+      "segment_text": "I love that the agent chose that."
+    },
+    {
+      "word": "that",
+      "local_start": 15.139,
+      "local_end": 15.219,
+      "global_start": 636.939,
+      "global_end": 637.019,
+      "score": 0.102,
+      "segment_index": 5,
+      "segment_text": "I love that the agent chose that."
+    },
+    {
+      "word": "the",
+      "local_start": 15.259,
+      "local_end": 15.319,
+      "global_start": 637.059,
+      "global_end": 637.119,
+      "score": 0.998,
+      "segment_index": 5,
+      "segment_text": "I love that the agent chose that."
+    },
+    {
+      "word": "agent",
+      "local_start": 15.419,
+      "local_end": 15.64,
+      "global_start": 637.219,
+      "global_end": 637.44,
+      "score": 0.935,
+      "segment_index": 5,
+      "segment_text": "I love that the agent chose that."
+    },
+    {
+      "word": "chose",
+      "local_start": 15.68,
+      "local_end": 15.92,
+      "global_start": 637.48,
+      "global_end": 637.72,
+      "score": 0.562,
+      "segment_index": 5,
+      "segment_text": "I love that the agent chose that."
+    },
+    {
+      "word": "that.",
+      "local_start": 15.96,
+      "local_end": 16.16,
+      "global_start": 637.76,
+      "global_end": 637.96,
+      "score": 0.965,
+      "segment_index": 5,
+      "segment_text": "I love that the agent chose that."
+    },
+    {
+      "word": "He's",
+      "local_start": 16.581,
+      "local_end": 16.701,
+      "global_start": 638.381,
+      "global_end": 638.501,
+      "score": 0.83,
+      "segment_index": 6,
+      "segment_text": "He's on Codex."
+    },
+    {
+      "word": "on",
+      "local_start": 16.741,
+      "local_end": 16.822,
+      "global_start": 638.541,
+      "global_end": 638.622,
+      "score": 0.791,
+      "segment_index": 6,
+      "segment_text": "He's on Codex."
+    },
+    {
+      "word": "Codex.",
+      "local_start": 16.862,
+      "local_end": 17.302,
+      "global_start": 638.662,
+      "global_end": 639.102,
+      "score": 0.868,
+      "segment_index": 6,
+      "segment_text": "He's on Codex."
+    },
+    {
+      "word": "Watchdog",
+      "local_start": 17.843,
+      "local_end": 18.485,
+      "global_start": 639.643,
+      "global_end": 640.285,
+      "score": 0.926,
+      "segment_index": 7,
+      "segment_text": "Watchdog is on pie."
+    },
+    {
+      "word": "is",
+      "local_start": 18.825,
+      "local_end": 18.925,
+      "global_start": 640.625,
+      "global_end": 640.725,
+      "score": 0.802,
+      "segment_index": 7,
+      "segment_text": "Watchdog is on pie."
+    },
+    {
+      "word": "on",
+      "local_start": 19.005,
+      "local_end": 19.106,
+      "global_start": 640.805,
+      "global_end": 640.906,
+      "score": 0.994,
+      "segment_index": 7,
+      "segment_text": "Watchdog is on pie."
+    },
+    {
+      "word": "pie.",
+      "local_start": 19.186,
+      "local_end": 19.586,
+      "global_start": 640.986,
+      "global_end": 641.386,
+      "score": 0.854,
+      "segment_index": 7,
+      "segment_text": "Watchdog is on pie."
+    },
+    {
+      "word": "Help",
+      "local_start": 20.368,
+      "local_end": 20.588,
+      "global_start": 642.168,
+      "global_end": 642.388,
+      "score": 0.784,
+      "segment_index": 8,
+      "segment_text": "Help desks on pie."
+    },
+    {
+      "word": "desks",
+      "local_start": 20.608,
+      "local_end": 20.889,
+      "global_start": 642.408,
+      "global_end": 642.689,
+      "score": 0.748,
+      "segment_index": 8,
+      "segment_text": "Help desks on pie."
+    },
+    {
+      "word": "on",
+      "local_start": 20.929,
+      "local_end": 21.009,
+      "global_start": 642.729,
+      "global_end": 642.809,
+      "score": 0.994,
+      "segment_index": 8,
+      "segment_text": "Help desks on pie."
+    },
+    {
+      "word": "pie.",
+      "local_start": 21.049,
+      "local_end": 21.309,
+      "global_start": 642.849,
+      "global_end": 643.109,
+      "score": 0.916,
+      "segment_index": 8,
+      "segment_text": "Help desks on pie."
+    },
+    {
+      "word": "And",
+      "local_start": 21.55,
+      "local_end": 21.63,
+      "global_start": 643.35,
+      "global_end": 643.43,
+      "score": 0.856,
+      "segment_index": 9,
+      "segment_text": "And by the way, pie is another harness."
+    },
+    {
+      "word": "by",
+      "local_start": 21.65,
+      "local_end": 21.73,
+      "global_start": 643.45,
+      "global_end": 643.53,
+      "score": 0.808,
+      "segment_index": 9,
+      "segment_text": "And by the way, pie is another harness."
+    },
+    {
+      "word": "the",
+      "local_start": 21.75,
+      "local_end": 21.81,
+      "global_start": 643.55,
+      "global_end": 643.61,
+      "score": 1.0,
+      "segment_index": 9,
+      "segment_text": "And by the way, pie is another harness."
+    },
+    {
+      "word": "way,",
+      "local_start": 21.85,
+      "local_end": 21.951,
+      "global_start": 643.65,
+      "global_end": 643.751,
+      "score": 0.918,
+      "segment_index": 9,
+      "segment_text": "And by the way, pie is another harness."
+    },
+    {
+      "word": "pie",
+      "local_start": 21.991,
+      "local_end": 22.271,
+      "global_start": 643.791,
+      "global_end": 644.071,
+      "score": 0.751,
+      "segment_index": 9,
+      "segment_text": "And by the way, pie is another harness."
+    },
+    {
+      "word": "is",
+      "local_start": 22.331,
+      "local_end": 22.411,
+      "global_start": 644.131,
+      "global_end": 644.211,
+      "score": 0.504,
+      "segment_index": 9,
+      "segment_text": "And by the way, pie is another harness."
+    },
+    {
+      "word": "another",
+      "local_start": 22.431,
+      "local_end": 22.652,
+      "global_start": 644.231,
+      "global_end": 644.452,
+      "score": 0.828,
+      "segment_index": 9,
+      "segment_text": "And by the way, pie is another harness."
+    },
+    {
+      "word": "harness.",
+      "local_start": 22.712,
+      "local_end": 23.052,
+      "global_start": 644.512,
+      "global_end": 644.852,
+      "score": 0.864,
+      "segment_index": 9,
+      "segment_text": "And by the way, pie is another harness."
+    },
+    {
+      "word": "And",
+      "local_start": 23.593,
+      "local_end": 23.674,
+      "global_start": 645.393,
+      "global_end": 645.474,
+      "score": 0.846,
+      "segment_index": 10,
+      "segment_text": "And I chose that because it's pretty good with local agents."
+    },
+    {
+      "word": "I",
+      "local_start": 23.694,
+      "local_end": 23.754,
+      "global_start": 645.494,
+      "global_end": 645.554,
+      "score": 0.512,
+      "segment_index": 10,
+      "segment_text": "And I chose that because it's pretty good with local agents."
+    },
+    {
+      "word": "chose",
+      "local_start": 23.794,
+      "local_end": 23.974,
+      "global_start": 645.594,
+      "global_end": 645.774,
+      "score": 0.887,
+      "segment_index": 10,
+      "segment_text": "And I chose that because it's pretty good with local agents."
+    },
+    {
+      "word": "that",
+      "local_start": 24.014,
+      "local_end": 24.154,
+      "global_start": 645.814,
+      "global_end": 645.954,
+      "score": 0.874,
+      "segment_index": 10,
+      "segment_text": "And I chose that because it's pretty good with local agents."
+    },
+    {
+      "word": "because",
+      "local_start": 24.194,
+      "local_end": 24.375,
+      "global_start": 645.994,
+      "global_end": 646.175,
+      "score": 0.937,
+      "segment_index": 10,
+      "segment_text": "And I chose that because it's pretty good with local agents."
+    },
+    {
+      "word": "it's",
+      "local_start": 24.415,
+      "local_end": 24.515,
+      "global_start": 646.215,
+      "global_end": 646.315,
+      "score": 0.885,
+      "segment_index": 10,
+      "segment_text": "And I chose that because it's pretty good with local agents."
+    },
+    {
+      "word": "pretty",
+      "local_start": 24.555,
+      "local_end": 24.715,
+      "global_start": 646.355,
+      "global_end": 646.515,
+      "score": 0.999,
+      "segment_index": 10,
+      "segment_text": "And I chose that because it's pretty good with local agents."
+    },
+    {
+      "word": "good",
+      "local_start": 24.735,
+      "local_end": 24.876,
+      "global_start": 646.535,
+      "global_end": 646.676,
+      "score": 0.844,
+      "segment_index": 10,
+      "segment_text": "And I chose that because it's pretty good with local agents."
+    },
+    {
+      "word": "with",
+      "local_start": 24.896,
+      "local_end": 24.996,
+      "global_start": 646.696,
+      "global_end": 646.796,
+      "score": 0.873,
+      "segment_index": 10,
+      "segment_text": "And I chose that because it's pretty good with local agents."
+    },
+    {
+      "word": "local",
+      "local_start": 25.036,
+      "local_end": 25.296,
+      "global_start": 646.836,
+      "global_end": 647.096,
+      "score": 0.916,
+      "segment_index": 10,
+      "segment_text": "And I chose that because it's pretty good with local agents."
+    },
+    {
+      "word": "agents.",
+      "local_start": 25.377,
+      "local_end": 25.617,
+      "global_start": 647.177,
+      "global_end": 647.417,
+      "score": 0.857,
+      "segment_index": 10,
+      "segment_text": "And I chose that because it's pretty good with local agents."
+    },
+    {
+      "word": "I'll",
+      "local_start": 25.998,
+      "local_end": 26.118,
+      "global_start": 647.798,
+      "global_end": 647.918,
+      "score": 0.915,
+      "segment_index": 11,
+      "segment_text": "I'll show"
+    },
+    {
+      "word": "show",
+      "local_start": 26.138,
+      "local_end": 26.238,
+      "global_start": 647.938,
+      "global_end": 648.038,
+      "score": 0.66,
+      "segment_index": 11,
+      "segment_text": "I'll show"
+    }
+  ],
+  "raw_segments": [
+    {
+      "start": 6.123,
+      "end": 26.238,
+      "text": "Alright, we get all the agents hired. Check this out. My org chart. We got George and Fred on Hermes. Arthur Weasley, which I did not choose that name. I love that the agent chose that. He's on Codex. Watchdog is on pie. Help desks on pie. And by the way, pie is another harness. And I chose that because it's pretty good with local agents. I'll show"
+    }
+  ]
+}

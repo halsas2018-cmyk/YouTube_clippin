@@ -1,0 +1,1128 @@
+{
+  "video_id": "7RVf25Rg0Mc",
+  "llm_config": {
+    "provider": "google",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "decision_counts": {
+    "KEEP_ORIGINAL": 6,
+    "USE_BROLL": 10,
+    "ORIGINAL_WITH_OVERLAY": 5,
+    "total_decisions": 21
+  },
+  "total_asset_slots": 15,
+  "candidates": [
+    {
+      "candidate_id": 1,
+      "total_clip_duration_s": 16.074,
+      "original_video_duration_s": 8.067,
+      "broll_duration_s": 8.007,
+      "original_video_percentage": 50.19,
+      "decision_counts": {
+        "KEEP_ORIGINAL": 0,
+        "USE_BROLL": 2,
+        "ORIGINAL_WITH_OVERLAY": 1
+      },
+      "total_decisions": 3,
+      "asset_slot_count": 3,
+      "visual_decisions": [
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "In Paperclip, your agents become employees. You give them managers, you assign them tasks.",
+          "matched_words": [
+            "In",
+            "Paperclip,",
+            "your",
+            "agents",
+            "become",
+            "employees.",
+            "You",
+            "give",
+            "them",
+            "managers,",
+            "you",
+            "assign",
+            "them",
+            "tasks."
+          ],
+          "purpose": "Visualize the concept of digital agents performing professional roles.",
+          "authoritative_timing": {
+            "clip_start": 0.0,
+            "clip_end": 4.662,
+            "duration_s": 4.662,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 34.854,
+            "global_end": 39.516
+          },
+          "visual_concept": "A clean, modern digital interface showing AI agents being assigned tasks in a dashboard.",
+          "search_query": "AI dashboard interface"
+        },
+        {
+          "decision": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "They can talk to each other, but it's not what you think. It's through the task, intentional and focused.",
+          "matched_words": [
+            "They",
+            "can",
+            "talk",
+            "to",
+            "each",
+            "other,",
+            "but",
+            "it's",
+            "not",
+            "what",
+            "you",
+            "think.",
+            "It's",
+            "through",
+            "the",
+            "task,",
+            "intentional,",
+            "and",
+            "focused."
+          ],
+          "purpose": "Highlight the collaborative nature of the agents through a graphical representation.",
+          "authoritative_timing": {
+            "clip_start": 4.963,
+            "clip_end": 10.505,
+            "duration_s": 5.542,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 39.817,
+            "global_end": 45.359
+          },
+          "visual_concept": "Animated lines connecting nodes representing agents, emphasizing structured communication.",
+          "search_query": "network nodes animation"
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "And it doesn't matter what harness you have. Everyone can be brought into this company.",
+          "matched_words": [
+            "And",
+            "it",
+            "doesn't",
+            "matter",
+            "what",
+            "harness",
+            "you",
+            "have,",
+            "everyone",
+            "can",
+            "be",
+            "brought",
+            "into",
+            "this",
+            "company."
+          ],
+          "purpose": "Showcase the inclusivity and versatility of the platform.",
+          "authoritative_timing": {
+            "clip_start": 11.807,
+            "clip_end": 15.152,
+            "duration_s": 3.345,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 53.993,
+            "global_end": 57.338
+          },
+          "visual_concept": "A diverse group of people working in a modern, open-plan office space.",
+          "search_query": "diverse office team"
+        }
+      ],
+      "asset_slots": [
+        {
+          "slot_id": "asset_slot_cand_1_001",
+          "candidate_id": 1,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "In Paperclip, your agents become employees. You give them managers, you assign them tasks.",
+          "matched_words": [
+            "In",
+            "Paperclip,",
+            "your",
+            "agents",
+            "become",
+            "employees.",
+            "You",
+            "give",
+            "them",
+            "managers,",
+            "you",
+            "assign",
+            "them",
+            "tasks."
+          ],
+          "visual_concept": "A clean, modern digital interface showing AI agents being assigned tasks in a dashboard.",
+          "search_query": "AI dashboard interface",
+          "purpose": "Visualize the concept of digital agents performing professional roles.",
+          "authoritative_timing": {
+            "clip_start": 0.0,
+            "clip_end": 4.662,
+            "duration_s": 4.662,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 34.854,
+            "global_end": 39.516
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/agile-project-management-on-digital-tablet-38901962/",
+            "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_1_001.mp4",
+            "file_size_bytes": 447431,
+            "attribution": {
+              "author": "Jakub Zerdzicki",
+              "author_url": "https://www.pexels.com/@jakubzerdzicki",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_1_002",
+          "candidate_id": 1,
+          "decision_type": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "They can talk to each other, but it's not what you think. It's through the task, intentional and focused.",
+          "matched_words": [
+            "They",
+            "can",
+            "talk",
+            "to",
+            "each",
+            "other,",
+            "but",
+            "it's",
+            "not",
+            "what",
+            "you",
+            "think.",
+            "It's",
+            "through",
+            "the",
+            "task,",
+            "intentional,",
+            "and",
+            "focused."
+          ],
+          "visual_concept": "Animated lines connecting nodes representing agents, emphasizing structured communication.",
+          "search_query": "network nodes animation",
+          "purpose": "Highlight the collaborative nature of the agents through a graphical representation.",
+          "authoritative_timing": {
+            "clip_start": 4.963,
+            "clip_end": 10.505,
+            "duration_s": 5.542,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 39.817,
+            "global_end": 45.359
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/futuristic-glowing-network-nodes-animation-35002915/",
+            "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_1_002.mp4",
+            "file_size_bytes": 196608,
+            "attribution": {
+              "author": "Nicola Narracci",
+              "author_url": "https://www.pexels.com/@nicola-narracci-157460431",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_1_003",
+          "candidate_id": 1,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "And it doesn't matter what harness you have. Everyone can be brought into this company.",
+          "matched_words": [
+            "And",
+            "it",
+            "doesn't",
+            "matter",
+            "what",
+            "harness",
+            "you",
+            "have,",
+            "everyone",
+            "can",
+            "be",
+            "brought",
+            "into",
+            "this",
+            "company."
+          ],
+          "visual_concept": "A diverse group of people working in a modern, open-plan office space.",
+          "search_query": "diverse office team",
+          "purpose": "Showcase the inclusivity and versatility of the platform.",
+          "authoritative_timing": {
+            "clip_start": 11.807,
+            "clip_end": 15.152,
+            "duration_s": 3.345,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 53.993,
+            "global_end": 57.338
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/colleagues-having-a-conversation-7983993/",
+            "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_1_003.mp4",
+            "file_size_bytes": 458752,
+            "attribution": {
+              "author": "Thirdman",
+              "author_url": "https://www.pexels.com/@thirdman",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "candidate_id": 2,
+      "total_clip_duration_s": 15.607,
+      "original_video_duration_s": 15.067,
+      "broll_duration_s": 0.54,
+      "original_video_percentage": 96.54,
+      "decision_counts": {
+        "KEEP_ORIGINAL": 1,
+        "USE_BROLL": 2,
+        "ORIGINAL_WITH_OVERLAY": 1
+      },
+      "total_decisions": 4,
+      "asset_slot_count": 3,
+      "visual_decisions": [
+        {
+          "decision": "KEEP_ORIGINAL",
+          "supported_phrase": "We're harness maxing. No matter what new harness comes out or model, paperclip is a meta harness.",
+          "matched_words": [
+            "now."
+          ],
+          "purpose": "Establish the speaker's authority and enthusiasm.",
+          "authoritative_timing": {
+            "clip_start": 0.18,
+            "clip_end": 0.36,
+            "duration_s": 0.18,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 107.174,
+            "global_end": 107.354
+          }
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "We can bring any other harness or model to it. Paperclip can use it.",
+          "matched_words": [
+            "to",
+            "commit,"
+          ],
+          "purpose": "Visualize the concept of integration and compatibility.",
+          "authoritative_timing": {
+            "clip_start": 6.823,
+            "clip_end": 7.143,
+            "duration_s": 0.32,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 113.817,
+            "global_end": 114.137
+          },
+          "visual_concept": "Abstract digital nodes connecting and merging into a central hub.",
+          "search_query": "digital network connection"
+        },
+        {
+          "decision": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "Paperclip is our company, and it's a company that can run the greatest and latest models, and the greatest and latest harnesses, and all the features they come out with.",
+          "matched_words": [
+            "you're"
+          ],
+          "purpose": "Reinforce brand identity with a graphic overlay.",
+          "authoritative_timing": {
+            "clip_start": 0.74,
+            "clip_end": 0.901,
+            "duration_s": 0.161,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 107.734,
+            "global_end": 107.895
+          },
+          "visual_concept": "Animated logo and text callouts highlighting key features.",
+          "search_query": "tech logo animation"
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "All AI agents. Network and systems engineers, storage, security, a legit company running on Paperclip.",
+          "matched_words": [
+            "Mac"
+          ],
+          "purpose": "Showcase the diverse applications of the platform.",
+          "authoritative_timing": {
+            "clip_start": 1.241,
+            "clip_end": 1.461,
+            "duration_s": 0.22,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 108.235,
+            "global_end": 108.455
+          },
+          "visual_concept": "Fast-paced montage of data centers, AI interfaces, and professional engineering environments.",
+          "search_query": "data center technology"
+        }
+      ],
+      "asset_slots": [
+        {
+          "slot_id": "asset_slot_cand_2_001",
+          "candidate_id": 2,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "We can bring any other harness or model to it. Paperclip can use it.",
+          "matched_words": [
+            "to",
+            "commit,"
+          ],
+          "visual_concept": "Abstract digital nodes connecting and merging into a central hub.",
+          "search_query": "digital network connection",
+          "purpose": "Visualize the concept of integration and compatibility.",
+          "authoritative_timing": {
+            "clip_start": 6.823,
+            "clip_end": 7.143,
+            "duration_s": 0.32,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 113.817,
+            "global_end": 114.137
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/futuristic-glowing-network-nodes-animation-35002915/",
+            "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_2_001.mp4",
+            "file_size_bytes": 1033627,
+            "attribution": {
+              "author": "Nicola Narracci",
+              "author_url": "https://www.pexels.com/@nicola-narracci-157460431",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_2_002",
+          "candidate_id": 2,
+          "decision_type": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "Paperclip is our company, and it's a company that can run the greatest and latest models, and the greatest and latest harnesses, and all the features they come out with.",
+          "matched_words": [
+            "you're"
+          ],
+          "visual_concept": "Animated logo and text callouts highlighting key features.",
+          "search_query": "tech logo animation",
+          "purpose": "Reinforce brand identity with a graphic overlay.",
+          "authoritative_timing": {
+            "clip_start": 0.74,
+            "clip_end": 0.901,
+            "duration_s": 0.161,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 107.734,
+            "global_end": 107.895
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/a-3d-animation-of-a-glowing-geometric-design-15440318/",
+            "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_2_002.mp4",
+            "file_size_bytes": 2926520,
+            "attribution": {
+              "author": "Pachon in Motion",
+              "author_url": "https://www.pexels.com/@pachon-in-motion-426015731",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_2_003",
+          "candidate_id": 2,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "All AI agents. Network and systems engineers, storage, security, a legit company running on Paperclip.",
+          "matched_words": [
+            "Mac"
+          ],
+          "visual_concept": "Fast-paced montage of data centers, AI interfaces, and professional engineering environments.",
+          "search_query": "data center technology",
+          "purpose": "Showcase the diverse applications of the platform.",
+          "authoritative_timing": {
+            "clip_start": 1.241,
+            "clip_end": 1.461,
+            "duration_s": 0.22,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 108.235,
+            "global_end": 108.455
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/analyzing-business-growth-on-digital-tablet-38992894/",
+            "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_2_003.mp4",
+            "file_size_bytes": 825313,
+            "attribution": {
+              "author": "Jakub Zerdzicki",
+              "author_url": "https://www.pexels.com/@jakubzerdzicki",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "candidate_id": 3,
+      "total_clip_duration_s": 15.384,
+      "original_video_duration_s": 15.004,
+      "broll_duration_s": 0.38,
+      "original_video_percentage": 97.53,
+      "decision_counts": {
+        "KEEP_ORIGINAL": 2,
+        "USE_BROLL": 2,
+        "ORIGINAL_WITH_OVERLAY": 1
+      },
+      "total_decisions": 5,
+      "asset_slot_count": 3,
+      "visual_decisions": [
+        {
+          "decision": "KEEP_ORIGINAL",
+          "supported_phrase": "We know how breaches happen now. It's not a mystery. Attackers don't hack in. They log in.",
+          "matched_words": [
+            "actually"
+          ],
+          "purpose": "Establish speaker authority and set the tone for the problem statement.",
+          "authoritative_timing": {
+            "clip_start": 0.14,
+            "clip_end": 0.36,
+            "duration_s": 0.22,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 170.313,
+            "global_end": 170.533
+          }
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "Infostealer malware grabs everything. Passwords, session cookies, MFA tokens.",
+          "matched_words": [
+            "a"
+          ],
+          "purpose": "Visualize the abstract concept of data theft and malware activity.",
+          "authoritative_timing": {
+            "clip_start": 5.141,
+            "clip_end": 5.161,
+            "duration_s": 0.02,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 175.314,
+            "global_end": 175.334
+          },
+          "visual_concept": "Digital animation showing data packets and credentials being extracted from a computer screen.",
+          "search_query": "cyber security data theft"
+        },
+        {
+          "decision": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "54% of ransomware victims had their info sitting inside stealer logs way before they ever got hacked.",
+          "matched_words": [
+            "for"
+          ],
+          "purpose": "Highlight the statistic to emphasize the urgency of the threat.",
+          "authoritative_timing": {
+            "clip_start": 3.18,
+            "clip_end": 3.281,
+            "duration_s": 0.101,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 173.353,
+            "global_end": 173.454
+          },
+          "visual_concept": "Large, bold animated text overlay showing '54%' with a background graphic of a data breach report.",
+          "search_query": "data breach statistics"
+        },
+        {
+          "decision": "KEEP_ORIGINAL",
+          "supported_phrase": "Attackers only need 48 minutes. But with Flare, you realize things happen within seconds.",
+          "matched_words": [
+            "a"
+          ],
+          "purpose": "Create a direct contrast between the threat speed and the solution speed.",
+          "authoritative_timing": {
+            "clip_start": 5.141,
+            "clip_end": 5.161,
+            "duration_s": 0.02,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 175.314,
+            "global_end": 175.334
+          }
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "They have real-time detection, and actually checks against Entra ID whether an account is actually real and active, and it can kill a session before anyone opens a ticket.",
+          "matched_words": [
+            "I'll",
+            "actually"
+          ],
+          "purpose": "Demonstrate the software interface and the automated protection process.",
+          "authoritative_timing": {
+            "clip_start": 0.0,
+            "clip_end": 0.36,
+            "duration_s": 0.36,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 170.173,
+            "global_end": 170.533
+          },
+          "visual_concept": "Screen recording or motion graphic showing a dashboard interface flagging an active session and blocking it.",
+          "search_query": "cyber security dashboard"
+        }
+      ],
+      "asset_slots": [
+        {
+          "slot_id": "asset_slot_cand_3_001",
+          "candidate_id": 3,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "Infostealer malware grabs everything. Passwords, session cookies, MFA tokens.",
+          "matched_words": [
+            "a"
+          ],
+          "visual_concept": "Digital animation showing data packets and credentials being extracted from a computer screen.",
+          "search_query": "cyber security data theft",
+          "purpose": "Visualize the abstract concept of data theft and malware activity.",
+          "authoritative_timing": {
+            "clip_start": 5.141,
+            "clip_end": 5.161,
+            "duration_s": 0.02,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 175.314,
+            "global_end": 175.334
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/man-working-with-cyber-security-6331006/",
+            "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_3_001.mp4",
+            "file_size_bytes": 143197,
+            "attribution": {
+              "author": "Matias Mango",
+              "author_url": "https://www.pexels.com/@mati",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_3_002",
+          "candidate_id": 3,
+          "decision_type": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "54% of ransomware victims had their info sitting inside stealer logs way before they ever got hacked.",
+          "matched_words": [
+            "for"
+          ],
+          "visual_concept": "Large, bold animated text overlay showing '54%' with a background graphic of a data breach report.",
+          "search_query": "data breach statistics",
+          "purpose": "Highlight the statistic to emphasize the urgency of the threat.",
+          "authoritative_timing": {
+            "clip_start": 3.18,
+            "clip_end": 3.281,
+            "duration_s": 0.101,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 173.353,
+            "global_end": 173.454
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/interactive-tablet-data-visualization-in-use-36950917/",
+            "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_3_002.mp4",
+            "file_size_bytes": 876919,
+            "attribution": {
+              "author": "Jakub Zerdzicki",
+              "author_url": "https://www.pexels.com/@jakubzerdzicki",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_3_003",
+          "candidate_id": 3,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "They have real-time detection, and actually checks against Entra ID whether an account is actually real and active, and it can kill a session before anyone opens a ticket.",
+          "matched_words": [
+            "I'll",
+            "actually"
+          ],
+          "visual_concept": "Screen recording or motion graphic showing a dashboard interface flagging an active session and blocking it.",
+          "search_query": "cyber security dashboard",
+          "purpose": "Demonstrate the software interface and the automated protection process.",
+          "authoritative_timing": {
+            "clip_start": 0.0,
+            "clip_end": 0.36,
+            "duration_s": 0.36,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 170.173,
+            "global_end": 170.533
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/codes-on-computer-screen-5377697/",
+            "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_3_003.mp4",
+            "file_size_bytes": 1327814,
+            "attribution": {
+              "author": "Tima Miroshnichenko",
+              "author_url": "https://www.pexels.com/@tima-miroshnichenko",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "candidate_id": 4,
+      "total_clip_duration_s": 17.099,
+      "original_video_duration_s": 16.979,
+      "broll_duration_s": 0.12,
+      "original_video_percentage": 99.3,
+      "decision_counts": {
+        "KEEP_ORIGINAL": 1,
+        "USE_BROLL": 1,
+        "ORIGINAL_WITH_OVERLAY": 1
+      },
+      "total_decisions": 3,
+      "asset_slot_count": 2,
+      "visual_decisions": [
+        {
+          "decision": "KEEP_ORIGINAL",
+          "supported_phrase": "Here, what you're about to see is one of the most powerful parts of Paperclip, and it's how we talk with our agents, how we interface with them. And that's through tasks.",
+          "matched_words": [
+            "in."
+          ],
+          "purpose": "Establishing the speaker and the context of the software platform.",
+          "authoritative_timing": {
+            "clip_start": 1.041,
+            "clip_end": 1.161,
+            "duration_s": 0.12,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 306.859,
+            "global_end": 306.979
+          }
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "Now, we're about to assign our toilet task. But first, I want to just test this and make sure it works.",
+          "matched_words": [
+            "in."
+          ],
+          "purpose": "Visualizing the specific software interface action being described.",
+          "authoritative_timing": {
+            "clip_start": 1.041,
+            "clip_end": 1.161,
+            "duration_s": 0.12,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 306.859,
+            "global_end": 306.979
+          },
+          "visual_concept": "Close-up screen recording of a task management dashboard with a 'toilet task' being created.",
+          "search_query": "software dashboard interface"
+        },
+        {
+          "decision": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "Boom, Dumbledore assigns a task to Ron. And that right there is our first moment where we talk to an agent and then an agent talk to another agent. And they're both working here.",
+          "matched_words": [
+            "Attackers"
+          ],
+          "purpose": "Highlighting the specific interaction between agents using a graphic overlay.",
+          "authoritative_timing": {
+            "clip_start": 0.0,
+            "clip_end": 0.38,
+            "duration_s": 0.38,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 305.818,
+            "global_end": 306.198
+          },
+          "visual_concept": "Animated graphic showing a connection line between two agent icons labeled Dumbledore and Ron.",
+          "search_query": "network connection graphic"
+        }
+      ],
+      "asset_slots": [
+        {
+          "slot_id": "asset_slot_cand_4_001",
+          "candidate_id": 4,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "Now, we're about to assign our toilet task. But first, I want to just test this and make sure it works.",
+          "matched_words": [
+            "in."
+          ],
+          "visual_concept": "Close-up screen recording of a task management dashboard with a 'toilet task' being created.",
+          "search_query": "software dashboard interface",
+          "purpose": "Visualizing the specific software interface action being described.",
+          "authoritative_timing": {
+            "clip_start": 1.041,
+            "clip_end": 1.161,
+            "duration_s": 0.12,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 306.859,
+            "global_end": 306.979
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/agile-project-management-on-digital-tablet-38901962/",
+            "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_4_001.mp4",
+            "file_size_bytes": 447431,
+            "attribution": {
+              "author": "Jakub Zerdzicki",
+              "author_url": "https://www.pexels.com/@jakubzerdzicki",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_4_002",
+          "candidate_id": 4,
+          "decision_type": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "Boom, Dumbledore assigns a task to Ron. And that right there is our first moment where we talk to an agent and then an agent talk to another agent. And they're both working here.",
+          "matched_words": [
+            "Attackers"
+          ],
+          "visual_concept": "Animated graphic showing a connection line between two agent icons labeled Dumbledore and Ron.",
+          "search_query": "network connection graphic",
+          "purpose": "Highlighting the specific interaction between agents using a graphic overlay.",
+          "authoritative_timing": {
+            "clip_start": 0.0,
+            "clip_end": 0.38,
+            "duration_s": 0.38,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 305.818,
+            "global_end": 306.198
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/futuristic-glowing-network-nodes-animation-35002915/",
+            "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_4_002.mp4",
+            "file_size_bytes": 1033627,
+            "attribution": {
+              "author": "Nicola Narracci",
+              "author_url": "https://www.pexels.com/@nicola-narracci-157460431",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "candidate_id": 5,
+      "total_clip_duration_s": 10.311,
+      "original_video_duration_s": 10.271,
+      "broll_duration_s": 0.04,
+      "original_video_percentage": 99.61,
+      "decision_counts": {
+        "KEEP_ORIGINAL": 2,
+        "USE_BROLL": 3,
+        "ORIGINAL_WITH_OVERLAY": 1
+      },
+      "total_decisions": 6,
+      "asset_slot_count": 4,
+      "visual_decisions": [
+        {
+          "decision": "KEEP_ORIGINAL",
+          "supported_phrase": "It's not a mystery. Four links on flu powder have been broken for 15 months.",
+          "matched_words": [
+            "a"
+          ],
+          "purpose": "Establish the speaker and the context of the technical problem.",
+          "authoritative_timing": {
+            "clip_start": 0.0,
+            "clip_end": 0.04,
+            "duration_s": 0.04,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 668.78,
+            "global_end": 668.82
+          }
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "Flu powder is my MicroTik switch we're talking about.",
+          "matched_words": [
+            "a"
+          ],
+          "purpose": "Show the hardware being discussed to provide visual clarity.",
+          "authoritative_timing": {
+            "clip_start": 0.0,
+            "clip_end": 0.04,
+            "duration_s": 0.04,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 668.78,
+            "global_end": 668.82
+          },
+          "visual_concept": "Close-up shot of a professional network switch with blinking LED lights in a server rack.",
+          "search_query": "network switch rack"
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "Anything that disturbs the building knocks them over.",
+          "matched_words": [
+            "a"
+          ],
+          "purpose": "Illustrate the sensitivity of the hardware to physical vibrations.",
+          "authoritative_timing": {
+            "clip_start": 0.0,
+            "clip_end": 0.04,
+            "duration_s": 0.04,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 668.78,
+            "global_end": 668.82
+          },
+          "visual_concept": "Cinematic shot of a busy office environment or a server room being slightly shaken.",
+          "search_query": "server room vibration"
+        },
+        {
+          "decision": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "It comes down to the transceivers. I have these SFPs.",
+          "matched_words": [
+            "a",
+            "paperclip"
+          ],
+          "purpose": "Highlight the specific component causing the failure.",
+          "authoritative_timing": {
+            "clip_start": 3.043,
+            "clip_end": 3.484,
+            "duration_s": 0.441,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 671.823,
+            "global_end": 672.264
+          },
+          "visual_concept": "A high-quality graphic overlay showing a close-up of an SFP transceiver module.",
+          "search_query": "SFP transceiver module"
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "They are these third-party SFPs I bought off Amazon fairly cheap.",
+          "matched_words": [
+            "a"
+          ],
+          "purpose": "Show generic tech hardware packaging or online shopping interface to emphasize the source.",
+          "authoritative_timing": {
+            "clip_start": 0.0,
+            "clip_end": 0.04,
+            "duration_s": 0.04,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 668.78,
+            "global_end": 668.82
+          },
+          "visual_concept": "A person browsing an e-commerce site on a laptop screen showing electronic components.",
+          "search_query": "online shopping electronics"
+        },
+        {
+          "decision": "KEEP_ORIGINAL",
+          "supported_phrase": "I bought them in different batches over time as I've added more employees. And apparently the ports are all in one of the batches.",
+          "matched_words": [
+            "a"
+          ],
+          "purpose": "Return to the speaker to conclude the explanation of the root cause.",
+          "authoritative_timing": {
+            "clip_start": 0.0,
+            "clip_end": 0.04,
+            "duration_s": 0.04,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 668.78,
+            "global_end": 668.82
+          }
+        }
+      ],
+      "asset_slots": [
+        {
+          "slot_id": "asset_slot_cand_5_001",
+          "candidate_id": 5,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "Flu powder is my MicroTik switch we're talking about.",
+          "matched_words": [
+            "a"
+          ],
+          "visual_concept": "Close-up shot of a professional network switch with blinking LED lights in a server rack.",
+          "search_query": "network switch rack",
+          "purpose": "Show the hardware being discussed to provide visual clarity.",
+          "authoritative_timing": {
+            "clip_start": 0.0,
+            "clip_end": 0.04,
+            "duration_s": 0.04,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 668.78,
+            "global_end": 668.82
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/professional-video-production-setup-in-studio-34149136/",
+            "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_5_001.mp4",
+            "file_size_bytes": 927289,
+            "attribution": {
+              "author": "Primecast",
+              "author_url": "https://www.pexels.com/@primecast-2156325016",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_5_002",
+          "candidate_id": 5,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "Anything that disturbs the building knocks them over.",
+          "matched_words": [
+            "a"
+          ],
+          "visual_concept": "Cinematic shot of a busy office environment or a server room being slightly shaken.",
+          "search_query": "server room vibration",
+          "purpose": "Illustrate the sensitivity of the hardware to physical vibrations.",
+          "authoritative_timing": {
+            "clip_start": 0.0,
+            "clip_end": 0.04,
+            "duration_s": 0.04,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 668.78,
+            "global_end": 668.82
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/close-up-of-vibrant-yellow-speaker-cone-39626072/",
+            "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_5_002.mp4",
+            "file_size_bytes": 1053699,
+            "attribution": {
+              "author": "David Underland",
+              "author_url": "https://www.pexels.com/@david-underland",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_5_003",
+          "candidate_id": 5,
+          "decision_type": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "It comes down to the transceivers. I have these SFPs.",
+          "matched_words": [
+            "a",
+            "paperclip"
+          ],
+          "visual_concept": "A high-quality graphic overlay showing a close-up of an SFP transceiver module.",
+          "search_query": "SFP transceiver module",
+          "purpose": "Highlight the specific component causing the failure.",
+          "authoritative_timing": {
+            "clip_start": 3.043,
+            "clip_end": 3.484,
+            "duration_s": 0.441,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 671.823,
+            "global_end": 672.264
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/vu-meter-knobs-and-buttons-on-audio-equipment-12330934/",
+            "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_5_003.mp4",
+            "file_size_bytes": 711138,
+            "attribution": {
+              "author": "utopia 36",
+              "author_url": "https://www.pexels.com/@utopia36",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_5_004",
+          "candidate_id": 5,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "They are these third-party SFPs I bought off Amazon fairly cheap.",
+          "matched_words": [
+            "a"
+          ],
+          "visual_concept": "A person browsing an e-commerce site on a laptop screen showing electronic components.",
+          "search_query": "online shopping electronics",
+          "purpose": "Show generic tech hardware packaging or online shopping interface to emphasize the source.",
+          "authoritative_timing": {
+            "clip_start": 0.0,
+            "clip_end": 0.04,
+            "duration_s": 0.04,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 668.78,
+            "global_end": 668.82
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/online-shopping-on-a-laptop-5585988/",
+            "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_5_004.mp4",
+            "file_size_bytes": 443931,
+            "attribution": {
+              "author": "Polina Tankilevitch",
+              "author_url": "https://www.pexels.com/@polina-tankilevitch",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "acquisition_summary": {
+    "acquired_asset_count": 15,
+    "provider_counts": {
+      "pexels": 15,
+      "pixabay": 0,
+      "failed": 0
+    }
+  }
+}

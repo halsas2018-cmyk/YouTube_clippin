@@ -1,0 +1,71 @@
+# youtubr_clipper — pipeline configuration
+# Minimal scaffold. Each section maps to a stage module under src/.
+
+project:
+  name: youtubr_clipper
+
+# 1. YouTube ingestion — raw download location and format preferences.
+youtube:
+  download_dir: media/downloads
+
+# 2. Transcript / candidate discovery — LLM-based clip selection.
+transcript:
+  candidate_sources:
+    - auto_captions
+    - uploaded_captions
+    - external_file
+  external_dir: media/transcripts
+  min_confidence: 0.8
+
+# 2a. LLM clip-candidate selection — see also .env.example for API keys.
+clip_candidates:
+  output_filename: clip_candidates.json
+  llm_provider: google          # overridden by CLIPPER_LLM_PROVIDER env-var
+  llm_model: ""                 # empty = use provider default; overridden by CLIPPER_LLM_MODEL
+  min_duration_s: 25
+  max_duration_s: 90
+  max_retries: 2
+
+# 3. Section extraction — how moments are identified from the transcript.
+sections:
+  strategy: keyword
+  keywords: []
+  pre_buffer: 2.0
+  post_buffer: 4.0
+  min_length: 3.0
+  max_length: 60.0
+
+# 4. WhisperX alignment — transcription / alignment model and runtime hints.
+whisperx:
+  model: large-v2
+  device: cuda
+  batch_size: 16
+  language: ""
+  compute_type: float16
+  cache_dir: media/whisperx_cache
+
+# 5. Clip / timing data — work area for intermediate timing metadata.
+clip_timing:
+  work_dir: media/clip_timing
+
+# 6. B-roll / media planning — where stock assets and b-roll maps live.
+broll:
+  root_dir: media/broll
+  match_strategy: semantic
+  default_duration: 2.0
+
+# 7. Audio / music / SFX planning — loudness targets and asset locations.
+audio:
+  target_lufs: -14.0
+  peak_ceiling: -1.0
+  music_dir: media/audio/music
+  sfx_dir: media/audio/sfx
+
+# 8. Remotion output — built on GitHub; configuration only (no local init).
+remotion:
+  project_dir: src/remotion
+  entry_component: ClipCanvas
+  output_dir: media/remotion
+  fps: 30
+  width: 1280
+  height: 720

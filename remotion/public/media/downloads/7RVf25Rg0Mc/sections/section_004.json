@@ -1,0 +1,41 @@
+{
+  "section_id": "section_004",
+  "candidate_id": 4,
+  "video_id": "7RVf25Rg0Mc",
+  "file_name": "section_004.mp4",
+  "file_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/sections/section_004.mp4",
+  "start_offset": 297.76,
+  "end_offset": 336.48,
+  "target_duration_s": 38.72,
+  "probed_duration_s": 38.743,
+  "original_candidate_ranges": [
+    {
+      "start": 305.76,
+      "end": 314.48
+    },
+    {
+      "start": 320.52,
+      "end": 328.48
+    }
+  ],
+  "padded_range": {
+    "start": 297.76,
+    "end": 336.48
+  },
+  "streams": [
+    {
+      "index": 0,
+      "codec_name": "av1",
+      "codec_type": "video",
+      "duration": "38.743000"
+    },
+    {
+      "index": 1,
+      "codec_name": "aac",
+      "codec_type": "audio",
+      "duration": "38.720000"
+    }
+  ],
+  "combined_text": "Here, what you're about to see is one of the most powerful parts of Paperclip, and it's how we talk with our agents, how we interface with them. And that's through tasks. Now, we're about to assign our toilet task. But first, I want to just test this and make sure it works. [...] Boom, Dumbledore assigns a task to Ron. And that right there is our first moment where we talk to an agent and then an agent talk to another agent. And they're both working here.",
+  "reason": "Shows the 'agent-to-agent' communication feature in action, which is a highly engaging visual for viewers."
+}

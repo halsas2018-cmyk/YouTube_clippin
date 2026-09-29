@@ -1,0 +1,41 @@
+{
+  "section_id": "section_003",
+  "candidate_id": 3,
+  "video_id": "7RVf25Rg0Mc",
+  "file_name": "section_003.mp4",
+  "file_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/sections/section_003.mp4",
+  "start_offset": 162.16,
+  "end_offset": 195.12,
+  "target_duration_s": 32.96,
+  "probed_duration_s": 32.98,
+  "original_candidate_ranges": [
+    {
+      "start": 170.16,
+      "end": 177.92
+    },
+    {
+      "start": 180.12,
+      "end": 187.12
+    }
+  ],
+  "padded_range": {
+    "start": 162.16,
+    "end": 195.12
+  },
+  "streams": [
+    {
+      "index": 0,
+      "codec_name": "av1",
+      "codec_type": "video",
+      "duration": "32.968000"
+    },
+    {
+      "index": 1,
+      "codec_name": "aac",
+      "codec_type": "audio",
+      "duration": "32.980000"
+    }
+  ],
+  "combined_text": "We know how breaches happen now. It's not a mystery. Attackers don't hack in. They log in. Infostealer malware grabs everything. Passwords, session cookies, MFA tokens. 54% of ransomware victims had their info sitting inside stealer logs way before they ever got hacked. [...] Attackers only need 48 minutes. But with Flare, you realize things happen within seconds. They have real-time detection, and actually checks against Entra ID whether an account is actually real and active, and it can kill a session before anyone opens a ticket.",
+  "reason": "This provides a high-value, punchy security insight that works well as a standalone educational short."
+}

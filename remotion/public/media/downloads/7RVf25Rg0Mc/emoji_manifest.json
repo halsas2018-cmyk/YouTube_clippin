@@ -1,0 +1,68 @@
+{
+  "video_id": "7RVf25Rg0Mc",
+  "llm_provider": "google",
+  "llm_model": "gemini-3.1-flash-lite",
+  "candidates": [
+    {
+      "candidate_id": 1,
+      "total_clip_duration_s": 16.074,
+      "emoji_selections": [
+        {
+          "text": "employees",
+          "emoji": "\ud83d\udcbc",
+          "reason": "Highlights the professional nature of the agents.",
+          "group_id": "cand_1_cap_002",
+          "clip_start": 1.741,
+          "clip_end": 2.321,
+          "start_time": 0.641,
+          "end_time": 2.321,
+          "matched_text": "employees."
+        },
+        {
+          "text": "tasks",
+          "emoji": "\ud83d\udcdd",
+          "reason": "Emphasizes the core function of the workflow.",
+          "group_id": "cand_1_cap_004",
+          "clip_start": 4.242,
+          "clip_end": 4.662,
+          "start_time": 3.582,
+          "end_time": 4.662,
+          "matched_text": "tasks."
+        },
+        {
+          "text": "intentional",
+          "emoji": "\ud83c\udfaf",
+          "reason": "Highlights the purposeful nature of the communication.",
+          "group_id": "cand_1_cap_010",
+          "clip_start": 9.124,
+          "clip_end": 9.725,
+          "start_time": 9.124,
+          "end_time": 10.505,
+          "matched_text": "intentional,"
+        },
+        {
+          "text": "focused",
+          "emoji": "\ud83d\udd0d",
+          "reason": "Emphasizes the concentration and clarity of the process.",
+          "group_id": "cand_1_cap_010",
+          "clip_start": 10.025,
+          "clip_end": 10.505,
+          "start_time": 9.124,
+          "end_time": 10.505,
+          "matched_text": "focused."
+        },
+        {
+          "text": "amazing",
+          "emoji": "\u2728",
+          "reason": "Conveys the excitement and positive sentiment of the conclusion.",
+          "group_id": "cand_1_cap_017",
+          "clip_start": 15.673,
+          "clip_end": 16.074,
+          "start_time": 15.352,
+          "end_time": 16.074,
+          "matched_text": "amazing?"
+        }
+      ]
+    }
+  ]
+}

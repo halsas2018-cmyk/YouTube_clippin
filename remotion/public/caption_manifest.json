@@ -1,0 +1,3089 @@
+{
+  "video_id": "FltNsyPXNdo",
+  "llm_provider": "google",
+  "llm_model": "gemini-3.1-flash-lite",
+  "candidates": [
+    {
+      "candidate_id": 1,
+      "total_clip_duration_s": 17.882,
+      "caption_group_count": 18,
+      "caption_groups": [
+        {
+          "group_id": "cand_1_cap_001",
+          "range_index": 0,
+          "start_time": 0.0,
+          "end_time": 0.96,
+          "duration_s": 0.96,
+          "text": "have great news.",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "have",
+              "clip_start": 0.0,
+              "clip_end": 0.2,
+              "global_start": 1.012,
+              "global_end": 1.212,
+              "score": 0.871
+            },
+            {
+              "word": "great",
+              "clip_start": 0.3,
+              "clip_end": 0.56,
+              "global_start": 1.312,
+              "global_end": 1.572,
+              "score": 0.768
+            },
+            {
+              "word": "news.",
+              "clip_start": 0.64,
+              "clip_end": 0.96,
+              "global_start": 1.652,
+              "global_end": 1.972,
+              "score": 0.883
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_002",
+          "range_index": 0,
+          "start_time": 1.22,
+          "end_time": 2.061,
+          "duration_s": 0.841,
+          "text": "It no longer takes",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "It",
+              "clip_start": 1.22,
+              "clip_end": 1.28,
+              "global_start": 2.232,
+              "global_end": 2.292,
+              "score": 0.986
+            },
+            {
+              "word": "no",
+              "clip_start": 1.34,
+              "clip_end": 1.44,
+              "global_start": 2.352,
+              "global_end": 2.452,
+              "score": 0.997
+            },
+            {
+              "word": "longer",
+              "clip_start": 1.48,
+              "clip_end": 1.741,
+              "global_start": 2.492,
+              "global_end": 2.753,
+              "score": 0.917
+            },
+            {
+              "word": "takes",
+              "clip_start": 1.801,
+              "clip_end": 2.061,
+              "global_start": 2.813,
+              "global_end": 3.073,
+              "score": 0.796
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_003",
+          "range_index": 0,
+          "start_time": 2.101,
+          "end_time": 3.161,
+          "duration_s": 1.06,
+          "text": "you years to get",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "you",
+              "clip_start": 2.101,
+              "clip_end": 2.261,
+              "global_start": 3.113,
+              "global_end": 3.273,
+              "score": 0.912
+            },
+            {
+              "word": "years",
+              "clip_start": 2.481,
+              "clip_end": 2.861,
+              "global_start": 3.493,
+              "global_end": 3.873,
+              "score": 0.76
+            },
+            {
+              "word": "to",
+              "clip_start": 2.921,
+              "clip_end": 2.981,
+              "global_start": 3.933,
+              "global_end": 3.993,
+              "score": 0.984
+            },
+            {
+              "word": "get",
+              "clip_start": 3.021,
+              "clip_end": 3.161,
+              "global_start": 4.033,
+              "global_end": 4.173,
+              "score": 0.764
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_004",
+          "range_index": 0,
+          "start_time": 3.261,
+          "end_time": 4.742,
+          "duration_s": 1.481,
+          "text": "monetized, which is kind",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "monetized,",
+              "clip_start": 3.261,
+              "clip_end": 3.922,
+              "global_start": 4.273,
+              "global_end": 4.934,
+              "score": 0.859
+            },
+            {
+              "word": "which",
+              "clip_start": 4.142,
+              "clip_end": 4.302,
+              "global_start": 5.154,
+              "global_end": 5.314,
+              "score": 0.89
+            },
+            {
+              "word": "is",
+              "clip_start": 4.362,
+              "clip_end": 4.442,
+              "global_start": 5.374,
+              "global_end": 5.454,
+              "score": 0.6
+            },
+            {
+              "word": "kind",
+              "clip_start": 4.542,
+              "clip_end": 4.742,
+              "global_start": 5.554,
+              "global_end": 5.754,
+              "score": 0.865
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_005",
+          "range_index": 0,
+          "start_time": 4.762,
+          "end_time": 5.743,
+          "duration_s": 0.981,
+          "text": "of awkward since it",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "of",
+              "clip_start": 4.762,
+              "clip_end": 4.822,
+              "global_start": 5.774,
+              "global_end": 5.834,
+              "score": 0.748
+            },
+            {
+              "word": "awkward",
+              "clip_start": 4.902,
+              "clip_end": 5.222,
+              "global_start": 5.914,
+              "global_end": 6.234,
+              "score": 0.903
+            },
+            {
+              "word": "since",
+              "clip_start": 5.463,
+              "clip_end": 5.623,
+              "global_start": 6.475,
+              "global_end": 6.635,
+              "score": 0.886
+            },
+            {
+              "word": "it",
+              "clip_start": 5.683,
+              "clip_end": 5.743,
+              "global_start": 6.695,
+              "global_end": 6.755,
+              "score": 0.934
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_006",
+          "range_index": 0,
+          "start_time": 5.783,
+          "end_time": 5.963,
+          "duration_s": 0.18,
+          "text": "took",
+          "word_count": 1,
+          "words": [
+            {
+              "word": "took",
+              "clip_start": 5.783,
+              "clip_end": 5.963,
+              "global_start": 6.795,
+              "global_end": 6.975,
+              "score": 0.804
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_007",
+          "range_index": 1,
+          "start_time": 5.963,
+          "end_time": 7.043,
+          "duration_s": 1.08,
+          "text": "Seriously, some of these",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "Seriously,",
+              "clip_start": 5.963,
+              "clip_end": 6.463,
+              "global_start": 15.9,
+              "global_end": 16.4,
+              "score": 0.86
+            },
+            {
+              "word": "some",
+              "clip_start": 6.623,
+              "clip_end": 6.783,
+              "global_start": 16.56,
+              "global_end": 16.72,
+              "score": 0.854
+            },
+            {
+              "word": "of",
+              "clip_start": 6.823,
+              "clip_end": 6.863,
+              "global_start": 16.76,
+              "global_end": 16.8,
+              "score": 0.998
+            },
+            {
+              "word": "these",
+              "clip_start": 6.903,
+              "clip_end": 7.043,
+              "global_start": 16.84,
+              "global_end": 16.98,
+              "score": 0.881
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_008",
+          "range_index": 1,
+          "start_time": 7.083,
+          "end_time": 9.024,
+          "duration_s": 1.941,
+          "text": "channels utilize stickmen that",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "channels",
+              "clip_start": 7.083,
+              "clip_end": 7.404,
+              "global_start": 17.02,
+              "global_end": 17.341,
+              "score": 0.873
+            },
+            {
+              "word": "utilize",
+              "clip_start": 7.684,
+              "clip_end": 8.164,
+              "global_start": 17.621,
+              "global_end": 18.101,
+              "score": 0.9
+            },
+            {
+              "word": "stickmen",
+              "clip_start": 8.244,
+              "clip_end": 8.784,
+              "global_start": 18.181,
+              "global_end": 18.721,
+              "score": 0.87
+            },
+            {
+              "word": "that",
+              "clip_start": 8.924,
+              "clip_end": 9.024,
+              "global_start": 18.861,
+              "global_end": 18.961,
+              "score": 0.977
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_009",
+          "range_index": 1,
+          "start_time": 9.044,
+          "end_time": 9.865,
+          "duration_s": 0.821,
+          "text": "are making more money",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "are",
+              "clip_start": 9.044,
+              "clip_end": 9.125,
+              "global_start": 18.981,
+              "global_end": 19.062,
+              "score": 0.738
+            },
+            {
+              "word": "making",
+              "clip_start": 9.145,
+              "clip_end": 9.425,
+              "global_start": 19.082,
+              "global_end": 19.362,
+              "score": 0.842
+            },
+            {
+              "word": "more",
+              "clip_start": 9.485,
+              "clip_end": 9.665,
+              "global_start": 19.422,
+              "global_end": 19.602,
+              "score": 0.646
+            },
+            {
+              "word": "money",
+              "clip_start": 9.705,
+              "clip_end": 9.865,
+              "global_start": 19.642,
+              "global_end": 19.802,
+              "score": 0.338
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_010",
+          "range_index": 1,
+          "start_time": 9.885,
+          "end_time": 10.245,
+          "duration_s": 0.36,
+          "text": "than me.",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "than",
+              "clip_start": 9.885,
+              "clip_end": 9.985,
+              "global_start": 19.822,
+              "global_end": 19.922,
+              "score": 0.118
+            },
+            {
+              "word": "me.",
+              "clip_start": 10.025,
+              "clip_end": 10.245,
+              "global_start": 19.962,
+              "global_end": 20.182,
+              "score": 0.973
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_011",
+          "range_index": 1,
+          "start_time": 10.465,
+          "end_time": 11.006,
+          "duration_s": 0.541,
+          "text": "Which is starting to",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "Which",
+              "clip_start": 10.465,
+              "clip_end": 10.565,
+              "global_start": 20.402,
+              "global_end": 20.502,
+              "score": 0.198
+            },
+            {
+              "word": "is",
+              "clip_start": 10.625,
+              "clip_end": 10.685,
+              "global_start": 20.562,
+              "global_end": 20.622,
+              "score": 0.344
+            },
+            {
+              "word": "starting",
+              "clip_start": 10.705,
+              "clip_end": 10.926,
+              "global_start": 20.642,
+              "global_end": 20.863,
+              "score": 0.425
+            },
+            {
+              "word": "to",
+              "clip_start": 10.946,
+              "clip_end": 11.006,
+              "global_start": 20.883,
+              "global_end": 20.943,
+              "score": 0.759
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_012",
+          "range_index": 1,
+          "start_time": 11.026,
+          "end_time": 11.646,
+          "duration_s": 0.62,
+          "text": "make me think that",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "make",
+              "clip_start": 11.026,
+              "clip_end": 11.146,
+              "global_start": 20.963,
+              "global_end": 21.083,
+              "score": 0.964
+            },
+            {
+              "word": "me",
+              "clip_start": 11.166,
+              "clip_end": 11.266,
+              "global_start": 21.103,
+              "global_end": 21.203,
+              "score": 0.89
+            },
+            {
+              "word": "think",
+              "clip_start": 11.306,
+              "clip_end": 11.486,
+              "global_start": 21.243,
+              "global_end": 21.423,
+              "score": 0.899
+            },
+            {
+              "word": "that",
+              "clip_start": 11.526,
+              "clip_end": 11.646,
+              "global_start": 21.463,
+              "global_end": 21.583,
+              "score": 0.897
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_013",
+          "range_index": 1,
+          "start_time": 11.786,
+          "end_time": 12.827,
+          "duration_s": 1.041,
+          "text": "these just aren't going",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "these",
+              "clip_start": 11.786,
+              "clip_end": 12.146,
+              "global_start": 21.723,
+              "global_end": 22.083,
+              "score": 0.839
+            },
+            {
+              "word": "just",
+              "clip_start": 12.426,
+              "clip_end": 12.546,
+              "global_start": 22.363,
+              "global_end": 22.483,
+              "score": 0.815
+            },
+            {
+              "word": "aren't",
+              "clip_start": 12.566,
+              "clip_end": 12.707,
+              "global_start": 22.503,
+              "global_end": 22.644,
+              "score": 0.181
+            },
+            {
+              "word": "going",
+              "clip_start": 12.727,
+              "clip_end": 12.827,
+              "global_start": 22.664,
+              "global_end": 22.764,
+              "score": 0.008
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_014",
+          "range_index": 1,
+          "start_time": 12.847,
+          "end_time": 12.887,
+          "duration_s": 0.04,
+          "text": "to",
+          "word_count": 1,
+          "words": [
+            {
+              "word": "to",
+              "clip_start": 12.847,
+              "clip_end": 12.887,
+              "global_start": 22.784,
+              "global_end": 22.824,
+              "score": 0.0
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_015",
+          "range_index": 2,
+          "start_time": 12.887,
+          "end_time": 13.649,
+          "duration_s": 0.762,
+          "text": "means that you're about",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "means",
+              "clip_start": 12.887,
+              "clip_end": 13.168,
+              "global_start": 24.146,
+              "global_end": 24.427,
+              "score": 0.877
+            },
+            {
+              "word": "that",
+              "clip_start": 13.188,
+              "clip_end": 13.268,
+              "global_start": 24.447,
+              "global_end": 24.527,
+              "score": 0.994
+            },
+            {
+              "word": "you're",
+              "clip_start": 13.288,
+              "clip_end": 13.449,
+              "global_start": 24.547,
+              "global_end": 24.708,
+              "score": 0.886
+            },
+            {
+              "word": "about",
+              "clip_start": 13.469,
+              "clip_end": 13.649,
+              "global_start": 24.728,
+              "global_end": 24.908,
+              "score": 0.793
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_016",
+          "range_index": 2,
+          "start_time": 13.689,
+          "end_time": 15.354,
+          "duration_s": 1.665,
+          "text": "to feel very deeply",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "to",
+              "clip_start": 13.689,
+              "clip_end": 13.77,
+              "global_start": 24.948,
+              "global_end": 25.029,
+              "score": 0.684
+            },
+            {
+              "word": "feel",
+              "clip_start": 13.81,
+              "clip_end": 14.091,
+              "global_start": 25.069,
+              "global_end": 25.35,
+              "score": 0.821
+            },
+            {
+              "word": "very",
+              "clip_start": 14.432,
+              "clip_end": 14.813,
+              "global_start": 25.691,
+              "global_end": 26.072,
+              "score": 0.944
+            },
+            {
+              "word": "deeply",
+              "clip_start": 14.993,
+              "clip_end": 15.354,
+              "global_start": 26.252,
+              "global_end": 26.613,
+              "score": 0.861
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_017",
+          "range_index": 2,
+          "start_time": 15.394,
+          "end_time": 16.779,
+          "duration_s": 1.385,
+          "text": "behind in your YouTube",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "behind",
+              "clip_start": 15.394,
+              "clip_end": 15.896,
+              "global_start": 26.653,
+              "global_end": 27.155,
+              "score": 0.848
+            },
+            {
+              "word": "in",
+              "clip_start": 16.097,
+              "clip_end": 16.157,
+              "global_start": 27.356,
+              "global_end": 27.416,
+              "score": 0.984
+            },
+            {
+              "word": "your",
+              "clip_start": 16.217,
+              "clip_end": 16.398,
+              "global_start": 27.476,
+              "global_end": 27.657,
+              "score": 0.856
+            },
+            {
+              "word": "YouTube",
+              "clip_start": 16.438,
+              "clip_end": 16.779,
+              "global_start": 27.697,
+              "global_end": 28.038,
+              "score": 0.498
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_018",
+          "range_index": 2,
+          "start_time": 16.799,
+          "end_time": 17.882,
+          "duration_s": 1.083,
+          "text": "life or stay",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "life",
+              "clip_start": 16.799,
+              "clip_end": 17.1,
+              "global_start": 28.058,
+              "global_end": 28.359,
+              "score": 0.97
+            },
+            {
+              "word": "or",
+              "clip_start": 17.36,
+              "clip_end": 17.481,
+              "global_start": 28.619,
+              "global_end": 28.74,
+              "score": 0.704
+            },
+            {
+              "word": "stay",
+              "clip_start": 17.641,
+              "clip_end": 17.882,
+              "global_start": 28.9,
+              "global_end": 29.141,
+              "score": 0.827
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "candidate_id": 2,
+      "total_clip_duration_s": 18.005,
+      "caption_group_count": 16,
+      "caption_groups": [
+        {
+          "group_id": "cand_2_cap_001",
+          "range_index": 0,
+          "start_time": 0.0,
+          "end_time": 0.8,
+          "duration_s": 0.8,
+          "text": "This channel,",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "This",
+              "clip_start": 0.0,
+              "clip_end": 0.3,
+              "global_start": 53.841,
+              "global_end": 54.141,
+              "score": 0.897
+            },
+            {
+              "word": "channel,",
+              "clip_start": 0.44,
+              "clip_end": 0.8,
+              "global_start": 54.281,
+              "global_end": 54.641,
+              "score": 0.838
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_002",
+          "range_index": 0,
+          "start_time": 1.041,
+          "end_time": 2.162,
+          "duration_s": 1.121,
+          "text": "casual finance,",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "casual",
+              "clip_start": 1.041,
+              "clip_end": 1.682,
+              "global_start": 54.882,
+              "global_end": 55.523,
+              "score": 0.905
+            },
+            {
+              "word": "finance,",
+              "clip_start": 1.742,
+              "clip_end": 2.162,
+              "global_start": 55.583,
+              "global_end": 56.003,
+              "score": 0.936
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_003",
+          "range_index": 0,
+          "start_time": 2.523,
+          "end_time": 4.385,
+          "duration_s": 1.862,
+          "text": "it has over 280,000",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "it",
+              "clip_start": 2.523,
+              "clip_end": 2.583,
+              "global_start": 56.364,
+              "global_end": 56.424,
+              "score": 0.993
+            },
+            {
+              "word": "has",
+              "clip_start": 2.643,
+              "clip_end": 2.843,
+              "global_start": 56.484,
+              "global_end": 56.684,
+              "score": 0.888
+            },
+            {
+              "word": "over",
+              "clip_start": 2.983,
+              "clip_end": 3.724,
+              "global_start": 56.824,
+              "global_end": 57.565,
+              "score": 0.837
+            },
+            {
+              "word": "280,000",
+              "clip_start": 3.744,
+              "clip_end": 4.385,
+              "global_start": 57.585,
+              "global_end": 58.226,
+              "score": 0.64
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_004",
+          "range_index": 0,
+          "start_time": 4.425,
+          "end_time": 5.426,
+          "duration_s": 1.001,
+          "text": "subscribers and one of",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "subscribers",
+              "clip_start": 4.425,
+              "clip_end": 4.966,
+              "global_start": 58.266,
+              "global_end": 58.807,
+              "score": 0.912
+            },
+            {
+              "word": "and",
+              "clip_start": 5.166,
+              "clip_end": 5.246,
+              "global_start": 59.007,
+              "global_end": 59.087,
+              "score": 0.843
+            },
+            {
+              "word": "one",
+              "clip_start": 5.286,
+              "clip_end": 5.366,
+              "global_start": 59.127,
+              "global_end": 59.207,
+              "score": 0.852
+            },
+            {
+              "word": "of",
+              "clip_start": 5.386,
+              "clip_end": 5.426,
+              "global_start": 59.227,
+              "global_end": 59.267,
+              "score": 0.998
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_005",
+          "range_index": 0,
+          "start_time": 5.446,
+          "end_time": 6.928,
+          "duration_s": 1.482,
+          "text": "those four mentioned stickmen",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "those",
+              "clip_start": 5.446,
+              "clip_end": 5.646,
+              "global_start": 59.287,
+              "global_end": 59.487,
+              "score": 0.557
+            },
+            {
+              "word": "four",
+              "clip_start": 5.807,
+              "clip_end": 6.027,
+              "global_start": 59.648,
+              "global_end": 59.868,
+              "score": 0.894
+            },
+            {
+              "word": "mentioned",
+              "clip_start": 6.087,
+              "clip_end": 6.407,
+              "global_start": 59.928,
+              "global_end": 60.248,
+              "score": 0.847
+            },
+            {
+              "word": "stickmen",
+              "clip_start": 6.467,
+              "clip_end": 6.928,
+              "global_start": 60.308,
+              "global_end": 60.769,
+              "score": 0.932
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_006",
+          "range_index": 0,
+          "start_time": 7.008,
+          "end_time": 7.469,
+          "duration_s": 0.461,
+          "text": "as a host.",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "as",
+              "clip_start": 7.008,
+              "clip_end": 7.108,
+              "global_start": 60.849,
+              "global_end": 60.949,
+              "score": 0.81
+            },
+            {
+              "word": "a",
+              "clip_start": 7.148,
+              "clip_end": 7.188,
+              "global_start": 60.989,
+              "global_end": 61.029,
+              "score": 0.591
+            },
+            {
+              "word": "host.",
+              "clip_start": 7.228,
+              "clip_end": 7.469,
+              "global_start": 61.069,
+              "global_end": 61.31,
+              "score": 0.947
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_007",
+          "range_index": 0,
+          "start_time": 7.529,
+          "end_time": 8.27,
+          "duration_s": 0.741,
+          "text": "And according to the",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "And",
+              "clip_start": 7.529,
+              "clip_end": 7.609,
+              "global_start": 61.37,
+              "global_end": 61.45,
+              "score": 0.841
+            },
+            {
+              "word": "according",
+              "clip_start": 7.629,
+              "clip_end": 7.929,
+              "global_start": 61.47,
+              "global_end": 61.77,
+              "score": 0.946
+            },
+            {
+              "word": "to",
+              "clip_start": 7.989,
+              "clip_end": 8.109,
+              "global_start": 61.83,
+              "global_end": 61.95,
+              "score": 0.869
+            },
+            {
+              "word": "the",
+              "clip_start": 8.129,
+              "clip_end": 8.27,
+              "global_start": 61.97,
+              "global_end": 62.111,
+              "score": 0.458
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_008",
+          "range_index": 0,
+          "start_time": 8.31,
+          "end_time": 9.071,
+          "duration_s": 0.761,
+          "text": "vidIQ tool,",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "vidIQ",
+              "clip_start": 8.31,
+              "clip_end": 8.61,
+              "global_start": 62.151,
+              "global_end": 62.451,
+              "score": 0.791
+            },
+            {
+              "word": "tool,",
+              "clip_start": 8.81,
+              "clip_end": 9.071,
+              "global_start": 62.651,
+              "global_end": 62.912,
+              "score": 0.882
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_009",
+          "range_index": 0,
+          "start_time": 9.251,
+          "end_time": 10.693,
+          "duration_s": 1.442,
+          "text": "makes around about $5,000",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "makes",
+              "clip_start": 9.251,
+              "clip_end": 9.451,
+              "global_start": 63.092,
+              "global_end": 63.292,
+              "score": 0.845
+            },
+            {
+              "word": "around",
+              "clip_start": 9.611,
+              "clip_end": 10.092,
+              "global_start": 63.452,
+              "global_end": 63.933,
+              "score": 0.881
+            },
+            {
+              "word": "about",
+              "clip_start": 10.152,
+              "clip_end": 10.392,
+              "global_start": 63.993,
+              "global_end": 64.233,
+              "score": 0.945
+            },
+            {
+              "word": "$5,000",
+              "clip_start": 10.412,
+              "clip_end": 10.693,
+              "global_start": 64.253,
+              "global_end": 64.534,
+              "score": 0.98
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_010",
+          "range_index": 0,
+          "start_time": 10.713,
+          "end_time": 10.993,
+          "duration_s": 0.28,
+          "text": "a month.",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "a",
+              "clip_start": 10.713,
+              "clip_end": 10.733,
+              "global_start": 64.554,
+              "global_end": 64.574,
+              "score": 0.0
+            },
+            {
+              "word": "month.",
+              "clip_start": 10.753,
+              "clip_end": 10.993,
+              "global_start": 64.594,
+              "global_end": 64.834,
+              "score": 0.611
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_011",
+          "range_index": 0,
+          "start_time": 11.854,
+          "end_time": 13.036,
+          "duration_s": 1.182,
+          "text": "And then we have",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "And",
+              "clip_start": 11.854,
+              "clip_end": 11.954,
+              "global_start": 65.695,
+              "global_end": 65.795,
+              "score": 0.746
+            },
+            {
+              "word": "then",
+              "clip_start": 12.014,
+              "clip_end": 12.455,
+              "global_start": 65.855,
+              "global_end": 66.296,
+              "score": 0.63
+            },
+            {
+              "word": "we",
+              "clip_start": 12.535,
+              "clip_end": 12.676,
+              "global_start": 66.376,
+              "global_end": 66.517,
+              "score": 0.978
+            },
+            {
+              "word": "have",
+              "clip_start": 12.756,
+              "clip_end": 13.036,
+              "global_start": 66.597,
+              "global_end": 66.877,
+              "score": 0.854
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_012",
+          "range_index": 1,
+          "start_time": 13.036,
+          "end_time": 14.458,
+          "duration_s": 1.422,
+          "text": "Monkey Mind 101.",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "Monkey",
+              "clip_start": 13.036,
+              "clip_end": 13.336,
+              "global_start": 68.12,
+              "global_end": 68.42,
+              "score": 0.797
+            },
+            {
+              "word": "Mind",
+              "clip_start": 13.376,
+              "clip_end": 13.657,
+              "global_start": 68.46,
+              "global_end": 68.741,
+              "score": 0.795
+            },
+            {
+              "word": "101.",
+              "clip_start": 13.677,
+              "clip_end": 14.458,
+              "global_start": 68.761,
+              "global_end": 69.542,
+              "score": 0.779
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_013",
+          "range_index": 1,
+          "start_time": 14.518,
+          "end_time": 15.24,
+          "duration_s": 0.722,
+          "text": "It's a little bigger",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "It's",
+              "clip_start": 14.518,
+              "clip_end": 14.618,
+              "global_start": 69.602,
+              "global_end": 69.702,
+              "score": 0.74
+            },
+            {
+              "word": "a",
+              "clip_start": 14.639,
+              "clip_end": 14.679,
+              "global_start": 69.723,
+              "global_end": 69.763,
+              "score": 0.499
+            },
+            {
+              "word": "little",
+              "clip_start": 14.699,
+              "clip_end": 14.899,
+              "global_start": 69.783,
+              "global_end": 69.983,
+              "score": 0.86
+            },
+            {
+              "word": "bigger",
+              "clip_start": 14.939,
+              "clip_end": 15.24,
+              "global_start": 70.023,
+              "global_end": 70.324,
+              "score": 0.778
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_014",
+          "range_index": 1,
+          "start_time": 15.34,
+          "end_time": 15.48,
+          "duration_s": 0.14,
+          "text": "over",
+          "word_count": 1,
+          "words": [
+            {
+              "word": "over",
+              "clip_start": 15.34,
+              "clip_end": 15.48,
+              "global_start": 70.424,
+              "global_end": 70.564,
+              "score": 0.872
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_015",
+          "range_index": 1,
+          "start_time": 15.881,
+          "end_time": 17.143,
+          "duration_s": 1.262,
+          "text": "300,000 subscribers,",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "300,000",
+              "clip_start": 15.881,
+              "clip_end": 16.482,
+              "global_start": 70.965,
+              "global_end": 71.566,
+              "score": 0.614
+            },
+            {
+              "word": "subscribers,",
+              "clip_start": 16.522,
+              "clip_end": 17.143,
+              "global_start": 71.606,
+              "global_end": 72.227,
+              "score": 0.919
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_016",
+          "range_index": 1,
+          "start_time": 17.364,
+          "end_time": 18.005,
+          "duration_s": 0.641,
+          "text": "but according",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "but",
+              "clip_start": 17.364,
+              "clip_end": 17.584,
+              "global_start": 72.448,
+              "global_end": 72.668,
+              "score": 0.771
+            },
+            {
+              "word": "according",
+              "clip_start": 17.704,
+              "clip_end": 18.005,
+              "global_start": 72.788,
+              "global_end": 73.089,
+              "score": 0.946
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "candidate_id": 3,
+      "total_clip_duration_s": 31.961,
+      "caption_group_count": 27,
+      "caption_groups": [
+        {
+          "group_id": "cand_3_cap_001",
+          "range_index": 0,
+          "start_time": 0.0,
+          "end_time": 1.002,
+          "duration_s": 1.002,
+          "text": "But here's the thing",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "But",
+              "clip_start": 0.0,
+              "clip_end": 0.261,
+              "global_start": 133.839,
+              "global_end": 134.1,
+              "score": 0.898
+            },
+            {
+              "word": "here's",
+              "clip_start": 0.401,
+              "clip_end": 0.621,
+              "global_start": 134.24,
+              "global_end": 134.46,
+              "score": 0.809
+            },
+            {
+              "word": "the",
+              "clip_start": 0.641,
+              "clip_end": 0.721,
+              "global_start": 134.48,
+              "global_end": 134.56,
+              "score": 0.294
+            },
+            {
+              "word": "thing",
+              "clip_start": 0.781,
+              "clip_end": 1.002,
+              "global_start": 134.62,
+              "global_end": 134.841,
+              "score": 0.867
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_002",
+          "range_index": 0,
+          "start_time": 1.062,
+          "end_time": 2.183,
+          "duration_s": 1.121,
+          "text": "that's probably going to",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "that's",
+              "clip_start": 1.062,
+              "clip_end": 1.282,
+              "global_start": 134.901,
+              "global_end": 135.121,
+              "score": 0.877
+            },
+            {
+              "word": "probably",
+              "clip_start": 1.382,
+              "clip_end": 1.782,
+              "global_start": 135.221,
+              "global_end": 135.621,
+              "score": 0.868
+            },
+            {
+              "word": "going",
+              "clip_start": 1.842,
+              "clip_end": 2.023,
+              "global_start": 135.681,
+              "global_end": 135.862,
+              "score": 0.886
+            },
+            {
+              "word": "to",
+              "clip_start": 2.063,
+              "clip_end": 2.183,
+              "global_start": 135.902,
+              "global_end": 136.022,
+              "score": 0.813
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_003",
+          "range_index": 0,
+          "start_time": 2.243,
+          "end_time": 2.683,
+          "duration_s": 0.44,
+          "text": "annoy you.",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "annoy",
+              "clip_start": 2.243,
+              "clip_end": 2.483,
+              "global_start": 136.082,
+              "global_end": 136.322,
+              "score": 0.887
+            },
+            {
+              "word": "you.",
+              "clip_start": 2.523,
+              "clip_end": 2.683,
+              "global_start": 136.362,
+              "global_end": 136.522,
+              "score": 0.948
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_004",
+          "range_index": 0,
+          "start_time": 2.944,
+          "end_time": 3.925,
+          "duration_s": 0.981,
+          "text": "Some of the fastest",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "Some",
+              "clip_start": 2.944,
+              "clip_end": 3.084,
+              "global_start": 136.783,
+              "global_end": 136.923,
+              "score": 0.932
+            },
+            {
+              "word": "of",
+              "clip_start": 3.124,
+              "clip_end": 3.184,
+              "global_start": 136.963,
+              "global_end": 137.023,
+              "score": 0.968
+            },
+            {
+              "word": "the",
+              "clip_start": 3.224,
+              "clip_end": 3.404,
+              "global_start": 137.063,
+              "global_end": 137.243,
+              "score": 0.574
+            },
+            {
+              "word": "fastest",
+              "clip_start": 3.484,
+              "clip_end": 3.925,
+              "global_start": 137.323,
+              "global_end": 137.764,
+              "score": 0.814
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_005",
+          "range_index": 0,
+          "start_time": 3.945,
+          "end_time": 5.386,
+          "duration_s": 1.441,
+          "text": "growing channels I've found",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "growing",
+              "clip_start": 3.945,
+              "clip_end": 4.185,
+              "global_start": 137.784,
+              "global_end": 138.024,
+              "score": 0.886
+            },
+            {
+              "word": "channels",
+              "clip_start": 4.205,
+              "clip_end": 4.505,
+              "global_start": 138.044,
+              "global_end": 138.344,
+              "score": 0.882
+            },
+            {
+              "word": "I've",
+              "clip_start": 4.525,
+              "clip_end": 4.906,
+              "global_start": 138.364,
+              "global_end": 138.745,
+              "score": 0.361
+            },
+            {
+              "word": "found",
+              "clip_start": 4.986,
+              "clip_end": 5.386,
+              "global_start": 138.825,
+              "global_end": 139.225,
+              "score": 0.837
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_006",
+          "range_index": 0,
+          "start_time": 5.566,
+          "end_time": 6.647,
+          "duration_s": 1.081,
+          "text": "didn't seem to consider",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "didn't",
+              "clip_start": 5.566,
+              "clip_end": 5.767,
+              "global_start": 139.405,
+              "global_end": 139.606,
+              "score": 0.788
+            },
+            {
+              "word": "seem",
+              "clip_start": 5.807,
+              "clip_end": 6.007,
+              "global_start": 139.646,
+              "global_end": 139.846,
+              "score": 0.747
+            },
+            {
+              "word": "to",
+              "clip_start": 6.047,
+              "clip_end": 6.187,
+              "global_start": 139.886,
+              "global_end": 140.026,
+              "score": 0.87
+            },
+            {
+              "word": "consider",
+              "clip_start": 6.287,
+              "clip_end": 6.647,
+              "global_start": 140.126,
+              "global_end": 140.486,
+              "score": 0.896
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_007",
+          "range_index": 0,
+          "start_time": 6.688,
+          "end_time": 7.388,
+          "duration_s": 0.7,
+          "text": "Venetia all.",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "Venetia",
+              "clip_start": 6.688,
+              "clip_end": 7.088,
+              "global_start": 140.527,
+              "global_end": 140.927,
+              "score": 0.793
+            },
+            {
+              "word": "all.",
+              "clip_start": 7.228,
+              "clip_end": 7.388,
+              "global_start": 141.067,
+              "global_end": 141.227,
+              "score": 0.932
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_008",
+          "range_index": 0,
+          "start_time": 7.508,
+          "end_time": 8.57,
+          "duration_s": 1.062,
+          "text": "They found something",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "They",
+              "clip_start": 7.508,
+              "clip_end": 7.729,
+              "global_start": 141.347,
+              "global_end": 141.568,
+              "score": 0.812
+            },
+            {
+              "word": "found",
+              "clip_start": 7.749,
+              "clip_end": 8.089,
+              "global_start": 141.588,
+              "global_end": 141.928,
+              "score": 0.823
+            },
+            {
+              "word": "something",
+              "clip_start": 8.269,
+              "clip_end": 8.57,
+              "global_start": 142.108,
+              "global_end": 142.409,
+              "score": 0.769
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_009",
+          "range_index": 1,
+          "start_time": 8.57,
+          "end_time": 10.412,
+          "duration_s": 1.842,
+          "text": "RPMs, CPMs and revenues.",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "RPMs,",
+              "clip_start": 8.57,
+              "clip_end": 9.11,
+              "global_start": 144.651,
+              "global_end": 145.191,
+              "score": 0.697
+            },
+            {
+              "word": "CPMs",
+              "clip_start": 9.171,
+              "clip_end": 9.731,
+              "global_start": 145.252,
+              "global_end": 145.812,
+              "score": 0.852
+            },
+            {
+              "word": "and",
+              "clip_start": 9.791,
+              "clip_end": 9.871,
+              "global_start": 145.872,
+              "global_end": 145.952,
+              "score": 0.831
+            },
+            {
+              "word": "revenues.",
+              "clip_start": 9.911,
+              "clip_end": 10.412,
+              "global_start": 145.992,
+              "global_end": 146.493,
+              "score": 0.846
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_010",
+          "range_index": 1,
+          "start_time": 10.552,
+          "end_time": 11.133,
+          "duration_s": 0.581,
+          "text": "And it is a",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "And",
+              "clip_start": 10.552,
+              "clip_end": 10.632,
+              "global_start": 146.633,
+              "global_end": 146.713,
+              "score": 0.835
+            },
+            {
+              "word": "it",
+              "clip_start": 10.652,
+              "clip_end": 10.692,
+              "global_start": 146.733,
+              "global_end": 146.773,
+              "score": 0.006
+            },
+            {
+              "word": "is",
+              "clip_start": 10.752,
+              "clip_end": 10.892,
+              "global_start": 146.833,
+              "global_end": 146.973,
+              "score": 0.832
+            },
+            {
+              "word": "a",
+              "clip_start": 11.093,
+              "clip_end": 11.133,
+              "global_start": 147.174,
+              "global_end": 147.214,
+              "score": 0.944
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_011",
+          "range_index": 1,
+          "start_time": 11.173,
+          "end_time": 12.114,
+          "duration_s": 0.941,
+          "text": "little harder to spot.",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "little",
+              "clip_start": 11.173,
+              "clip_end": 11.373,
+              "global_start": 147.254,
+              "global_end": 147.454,
+              "score": 0.861
+            },
+            {
+              "word": "harder",
+              "clip_start": 11.413,
+              "clip_end": 11.673,
+              "global_start": 147.494,
+              "global_end": 147.754,
+              "score": 0.95
+            },
+            {
+              "word": "to",
+              "clip_start": 11.713,
+              "clip_end": 11.793,
+              "global_start": 147.794,
+              "global_end": 147.874,
+              "score": 0.93
+            },
+            {
+              "word": "spot.",
+              "clip_start": 11.833,
+              "clip_end": 12.114,
+              "global_start": 147.914,
+              "global_end": 148.195,
+              "score": 0.818
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_012",
+          "range_index": 1,
+          "start_time": 12.794,
+          "end_time": 14.415,
+          "duration_s": 1.621,
+          "text": "Chat history compilations.",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "Chat",
+              "clip_start": 12.794,
+              "clip_end": 13.074,
+              "global_start": 148.875,
+              "global_end": 149.155,
+              "score": 0.852
+            },
+            {
+              "word": "history",
+              "clip_start": 13.154,
+              "clip_end": 13.614,
+              "global_start": 149.235,
+              "global_end": 149.695,
+              "score": 0.829
+            },
+            {
+              "word": "compilations.",
+              "clip_start": 13.694,
+              "clip_end": 14.415,
+              "global_start": 149.775,
+              "global_end": 150.496,
+              "score": 0.835
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_013",
+          "range_index": 1,
+          "start_time": 14.635,
+          "end_time": 15.435,
+          "duration_s": 0.8,
+          "text": "It is pulling in",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "It",
+              "clip_start": 14.635,
+              "clip_end": 14.695,
+              "global_start": 150.716,
+              "global_end": 150.776,
+              "score": 0.824
+            },
+            {
+              "word": "is",
+              "clip_start": 14.735,
+              "clip_end": 14.815,
+              "global_start": 150.816,
+              "global_end": 150.896,
+              "score": 0.762
+            },
+            {
+              "word": "pulling",
+              "clip_start": 14.915,
+              "clip_end": 15.255,
+              "global_start": 150.996,
+              "global_end": 151.336,
+              "score": 0.901
+            },
+            {
+              "word": "in",
+              "clip_start": 15.335,
+              "clip_end": 15.435,
+              "global_start": 151.416,
+              "global_end": 151.516,
+              "score": 0.837
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_014",
+          "range_index": 2,
+          "start_time": 15.435,
+          "end_time": 16.555,
+          "duration_s": 1.12,
+          "text": "month on a channel",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "month",
+              "clip_start": 15.435,
+              "clip_end": 15.715,
+              "global_start": 153.557,
+              "global_end": 153.837,
+              "score": 0.766
+            },
+            {
+              "word": "on",
+              "clip_start": 16.055,
+              "clip_end": 16.115,
+              "global_start": 154.177,
+              "global_end": 154.237,
+              "score": 0.994
+            },
+            {
+              "word": "a",
+              "clip_start": 16.155,
+              "clip_end": 16.195,
+              "global_start": 154.277,
+              "global_end": 154.317,
+              "score": 0.496
+            },
+            {
+              "word": "channel",
+              "clip_start": 16.235,
+              "clip_end": 16.555,
+              "global_start": 154.357,
+              "global_end": 154.677,
+              "score": 0.806
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_015",
+          "range_index": 2,
+          "start_time": 16.595,
+          "end_time": 17.396,
+          "duration_s": 0.801,
+          "text": "with 166,000",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "with",
+              "clip_start": 16.595,
+              "clip_end": 16.795,
+              "global_start": 154.717,
+              "global_end": 154.917,
+              "score": 0.876
+            },
+            {
+              "word": "166,000",
+              "clip_start": 17.015,
+              "clip_end": 17.396,
+              "global_start": 155.137,
+              "global_end": 155.518,
+              "score": 0.618
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_016",
+          "range_index": 2,
+          "start_time": 18.436,
+          "end_time": 19.756,
+          "duration_s": 1.32,
+          "text": "subscribers. But if you're",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "subscribers.",
+              "clip_start": 18.436,
+              "clip_end": 19.016,
+              "global_start": 156.558,
+              "global_end": 157.138,
+              "score": 0.87
+            },
+            {
+              "word": "But",
+              "clip_start": 19.276,
+              "clip_end": 19.376,
+              "global_start": 157.398,
+              "global_end": 157.498,
+              "score": 0.99
+            },
+            {
+              "word": "if",
+              "clip_start": 19.416,
+              "clip_end": 19.476,
+              "global_start": 157.538,
+              "global_end": 157.598,
+              "score": 0.997
+            },
+            {
+              "word": "you're",
+              "clip_start": 19.516,
+              "clip_end": 19.756,
+              "global_start": 157.638,
+              "global_end": 157.878,
+              "score": 0.659
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_017",
+          "range_index": 2,
+          "start_time": 19.796,
+          "end_time": 20.677,
+          "duration_s": 0.881,
+          "text": "thinking that is a",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "thinking",
+              "clip_start": 19.796,
+              "clip_end": 20.157,
+              "global_start": 157.918,
+              "global_end": 158.279,
+              "score": 0.795
+            },
+            {
+              "word": "that",
+              "clip_start": 20.217,
+              "clip_end": 20.357,
+              "global_start": 158.339,
+              "global_end": 158.479,
+              "score": 0.857
+            },
+            {
+              "word": "is",
+              "clip_start": 20.417,
+              "clip_end": 20.497,
+              "global_start": 158.539,
+              "global_end": 158.619,
+              "score": 0.924
+            },
+            {
+              "word": "a",
+              "clip_start": 20.597,
+              "clip_end": 20.677,
+              "global_start": 158.719,
+              "global_end": 158.799,
+              "score": 0.75
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_018",
+          "range_index": 3,
+          "start_time": 20.677,
+          "end_time": 21.417,
+          "duration_s": 0.74,
+          "text": "RPM win,",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "RPM",
+              "clip_start": 20.677,
+              "clip_end": 21.137,
+              "global_start": 159.979,
+              "global_end": 160.439,
+              "score": 0.828
+            },
+            {
+              "word": "win,",
+              "clip_start": 21.177,
+              "clip_end": 21.417,
+              "global_start": 160.479,
+              "global_end": 160.719,
+              "score": 0.861
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_019",
+          "range_index": 3,
+          "start_time": 21.578,
+          "end_time": 21.938,
+          "duration_s": 0.36,
+          "text": "it isn't.",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "it",
+              "clip_start": 21.578,
+              "clip_end": 21.678,
+              "global_start": 160.88,
+              "global_end": 160.98,
+              "score": 0.833
+            },
+            {
+              "word": "isn't.",
+              "clip_start": 21.738,
+              "clip_end": 21.938,
+              "global_start": 161.04,
+              "global_end": 161.24,
+              "score": 0.622
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_020",
+          "range_index": 3,
+          "start_time": 21.998,
+          "end_time": 22.498,
+          "duration_s": 0.5,
+          "text": "If you check out",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "If",
+              "clip_start": 21.998,
+              "clip_end": 22.058,
+              "global_start": 161.3,
+              "global_end": 161.36,
+              "score": 0.78
+            },
+            {
+              "word": "you",
+              "clip_start": 22.078,
+              "clip_end": 22.178,
+              "global_start": 161.38,
+              "global_end": 161.48,
+              "score": 0.89
+            },
+            {
+              "word": "check",
+              "clip_start": 22.198,
+              "clip_end": 22.378,
+              "global_start": 161.5,
+              "global_end": 161.68,
+              "score": 0.926
+            },
+            {
+              "word": "out",
+              "clip_start": 22.418,
+              "clip_end": 22.498,
+              "global_start": 161.72,
+              "global_end": 161.8,
+              "score": 0.995
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_021",
+          "range_index": 3,
+          "start_time": 22.538,
+          "end_time": 23.978,
+          "duration_s": 1.44,
+          "text": "their entire upload history,",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "their",
+              "clip_start": 22.538,
+              "clip_end": 22.698,
+              "global_start": 161.84,
+              "global_end": 162.0,
+              "score": 0.809
+            },
+            {
+              "word": "entire",
+              "clip_start": 22.738,
+              "clip_end": 23.158,
+              "global_start": 162.04,
+              "global_end": 162.46,
+              "score": 0.928
+            },
+            {
+              "word": "upload",
+              "clip_start": 23.278,
+              "clip_end": 23.578,
+              "global_start": 162.58,
+              "global_end": 162.88,
+              "score": 0.843
+            },
+            {
+              "word": "history,",
+              "clip_start": 23.598,
+              "clip_end": 23.978,
+              "global_start": 162.9,
+              "global_end": 163.28,
+              "score": 0.931
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_022",
+          "range_index": 3,
+          "start_time": 24.198,
+          "end_time": 25.419,
+          "duration_s": 1.221,
+          "text": "they have made just",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "they",
+              "clip_start": 24.198,
+              "clip_end": 24.359,
+              "global_start": 163.5,
+              "global_end": 163.661,
+              "score": 0.924
+            },
+            {
+              "word": "have",
+              "clip_start": 24.419,
+              "clip_end": 24.579,
+              "global_start": 163.721,
+              "global_end": 163.881,
+              "score": 0.995
+            },
+            {
+              "word": "made",
+              "clip_start": 24.639,
+              "clip_end": 24.959,
+              "global_start": 163.941,
+              "global_end": 164.261,
+              "score": 0.776
+            },
+            {
+              "word": "just",
+              "clip_start": 25.219,
+              "clip_end": 25.419,
+              "global_start": 164.521,
+              "global_end": 164.721,
+              "score": 0.727
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_023",
+          "range_index": 4,
+          "start_time": 25.419,
+          "end_time": 26.619,
+          "duration_s": 1.2,
+          "text": "critically, all of these",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "critically,",
+              "clip_start": 25.419,
+              "clip_end": 25.939,
+              "global_start": 166.402,
+              "global_end": 166.922,
+              "score": 0.885
+            },
+            {
+              "word": "all",
+              "clip_start": 26.139,
+              "clip_end": 26.279,
+              "global_start": 167.122,
+              "global_end": 167.262,
+              "score": 0.888
+            },
+            {
+              "word": "of",
+              "clip_start": 26.299,
+              "clip_end": 26.339,
+              "global_start": 167.282,
+              "global_end": 167.322,
+              "score": 0.924
+            },
+            {
+              "word": "these",
+              "clip_start": 26.399,
+              "clip_end": 26.619,
+              "global_start": 167.382,
+              "global_end": 167.602,
+              "score": 0.811
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_024",
+          "range_index": 4,
+          "start_time": 26.639,
+          "end_time": 27.759,
+          "duration_s": 1.12,
+          "text": "30 videos have a",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "30",
+              "clip_start": 26.639,
+              "clip_end": 26.739,
+              "global_start": 167.622,
+              "global_end": 167.722,
+              "score": 0.408
+            },
+            {
+              "word": "videos",
+              "clip_start": 27.139,
+              "clip_end": 27.499,
+              "global_start": 168.122,
+              "global_end": 168.482,
+              "score": 0.694
+            },
+            {
+              "word": "have",
+              "clip_start": 27.559,
+              "clip_end": 27.719,
+              "global_start": 168.542,
+              "global_end": 168.702,
+              "score": 0.943
+            },
+            {
+              "word": "a",
+              "clip_start": 27.739,
+              "clip_end": 27.759,
+              "global_start": 168.722,
+              "global_end": 168.742,
+              "score": 0.001
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_025",
+          "range_index": 4,
+          "start_time": 28.34,
+          "end_time": 29.2,
+          "duration_s": 0.86,
+          "text": "lot in common,",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "lot",
+              "clip_start": 28.34,
+              "clip_end": 28.62,
+              "global_start": 169.323,
+              "global_end": 169.603,
+              "score": 0.981
+            },
+            {
+              "word": "in",
+              "clip_start": 28.72,
+              "clip_end": 28.82,
+              "global_start": 169.703,
+              "global_end": 169.803,
+              "score": 0.632
+            },
+            {
+              "word": "common,",
+              "clip_start": 28.86,
+              "clip_end": 29.2,
+              "global_start": 169.843,
+              "global_end": 170.183,
+              "score": 0.818
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_026",
+          "range_index": 4,
+          "start_time": 29.26,
+          "end_time": 30.741,
+          "duration_s": 1.481,
+          "text": "the same title format,",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "the",
+              "clip_start": 29.26,
+              "clip_end": 29.36,
+              "global_start": 170.243,
+              "global_end": 170.343,
+              "score": 0.81
+            },
+            {
+              "word": "same",
+              "clip_start": 29.4,
+              "clip_end": 29.68,
+              "global_start": 170.383,
+              "global_end": 170.663,
+              "score": 0.761
+            },
+            {
+              "word": "title",
+              "clip_start": 29.8,
+              "clip_end": 30.2,
+              "global_start": 170.783,
+              "global_end": 171.183,
+              "score": 0.787
+            },
+            {
+              "word": "format,",
+              "clip_start": 30.24,
+              "clip_end": 30.741,
+              "global_start": 171.223,
+              "global_end": 171.724,
+              "score": 0.928
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_027",
+          "range_index": 4,
+          "start_time": 30.841,
+          "end_time": 31.961,
+          "duration_s": 1.12,
+          "text": "the same structure,",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "the",
+              "clip_start": 30.841,
+              "clip_end": 30.941,
+              "global_start": 171.824,
+              "global_end": 171.924,
+              "score": 0.83
+            },
+            {
+              "word": "same",
+              "clip_start": 31.001,
+              "clip_end": 31.281,
+              "global_start": 171.984,
+              "global_end": 172.264,
+              "score": 0.833
+            },
+            {
+              "word": "structure,",
+              "clip_start": 31.481,
+              "clip_end": 31.961,
+              "global_start": 172.464,
+              "global_end": 172.944,
+              "score": 0.852
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "candidate_id": 4,
+      "total_clip_duration_s": 24.62,
+      "caption_group_count": 21,
+      "caption_groups": [
+        {
+          "group_id": "cand_4_cap_001",
+          "range_index": 0,
+          "start_time": 0.0,
+          "end_time": 0.8,
+          "duration_s": 0.8,
+          "text": "jobs instead.",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "jobs",
+              "clip_start": 0.0,
+              "clip_end": 0.3,
+              "global_start": 217.334,
+              "global_end": 217.634,
+              "score": 0.834
+            },
+            {
+              "word": "instead.",
+              "clip_start": 0.36,
+              "clip_end": 0.8,
+              "global_start": 217.694,
+              "global_end": 218.134,
+              "score": 0.923
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_002",
+          "range_index": 0,
+          "start_time": 0.88,
+          "end_time": 1.54,
+          "duration_s": 0.66,
+          "text": "It is the same",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "It",
+              "clip_start": 0.88,
+              "clip_end": 0.96,
+              "global_start": 218.214,
+              "global_end": 218.294,
+              "score": 0.889
+            },
+            {
+              "word": "is",
+              "clip_start": 1.02,
+              "clip_end": 1.1,
+              "global_start": 218.354,
+              "global_end": 218.434,
+              "score": 0.7
+            },
+            {
+              "word": "the",
+              "clip_start": 1.14,
+              "clip_end": 1.26,
+              "global_start": 218.474,
+              "global_end": 218.594,
+              "score": 0.8
+            },
+            {
+              "word": "same",
+              "clip_start": 1.3,
+              "clip_end": 1.54,
+              "global_start": 218.634,
+              "global_end": 218.874,
+              "score": 0.901
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_003",
+          "range_index": 0,
+          "start_time": 1.62,
+          "end_time": 2.48,
+          "duration_s": 0.86,
+          "text": "format but with a",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "format",
+              "clip_start": 1.62,
+              "clip_end": 2.06,
+              "global_start": 218.954,
+              "global_end": 219.394,
+              "score": 0.825
+            },
+            {
+              "word": "but",
+              "clip_start": 2.1,
+              "clip_end": 2.26,
+              "global_start": 219.434,
+              "global_end": 219.594,
+              "score": 0.453
+            },
+            {
+              "word": "with",
+              "clip_start": 2.28,
+              "clip_end": 2.42,
+              "global_start": 219.614,
+              "global_end": 219.754,
+              "score": 0.769
+            },
+            {
+              "word": "a",
+              "clip_start": 2.46,
+              "clip_end": 2.48,
+              "global_start": 219.794,
+              "global_end": 219.814,
+              "score": 0.986
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_004",
+          "range_index": 0,
+          "start_time": 2.54,
+          "end_time": 4.661,
+          "duration_s": 2.121,
+          "text": "new topic meaning fantastic",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "new",
+              "clip_start": 2.54,
+              "clip_end": 2.681,
+              "global_start": 219.874,
+              "global_end": 220.015,
+              "score": 0.975
+            },
+            {
+              "word": "topic",
+              "clip_start": 2.721,
+              "clip_end": 3.141,
+              "global_start": 220.055,
+              "global_end": 220.475,
+              "score": 0.935
+            },
+            {
+              "word": "meaning",
+              "clip_start": 3.461,
+              "clip_end": 3.821,
+              "global_start": 220.795,
+              "global_end": 221.155,
+              "score": 0.835
+            },
+            {
+              "word": "fantastic",
+              "clip_start": 3.841,
+              "clip_end": 4.661,
+              "global_start": 221.175,
+              "global_end": 221.995,
+              "score": 0.872
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_005",
+          "range_index": 0,
+          "start_time": 4.701,
+          "end_time": 5.782,
+          "duration_s": 1.081,
+          "text": "results. And they are",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "results.",
+              "clip_start": 4.701,
+              "clip_end": 5.081,
+              "global_start": 222.035,
+              "global_end": 222.415,
+              "score": 0.948
+            },
+            {
+              "word": "And",
+              "clip_start": 5.301,
+              "clip_end": 5.421,
+              "global_start": 222.635,
+              "global_end": 222.755,
+              "score": 0.853
+            },
+            {
+              "word": "they",
+              "clip_start": 5.461,
+              "clip_end": 5.621,
+              "global_start": 222.795,
+              "global_end": 222.955,
+              "score": 0.98
+            },
+            {
+              "word": "are",
+              "clip_start": 5.682,
+              "clip_end": 5.782,
+              "global_start": 223.016,
+              "global_end": 223.116,
+              "score": 0.805
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_006",
+          "range_index": 0,
+          "start_time": 5.802,
+          "end_time": 7.042,
+          "duration_s": 1.24,
+          "text": "growing fast.",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "growing",
+              "clip_start": 5.802,
+              "clip_end": 6.062,
+              "global_start": 223.136,
+              "global_end": 223.396,
+              "score": 0.783
+            },
+            {
+              "word": "fast.",
+              "clip_start": 6.102,
+              "clip_end": 7.042,
+              "global_start": 223.436,
+              "global_end": 224.376,
+              "score": 0.719
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_007",
+          "range_index": 1,
+          "start_time": 7.042,
+          "end_time": 9.043,
+          "duration_s": 2.001,
+          "text": "subscribers but far more",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "subscribers",
+              "clip_start": 7.042,
+              "clip_end": 7.662,
+              "global_start": 224.836,
+              "global_end": 225.456,
+              "score": 0.865
+            },
+            {
+              "word": "but",
+              "clip_start": 8.062,
+              "clip_end": 8.243,
+              "global_start": 225.856,
+              "global_end": 226.037,
+              "score": 0.904
+            },
+            {
+              "word": "far",
+              "clip_start": 8.623,
+              "clip_end": 8.843,
+              "global_start": 226.417,
+              "global_end": 226.637,
+              "score": 0.839
+            },
+            {
+              "word": "more",
+              "clip_start": 8.903,
+              "clip_end": 9.043,
+              "global_start": 226.697,
+              "global_end": 226.837,
+              "score": 0.75
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_008",
+          "range_index": 1,
+          "start_time": 9.083,
+          "end_time": 9.643,
+          "duration_s": 0.56,
+          "text": "importantly",
+          "word_count": 1,
+          "words": [
+            {
+              "word": "importantly",
+              "clip_start": 9.083,
+              "clip_end": 9.643,
+              "global_start": 226.877,
+              "global_end": 227.437,
+              "score": 0.915
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_009",
+          "range_index": 1,
+          "start_time": 10.103,
+          "end_time": 11.424,
+          "duration_s": 1.321,
+          "text": "revenue of $15,000 a",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "revenue",
+              "clip_start": 10.103,
+              "clip_end": 10.623,
+              "global_start": 227.897,
+              "global_end": 228.417,
+              "score": 0.801
+            },
+            {
+              "word": "of",
+              "clip_start": 10.803,
+              "clip_end": 10.863,
+              "global_start": 228.597,
+              "global_end": 228.657,
+              "score": 0.998
+            },
+            {
+              "word": "$15,000",
+              "clip_start": 10.883,
+              "clip_end": 11.324,
+              "global_start": 228.677,
+              "global_end": 229.118,
+              "score": 0.933
+            },
+            {
+              "word": "a",
+              "clip_start": 11.344,
+              "clip_end": 11.424,
+              "global_start": 229.138,
+              "global_end": 229.218,
+              "score": 0.749
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_010",
+          "range_index": 1,
+          "start_time": 11.444,
+          "end_time": 11.624,
+          "duration_s": 0.18,
+          "text": "month.",
+          "word_count": 1,
+          "words": [
+            {
+              "word": "month.",
+              "clip_start": 11.444,
+              "clip_end": 11.624,
+              "global_start": 229.238,
+              "global_end": 229.418,
+              "score": 0.688
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_011",
+          "range_index": 1,
+          "start_time": 12.624,
+          "end_time": 13.425,
+          "duration_s": 0.801,
+          "text": "I should mention by",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "I",
+              "clip_start": 12.624,
+              "clip_end": 12.684,
+              "global_start": 230.418,
+              "global_end": 230.478,
+              "score": 0.586
+            },
+            {
+              "word": "should",
+              "clip_start": 12.704,
+              "clip_end": 12.944,
+              "global_start": 230.498,
+              "global_end": 230.738,
+              "score": 0.775
+            },
+            {
+              "word": "mention",
+              "clip_start": 12.985,
+              "clip_end": 13.285,
+              "global_start": 230.779,
+              "global_end": 231.079,
+              "score": 0.949
+            },
+            {
+              "word": "by",
+              "clip_start": 13.325,
+              "clip_end": 13.425,
+              "global_start": 231.119,
+              "global_end": 231.219,
+              "score": 0.771
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_012",
+          "range_index": 1,
+          "start_time": 13.445,
+          "end_time": 13.886,
+          "duration_s": 0.441,
+          "text": "the way that I'm",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "the",
+              "clip_start": 13.445,
+              "clip_end": 13.505,
+              "global_start": 231.239,
+              "global_end": 231.299,
+              "score": 0.999
+            },
+            {
+              "word": "way",
+              "clip_start": 13.545,
+              "clip_end": 13.625,
+              "global_start": 231.339,
+              "global_end": 231.419,
+              "score": 0.904
+            },
+            {
+              "word": "that",
+              "clip_start": 13.665,
+              "clip_end": 13.766,
+              "global_start": 231.459,
+              "global_end": 231.56,
+              "score": 0.878
+            },
+            {
+              "word": "I'm",
+              "clip_start": 13.786,
+              "clip_end": 13.886,
+              "global_start": 231.58,
+              "global_end": 231.68,
+              "score": 0.862
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_013",
+          "range_index": 1,
+          "start_time": 13.946,
+          "end_time": 14.987,
+          "duration_s": 1.041,
+          "text": "finding all of these",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "finding",
+              "clip_start": 13.946,
+              "clip_end": 14.286,
+              "global_start": 231.74,
+              "global_end": 232.08,
+              "score": 0.861
+            },
+            {
+              "word": "all",
+              "clip_start": 14.547,
+              "clip_end": 14.687,
+              "global_start": 232.341,
+              "global_end": 232.481,
+              "score": 0.884
+            },
+            {
+              "word": "of",
+              "clip_start": 14.707,
+              "clip_end": 14.747,
+              "global_start": 232.501,
+              "global_end": 232.541,
+              "score": 0.804
+            },
+            {
+              "word": "these",
+              "clip_start": 14.807,
+              "clip_end": 14.987,
+              "global_start": 232.601,
+              "global_end": 232.781,
+              "score": 0.889
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_014",
+          "range_index": 2,
+          "start_time": 14.987,
+          "end_time": 16.809,
+          "duration_s": 1.822,
+          "text": "our incredibly powerful vidIQ",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "our",
+              "clip_start": 14.987,
+              "clip_end": 15.107,
+              "global_start": 233.683,
+              "global_end": 233.803,
+              "score": 0.814
+            },
+            {
+              "word": "incredibly",
+              "clip_start": 15.187,
+              "clip_end": 15.848,
+              "global_start": 233.883,
+              "global_end": 234.544,
+              "score": 0.858
+            },
+            {
+              "word": "powerful",
+              "clip_start": 15.888,
+              "clip_end": 16.268,
+              "global_start": 234.584,
+              "global_end": 234.964,
+              "score": 0.913
+            },
+            {
+              "word": "vidIQ",
+              "clip_start": 16.308,
+              "clip_end": 16.809,
+              "global_start": 235.004,
+              "global_end": 235.505,
+              "score": 0.835
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_015",
+          "range_index": 2,
+          "start_time": 16.989,
+          "end_time": 17.791,
+          "duration_s": 0.802,
+          "text": "MCP tool.",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "MCP",
+              "clip_start": 16.989,
+              "clip_end": 17.45,
+              "global_start": 235.685,
+              "global_end": 236.146,
+              "score": 0.84
+            },
+            {
+              "word": "tool.",
+              "clip_start": 17.53,
+              "clip_end": 17.791,
+              "global_start": 236.226,
+              "global_end": 236.487,
+              "score": 0.824
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_016",
+          "range_index": 2,
+          "start_time": 17.811,
+          "end_time": 19.213,
+          "duration_s": 1.402,
+          "text": "Look, we don't gatekeep,",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "Look,",
+              "clip_start": 17.811,
+              "clip_end": 17.991,
+              "global_start": 236.507,
+              "global_end": 236.687,
+              "score": 0.579
+            },
+            {
+              "word": "we",
+              "clip_start": 18.271,
+              "clip_end": 18.431,
+              "global_start": 236.967,
+              "global_end": 237.127,
+              "score": 0.887
+            },
+            {
+              "word": "don't",
+              "clip_start": 18.451,
+              "clip_end": 18.652,
+              "global_start": 237.147,
+              "global_end": 237.348,
+              "score": 0.588
+            },
+            {
+              "word": "gatekeep,",
+              "clip_start": 18.692,
+              "clip_end": 19.213,
+              "global_start": 237.388,
+              "global_end": 237.909,
+              "score": 0.919
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_017",
+          "range_index": 2,
+          "start_time": 19.433,
+          "end_time": 19.613,
+          "duration_s": 0.18,
+          "text": "you've",
+          "word_count": 1,
+          "words": [
+            {
+              "word": "you've",
+              "clip_start": 19.433,
+              "clip_end": 19.613,
+              "global_start": 238.129,
+              "global_end": 238.309,
+              "score": 0.876
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_018",
+          "range_index": 3,
+          "start_time": 19.613,
+          "end_time": 21.176,
+          "duration_s": 1.563,
+          "text": "essential research tool that",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "essential",
+              "clip_start": 19.613,
+              "clip_end": 20.094,
+              "global_start": 239.931,
+              "global_end": 240.412,
+              "score": 0.902
+            },
+            {
+              "word": "research",
+              "clip_start": 20.154,
+              "clip_end": 20.555,
+              "global_start": 240.472,
+              "global_end": 240.873,
+              "score": 0.794
+            },
+            {
+              "word": "tool",
+              "clip_start": 20.615,
+              "clip_end": 20.895,
+              "global_start": 240.933,
+              "global_end": 241.213,
+              "score": 0.724
+            },
+            {
+              "word": "that",
+              "clip_start": 21.035,
+              "clip_end": 21.176,
+              "global_start": 241.353,
+              "global_end": 241.494,
+              "score": 0.925
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_019",
+          "range_index": 3,
+          "start_time": 21.256,
+          "end_time": 22.437,
+          "duration_s": 1.181,
+          "text": "brings a database of",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "brings",
+              "clip_start": 21.256,
+              "clip_end": 21.496,
+              "global_start": 241.574,
+              "global_end": 241.814,
+              "score": 0.879
+            },
+            {
+              "word": "a",
+              "clip_start": 21.536,
+              "clip_end": 21.636,
+              "global_start": 241.854,
+              "global_end": 241.954,
+              "score": 0.797
+            },
+            {
+              "word": "database",
+              "clip_start": 21.676,
+              "clip_end": 22.257,
+              "global_start": 241.994,
+              "global_end": 242.575,
+              "score": 0.828
+            },
+            {
+              "word": "of",
+              "clip_start": 22.357,
+              "clip_end": 22.437,
+              "global_start": 242.675,
+              "global_end": 242.755,
+              "score": 0.936
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_020",
+          "range_index": 3,
+          "start_time": 22.718,
+          "end_time": 24.06,
+          "duration_s": 1.342,
+          "text": "millions of channels and",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "millions",
+              "clip_start": 22.718,
+              "clip_end": 23.098,
+              "global_start": 243.036,
+              "global_end": 243.416,
+              "score": 0.791
+            },
+            {
+              "word": "of",
+              "clip_start": 23.138,
+              "clip_end": 23.198,
+              "global_start": 243.456,
+              "global_end": 243.516,
+              "score": 0.748
+            },
+            {
+              "word": "channels",
+              "clip_start": 23.238,
+              "clip_end": 23.659,
+              "global_start": 243.556,
+              "global_end": 243.977,
+              "score": 0.733
+            },
+            {
+              "word": "and",
+              "clip_start": 23.919,
+              "clip_end": 24.06,
+              "global_start": 244.237,
+              "global_end": 244.378,
+              "score": 0.698
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_021",
+          "range_index": 3,
+          "start_time": 24.12,
+          "end_time": 24.62,
+          "duration_s": 0.5,
+          "text": "videos",
+          "word_count": 1,
+          "words": [
+            {
+              "word": "videos",
+              "clip_start": 24.12,
+              "clip_end": 24.62,
+              "global_start": 244.438,
+              "global_end": 244.938,
+              "score": 0.849
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "section_id": "section_005",
+  "candidate_id": 5,
+  "video_id": "7RVf25Rg0Mc",
+  "file_name": "section_005.mp4",
+  "file_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/sections/section_005.mp4",
+  "start_offset": 621.8,
+  "end_offset": 648.0,
+  "target_duration_s": 26.2,
+  "probed_duration_s": 26.222,
+  "original_candidate_ranges": [
+    {
+      "start": 629.8,
+      "end": 640.0
+    },
+    {
+      "start": 668.8,
+      "end": 678.68
+    }
+  ],
+  "padded_range": {
+    "start": 621.8,
+    "end": 648.0
+  },
+  "streams": [
+    {
+      "index": 0,
+      "codec_name": "av1",
+      "codec_type": "video",
+      "duration": "26.214000"
+    },
+    {
+      "index": 1,
+      "codec_name": "aac",
+      "codec_type": "audio",
+      "duration": "26.221995"
+    }
+  ],
+  "combined_text": "It's not a mystery. Four links on flu powder have been broken for 15 months. Flu powder is my MicroTik switch we're talking about. Anything that disturbs the building knocks them over. [...] It comes down to the transceivers. I have these SFPs. They are these third-party SFPs I bought off Amazon fairly cheap. I bought them in different batches over time as I've added more employees. And apparently the ports are all in one of the batches.",
+  "reason": "This is a satisfying 'tech mystery' resolution that provides real-world value for IT professionals."
+}

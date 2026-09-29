@@ -1,0 +1,1539 @@
+{
+  "section_id": "section_001",
+  "candidate_id": 1,
+  "video_id": "7RVf25Rg0Mc",
+  "file_name": "section_001.mp4",
+  "file_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/sections/section_001.mp4",
+  "start_offset": 26.68,
+  "end_offset": 66.52,
+  "target_duration_s": 39.84,
+  "probed_duration_s": 39.853,
+  "original_candidate_ranges": [
+    {
+      "start": 34.68,
+      "end": 46.56
+    },
+    {
+      "start": 53.92,
+      "end": 58.52
+    }
+  ],
+  "padded_range": {
+    "start": 26.68,
+    "end": 66.52
+  },
+  "combined_text": "In Paperclip, your agents become employees. You give them managers, you assign them tasks. They can talk to each other, but it's not what you think. It's through the task, intentional and focused. [...] And it doesn't matter what harness you have. Everyone can be brought into this company.",
+  "reason": "This clip quickly explains the core value proposition of Paperclip as a meta-harness for AI agents, making it perfect for a tech-focused short.",
+  "alignment": {
+    "whisper_model": "base",
+    "language": "en",
+    "device": "cpu",
+    "compute_type": "float32",
+    "total_words": 149,
+    "timestamp_note": "local_start/local_end are relative to the section MP4 file (0-based seconds). global_start/global_end are authoritative original-video timestamps = local_timestamp + start_offset."
+  },
+  "words": [
+    {
+      "word": "This",
+      "local_start": 0.111,
+      "local_end": 1.151,
+      "global_start": 26.791,
+      "global_end": 27.831,
+      "score": 0.714,
+      "segment_index": 0,
+      "segment_text": "This is also the first time he has shown his face in public."
+    },
+    {
+      "word": "is",
+      "local_start": 1.191,
+      "local_end": 1.252,
+      "global_start": 27.871,
+      "global_end": 27.932,
+      "score": 0.748,
+      "segment_index": 0,
+      "segment_text": "This is also the first time he has shown his face in public."
+    },
+    {
+      "word": "also",
+      "local_start": 1.272,
+      "local_end": 1.472,
+      "global_start": 27.952,
+      "global_end": 28.152,
+      "score": 0.909,
+      "segment_index": 0,
+      "segment_text": "This is also the first time he has shown his face in public."
+    },
+    {
+      "word": "the",
+      "local_start": 1.492,
+      "local_end": 1.572,
+      "global_start": 28.172,
+      "global_end": 28.252,
+      "score": 0.833,
+      "segment_index": 0,
+      "segment_text": "This is also the first time he has shown his face in public."
+    },
+    {
+      "word": "first",
+      "local_start": 1.592,
+      "local_end": 1.752,
+      "global_start": 28.272,
+      "global_end": 28.432,
+      "score": 0.629,
+      "segment_index": 0,
+      "segment_text": "This is also the first time he has shown his face in public."
+    },
+    {
+      "word": "time",
+      "local_start": 1.772,
+      "local_end": 1.932,
+      "global_start": 28.452,
+      "global_end": 28.612,
+      "score": 0.856,
+      "segment_index": 0,
+      "segment_text": "This is also the first time he has shown his face in public."
+    },
+    {
+      "word": "he",
+      "local_start": 1.972,
+      "local_end": 2.032,
+      "global_start": 28.652,
+      "global_end": 28.712,
+      "score": 0.736,
+      "segment_index": 0,
+      "segment_text": "This is also the first time he has shown his face in public."
+    },
+    {
+      "word": "has",
+      "local_start": 2.072,
+      "local_end": 2.172,
+      "global_start": 28.752,
+      "global_end": 28.852,
+      "score": 0.697,
+      "segment_index": 0,
+      "segment_text": "This is also the first time he has shown his face in public."
+    },
+    {
+      "word": "shown",
+      "local_start": 2.212,
+      "local_end": 2.392,
+      "global_start": 28.892,
+      "global_end": 29.072,
+      "score": 0.949,
+      "segment_index": 0,
+      "segment_text": "This is also the first time he has shown his face in public."
+    },
+    {
+      "word": "his",
+      "local_start": 2.432,
+      "local_end": 2.512,
+      "global_start": 29.112,
+      "global_end": 29.192,
+      "score": 0.833,
+      "segment_index": 0,
+      "segment_text": "This is also the first time he has shown his face in public."
+    },
+    {
+      "word": "face",
+      "local_start": 2.552,
+      "local_end": 2.772,
+      "global_start": 29.232,
+      "global_end": 29.452,
+      "score": 0.877,
+      "segment_index": 0,
+      "segment_text": "This is also the first time he has shown his face in public."
+    },
+    {
+      "word": "in",
+      "local_start": 2.812,
+      "local_end": 2.892,
+      "global_start": 29.492,
+      "global_end": 29.572,
+      "score": 0.668,
+      "segment_index": 0,
+      "segment_text": "This is also the first time he has shown his face in public."
+    },
+    {
+      "word": "public.",
+      "local_start": 2.932,
+      "local_end": 3.252,
+      "global_start": 29.612,
+      "global_end": 29.932,
+      "score": 0.961,
+      "segment_index": 0,
+      "segment_text": "This is also the first time he has shown his face in public."
+    },
+    {
+      "word": "Our",
+      "local_start": 3.553,
+      "local_end": 3.633,
+      "global_start": 30.233,
+      "global_end": 30.313,
+      "score": 0.942,
+      "segment_index": 1,
+      "segment_text": "Our first interview looked like this, but he's pulling a dream so he can put a personality behind this project."
+    },
+    {
+      "word": "first",
+      "local_start": 3.653,
+      "local_end": 3.833,
+      "global_start": 30.333,
+      "global_end": 30.513,
+      "score": 0.604,
+      "segment_index": 1,
+      "segment_text": "Our first interview looked like this, but he's pulling a dream so he can put a personality behind this project."
+    },
+    {
+      "word": "interview",
+      "local_start": 3.873,
+      "local_end": 4.133,
+      "global_start": 30.553,
+      "global_end": 30.813,
+      "score": 0.91,
+      "segment_index": 1,
+      "segment_text": "Our first interview looked like this, but he's pulling a dream so he can put a personality behind this project."
+    },
+    {
+      "word": "looked",
+      "local_start": 4.153,
+      "local_end": 4.313,
+      "global_start": 30.833,
+      "global_end": 30.993,
+      "score": 0.684,
+      "segment_index": 1,
+      "segment_text": "Our first interview looked like this, but he's pulling a dream so he can put a personality behind this project."
+    },
+    {
+      "word": "like",
+      "local_start": 4.333,
+      "local_end": 4.453,
+      "global_start": 31.013,
+      "global_end": 31.133,
+      "score": 0.868,
+      "segment_index": 1,
+      "segment_text": "Our first interview looked like this, but he's pulling a dream so he can put a personality behind this project."
+    },
+    {
+      "word": "this,",
+      "local_start": 4.493,
+      "local_end": 4.733,
+      "global_start": 31.173,
+      "global_end": 31.413,
+      "score": 0.883,
+      "segment_index": 1,
+      "segment_text": "Our first interview looked like this, but he's pulling a dream so he can put a personality behind this project."
+    },
+    {
+      "word": "but",
+      "local_start": 4.973,
+      "local_end": 5.033,
+      "global_start": 31.653,
+      "global_end": 31.713,
+      "score": 0.936,
+      "segment_index": 1,
+      "segment_text": "Our first interview looked like this, but he's pulling a dream so he can put a personality behind this project."
+    },
+    {
+      "word": "he's",
+      "local_start": 5.053,
+      "local_end": 5.173,
+      "global_start": 31.733,
+      "global_end": 31.853,
+      "score": 0.706,
+      "segment_index": 1,
+      "segment_text": "Our first interview looked like this, but he's pulling a dream so he can put a personality behind this project."
+    },
+    {
+      "word": "pulling",
+      "local_start": 5.193,
+      "local_end": 5.433,
+      "global_start": 31.873,
+      "global_end": 32.113,
+      "score": 0.86,
+      "segment_index": 1,
+      "segment_text": "Our first interview looked like this, but he's pulling a dream so he can put a personality behind this project."
+    },
+    {
+      "word": "a",
+      "local_start": 5.473,
+      "local_end": 5.493,
+      "global_start": 32.153,
+      "global_end": 32.173,
+      "score": 0.989,
+      "segment_index": 1,
+      "segment_text": "Our first interview looked like this, but he's pulling a dream so he can put a personality behind this project."
+    },
+    {
+      "word": "dream",
+      "local_start": 5.533,
+      "local_end": 5.833,
+      "global_start": 32.213,
+      "global_end": 32.513,
+      "score": 0.839,
+      "segment_index": 1,
+      "segment_text": "Our first interview looked like this, but he's pulling a dream so he can put a personality behind this project."
+    },
+    {
+      "word": "so",
+      "local_start": 5.873,
+      "local_end": 5.954,
+      "global_start": 32.553,
+      "global_end": 32.634,
+      "score": 0.748,
+      "segment_index": 1,
+      "segment_text": "Our first interview looked like this, but he's pulling a dream so he can put a personality behind this project."
+    },
+    {
+      "word": "he",
+      "local_start": 5.974,
+      "local_end": 6.014,
+      "global_start": 32.654,
+      "global_end": 32.694,
+      "score": 0.452,
+      "segment_index": 1,
+      "segment_text": "Our first interview looked like this, but he's pulling a dream so he can put a personality behind this project."
+    },
+    {
+      "word": "can",
+      "local_start": 6.054,
+      "local_end": 6.154,
+      "global_start": 32.734,
+      "global_end": 32.834,
+      "score": 0.682,
+      "segment_index": 1,
+      "segment_text": "Our first interview looked like this, but he's pulling a dream so he can put a personality behind this project."
+    },
+    {
+      "word": "put",
+      "local_start": 6.174,
+      "local_end": 6.274,
+      "global_start": 32.854,
+      "global_end": 32.954,
+      "score": 0.741,
+      "segment_index": 1,
+      "segment_text": "Our first interview looked like this, but he's pulling a dream so he can put a personality behind this project."
+    },
+    {
+      "word": "a",
+      "local_start": 6.294,
+      "local_end": 6.354,
+      "global_start": 32.974,
+      "global_end": 33.034,
+      "score": 0.326,
+      "segment_index": 1,
+      "segment_text": "Our first interview looked like this, but he's pulling a dream so he can put a personality behind this project."
+    },
+    {
+      "word": "personality",
+      "local_start": 6.414,
+      "local_end": 6.954,
+      "global_start": 33.094,
+      "global_end": 33.634,
+      "score": 0.809,
+      "segment_index": 1,
+      "segment_text": "Our first interview looked like this, but he's pulling a dream so he can put a personality behind this project."
+    },
+    {
+      "word": "behind",
+      "local_start": 6.994,
+      "local_end": 7.254,
+      "global_start": 33.674,
+      "global_end": 33.934,
+      "score": 0.969,
+      "segment_index": 1,
+      "segment_text": "Our first interview looked like this, but he's pulling a dream so he can put a personality behind this project."
+    },
+    {
+      "word": "this",
+      "local_start": 7.274,
+      "local_end": 7.394,
+      "global_start": 33.954,
+      "global_end": 34.074,
+      "score": 0.638,
+      "segment_index": 1,
+      "segment_text": "Our first interview looked like this, but he's pulling a dream so he can put a personality behind this project."
+    },
+    {
+      "word": "project.",
+      "local_start": 7.434,
+      "local_end": 7.854,
+      "global_start": 34.114,
+      "global_end": 34.534,
+      "score": 0.827,
+      "segment_index": 1,
+      "segment_text": "Our first interview looked like this, but he's pulling a dream so he can put a personality behind this project."
+    },
+    {
+      "word": "In",
+      "local_start": 8.174,
+      "local_end": 8.255,
+      "global_start": 34.854,
+      "global_end": 34.935,
+      "score": 0.752,
+      "segment_index": 2,
+      "segment_text": "In Paperclip, your agents become employees."
+    },
+    {
+      "word": "Paperclip,",
+      "local_start": 8.275,
+      "local_end": 8.795,
+      "global_start": 34.955,
+      "global_end": 35.475,
+      "score": 0.9,
+      "segment_index": 2,
+      "segment_text": "In Paperclip, your agents become employees."
+    },
+    {
+      "word": "your",
+      "local_start": 8.815,
+      "local_end": 8.955,
+      "global_start": 35.495,
+      "global_end": 35.635,
+      "score": 0.9,
+      "segment_index": 2,
+      "segment_text": "In Paperclip, your agents become employees."
+    },
+    {
+      "word": "agents",
+      "local_start": 9.115,
+      "local_end": 9.415,
+      "global_start": 35.795,
+      "global_end": 36.095,
+      "score": 0.851,
+      "segment_index": 2,
+      "segment_text": "In Paperclip, your agents become employees."
+    },
+    {
+      "word": "become",
+      "local_start": 9.475,
+      "local_end": 9.835,
+      "global_start": 36.155,
+      "global_end": 36.515,
+      "score": 0.932,
+      "segment_index": 2,
+      "segment_text": "In Paperclip, your agents become employees."
+    },
+    {
+      "word": "employees.",
+      "local_start": 9.915,
+      "local_end": 10.495,
+      "global_start": 36.595,
+      "global_end": 37.175,
+      "score": 0.56,
+      "segment_index": 2,
+      "segment_text": "In Paperclip, your agents become employees."
+    },
+    {
+      "word": "You",
+      "local_start": 10.836,
+      "local_end": 10.956,
+      "global_start": 37.516,
+      "global_end": 37.636,
+      "score": 0.94,
+      "segment_index": 3,
+      "segment_text": "You give them managers, you assign them tasks."
+    },
+    {
+      "word": "give",
+      "local_start": 10.976,
+      "local_end": 11.116,
+      "global_start": 37.656,
+      "global_end": 37.796,
+      "score": 0.858,
+      "segment_index": 3,
+      "segment_text": "You give them managers, you assign them tasks."
+    },
+    {
+      "word": "them",
+      "local_start": 11.156,
+      "local_end": 11.256,
+      "global_start": 37.836,
+      "global_end": 37.936,
+      "score": 0.894,
+      "segment_index": 3,
+      "segment_text": "You give them managers, you assign them tasks."
+    },
+    {
+      "word": "managers,",
+      "local_start": 11.316,
+      "local_end": 11.736,
+      "global_start": 37.996,
+      "global_end": 38.416,
+      "score": 0.888,
+      "segment_index": 3,
+      "segment_text": "You give them managers, you assign them tasks."
+    },
+    {
+      "word": "you",
+      "local_start": 11.756,
+      "local_end": 11.876,
+      "global_start": 38.436,
+      "global_end": 38.556,
+      "score": 0.877,
+      "segment_index": 3,
+      "segment_text": "You give them managers, you assign them tasks."
+    },
+    {
+      "word": "assign",
+      "local_start": 11.916,
+      "local_end": 12.236,
+      "global_start": 38.596,
+      "global_end": 38.916,
+      "score": 0.899,
+      "segment_index": 3,
+      "segment_text": "You give them managers, you assign them tasks."
+    },
+    {
+      "word": "them",
+      "local_start": 12.256,
+      "local_end": 12.376,
+      "global_start": 38.936,
+      "global_end": 39.056,
+      "score": 0.9,
+      "segment_index": 3,
+      "segment_text": "You give them managers, you assign them tasks."
+    },
+    {
+      "word": "tasks.",
+      "local_start": 12.416,
+      "local_end": 12.836,
+      "global_start": 39.096,
+      "global_end": 39.516,
+      "score": 0.9,
+      "segment_index": 3,
+      "segment_text": "You give them managers, you assign them tasks."
+    },
+    {
+      "word": "They",
+      "local_start": 13.137,
+      "local_end": 13.277,
+      "global_start": 39.817,
+      "global_end": 39.957,
+      "score": 0.897,
+      "segment_index": 4,
+      "segment_text": "They can talk to each other, but it's not what you think."
+    },
+    {
+      "word": "can",
+      "local_start": 13.337,
+      "local_end": 13.617,
+      "global_start": 40.017,
+      "global_end": 40.297,
+      "score": 0.861,
+      "segment_index": 4,
+      "segment_text": "They can talk to each other, but it's not what you think."
+    },
+    {
+      "word": "talk",
+      "local_start": 13.657,
+      "local_end": 13.857,
+      "global_start": 40.337,
+      "global_end": 40.537,
+      "score": 0.973,
+      "segment_index": 4,
+      "segment_text": "They can talk to each other, but it's not what you think."
+    },
+    {
+      "word": "to",
+      "local_start": 13.897,
+      "local_end": 13.977,
+      "global_start": 40.577,
+      "global_end": 40.657,
+      "score": 0.724,
+      "segment_index": 4,
+      "segment_text": "They can talk to each other, but it's not what you think."
+    },
+    {
+      "word": "each",
+      "local_start": 13.997,
+      "local_end": 14.117,
+      "global_start": 40.677,
+      "global_end": 40.797,
+      "score": 0.754,
+      "segment_index": 4,
+      "segment_text": "They can talk to each other, but it's not what you think."
+    },
+    {
+      "word": "other,",
+      "local_start": 14.157,
+      "local_end": 14.317,
+      "global_start": 40.837,
+      "global_end": 40.997,
+      "score": 0.901,
+      "segment_index": 4,
+      "segment_text": "They can talk to each other, but it's not what you think."
+    },
+    {
+      "word": "but",
+      "local_start": 14.337,
+      "local_end": 14.417,
+      "global_start": 41.017,
+      "global_end": 41.097,
+      "score": 0.83,
+      "segment_index": 4,
+      "segment_text": "They can talk to each other, but it's not what you think."
+    },
+    {
+      "word": "it's",
+      "local_start": 14.457,
+      "local_end": 14.537,
+      "global_start": 41.137,
+      "global_end": 41.217,
+      "score": 0.996,
+      "segment_index": 4,
+      "segment_text": "They can talk to each other, but it's not what you think."
+    },
+    {
+      "word": "not",
+      "local_start": 14.557,
+      "local_end": 14.657,
+      "global_start": 41.237,
+      "global_end": 41.337,
+      "score": 0.914,
+      "segment_index": 4,
+      "segment_text": "They can talk to each other, but it's not what you think."
+    },
+    {
+      "word": "what",
+      "local_start": 14.697,
+      "local_end": 14.797,
+      "global_start": 41.377,
+      "global_end": 41.477,
+      "score": 0.888,
+      "segment_index": 4,
+      "segment_text": "They can talk to each other, but it's not what you think."
+    },
+    {
+      "word": "you",
+      "local_start": 14.837,
+      "local_end": 14.937,
+      "global_start": 41.517,
+      "global_end": 41.617,
+      "score": 0.999,
+      "segment_index": 4,
+      "segment_text": "They can talk to each other, but it's not what you think."
+    },
+    {
+      "word": "think.",
+      "local_start": 14.977,
+      "local_end": 15.257,
+      "global_start": 41.657,
+      "global_end": 41.937,
+      "score": 0.874,
+      "segment_index": 4,
+      "segment_text": "They can talk to each other, but it's not what you think."
+    },
+    {
+      "word": "It's",
+      "local_start": 15.678,
+      "local_end": 15.818,
+      "global_start": 42.358,
+      "global_end": 42.498,
+      "score": 0.841,
+      "segment_index": 5,
+      "segment_text": "It's through the task, intentional, and focused."
+    },
+    {
+      "word": "through",
+      "local_start": 15.958,
+      "local_end": 16.338,
+      "global_start": 42.638,
+      "global_end": 43.018,
+      "score": 0.434,
+      "segment_index": 5,
+      "segment_text": "It's through the task, intentional, and focused."
+    },
+    {
+      "word": "the",
+      "local_start": 16.498,
+      "local_end": 16.598,
+      "global_start": 43.178,
+      "global_end": 43.278,
+      "score": 0.958,
+      "segment_index": 5,
+      "segment_text": "It's through the task, intentional, and focused."
+    },
+    {
+      "word": "task,",
+      "local_start": 16.658,
+      "local_end": 17.098,
+      "global_start": 43.338,
+      "global_end": 43.778,
+      "score": 0.717,
+      "segment_index": 5,
+      "segment_text": "It's through the task, intentional, and focused."
+    },
+    {
+      "word": "intentional,",
+      "local_start": 17.298,
+      "local_end": 17.899,
+      "global_start": 43.978,
+      "global_end": 44.579,
+      "score": 0.836,
+      "segment_index": 5,
+      "segment_text": "It's through the task, intentional, and focused."
+    },
+    {
+      "word": "and",
+      "local_start": 17.999,
+      "local_end": 18.079,
+      "global_start": 44.679,
+      "global_end": 44.759,
+      "score": 0.883,
+      "segment_index": 5,
+      "segment_text": "It's through the task, intentional, and focused."
+    },
+    {
+      "word": "focused.",
+      "local_start": 18.199,
+      "local_end": 18.679,
+      "global_start": 44.879,
+      "global_end": 45.359,
+      "score": 0.687,
+      "segment_index": 5,
+      "segment_text": "It's through the task, intentional, and focused."
+    },
+    {
+      "word": "I",
+      "local_start": 18.879,
+      "local_end": 18.919,
+      "global_start": 45.559,
+      "global_end": 45.599,
+      "score": 0.58,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "haven't",
+      "local_start": 18.939,
+      "local_end": 19.16,
+      "global_start": 45.619,
+      "global_end": 45.84,
+      "score": 0.768,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "seen",
+      "local_start": 19.18,
+      "local_end": 19.32,
+      "global_start": 45.86,
+      "global_end": 46.0,
+      "score": 0.898,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "a",
+      "local_start": 19.36,
+      "local_end": 19.4,
+      "global_start": 46.04,
+      "global_end": 46.08,
+      "score": 0.491,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "lot",
+      "local_start": 19.44,
+      "local_end": 19.6,
+      "global_start": 46.12,
+      "global_end": 46.28,
+      "score": 0.796,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "of",
+      "local_start": 19.62,
+      "local_end": 19.66,
+      "global_start": 46.3,
+      "global_end": 46.34,
+      "score": 0.994,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "super",
+      "local_start": 19.741,
+      "local_end": 19.981,
+      "global_start": 46.421,
+      "global_end": 46.661,
+      "score": 0.862,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "value",
+      "local_start": 20.021,
+      "local_end": 20.362,
+      "global_start": 46.701,
+      "global_end": 47.042,
+      "score": 0.876,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "out",
+      "local_start": 20.502,
+      "local_end": 20.582,
+      "global_start": 47.182,
+      "global_end": 47.262,
+      "score": 0.621,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "of",
+      "local_start": 20.622,
+      "local_end": 20.702,
+      "global_start": 47.302,
+      "global_end": 47.382,
+      "score": 0.771,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "like",
+      "local_start": 20.762,
+      "local_end": 20.922,
+      "global_start": 47.442,
+      "global_end": 47.602,
+      "score": 0.326,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "an",
+      "local_start": 20.942,
+      "local_end": 21.563,
+      "global_start": 47.622,
+      "global_end": 48.243,
+      "score": 0.934,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "agent",
+      "local_start": 21.584,
+      "local_end": 21.904,
+      "global_start": 48.264,
+      "global_end": 48.584,
+      "score": 0.868,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "conference",
+      "local_start": 22.205,
+      "local_end": 22.725,
+      "global_start": 48.885,
+      "global_end": 49.405,
+      "score": 0.925,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "room",
+      "local_start": 22.846,
+      "local_end": 23.086,
+      "global_start": 49.526,
+      "global_end": 49.766,
+      "score": 0.7,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "or",
+      "local_start": 23.166,
+      "local_end": 23.266,
+      "global_start": 49.846,
+      "global_end": 49.946,
+      "score": 0.552,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "an",
+      "local_start": 23.286,
+      "local_end": 23.326,
+      "global_start": 49.966,
+      "global_end": 50.006,
+      "score": 0.568,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "agent",
+      "local_start": 23.467,
+      "local_end": 23.747,
+      "global_start": 50.147,
+      "global_end": 50.427,
+      "score": 0.915,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "town",
+      "local_start": 23.907,
+      "local_end": 24.328,
+      "global_start": 50.587,
+      "global_end": 51.008,
+      "score": 0.93,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "where",
+      "local_start": 24.388,
+      "local_end": 24.608,
+      "global_start": 51.068,
+      "global_end": 51.288,
+      "score": 0.387,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "you",
+      "local_start": 24.628,
+      "local_end": 24.709,
+      "global_start": 51.308,
+      "global_end": 51.389,
+      "score": 0.168,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "just",
+      "local_start": 24.729,
+      "local_end": 24.829,
+      "global_start": 51.409,
+      "global_end": 51.509,
+      "score": 0.476,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "set",
+      "local_start": 25.229,
+      "local_end": 25.39,
+      "global_start": 51.909,
+      "global_end": 52.07,
+      "score": 0.746,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "your",
+      "local_start": 25.41,
+      "local_end": 25.55,
+      "global_start": 52.09,
+      "global_end": 52.23,
+      "score": 0.843,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "agents",
+      "local_start": 25.65,
+      "local_end": 25.91,
+      "global_start": 52.33,
+      "global_end": 52.59,
+      "score": 0.82,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "to",
+      "local_start": 25.951,
+      "local_end": 26.011,
+      "global_start": 52.631,
+      "global_end": 52.691,
+      "score": 0.75,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "sit",
+      "local_start": 26.051,
+      "local_end": 26.171,
+      "global_start": 52.731,
+      "global_end": 52.851,
+      "score": 0.84,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "there",
+      "local_start": 26.191,
+      "local_end": 26.331,
+      "global_start": 52.871,
+      "global_end": 53.011,
+      "score": 0.807,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "and",
+      "local_start": 26.351,
+      "local_end": 26.431,
+      "global_start": 53.031,
+      "global_end": 53.111,
+      "score": 0.833,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "talk",
+      "local_start": 26.471,
+      "local_end": 26.712,
+      "global_start": 53.151,
+      "global_end": 53.392,
+      "score": 0.922,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "to",
+      "local_start": 26.752,
+      "local_end": 26.832,
+      "global_start": 53.432,
+      "global_end": 53.512,
+      "score": 0.834,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "each",
+      "local_start": 26.872,
+      "local_end": 26.992,
+      "global_start": 53.552,
+      "global_end": 53.672,
+      "score": 0.78,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "other.",
+      "local_start": 27.052,
+      "local_end": 27.233,
+      "global_start": 53.732,
+      "global_end": 53.913,
+      "score": 0.834,
+      "segment_index": 6,
+      "segment_text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other."
+    },
+    {
+      "word": "And",
+      "local_start": 27.313,
+      "local_end": 27.393,
+      "global_start": 53.993,
+      "global_end": 54.073,
+      "score": 0.779,
+      "segment_index": 7,
+      "segment_text": "And it doesn't matter what harness you have, everyone can be brought into this company."
+    },
+    {
+      "word": "it",
+      "local_start": 27.413,
+      "local_end": 27.473,
+      "global_start": 54.093,
+      "global_end": 54.153,
+      "score": 0.644,
+      "segment_index": 7,
+      "segment_text": "And it doesn't matter what harness you have, everyone can be brought into this company."
+    },
+    {
+      "word": "doesn't",
+      "local_start": 27.513,
+      "local_end": 27.693,
+      "global_start": 54.193,
+      "global_end": 54.373,
+      "score": 0.87,
+      "segment_index": 7,
+      "segment_text": "And it doesn't matter what harness you have, everyone can be brought into this company."
+    },
+    {
+      "word": "matter",
+      "local_start": 27.733,
+      "local_end": 27.894,
+      "global_start": 54.413,
+      "global_end": 54.574,
+      "score": 0.917,
+      "segment_index": 7,
+      "segment_text": "And it doesn't matter what harness you have, everyone can be brought into this company."
+    },
+    {
+      "word": "what",
+      "local_start": 27.914,
+      "local_end": 28.034,
+      "global_start": 54.594,
+      "global_end": 54.714,
+      "score": 0.787,
+      "segment_index": 7,
+      "segment_text": "And it doesn't matter what harness you have, everyone can be brought into this company."
+    },
+    {
+      "word": "harness",
+      "local_start": 28.094,
+      "local_end": 28.435,
+      "global_start": 54.774,
+      "global_end": 55.115,
+      "score": 0.785,
+      "segment_index": 7,
+      "segment_text": "And it doesn't matter what harness you have, everyone can be brought into this company."
+    },
+    {
+      "word": "you",
+      "local_start": 28.455,
+      "local_end": 28.595,
+      "global_start": 55.135,
+      "global_end": 55.275,
+      "score": 0.917,
+      "segment_index": 7,
+      "segment_text": "And it doesn't matter what harness you have, everyone can be brought into this company."
+    },
+    {
+      "word": "have,",
+      "local_start": 28.635,
+      "local_end": 28.835,
+      "global_start": 55.315,
+      "global_end": 55.515,
+      "score": 0.885,
+      "segment_index": 7,
+      "segment_text": "And it doesn't matter what harness you have, everyone can be brought into this company."
+    },
+    {
+      "word": "everyone",
+      "local_start": 29.116,
+      "local_end": 29.456,
+      "global_start": 55.796,
+      "global_end": 56.136,
+      "score": 0.942,
+      "segment_index": 7,
+      "segment_text": "And it doesn't matter what harness you have, everyone can be brought into this company."
+    },
+    {
+      "word": "can",
+      "local_start": 29.496,
+      "local_end": 29.596,
+      "global_start": 56.176,
+      "global_end": 56.276,
+      "score": 0.991,
+      "segment_index": 7,
+      "segment_text": "And it doesn't matter what harness you have, everyone can be brought into this company."
+    },
+    {
+      "word": "be",
+      "local_start": 29.616,
+      "local_end": 29.697,
+      "global_start": 56.296,
+      "global_end": 56.377,
+      "score": 0.64,
+      "segment_index": 7,
+      "segment_text": "And it doesn't matter what harness you have, everyone can be brought into this company."
+    },
+    {
+      "word": "brought",
+      "local_start": 29.737,
+      "local_end": 29.957,
+      "global_start": 56.417,
+      "global_end": 56.637,
+      "score": 0.733,
+      "segment_index": 7,
+      "segment_text": "And it doesn't matter what harness you have, everyone can be brought into this company."
+    },
+    {
+      "word": "into",
+      "local_start": 29.997,
+      "local_end": 30.177,
+      "global_start": 56.677,
+      "global_end": 56.857,
+      "score": 0.879,
+      "segment_index": 7,
+      "segment_text": "And it doesn't matter what harness you have, everyone can be brought into this company."
+    },
+    {
+      "word": "this",
+      "local_start": 30.197,
+      "local_end": 30.338,
+      "global_start": 56.877,
+      "global_end": 57.018,
+      "score": 0.718,
+      "segment_index": 7,
+      "segment_text": "And it doesn't matter what harness you have, everyone can be brought into this company."
+    },
+    {
+      "word": "company.",
+      "local_start": 30.378,
+      "local_end": 30.658,
+      "global_start": 57.058,
+      "global_end": 57.338,
+      "score": 0.883,
+      "segment_index": 7,
+      "segment_text": "And it doesn't matter what harness you have, everyone can be brought into this company."
+    },
+    {
+      "word": "Isn't",
+      "local_start": 30.858,
+      "local_end": 30.999,
+      "global_start": 57.538,
+      "global_end": 57.679,
+      "score": 0.852,
+      "segment_index": 8,
+      "segment_text": "Isn't that amazing?"
+    },
+    {
+      "word": "that",
+      "local_start": 31.019,
+      "local_end": 31.119,
+      "global_start": 57.699,
+      "global_end": 57.799,
+      "score": 0.237,
+      "segment_index": 8,
+      "segment_text": "Isn't that amazing?"
+    },
+    {
+      "word": "amazing?",
+      "local_start": 31.179,
+      "local_end": 31.58,
+      "global_start": 57.859,
+      "global_end": 58.26,
+      "score": 0.962,
+      "segment_index": 8,
+      "segment_text": "Isn't that amazing?"
+    },
+    {
+      "word": "And",
+      "local_start": 31.88,
+      "local_end": 31.94,
+      "global_start": 58.56,
+      "global_end": 58.62,
+      "score": 0.993,
+      "segment_index": 9,
+      "segment_text": "And by the way, my agents have a standup with each other every single day and it's awesome."
+    },
+    {
+      "word": "by",
+      "local_start": 31.98,
+      "local_end": 32.08,
+      "global_start": 58.66,
+      "global_end": 58.76,
+      "score": 0.668,
+      "segment_index": 9,
+      "segment_text": "And by the way, my agents have a standup with each other every single day and it's awesome."
+    },
+    {
+      "word": "the",
+      "local_start": 32.1,
+      "local_end": 32.181,
+      "global_start": 58.78,
+      "global_end": 58.861,
+      "score": 0.833,
+      "segment_index": 9,
+      "segment_text": "And by the way, my agents have a standup with each other every single day and it's awesome."
+    },
+    {
+      "word": "way,",
+      "local_start": 32.221,
+      "local_end": 32.381,
+      "global_start": 58.901,
+      "global_end": 59.061,
+      "score": 0.796,
+      "segment_index": 9,
+      "segment_text": "And by the way, my agents have a standup with each other every single day and it's awesome."
+    },
+    {
+      "word": "my",
+      "local_start": 32.561,
+      "local_end": 32.701,
+      "global_start": 59.241,
+      "global_end": 59.381,
+      "score": 0.798,
+      "segment_index": 9,
+      "segment_text": "And by the way, my agents have a standup with each other every single day and it's awesome."
+    },
+    {
+      "word": "agents",
+      "local_start": 32.822,
+      "local_end": 33.082,
+      "global_start": 59.502,
+      "global_end": 59.762,
+      "score": 0.829,
+      "segment_index": 9,
+      "segment_text": "And by the way, my agents have a standup with each other every single day and it's awesome."
+    },
+    {
+      "word": "have",
+      "local_start": 33.102,
+      "local_end": 33.242,
+      "global_start": 59.782,
+      "global_end": 59.922,
+      "score": 0.628,
+      "segment_index": 9,
+      "segment_text": "And by the way, my agents have a standup with each other every single day and it's awesome."
+    },
+    {
+      "word": "a",
+      "local_start": 33.262,
+      "local_end": 33.282,
+      "global_start": 59.942,
+      "global_end": 59.962,
+      "score": 0.972,
+      "segment_index": 9,
+      "segment_text": "And by the way, my agents have a standup with each other every single day and it's awesome."
+    },
+    {
+      "word": "standup",
+      "local_start": 33.363,
+      "local_end": 33.743,
+      "global_start": 60.043,
+      "global_end": 60.423,
+      "score": 0.881,
+      "segment_index": 9,
+      "segment_text": "And by the way, my agents have a standup with each other every single day and it's awesome."
+    },
+    {
+      "word": "with",
+      "local_start": 33.783,
+      "local_end": 33.883,
+      "global_start": 60.463,
+      "global_end": 60.563,
+      "score": 0.876,
+      "segment_index": 9,
+      "segment_text": "And by the way, my agents have a standup with each other every single day and it's awesome."
+    },
+    {
+      "word": "each",
+      "local_start": 33.923,
+      "local_end": 34.044,
+      "global_start": 60.603,
+      "global_end": 60.724,
+      "score": 0.764,
+      "segment_index": 9,
+      "segment_text": "And by the way, my agents have a standup with each other every single day and it's awesome."
+    },
+    {
+      "word": "other",
+      "local_start": 34.084,
+      "local_end": 34.264,
+      "global_start": 60.764,
+      "global_end": 60.944,
+      "score": 0.689,
+      "segment_index": 9,
+      "segment_text": "And by the way, my agents have a standup with each other every single day and it's awesome."
+    },
+    {
+      "word": "every",
+      "local_start": 34.464,
+      "local_end": 34.665,
+      "global_start": 61.144,
+      "global_end": 61.345,
+      "score": 0.74,
+      "segment_index": 9,
+      "segment_text": "And by the way, my agents have a standup with each other every single day and it's awesome."
+    },
+    {
+      "word": "single",
+      "local_start": 34.705,
+      "local_end": 34.965,
+      "global_start": 61.385,
+      "global_end": 61.645,
+      "score": 0.723,
+      "segment_index": 9,
+      "segment_text": "And by the way, my agents have a standup with each other every single day and it's awesome."
+    },
+    {
+      "word": "day",
+      "local_start": 35.005,
+      "local_end": 35.185,
+      "global_start": 61.685,
+      "global_end": 61.865,
+      "score": 0.87,
+      "segment_index": 9,
+      "segment_text": "And by the way, my agents have a standup with each other every single day and it's awesome."
+    },
+    {
+      "word": "and",
+      "local_start": 35.286,
+      "local_end": 35.346,
+      "global_start": 61.966,
+      "global_end": 62.026,
+      "score": 0.423,
+      "segment_index": 9,
+      "segment_text": "And by the way, my agents have a standup with each other every single day and it's awesome."
+    },
+    {
+      "word": "it's",
+      "local_start": 35.386,
+      "local_end": 35.506,
+      "global_start": 62.066,
+      "global_end": 62.186,
+      "score": 0.551,
+      "segment_index": 9,
+      "segment_text": "And by the way, my agents have a standup with each other every single day and it's awesome."
+    },
+    {
+      "word": "awesome.",
+      "local_start": 35.706,
+      "local_end": 35.927,
+      "global_start": 62.386,
+      "global_end": 62.607,
+      "score": 0.29,
+      "segment_index": 9,
+      "segment_text": "And by the way, my agents have a standup with each other every single day and it's awesome."
+    },
+    {
+      "word": "So",
+      "local_start": 36.367,
+      "local_end": 36.528,
+      "global_start": 63.047,
+      "global_end": 63.208,
+      "score": 0.998,
+      "segment_index": 10,
+      "segment_text": "So in this video, we're actually going to solve a weird problem I have."
+    },
+    {
+      "word": "in",
+      "local_start": 36.788,
+      "local_end": 36.848,
+      "global_start": 63.468,
+      "global_end": 63.528,
+      "score": 0.932,
+      "segment_index": 10,
+      "segment_text": "So in this video, we're actually going to solve a weird problem I have."
+    },
+    {
+      "word": "this",
+      "local_start": 36.888,
+      "local_end": 36.988,
+      "global_start": 63.568,
+      "global_end": 63.668,
+      "score": 0.817,
+      "segment_index": 10,
+      "segment_text": "So in this video, we're actually going to solve a weird problem I have."
+    },
+    {
+      "word": "video,",
+      "local_start": 37.028,
+      "local_end": 37.429,
+      "global_start": 63.708,
+      "global_end": 64.109,
+      "score": 0.871,
+      "segment_index": 10,
+      "segment_text": "So in this video, we're actually going to solve a weird problem I have."
+    },
+    {
+      "word": "we're",
+      "local_start": 37.469,
+      "local_end": 37.629,
+      "global_start": 64.149,
+      "global_end": 64.309,
+      "score": 0.882,
+      "segment_index": 10,
+      "segment_text": "So in this video, we're actually going to solve a weird problem I have."
+    },
+    {
+      "word": "actually",
+      "local_start": 37.689,
+      "local_end": 37.93,
+      "global_start": 64.369,
+      "global_end": 64.61,
+      "score": 0.903,
+      "segment_index": 10,
+      "segment_text": "So in this video, we're actually going to solve a weird problem I have."
+    },
+    {
+      "word": "going",
+      "local_start": 37.95,
+      "local_end": 38.11,
+      "global_start": 64.63,
+      "global_end": 64.79,
+      "score": 0.794,
+      "segment_index": 10,
+      "segment_text": "So in this video, we're actually going to solve a weird problem I have."
+    },
+    {
+      "word": "to",
+      "local_start": 38.13,
+      "local_end": 38.17,
+      "global_start": 64.81,
+      "global_end": 64.85,
+      "score": 0.999,
+      "segment_index": 10,
+      "segment_text": "So in this video, we're actually going to solve a weird problem I have."
+    },
+    {
+      "word": "solve",
+      "local_start": 38.21,
+      "local_end": 38.391,
+      "global_start": 64.89,
+      "global_end": 65.071,
+      "score": 0.937,
+      "segment_index": 10,
+      "segment_text": "So in this video, we're actually going to solve a weird problem I have."
+    },
+    {
+      "word": "a",
+      "local_start": 38.451,
+      "local_end": 38.491,
+      "global_start": 65.131,
+      "global_end": 65.171,
+      "score": 0.848,
+      "segment_index": 10,
+      "segment_text": "So in this video, we're actually going to solve a weird problem I have."
+    },
+    {
+      "word": "weird",
+      "local_start": 38.511,
+      "local_end": 38.711,
+      "global_start": 65.191,
+      "global_end": 65.391,
+      "score": 0.463,
+      "segment_index": 10,
+      "segment_text": "So in this video, we're actually going to solve a weird problem I have."
+    },
+    {
+      "word": "problem",
+      "local_start": 38.731,
+      "local_end": 39.032,
+      "global_start": 65.411,
+      "global_end": 65.712,
+      "score": 0.788,
+      "segment_index": 10,
+      "segment_text": "So in this video, we're actually going to solve a weird problem I have."
+    },
+    {
+      "word": "I",
+      "local_start": 39.092,
+      "local_end": 39.152,
+      "global_start": 65.772,
+      "global_end": 65.832,
+      "score": 0.931,
+      "segment_index": 10,
+      "segment_text": "So in this video, we're actually going to solve a weird problem I have."
+    },
+    {
+      "word": "have.",
+      "local_start": 39.192,
+      "local_end": 39.392,
+      "global_start": 65.872,
+      "global_end": 66.072,
+      "score": 0.954,
+      "segment_index": 10,
+      "segment_text": "So in this video, we're actually going to solve a weird problem I have."
+    }
+  ],
+  "raw_segments": [
+    {
+      "start": 0.031,
+      "end": 18.779,
+      "text": "This is also the first time he has shown his face in public. Our first interview looked like this, but he's pulling a dream so he can put a personality behind this project. In Paperclip, your agents become employees. You give them managers, you assign them tasks. They can talk to each other, but it's not what you think. It's through the task, intentional, and focused."
+    },
+    {
+      "start": 18.779,
+      "end": 39.873,
+      "text": "I haven't seen a lot of super value out of like an agent conference room or an agent town where you just set your agents to sit there and talk to each other. And it doesn't matter what harness you have, everyone can be brought into this company. Isn't that amazing? And by the way, my agents have a standup with each other every single day and it's awesome. So in this video, we're actually going to solve a weird problem I have."
+    }
+  ]
+}

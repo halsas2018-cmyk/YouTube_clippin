@@ -1,0 +1,1569 @@
+{
+  "section_id": "section_002",
+  "candidate_id": 2,
+  "video_id": "7RVf25Rg0Mc",
+  "file_name": "section_002.mp4",
+  "file_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/sections/section_002.mp4",
+  "start_offset": 99.08,
+  "end_offset": 134.0,
+  "target_duration_s": 34.92,
+  "probed_duration_s": 34.922,
+  "original_candidate_ranges": [
+    {
+      "start": 107.08,
+      "end": 117.8
+    },
+    {
+      "start": 121.44,
+      "end": 126.0
+    }
+  ],
+  "padded_range": {
+    "start": 99.08,
+    "end": 134.0
+  },
+  "combined_text": "We're harness maxing. No matter what new harness comes out or model, paperclip is a meta harness. We can bring any other harness or model to it. Paperclip can use it. Paperclip is our company, and it's a company that can run the greatest and latest models, and the greatest and latest harnesses, and all the features they come out with. [...] All AI agents. Network and systems engineers, storage, security, a legit company running on Paperclip.",
+  "reason": "This highlights the 'meta-harness' concept, which is the most compelling technical selling point for AI enthusiasts.",
+  "alignment": {
+    "whisper_model": "base",
+    "language": "en",
+    "device": "cpu",
+    "compute_type": "float32",
+    "total_words": 152,
+    "timestamp_note": "local_start/local_end are relative to the section MP4 file (0-based seconds). global_start/global_end are authoritative original-video timestamps = local_timestamp + start_offset."
+  },
+  "words": [
+    {
+      "word": "pretty",
+      "local_start": 0.151,
+      "local_end": 0.371,
+      "global_start": 99.231,
+      "global_end": 99.451,
+      "score": 0.78,
+      "segment_index": 0,
+      "segment_text": "pretty fun to play with."
+    },
+    {
+      "word": "fun",
+      "local_start": 0.411,
+      "local_end": 0.551,
+      "global_start": 99.491,
+      "global_end": 99.631,
+      "score": 0.636,
+      "segment_index": 0,
+      "segment_text": "pretty fun to play with."
+    },
+    {
+      "word": "to",
+      "local_start": 0.571,
+      "local_end": 0.631,
+      "global_start": 99.651,
+      "global_end": 99.711,
+      "score": 0.742,
+      "segment_index": 0,
+      "segment_text": "pretty fun to play with."
+    },
+    {
+      "word": "play",
+      "local_start": 0.671,
+      "local_end": 0.831,
+      "global_start": 99.751,
+      "global_end": 99.911,
+      "score": 0.825,
+      "segment_index": 0,
+      "segment_text": "pretty fun to play with."
+    },
+    {
+      "word": "with.",
+      "local_start": 0.891,
+      "local_end": 1.051,
+      "global_start": 99.971,
+      "global_end": 100.131,
+      "score": 0.88,
+      "segment_index": 0,
+      "segment_text": "pretty fun to play with."
+    },
+    {
+      "word": "With",
+      "local_start": 1.372,
+      "local_end": 1.492,
+      "global_start": 100.452,
+      "global_end": 100.572,
+      "score": 0.849,
+      "segment_index": 1,
+      "segment_text": "With Paperclip, you do need something to run it on."
+    },
+    {
+      "word": "Paperclip,",
+      "local_start": 1.532,
+      "local_end": 1.912,
+      "global_start": 100.612,
+      "global_end": 100.992,
+      "score": 0.724,
+      "segment_index": 1,
+      "segment_text": "With Paperclip, you do need something to run it on."
+    },
+    {
+      "word": "you",
+      "local_start": 1.972,
+      "local_end": 2.092,
+      "global_start": 101.052,
+      "global_end": 101.172,
+      "score": 0.832,
+      "segment_index": 1,
+      "segment_text": "With Paperclip, you do need something to run it on."
+    },
+    {
+      "word": "do",
+      "local_start": 2.132,
+      "local_end": 2.252,
+      "global_start": 101.212,
+      "global_end": 101.332,
+      "score": 0.988,
+      "segment_index": 1,
+      "segment_text": "With Paperclip, you do need something to run it on."
+    },
+    {
+      "word": "need",
+      "local_start": 2.292,
+      "local_end": 2.472,
+      "global_start": 101.372,
+      "global_end": 101.552,
+      "score": 0.882,
+      "segment_index": 1,
+      "segment_text": "With Paperclip, you do need something to run it on."
+    },
+    {
+      "word": "something",
+      "local_start": 2.612,
+      "local_end": 3.012,
+      "global_start": 101.692,
+      "global_end": 102.092,
+      "score": 0.792,
+      "segment_index": 1,
+      "segment_text": "With Paperclip, you do need something to run it on."
+    },
+    {
+      "word": "to",
+      "local_start": 3.192,
+      "local_end": 3.292,
+      "global_start": 102.272,
+      "global_end": 102.372,
+      "score": 0.654,
+      "segment_index": 1,
+      "segment_text": "With Paperclip, you do need something to run it on."
+    },
+    {
+      "word": "run",
+      "local_start": 3.352,
+      "local_end": 3.472,
+      "global_start": 102.432,
+      "global_end": 102.552,
+      "score": 0.829,
+      "segment_index": 1,
+      "segment_text": "With Paperclip, you do need something to run it on."
+    },
+    {
+      "word": "it",
+      "local_start": 3.492,
+      "local_end": 3.532,
+      "global_start": 102.572,
+      "global_end": 102.612,
+      "score": 0.882,
+      "segment_index": 1,
+      "segment_text": "With Paperclip, you do need something to run it on."
+    },
+    {
+      "word": "on.",
+      "local_start": 3.752,
+      "local_end": 3.873,
+      "global_start": 102.832,
+      "global_end": 102.953,
+      "score": 0.942,
+      "segment_index": 1,
+      "segment_text": "With Paperclip, you do need something to run it on."
+    },
+    {
+      "word": "Where",
+      "local_start": 3.993,
+      "local_end": 4.133,
+      "global_start": 103.073,
+      "global_end": 103.213,
+      "score": 0.168,
+      "segment_index": 2,
+      "segment_text": "Where are you going to put it?"
+    },
+    {
+      "word": "are",
+      "local_start": 4.153,
+      "local_end": 4.213,
+      "global_start": 103.233,
+      "global_end": 103.293,
+      "score": 0.458,
+      "segment_index": 2,
+      "segment_text": "Where are you going to put it?"
+    },
+    {
+      "word": "you",
+      "local_start": 4.233,
+      "local_end": 4.313,
+      "global_start": 103.313,
+      "global_end": 103.393,
+      "score": 0.846,
+      "segment_index": 2,
+      "segment_text": "Where are you going to put it?"
+    },
+    {
+      "word": "going",
+      "local_start": 4.333,
+      "local_end": 4.433,
+      "global_start": 103.413,
+      "global_end": 103.513,
+      "score": 0.767,
+      "segment_index": 2,
+      "segment_text": "Where are you going to put it?"
+    },
+    {
+      "word": "to",
+      "local_start": 4.453,
+      "local_end": 4.493,
+      "global_start": 103.533,
+      "global_end": 103.573,
+      "score": 0.934,
+      "segment_index": 2,
+      "segment_text": "Where are you going to put it?"
+    },
+    {
+      "word": "put",
+      "local_start": 4.513,
+      "local_end": 4.633,
+      "global_start": 103.593,
+      "global_end": 103.713,
+      "score": 0.922,
+      "segment_index": 2,
+      "segment_text": "Where are you going to put it?"
+    },
+    {
+      "word": "it?",
+      "local_start": 4.653,
+      "local_end": 4.713,
+      "global_start": 103.733,
+      "global_end": 103.793,
+      "score": 0.957,
+      "segment_index": 2,
+      "segment_text": "Where are you going to put it?"
+    },
+    {
+      "word": "In",
+      "local_start": 4.993,
+      "local_end": 5.073,
+      "global_start": 104.073,
+      "global_end": 104.153,
+      "score": 0.808,
+      "segment_index": 3,
+      "segment_text": "In most cases, if you just want to try this out, the computer you're using right now."
+    },
+    {
+      "word": "most",
+      "local_start": 5.093,
+      "local_end": 5.253,
+      "global_start": 104.173,
+      "global_end": 104.333,
+      "score": 0.733,
+      "segment_index": 3,
+      "segment_text": "In most cases, if you just want to try this out, the computer you're using right now."
+    },
+    {
+      "word": "cases,",
+      "local_start": 5.293,
+      "local_end": 5.613,
+      "global_start": 104.373,
+      "global_end": 104.693,
+      "score": 0.861,
+      "segment_index": 3,
+      "segment_text": "In most cases, if you just want to try this out, the computer you're using right now."
+    },
+    {
+      "word": "if",
+      "local_start": 5.633,
+      "local_end": 5.673,
+      "global_start": 104.713,
+      "global_end": 104.753,
+      "score": 0.989,
+      "segment_index": 3,
+      "segment_text": "In most cases, if you just want to try this out, the computer you're using right now."
+    },
+    {
+      "word": "you",
+      "local_start": 5.713,
+      "local_end": 5.813,
+      "global_start": 104.793,
+      "global_end": 104.893,
+      "score": 0.974,
+      "segment_index": 3,
+      "segment_text": "In most cases, if you just want to try this out, the computer you're using right now."
+    },
+    {
+      "word": "just",
+      "local_start": 5.853,
+      "local_end": 5.973,
+      "global_start": 104.933,
+      "global_end": 105.053,
+      "score": 0.782,
+      "segment_index": 3,
+      "segment_text": "In most cases, if you just want to try this out, the computer you're using right now."
+    },
+    {
+      "word": "want",
+      "local_start": 5.993,
+      "local_end": 6.093,
+      "global_start": 105.073,
+      "global_end": 105.173,
+      "score": 0.683,
+      "segment_index": 3,
+      "segment_text": "In most cases, if you just want to try this out, the computer you're using right now."
+    },
+    {
+      "word": "to",
+      "local_start": 6.113,
+      "local_end": 6.173,
+      "global_start": 105.193,
+      "global_end": 105.253,
+      "score": 0.777,
+      "segment_index": 3,
+      "segment_text": "In most cases, if you just want to try this out, the computer you're using right now."
+    },
+    {
+      "word": "try",
+      "local_start": 6.213,
+      "local_end": 6.434,
+      "global_start": 105.293,
+      "global_end": 105.514,
+      "score": 0.839,
+      "segment_index": 3,
+      "segment_text": "In most cases, if you just want to try this out, the computer you're using right now."
+    },
+    {
+      "word": "this",
+      "local_start": 6.454,
+      "local_end": 6.574,
+      "global_start": 105.534,
+      "global_end": 105.654,
+      "score": 0.888,
+      "segment_index": 3,
+      "segment_text": "In most cases, if you just want to try this out, the computer you're using right now."
+    },
+    {
+      "word": "out,",
+      "local_start": 6.674,
+      "local_end": 6.834,
+      "global_start": 105.754,
+      "global_end": 105.914,
+      "score": 0.939,
+      "segment_index": 3,
+      "segment_text": "In most cases, if you just want to try this out, the computer you're using right now."
+    },
+    {
+      "word": "the",
+      "local_start": 7.034,
+      "local_end": 7.114,
+      "global_start": 106.114,
+      "global_end": 106.194,
+      "score": 0.854,
+      "segment_index": 3,
+      "segment_text": "In most cases, if you just want to try this out, the computer you're using right now."
+    },
+    {
+      "word": "computer",
+      "local_start": 7.134,
+      "local_end": 7.454,
+      "global_start": 106.214,
+      "global_end": 106.534,
+      "score": 0.669,
+      "segment_index": 3,
+      "segment_text": "In most cases, if you just want to try this out, the computer you're using right now."
+    },
+    {
+      "word": "you're",
+      "local_start": 7.474,
+      "local_end": 7.634,
+      "global_start": 106.554,
+      "global_end": 106.714,
+      "score": 0.745,
+      "segment_index": 3,
+      "segment_text": "In most cases, if you just want to try this out, the computer you're using right now."
+    },
+    {
+      "word": "using",
+      "local_start": 7.654,
+      "local_end": 7.854,
+      "global_start": 106.734,
+      "global_end": 106.934,
+      "score": 0.725,
+      "segment_index": 3,
+      "segment_text": "In most cases, if you just want to try this out, the computer you're using right now."
+    },
+    {
+      "word": "right",
+      "local_start": 7.914,
+      "local_end": 8.054,
+      "global_start": 106.994,
+      "global_end": 107.134,
+      "score": 0.829,
+      "segment_index": 3,
+      "segment_text": "In most cases, if you just want to try this out, the computer you're using right now."
+    },
+    {
+      "word": "now.",
+      "local_start": 8.094,
+      "local_end": 8.274,
+      "global_start": 107.174,
+      "global_end": 107.354,
+      "score": 0.93,
+      "segment_index": 3,
+      "segment_text": "In most cases, if you just want to try this out, the computer you're using right now."
+    },
+    {
+      "word": "If",
+      "local_start": 8.554,
+      "local_end": 8.634,
+      "global_start": 107.634,
+      "global_end": 107.714,
+      "score": 0.746,
+      "segment_index": 4,
+      "segment_text": "If you're using Mac or Linux."
+    },
+    {
+      "word": "you're",
+      "local_start": 8.654,
+      "local_end": 8.815,
+      "global_start": 107.734,
+      "global_end": 107.895,
+      "score": 0.759,
+      "segment_index": 4,
+      "segment_text": "If you're using Mac or Linux."
+    },
+    {
+      "word": "using",
+      "local_start": 8.875,
+      "local_end": 9.095,
+      "global_start": 107.955,
+      "global_end": 108.175,
+      "score": 0.771,
+      "segment_index": 4,
+      "segment_text": "If you're using Mac or Linux."
+    },
+    {
+      "word": "Mac",
+      "local_start": 9.155,
+      "local_end": 9.375,
+      "global_start": 108.235,
+      "global_end": 108.455,
+      "score": 0.79,
+      "segment_index": 4,
+      "segment_text": "If you're using Mac or Linux."
+    },
+    {
+      "word": "or",
+      "local_start": 9.455,
+      "local_end": 9.555,
+      "global_start": 108.535,
+      "global_end": 108.635,
+      "score": 0.477,
+      "segment_index": 4,
+      "segment_text": "If you're using Mac or Linux."
+    },
+    {
+      "word": "Linux.",
+      "local_start": 9.595,
+      "local_end": 10.395,
+      "global_start": 108.675,
+      "global_end": 109.475,
+      "score": 0.582,
+      "segment_index": 4,
+      "segment_text": "If you're using Mac or Linux."
+    },
+    {
+      "word": "Or",
+      "local_start": 10.415,
+      "local_end": 10.455,
+      "global_start": 109.495,
+      "global_end": 109.535,
+      "score": 0.0,
+      "segment_index": 5,
+      "segment_text": "Or WSL2 on Windows."
+    },
+    {
+      "word": "WSL2",
+      "local_start": 10.695,
+      "local_end": 11.236,
+      "global_start": 109.775,
+      "global_end": 110.316,
+      "score": 0.616,
+      "segment_index": 5,
+      "segment_text": "Or WSL2 on Windows."
+    },
+    {
+      "word": "on",
+      "local_start": 11.296,
+      "local_end": 11.376,
+      "global_start": 110.376,
+      "global_end": 110.456,
+      "score": 0.818,
+      "segment_index": 5,
+      "segment_text": "Or WSL2 on Windows."
+    },
+    {
+      "word": "Windows.",
+      "local_start": 11.416,
+      "local_end": 11.716,
+      "global_start": 110.496,
+      "global_end": 110.796,
+      "score": 0.986,
+      "segment_index": 5,
+      "segment_text": "Or WSL2 on Windows."
+    },
+    {
+      "word": "That's",
+      "local_start": 11.936,
+      "local_end": 12.076,
+      "global_start": 111.016,
+      "global_end": 111.156,
+      "score": 0.586,
+      "segment_index": 6,
+      "segment_text": "That's probably the fastest way to get spun up and just start playing with it."
+    },
+    {
+      "word": "probably",
+      "local_start": 12.096,
+      "local_end": 12.296,
+      "global_start": 111.176,
+      "global_end": 111.376,
+      "score": 0.874,
+      "segment_index": 6,
+      "segment_text": "That's probably the fastest way to get spun up and just start playing with it."
+    },
+    {
+      "word": "the",
+      "local_start": 12.316,
+      "local_end": 12.396,
+      "global_start": 111.396,
+      "global_end": 111.476,
+      "score": 0.838,
+      "segment_index": 6,
+      "segment_text": "That's probably the fastest way to get spun up and just start playing with it."
+    },
+    {
+      "word": "fastest",
+      "local_start": 12.436,
+      "local_end": 12.716,
+      "global_start": 111.516,
+      "global_end": 111.796,
+      "score": 0.925,
+      "segment_index": 6,
+      "segment_text": "That's probably the fastest way to get spun up and just start playing with it."
+    },
+    {
+      "word": "way",
+      "local_start": 12.756,
+      "local_end": 12.836,
+      "global_start": 111.836,
+      "global_end": 111.916,
+      "score": 0.835,
+      "segment_index": 6,
+      "segment_text": "That's probably the fastest way to get spun up and just start playing with it."
+    },
+    {
+      "word": "to",
+      "local_start": 12.856,
+      "local_end": 12.916,
+      "global_start": 111.936,
+      "global_end": 111.996,
+      "score": 0.747,
+      "segment_index": 6,
+      "segment_text": "That's probably the fastest way to get spun up and just start playing with it."
+    },
+    {
+      "word": "get",
+      "local_start": 12.936,
+      "local_end": 13.036,
+      "global_start": 112.016,
+      "global_end": 112.116,
+      "score": 0.829,
+      "segment_index": 6,
+      "segment_text": "That's probably the fastest way to get spun up and just start playing with it."
+    },
+    {
+      "word": "spun",
+      "local_start": 13.096,
+      "local_end": 13.296,
+      "global_start": 112.176,
+      "global_end": 112.376,
+      "score": 0.889,
+      "segment_index": 6,
+      "segment_text": "That's probably the fastest way to get spun up and just start playing with it."
+    },
+    {
+      "word": "up",
+      "local_start": 13.336,
+      "local_end": 13.416,
+      "global_start": 112.416,
+      "global_end": 112.496,
+      "score": 0.797,
+      "segment_index": 6,
+      "segment_text": "That's probably the fastest way to get spun up and just start playing with it."
+    },
+    {
+      "word": "and",
+      "local_start": 13.436,
+      "local_end": 13.496,
+      "global_start": 112.516,
+      "global_end": 112.576,
+      "score": 0.949,
+      "segment_index": 6,
+      "segment_text": "That's probably the fastest way to get spun up and just start playing with it."
+    },
+    {
+      "word": "just",
+      "local_start": 13.516,
+      "local_end": 13.596,
+      "global_start": 112.596,
+      "global_end": 112.676,
+      "score": 0.022,
+      "segment_index": 6,
+      "segment_text": "That's probably the fastest way to get spun up and just start playing with it."
+    },
+    {
+      "word": "start",
+      "local_start": 13.616,
+      "local_end": 13.797,
+      "global_start": 112.696,
+      "global_end": 112.877,
+      "score": 0.844,
+      "segment_index": 6,
+      "segment_text": "That's probably the fastest way to get spun up and just start playing with it."
+    },
+    {
+      "word": "playing",
+      "local_start": 13.837,
+      "local_end": 14.077,
+      "global_start": 112.917,
+      "global_end": 113.157,
+      "score": 0.852,
+      "segment_index": 6,
+      "segment_text": "That's probably the fastest way to get spun up and just start playing with it."
+    },
+    {
+      "word": "with",
+      "local_start": 14.117,
+      "local_end": 14.257,
+      "global_start": 113.197,
+      "global_end": 113.337,
+      "score": 0.813,
+      "segment_index": 6,
+      "segment_text": "That's probably the fastest way to get spun up and just start playing with it."
+    },
+    {
+      "word": "it.",
+      "local_start": 14.277,
+      "local_end": 14.337,
+      "global_start": 113.357,
+      "global_end": 113.417,
+      "score": 0.937,
+      "segment_index": 6,
+      "segment_text": "That's probably the fastest way to get spun up and just start playing with it."
+    },
+    {
+      "word": "If",
+      "local_start": 14.477,
+      "local_end": 14.517,
+      "global_start": 113.557,
+      "global_end": 113.597,
+      "score": 0.998,
+      "segment_index": 7,
+      "segment_text": "If you want to commit, do what I'm doing."
+    },
+    {
+      "word": "you",
+      "local_start": 14.557,
+      "local_end": 14.617,
+      "global_start": 113.637,
+      "global_end": 113.697,
+      "score": 0.897,
+      "segment_index": 7,
+      "segment_text": "If you want to commit, do what I'm doing."
+    },
+    {
+      "word": "want",
+      "local_start": 14.637,
+      "local_end": 14.717,
+      "global_start": 113.717,
+      "global_end": 113.797,
+      "score": 0.848,
+      "segment_index": 7,
+      "segment_text": "If you want to commit, do what I'm doing."
+    },
+    {
+      "word": "to",
+      "local_start": 14.737,
+      "local_end": 14.777,
+      "global_start": 113.817,
+      "global_end": 113.857,
+      "score": 0.99,
+      "segment_index": 7,
+      "segment_text": "If you want to commit, do what I'm doing."
+    },
+    {
+      "word": "commit,",
+      "local_start": 14.797,
+      "local_end": 15.057,
+      "global_start": 113.877,
+      "global_end": 114.137,
+      "score": 0.885,
+      "segment_index": 7,
+      "segment_text": "If you want to commit, do what I'm doing."
+    },
+    {
+      "word": "do",
+      "local_start": 15.297,
+      "local_end": 15.377,
+      "global_start": 114.377,
+      "global_end": 114.457,
+      "score": 0.756,
+      "segment_index": 7,
+      "segment_text": "If you want to commit, do what I'm doing."
+    },
+    {
+      "word": "what",
+      "local_start": 15.397,
+      "local_end": 15.517,
+      "global_start": 114.477,
+      "global_end": 114.597,
+      "score": 0.861,
+      "segment_index": 7,
+      "segment_text": "If you want to commit, do what I'm doing."
+    },
+    {
+      "word": "I'm",
+      "local_start": 15.537,
+      "local_end": 15.657,
+      "global_start": 114.617,
+      "global_end": 114.737,
+      "score": 0.829,
+      "segment_index": 7,
+      "segment_text": "If you want to commit, do what I'm doing."
+    },
+    {
+      "word": "doing.",
+      "local_start": 15.697,
+      "local_end": 15.897,
+      "global_start": 114.777,
+      "global_end": 114.977,
+      "score": 0.94,
+      "segment_index": 7,
+      "segment_text": "If you want to commit, do what I'm doing."
+    },
+    {
+      "word": "Put",
+      "local_start": 15.977,
+      "local_end": 16.077,
+      "global_start": 115.057,
+      "global_end": 115.157,
+      "score": 0.759,
+      "segment_index": 8,
+      "segment_text": "Put that sucker on its own server."
+    },
+    {
+      "word": "that",
+      "local_start": 16.097,
+      "local_end": 16.218,
+      "global_start": 115.177,
+      "global_end": 115.298,
+      "score": 0.749,
+      "segment_index": 8,
+      "segment_text": "Put that sucker on its own server."
+    },
+    {
+      "word": "sucker",
+      "local_start": 16.238,
+      "local_end": 16.478,
+      "global_start": 115.318,
+      "global_end": 115.558,
+      "score": 0.859,
+      "segment_index": 8,
+      "segment_text": "Put that sucker on its own server."
+    },
+    {
+      "word": "on",
+      "local_start": 16.538,
+      "local_end": 16.598,
+      "global_start": 115.618,
+      "global_end": 115.678,
+      "score": 0.757,
+      "segment_index": 8,
+      "segment_text": "Put that sucker on its own server."
+    },
+    {
+      "word": "its",
+      "local_start": 16.618,
+      "local_end": 16.718,
+      "global_start": 115.698,
+      "global_end": 115.798,
+      "score": 0.757,
+      "segment_index": 8,
+      "segment_text": "Put that sucker on its own server."
+    },
+    {
+      "word": "own",
+      "local_start": 16.798,
+      "local_end": 16.958,
+      "global_start": 115.878,
+      "global_end": 116.038,
+      "score": 0.672,
+      "segment_index": 8,
+      "segment_text": "Put that sucker on its own server."
+    },
+    {
+      "word": "server.",
+      "local_start": 17.018,
+      "local_end": 17.318,
+      "global_start": 116.098,
+      "global_end": 116.398,
+      "score": 0.819,
+      "segment_index": 8,
+      "segment_text": "Put that sucker on its own server."
+    },
+    {
+      "word": "This",
+      "local_start": 17.498,
+      "local_end": 17.598,
+      "global_start": 116.578,
+      "global_end": 116.678,
+      "score": 0.994,
+      "segment_index": 9,
+      "segment_text": "This could be a virtual machine, like on Proxmox or a VPS in the cloud."
+    },
+    {
+      "word": "could",
+      "local_start": 17.618,
+      "local_end": 17.738,
+      "global_start": 116.698,
+      "global_end": 116.818,
+      "score": 0.387,
+      "segment_index": 9,
+      "segment_text": "This could be a virtual machine, like on Proxmox or a VPS in the cloud."
+    },
+    {
+      "word": "be",
+      "local_start": 17.758,
+      "local_end": 17.818,
+      "global_start": 116.838,
+      "global_end": 116.898,
+      "score": 0.794,
+      "segment_index": 9,
+      "segment_text": "This could be a virtual machine, like on Proxmox or a VPS in the cloud."
+    },
+    {
+      "word": "a",
+      "local_start": 17.838,
+      "local_end": 17.878,
+      "global_start": 116.918,
+      "global_end": 116.958,
+      "score": 0.511,
+      "segment_index": 9,
+      "segment_text": "This could be a virtual machine, like on Proxmox or a VPS in the cloud."
+    },
+    {
+      "word": "virtual",
+      "local_start": 17.898,
+      "local_end": 18.158,
+      "global_start": 116.978,
+      "global_end": 117.238,
+      "score": 0.826,
+      "segment_index": 9,
+      "segment_text": "This could be a virtual machine, like on Proxmox or a VPS in the cloud."
+    },
+    {
+      "word": "machine,",
+      "local_start": 18.198,
+      "local_end": 18.518,
+      "global_start": 117.278,
+      "global_end": 117.598,
+      "score": 0.896,
+      "segment_index": 9,
+      "segment_text": "This could be a virtual machine, like on Proxmox or a VPS in the cloud."
+    },
+    {
+      "word": "like",
+      "local_start": 18.699,
+      "local_end": 18.819,
+      "global_start": 117.779,
+      "global_end": 117.899,
+      "score": 0.877,
+      "segment_index": 9,
+      "segment_text": "This could be a virtual machine, like on Proxmox or a VPS in the cloud."
+    },
+    {
+      "word": "on",
+      "local_start": 18.879,
+      "local_end": 18.959,
+      "global_start": 117.959,
+      "global_end": 118.039,
+      "score": 0.852,
+      "segment_index": 9,
+      "segment_text": "This could be a virtual machine, like on Proxmox or a VPS in the cloud."
+    },
+    {
+      "word": "Proxmox",
+      "local_start": 18.979,
+      "local_end": 19.539,
+      "global_start": 118.059,
+      "global_end": 118.619,
+      "score": 0.884,
+      "segment_index": 9,
+      "segment_text": "This could be a virtual machine, like on Proxmox or a VPS in the cloud."
+    },
+    {
+      "word": "or",
+      "local_start": 19.719,
+      "local_end": 19.819,
+      "global_start": 118.799,
+      "global_end": 118.899,
+      "score": 0.71,
+      "segment_index": 9,
+      "segment_text": "This could be a virtual machine, like on Proxmox or a VPS in the cloud."
+    },
+    {
+      "word": "a",
+      "local_start": 19.839,
+      "local_end": 19.859,
+      "global_start": 118.919,
+      "global_end": 118.939,
+      "score": 0.0,
+      "segment_index": 9,
+      "segment_text": "This could be a virtual machine, like on Proxmox or a VPS in the cloud."
+    },
+    {
+      "word": "VPS",
+      "local_start": 19.959,
+      "local_end": 20.419,
+      "global_start": 119.039,
+      "global_end": 119.499,
+      "score": 0.704,
+      "segment_index": 9,
+      "segment_text": "This could be a virtual machine, like on Proxmox or a VPS in the cloud."
+    },
+    {
+      "word": "in",
+      "local_start": 20.439,
+      "local_end": 20.479,
+      "global_start": 119.519,
+      "global_end": 119.559,
+      "score": 0.945,
+      "segment_index": 9,
+      "segment_text": "This could be a virtual machine, like on Proxmox or a VPS in the cloud."
+    },
+    {
+      "word": "the",
+      "local_start": 20.499,
+      "local_end": 20.559,
+      "global_start": 119.579,
+      "global_end": 119.639,
+      "score": 0.703,
+      "segment_index": 9,
+      "segment_text": "This could be a virtual machine, like on Proxmox or a VPS in the cloud."
+    },
+    {
+      "word": "cloud.",
+      "local_start": 20.579,
+      "local_end": 20.839,
+      "global_start": 119.659,
+      "global_end": 119.919,
+      "score": 0.937,
+      "segment_index": 9,
+      "segment_text": "This could be a virtual machine, like on Proxmox or a VPS in the cloud."
+    },
+    {
+      "word": "I'm",
+      "local_start": 20.979,
+      "local_end": 21.079,
+      "global_start": 120.059,
+      "global_end": 120.159,
+      "score": 0.805,
+      "segment_index": 10,
+      "segment_text": "I'm going to show you both, and by the end of this video, you're going to have your very own Paperclip company running agents."
+    },
+    {
+      "word": "going",
+      "local_start": 21.099,
+      "local_end": 21.2,
+      "global_start": 120.179,
+      "global_end": 120.28,
+      "score": 0.644,
+      "segment_index": 10,
+      "segment_text": "I'm going to show you both, and by the end of this video, you're going to have your very own Paperclip company running agents."
+    },
+    {
+      "word": "to",
+      "local_start": 21.22,
+      "local_end": 21.26,
+      "global_start": 120.3,
+      "global_end": 120.34,
+      "score": 0.996,
+      "segment_index": 10,
+      "segment_text": "I'm going to show you both, and by the end of this video, you're going to have your very own Paperclip company running agents."
+    },
+    {
+      "word": "show",
+      "local_start": 21.28,
+      "local_end": 21.4,
+      "global_start": 120.36,
+      "global_end": 120.48,
+      "score": 0.75,
+      "segment_index": 10,
+      "segment_text": "I'm going to show you both, and by the end of this video, you're going to have your very own Paperclip company running agents."
+    },
+    {
+      "word": "you",
+      "local_start": 21.42,
+      "local_end": 21.52,
+      "global_start": 120.5,
+      "global_end": 120.6,
+      "score": 0.819,
+      "segment_index": 10,
+      "segment_text": "I'm going to show you both, and by the end of this video, you're going to have your very own Paperclip company running agents."
+    },
+    {
+      "word": "both,",
+      "local_start": 21.58,
+      "local_end": 21.78,
+      "global_start": 120.66,
+      "global_end": 120.86,
+      "score": 0.854,
+      "segment_index": 10,
+      "segment_text": "I'm going to show you both, and by the end of this video, you're going to have your very own Paperclip company running agents."
+    },
+    {
+      "word": "and",
+      "local_start": 21.82,
+      "local_end": 21.9,
+      "global_start": 120.9,
+      "global_end": 120.98,
+      "score": 0.832,
+      "segment_index": 10,
+      "segment_text": "I'm going to show you both, and by the end of this video, you're going to have your very own Paperclip company running agents."
+    },
+    {
+      "word": "by",
+      "local_start": 21.92,
+      "local_end": 22.0,
+      "global_start": 121.0,
+      "global_end": 121.08,
+      "score": 0.845,
+      "segment_index": 10,
+      "segment_text": "I'm going to show you both, and by the end of this video, you're going to have your very own Paperclip company running agents."
+    },
+    {
+      "word": "the",
+      "local_start": 22.04,
+      "local_end": 22.1,
+      "global_start": 121.12,
+      "global_end": 121.18,
+      "score": 1.0,
+      "segment_index": 10,
+      "segment_text": "I'm going to show you both, and by the end of this video, you're going to have your very own Paperclip company running agents."
+    },
+    {
+      "word": "end",
+      "local_start": 22.14,
+      "local_end": 22.22,
+      "global_start": 121.22,
+      "global_end": 121.3,
+      "score": 0.579,
+      "segment_index": 10,
+      "segment_text": "I'm going to show you both, and by the end of this video, you're going to have your very own Paperclip company running agents."
+    },
+    {
+      "word": "of",
+      "local_start": 22.24,
+      "local_end": 22.28,
+      "global_start": 121.32,
+      "global_end": 121.36,
+      "score": 0.966,
+      "segment_index": 10,
+      "segment_text": "I'm going to show you both, and by the end of this video, you're going to have your very own Paperclip company running agents."
+    },
+    {
+      "word": "this",
+      "local_start": 22.3,
+      "local_end": 22.4,
+      "global_start": 121.38,
+      "global_end": 121.48,
+      "score": 0.64,
+      "segment_index": 10,
+      "segment_text": "I'm going to show you both, and by the end of this video, you're going to have your very own Paperclip company running agents."
+    },
+    {
+      "word": "video,",
+      "local_start": 22.44,
+      "local_end": 22.66,
+      "global_start": 121.52,
+      "global_end": 121.74,
+      "score": 0.72,
+      "segment_index": 10,
+      "segment_text": "I'm going to show you both, and by the end of this video, you're going to have your very own Paperclip company running agents."
+    },
+    {
+      "word": "you're",
+      "local_start": 22.68,
+      "local_end": 22.8,
+      "global_start": 121.76,
+      "global_end": 121.88,
+      "score": 0.027,
+      "segment_index": 10,
+      "segment_text": "I'm going to show you both, and by the end of this video, you're going to have your very own Paperclip company running agents."
+    },
+    {
+      "word": "going",
+      "local_start": 22.82,
+      "local_end": 22.92,
+      "global_start": 121.9,
+      "global_end": 122.0,
+      "score": 0.188,
+      "segment_index": 10,
+      "segment_text": "I'm going to show you both, and by the end of this video, you're going to have your very own Paperclip company running agents."
+    },
+    {
+      "word": "to",
+      "local_start": 22.94,
+      "local_end": 22.98,
+      "global_start": 122.02,
+      "global_end": 122.06,
+      "score": 0.0,
+      "segment_index": 10,
+      "segment_text": "I'm going to show you both, and by the end of this video, you're going to have your very own Paperclip company running agents."
+    },
+    {
+      "word": "have",
+      "local_start": 23.0,
+      "local_end": 23.1,
+      "global_start": 122.08,
+      "global_end": 122.18,
+      "score": 0.384,
+      "segment_index": 10,
+      "segment_text": "I'm going to show you both, and by the end of this video, you're going to have your very own Paperclip company running agents."
+    },
+    {
+      "word": "your",
+      "local_start": 23.12,
+      "local_end": 23.24,
+      "global_start": 122.2,
+      "global_end": 122.32,
+      "score": 0.75,
+      "segment_index": 10,
+      "segment_text": "I'm going to show you both, and by the end of this video, you're going to have your very own Paperclip company running agents."
+    },
+    {
+      "word": "very",
+      "local_start": 23.28,
+      "local_end": 23.48,
+      "global_start": 122.36,
+      "global_end": 122.56,
+      "score": 0.858,
+      "segment_index": 10,
+      "segment_text": "I'm going to show you both, and by the end of this video, you're going to have your very own Paperclip company running agents."
+    },
+    {
+      "word": "own",
+      "local_start": 23.54,
+      "local_end": 23.64,
+      "global_start": 122.62,
+      "global_end": 122.72,
+      "score": 0.968,
+      "segment_index": 10,
+      "segment_text": "I'm going to show you both, and by the end of this video, you're going to have your very own Paperclip company running agents."
+    },
+    {
+      "word": "Paperclip",
+      "local_start": 23.681,
+      "local_end": 24.141,
+      "global_start": 122.761,
+      "global_end": 123.221,
+      "score": 0.817,
+      "segment_index": 10,
+      "segment_text": "I'm going to show you both, and by the end of this video, you're going to have your very own Paperclip company running agents."
+    },
+    {
+      "word": "company",
+      "local_start": 24.161,
+      "local_end": 24.481,
+      "global_start": 123.241,
+      "global_end": 123.561,
+      "score": 0.932,
+      "segment_index": 10,
+      "segment_text": "I'm going to show you both, and by the end of this video, you're going to have your very own Paperclip company running agents."
+    },
+    {
+      "word": "running",
+      "local_start": 24.561,
+      "local_end": 24.781,
+      "global_start": 123.641,
+      "global_end": 123.861,
+      "score": 0.939,
+      "segment_index": 10,
+      "segment_text": "I'm going to show you both, and by the end of this video, you're going to have your very own Paperclip company running agents."
+    },
+    {
+      "word": "agents.",
+      "local_start": 24.921,
+      "local_end": 25.201,
+      "global_start": 124.001,
+      "global_end": 124.281,
+      "score": 0.872,
+      "segment_index": 10,
+      "segment_text": "I'm going to show you both, and by the end of this video, you're going to have your very own Paperclip company running agents."
+    },
+    {
+      "word": "You",
+      "local_start": 25.521,
+      "local_end": 25.641,
+      "global_start": 124.601,
+      "global_end": 124.721,
+      "score": 0.755,
+      "segment_index": 11,
+      "segment_text": "You want that, right?"
+    },
+    {
+      "word": "want",
+      "local_start": 25.661,
+      "local_end": 25.801,
+      "global_start": 124.741,
+      "global_end": 124.881,
+      "score": 0.761,
+      "segment_index": 11,
+      "segment_text": "You want that, right?"
+    },
+    {
+      "word": "that,",
+      "local_start": 25.841,
+      "local_end": 25.961,
+      "global_start": 124.921,
+      "global_end": 125.041,
+      "score": 0.964,
+      "segment_index": 11,
+      "segment_text": "You want that, right?"
+    },
+    {
+      "word": "right?",
+      "local_start": 26.021,
+      "local_end": 26.202,
+      "global_start": 125.101,
+      "global_end": 125.282,
+      "score": 0.913,
+      "segment_index": 11,
+      "segment_text": "You want that, right?"
+    },
+    {
+      "word": "Yes,",
+      "local_start": 26.502,
+      "local_end": 26.662,
+      "global_start": 125.582,
+      "global_end": 125.742,
+      "score": 0.986,
+      "segment_index": 12,
+      "segment_text": "Yes, you do."
+    },
+    {
+      "word": "you",
+      "local_start": 26.682,
+      "local_end": 26.822,
+      "global_start": 125.762,
+      "global_end": 125.902,
+      "score": 0.735,
+      "segment_index": 12,
+      "segment_text": "Yes, you do."
+    },
+    {
+      "word": "do.",
+      "local_start": 26.842,
+      "local_end": 27.002,
+      "global_start": 125.922,
+      "global_end": 126.082,
+      "score": 0.933,
+      "segment_index": 12,
+      "segment_text": "Yes, you do."
+    },
+    {
+      "word": "Let's",
+      "local_start": 27.602,
+      "local_end": 27.742,
+      "global_start": 126.682,
+      "global_end": 126.822,
+      "score": 0.784,
+      "segment_index": 13,
+      "segment_text": "Let's take a sip of coffee real quick."
+    },
+    {
+      "word": "take",
+      "local_start": 27.762,
+      "local_end": 27.842,
+      "global_start": 126.842,
+      "global_end": 126.922,
+      "score": 0.962,
+      "segment_index": 13,
+      "segment_text": "Let's take a sip of coffee real quick."
+    },
+    {
+      "word": "a",
+      "local_start": 27.862,
+      "local_end": 27.902,
+      "global_start": 126.942,
+      "global_end": 126.982,
+      "score": 0.457,
+      "segment_index": 13,
+      "segment_text": "Let's take a sip of coffee real quick."
+    },
+    {
+      "word": "sip",
+      "local_start": 27.922,
+      "local_end": 28.022,
+      "global_start": 127.002,
+      "global_end": 127.102,
+      "score": 0.551,
+      "segment_index": 13,
+      "segment_text": "Let's take a sip of coffee real quick."
+    },
+    {
+      "word": "of",
+      "local_start": 28.042,
+      "local_end": 28.082,
+      "global_start": 127.122,
+      "global_end": 127.162,
+      "score": 0.002,
+      "segment_index": 13,
+      "segment_text": "Let's take a sip of coffee real quick."
+    },
+    {
+      "word": "coffee",
+      "local_start": 28.102,
+      "local_end": 28.302,
+      "global_start": 127.182,
+      "global_end": 127.382,
+      "score": 0.605,
+      "segment_index": 13,
+      "segment_text": "Let's take a sip of coffee real quick."
+    },
+    {
+      "word": "real",
+      "local_start": 28.322,
+      "local_end": 28.442,
+      "global_start": 127.402,
+      "global_end": 127.522,
+      "score": 0.128,
+      "segment_index": 13,
+      "segment_text": "Let's take a sip of coffee real quick."
+    },
+    {
+      "word": "quick.",
+      "local_start": 28.462,
+      "local_end": 28.643,
+      "global_start": 127.542,
+      "global_end": 127.723,
+      "score": 0.711,
+      "segment_index": 13,
+      "segment_text": "Let's take a sip of coffee real quick."
+    },
+    {
+      "word": "All",
+      "local_start": 28.883,
+      "local_end": 28.983,
+      "global_start": 127.963,
+      "global_end": 128.063,
+      "score": 0.854,
+      "segment_index": 14,
+      "segment_text": "All of us together, are you ready?"
+    },
+    {
+      "word": "of",
+      "local_start": 29.003,
+      "local_end": 29.043,
+      "global_start": 128.083,
+      "global_end": 128.123,
+      "score": 0.585,
+      "segment_index": 14,
+      "segment_text": "All of us together, are you ready?"
+    },
+    {
+      "word": "us",
+      "local_start": 29.083,
+      "local_end": 29.143,
+      "global_start": 128.163,
+      "global_end": 128.223,
+      "score": 0.709,
+      "segment_index": 14,
+      "segment_text": "All of us together, are you ready?"
+    },
+    {
+      "word": "together,",
+      "local_start": 29.183,
+      "local_end": 29.443,
+      "global_start": 128.263,
+      "global_end": 128.523,
+      "score": 0.893,
+      "segment_index": 14,
+      "segment_text": "All of us together, are you ready?"
+    },
+    {
+      "word": "are",
+      "local_start": 29.463,
+      "local_end": 29.523,
+      "global_start": 128.543,
+      "global_end": 128.603,
+      "score": 0.002,
+      "segment_index": 14,
+      "segment_text": "All of us together, are you ready?"
+    },
+    {
+      "word": "you",
+      "local_start": 29.543,
+      "local_end": 29.603,
+      "global_start": 128.623,
+      "global_end": 128.683,
+      "score": 0.0,
+      "segment_index": 14,
+      "segment_text": "All of us together, are you ready?"
+    },
+    {
+      "word": "ready?",
+      "local_start": 29.623,
+      "local_end": 29.743,
+      "global_start": 128.703,
+      "global_end": 128.823,
+      "score": 0.438,
+      "segment_index": 14,
+      "segment_text": "All of us together, are you ready?"
+    },
+    {
+      "word": "Now",
+      "local_start": 32.029,
+      "local_end": 32.09,
+      "global_start": 131.109,
+      "global_end": 131.17,
+      "score": 0.001,
+      "segment_index": 15,
+      "segment_text": "Now here's my absolute favorite part about this."
+    },
+    {
+      "word": "here's",
+      "local_start": 32.13,
+      "local_end": 32.272,
+      "global_start": 131.21,
+      "global_end": 131.352,
+      "score": 0.893,
+      "segment_index": 15,
+      "segment_text": "Now here's my absolute favorite part about this."
+    },
+    {
+      "word": "my",
+      "local_start": 32.292,
+      "local_end": 32.394,
+      "global_start": 131.372,
+      "global_end": 131.474,
+      "score": 0.922,
+      "segment_index": 15,
+      "segment_text": "Now here's my absolute favorite part about this."
+    },
+    {
+      "word": "absolute",
+      "local_start": 32.515,
+      "local_end": 32.839,
+      "global_start": 131.595,
+      "global_end": 131.919,
+      "score": 0.785,
+      "segment_index": 15,
+      "segment_text": "Now here's my absolute favorite part about this."
+    },
+    {
+      "word": "favorite",
+      "local_start": 32.94,
+      "local_end": 33.264,
+      "global_start": 132.02,
+      "global_end": 132.344,
+      "score": 0.948,
+      "segment_index": 15,
+      "segment_text": "Now here's my absolute favorite part about this."
+    },
+    {
+      "word": "part",
+      "local_start": 33.305,
+      "local_end": 33.548,
+      "global_start": 132.385,
+      "global_end": 132.628,
+      "score": 0.838,
+      "segment_index": 15,
+      "segment_text": "Now here's my absolute favorite part about this."
+    },
+    {
+      "word": "about",
+      "local_start": 33.609,
+      "local_end": 33.831,
+      "global_start": 132.689,
+      "global_end": 132.911,
+      "score": 0.986,
+      "segment_index": 15,
+      "segment_text": "Now here's my absolute favorite part about this."
+    },
+    {
+      "word": "this.",
+      "local_start": 33.872,
+      "local_end": 34.054,
+      "global_start": 132.952,
+      "global_end": 133.134,
+      "score": 0.931,
+      "segment_index": 15,
+      "segment_text": "Now here's my absolute favorite part about this."
+    },
+    {
+      "word": "For",
+      "local_start": 34.338,
+      "local_end": 34.439,
+      "global_start": 133.418,
+      "global_end": 133.519,
+      "score": 0.88,
+      "segment_index": 16,
+      "segment_text": "For my employees,"
+    },
+    {
+      "word": "my",
+      "local_start": 34.459,
+      "local_end": 34.54,
+      "global_start": 133.539,
+      "global_end": 133.62,
+      "score": 0.838,
+      "segment_index": 16,
+      "segment_text": "For my employees,"
+    },
+    {
+      "word": "employees,",
+      "local_start": 34.56,
+      "local_end": 34.925,
+      "global_start": 133.64,
+      "global_end": 134.005,
+      "score": 0.713,
+      "segment_index": 16,
+      "segment_text": "For my employees,"
+    }
+  ],
+  "raw_segments": [
+    {
+      "start": 0.031,
+      "end": 29.883,
+      "text": "pretty fun to play with. With Paperclip, you do need something to run it on. Where are you going to put it? In most cases, if you just want to try this out, the computer you're using right now. If you're using Mac or Linux. Or WSL2 on Windows. That's probably the fastest way to get spun up and just start playing with it. If you want to commit, do what I'm doing. Put that sucker on its own server. This could be a virtual machine, like on Proxmox or a VPS in the cloud. I'm going to show you both, and by the end of this video, you're going to have your very own Paperclip company running agents. You want that, right? Yes, you do. Let's take a sip of coffee real quick. All of us together, are you ready?"
+    },
+    {
+      "start": 32.009,
+      "end": 34.945,
+      "text": "Now here's my absolute favorite part about this. For my employees,"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "video_id": "FltNsyPXNdo",
+  "llm_provider": "google",
+  "llm_model": "gemini-3.1-flash-lite",
+  "candidates": [
+    {
+      "candidate_id": 1,
+      "total_clip_duration_s": 17.882,
+      "emoji_selections": [
+        {
+          "text": "great news",
+          "emoji": "\ud83c\udf89",
+          "reason": "Highlights the positive announcement at the start of the video.",
+          "group_id": "cand_1_cap_001",
+          "clip_start": 0.3,
+          "clip_end": 0.56,
+          "start_time": 0.0,
+          "end_time": 0.96,
+          "matched_text": "great news."
+        },
+        {
+          "text": "monetized",
+          "emoji": "\ud83d\udcb0",
+          "reason": "Represents the financial aspect of the content.",
+          "group_id": "cand_1_cap_004",
+          "clip_start": 3.261,
+          "clip_end": 3.922,
+          "start_time": 3.261,
+          "end_time": 4.742,
+          "matched_text": "monetized,"
+        },
+        {
+          "text": "awkward",
+          "emoji": "\ud83d\ude2c",
+          "reason": "Emphasizes the uncomfortable feeling described.",
+          "group_id": "cand_1_cap_005",
+          "clip_start": 4.902,
+          "clip_end": 5.222,
+          "start_time": 4.762,
+          "end_time": 5.743,
+          "matched_text": "awkward"
+        },
+        {
+          "text": "making more money",
+          "emoji": "\ud83d\udcc8",
+          "reason": "Highlights the competitive nature of the channels mentioned.",
+          "group_id": "cand_1_cap_009",
+          "clip_start": 9.145,
+          "clip_end": 9.425,
+          "start_time": 9.044,
+          "end_time": 9.865,
+          "matched_text": "making more money"
+        },
+        {
+          "text": "YouTube",
+          "emoji": "\ud83d\udcfa",
+          "reason": "Identifies the platform being discussed.",
+          "group_id": "cand_1_cap_017",
+          "clip_start": 16.438,
+          "clip_end": 16.779,
+          "start_time": 15.394,
+          "end_time": 16.779,
+          "matched_text": "YouTube"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1319 @@
+{
+  "section_id": "section_003",
+  "candidate_id": 3,
+  "video_id": "7RVf25Rg0Mc",
+  "file_name": "section_003.mp4",
+  "file_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/sections/section_003.mp4",
+  "start_offset": 162.16,
+  "end_offset": 195.12,
+  "target_duration_s": 32.96,
+  "probed_duration_s": 32.98,
+  "original_candidate_ranges": [
+    {
+      "start": 170.16,
+      "end": 177.92
+    },
+    {
+      "start": 180.12,
+      "end": 187.12
+    }
+  ],
+  "padded_range": {
+    "start": 162.16,
+    "end": 195.12
+  },
+  "combined_text": "We know how breaches happen now. It's not a mystery. Attackers don't hack in. They log in. Infostealer malware grabs everything. Passwords, session cookies, MFA tokens. 54% of ransomware victims had their info sitting inside stealer logs way before they ever got hacked. [...] Attackers only need 48 minutes. But with Flare, you realize things happen within seconds. They have real-time detection, and actually checks against Entra ID whether an account is actually real and active, and it can kill a session before anyone opens a ticket.",
+  "reason": "This provides a high-value, punchy security insight that works well as a standalone educational short.",
+  "alignment": {
+    "whisper_model": "base",
+    "language": "en",
+    "device": "cpu",
+    "compute_type": "float32",
+    "total_words": 127,
+    "timestamp_note": "local_start/local_end are relative to the section MP4 file (0-based seconds). global_start/global_end are authoritative original-video timestamps = local_timestamp + start_offset."
+  },
+  "words": [
+    {
+      "word": "The",
+      "local_start": 0.031,
+      "local_end": 0.171,
+      "global_start": 162.191,
+      "global_end": 162.331,
+      "score": 0.333,
+      "segment_index": 0,
+      "segment_text": "The uh, org chart will be like this."
+    },
+    {
+      "word": "uh,",
+      "local_start": 0.271,
+      "local_end": 0.331,
+      "global_start": 162.431,
+      "global_end": 162.491,
+      "score": 0.144,
+      "segment_index": 0,
+      "segment_text": "The uh, org chart will be like this."
+    },
+    {
+      "word": "org",
+      "local_start": 0.511,
+      "local_end": 0.771,
+      "global_start": 162.671,
+      "global_end": 162.931,
+      "score": 0.471,
+      "segment_index": 0,
+      "segment_text": "The uh, org chart will be like this."
+    },
+    {
+      "word": "chart",
+      "local_start": 0.831,
+      "local_end": 1.051,
+      "global_start": 162.991,
+      "global_end": 163.211,
+      "score": 0.79,
+      "segment_index": 0,
+      "segment_text": "The uh, org chart will be like this."
+    },
+    {
+      "word": "will",
+      "local_start": 1.071,
+      "local_end": 1.191,
+      "global_start": 163.231,
+      "global_end": 163.351,
+      "score": 0.936,
+      "segment_index": 0,
+      "segment_text": "The uh, org chart will be like this."
+    },
+    {
+      "word": "be",
+      "local_start": 1.211,
+      "local_end": 1.271,
+      "global_start": 163.371,
+      "global_end": 163.431,
+      "score": 0.774,
+      "segment_index": 0,
+      "segment_text": "The uh, org chart will be like this."
+    },
+    {
+      "word": "like",
+      "local_start": 1.311,
+      "local_end": 1.431,
+      "global_start": 163.471,
+      "global_end": 163.591,
+      "score": 0.834,
+      "segment_index": 0,
+      "segment_text": "The uh, org chart will be like this."
+    },
+    {
+      "word": "this.",
+      "local_start": 1.471,
+      "local_end": 1.691,
+      "global_start": 163.631,
+      "global_end": 163.851,
+      "score": 0.929,
+      "segment_index": 0,
+      "segment_text": "The uh, org chart will be like this."
+    },
+    {
+      "word": "Run",
+      "local_start": 2.031,
+      "local_end": 2.191,
+      "global_start": 164.191,
+      "global_end": 164.351,
+      "score": 0.702,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "to",
+      "local_start": 2.211,
+      "local_end": 2.251,
+      "global_start": 164.371,
+      "global_end": 164.411,
+      "score": 0.402,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "CTO,",
+      "local_start": 2.292,
+      "local_end": 2.772,
+      "global_start": 164.452,
+      "global_end": 164.932,
+      "score": 0.707,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "Fred",
+      "local_start": 2.812,
+      "local_end": 2.992,
+      "global_start": 164.972,
+      "global_end": 165.152,
+      "score": 0.805,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "and",
+      "local_start": 3.012,
+      "local_end": 3.072,
+      "global_start": 165.172,
+      "global_end": 165.232,
+      "score": 0.996,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "George",
+      "local_start": 3.092,
+      "local_end": 3.312,
+      "global_start": 165.252,
+      "global_end": 165.472,
+      "score": 0.823,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "report",
+      "local_start": 3.332,
+      "local_end": 3.612,
+      "global_start": 165.492,
+      "global_end": 165.772,
+      "score": 0.869,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "to",
+      "local_start": 3.632,
+      "local_end": 3.692,
+      "global_start": 165.792,
+      "global_end": 165.852,
+      "score": 0.74,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "him,",
+      "local_start": 3.732,
+      "local_end": 4.012,
+      "global_start": 165.892,
+      "global_end": 166.172,
+      "score": 0.839,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "and",
+      "local_start": 4.292,
+      "local_end": 4.372,
+      "global_start": 166.452,
+      "global_end": 166.532,
+      "score": 0.836,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "then",
+      "local_start": 4.392,
+      "local_end": 4.472,
+      "global_start": 166.552,
+      "global_end": 166.632,
+      "score": 0.804,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "just",
+      "local_start": 4.512,
+      "local_end": 4.652,
+      "global_start": 166.672,
+      "global_end": 166.812,
+      "score": 0.816,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "above",
+      "local_start": 4.712,
+      "local_end": 4.912,
+      "global_start": 166.872,
+      "global_end": 167.072,
+      "score": 0.891,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "run,",
+      "local_start": 4.972,
+      "local_end": 5.252,
+      "global_start": 167.132,
+      "global_end": 167.412,
+      "score": 0.656,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "I'm",
+      "local_start": 5.272,
+      "local_end": 5.332,
+      "global_start": 167.432,
+      "global_end": 167.492,
+      "score": 0.105,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "actually",
+      "local_start": 5.352,
+      "local_end": 5.532,
+      "global_start": 167.512,
+      "global_end": 167.692,
+      "score": 0.26,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "gonna",
+      "local_start": 5.552,
+      "local_end": 5.692,
+      "global_start": 167.712,
+      "global_end": 167.852,
+      "score": 0.275,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "hire",
+      "local_start": 5.752,
+      "local_end": 6.072,
+      "global_start": 167.912,
+      "global_end": 168.232,
+      "score": 0.529,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "a",
+      "local_start": 6.312,
+      "local_end": 6.452,
+      "global_start": 168.472,
+      "global_end": 168.612,
+      "score": 0.862,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "CEO,",
+      "local_start": 6.953,
+      "local_end": 7.553,
+      "global_start": 169.113,
+      "global_end": 169.713,
+      "score": 0.864,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "which",
+      "local_start": 7.893,
+      "local_end": 7.993,
+      "global_start": 170.053,
+      "global_end": 170.153,
+      "score": 0.308,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "I'll",
+      "local_start": 8.013,
+      "local_end": 8.133,
+      "global_start": 170.173,
+      "global_end": 170.293,
+      "score": 0.384,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "actually",
+      "local_start": 8.153,
+      "local_end": 8.373,
+      "global_start": 170.313,
+      "global_end": 170.533,
+      "score": 0.887,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "have",
+      "local_start": 8.413,
+      "local_end": 8.553,
+      "global_start": 170.573,
+      "global_end": 170.713,
+      "score": 0.619,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "running",
+      "local_start": 8.593,
+      "local_end": 8.813,
+      "global_start": 170.753,
+      "global_end": 170.973,
+      "score": 0.825,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "Claude",
+      "local_start": 8.893,
+      "local_end": 9.153,
+      "global_start": 171.053,
+      "global_end": 171.313,
+      "score": 0.602,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "code,",
+      "local_start": 9.193,
+      "local_end": 9.453,
+      "global_start": 171.353,
+      "global_end": 171.613,
+      "score": 0.688,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "and",
+      "local_start": 9.733,
+      "local_end": 9.833,
+      "global_start": 171.893,
+      "global_end": 171.993,
+      "score": 0.871,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "not",
+      "local_start": 9.933,
+      "local_end": 10.093,
+      "global_start": 172.093,
+      "global_end": 172.253,
+      "score": 0.91,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "Hermes.",
+      "local_start": 10.153,
+      "local_end": 10.533,
+      "global_start": 172.313,
+      "global_end": 172.693,
+      "score": 0.864,
+      "segment_index": 1,
+      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+    },
+    {
+      "word": "And",
+      "local_start": 10.973,
+      "local_end": 11.053,
+      "global_start": 173.133,
+      "global_end": 173.213,
+      "score": 0.549,
+      "segment_index": 2,
+      "segment_text": "And just for fun, I'll hire some more employees too."
+    },
+    {
+      "word": "just",
+      "local_start": 11.073,
+      "local_end": 11.173,
+      "global_start": 173.233,
+      "global_end": 173.333,
+      "score": 0.939,
+      "segment_index": 2,
+      "segment_text": "And just for fun, I'll hire some more employees too."
+    },
+    {
+      "word": "for",
+      "local_start": 11.193,
+      "local_end": 11.294,
+      "global_start": 173.353,
+      "global_end": 173.454,
+      "score": 0.946,
+      "segment_index": 2,
+      "segment_text": "And just for fun, I'll hire some more employees too."
+    },
+    {
+      "word": "fun,",
+      "local_start": 11.354,
+      "local_end": 11.534,
+      "global_start": 173.514,
+      "global_end": 173.694,
+      "score": 0.834,
+      "segment_index": 2,
+      "segment_text": "And just for fun, I'll hire some more employees too."
+    },
+    {
+      "word": "I'll",
+      "local_start": 11.554,
+      "local_end": 11.654,
+      "global_start": 173.714,
+      "global_end": 173.814,
+      "score": 0.29,
+      "segment_index": 2,
+      "segment_text": "And just for fun, I'll hire some more employees too."
+    },
+    {
+      "word": "hire",
+      "local_start": 11.674,
+      "local_end": 11.834,
+      "global_start": 173.834,
+      "global_end": 173.994,
+      "score": 0.542,
+      "segment_index": 2,
+      "segment_text": "And just for fun, I'll hire some more employees too."
+    },
+    {
+      "word": "some",
+      "local_start": 11.854,
+      "local_end": 11.934,
+      "global_start": 174.014,
+      "global_end": 174.094,
+      "score": 0.58,
+      "segment_index": 2,
+      "segment_text": "And just for fun, I'll hire some more employees too."
+    },
+    {
+      "word": "more",
+      "local_start": 11.954,
+      "local_end": 12.054,
+      "global_start": 174.114,
+      "global_end": 174.214,
+      "score": 0.831,
+      "segment_index": 2,
+      "segment_text": "And just for fun, I'll hire some more employees too."
+    },
+    {
+      "word": "employees",
+      "local_start": 12.094,
+      "local_end": 12.454,
+      "global_start": 174.254,
+      "global_end": 174.614,
+      "score": 0.804,
+      "segment_index": 2,
+      "segment_text": "And just for fun, I'll hire some more employees too."
+    },
+    {
+      "word": "too.",
+      "local_start": 12.494,
+      "local_end": 12.674,
+      "global_start": 174.654,
+      "global_end": 174.834,
+      "score": 0.762,
+      "segment_index": 2,
+      "segment_text": "And just for fun, I'll hire some more employees too."
+    },
+    {
+      "word": "Probably",
+      "local_start": 12.914,
+      "local_end": 13.134,
+      "global_start": 175.074,
+      "global_end": 175.294,
+      "score": 0.938,
+      "segment_index": 3,
+      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
+    },
+    {
+      "word": "a",
+      "local_start": 13.154,
+      "local_end": 13.174,
+      "global_start": 175.314,
+      "global_end": 175.334,
+      "score": 0.026,
+      "segment_index": 3,
+      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
+    },
+    {
+      "word": "security",
+      "local_start": 13.194,
+      "local_end": 13.594,
+      "global_start": 175.354,
+      "global_end": 175.754,
+      "score": 0.692,
+      "segment_index": 3,
+      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
+    },
+    {
+      "word": "engineer",
+      "local_start": 13.614,
+      "local_end": 13.994,
+      "global_start": 175.774,
+      "global_end": 176.154,
+      "score": 0.852,
+      "segment_index": 3,
+      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
+    },
+    {
+      "word": "running",
+      "local_start": 14.034,
+      "local_end": 14.214,
+      "global_start": 176.194,
+      "global_end": 176.374,
+      "score": 0.938,
+      "segment_index": 3,
+      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
+    },
+    {
+      "word": "codex,",
+      "local_start": 14.254,
+      "local_end": 14.634,
+      "global_start": 176.414,
+      "global_end": 176.794,
+      "score": 0.89,
+      "segment_index": 3,
+      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
+    },
+    {
+      "word": "and",
+      "local_start": 14.954,
+      "local_end": 15.014,
+      "global_start": 177.114,
+      "global_end": 177.174,
+      "score": 0.138,
+      "segment_index": 3,
+      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
+    },
+    {
+      "word": "let's",
+      "local_start": 15.034,
+      "local_end": 15.154,
+      "global_start": 177.194,
+      "global_end": 177.314,
+      "score": 0.546,
+      "segment_index": 3,
+      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
+    },
+    {
+      "word": "say",
+      "local_start": 15.194,
+      "local_end": 15.294,
+      "global_start": 177.354,
+      "global_end": 177.454,
+      "score": 0.827,
+      "segment_index": 3,
+      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
+    },
+    {
+      "word": "I",
+      "local_start": 15.334,
+      "local_end": 15.374,
+      "global_start": 177.494,
+      "global_end": 177.534,
+      "score": 0.145,
+      "segment_index": 3,
+      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
+    },
+    {
+      "word": "helped",
+      "local_start": 15.394,
+      "local_end": 15.534,
+      "global_start": 177.554,
+      "global_end": 177.694,
+      "score": 0.623,
+      "segment_index": 3,
+      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
+    },
+    {
+      "word": "desk",
+      "local_start": 15.554,
+      "local_end": 15.714,
+      "global_start": 177.714,
+      "global_end": 177.874,
+      "score": 0.772,
+      "segment_index": 3,
+      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
+    },
+    {
+      "word": "engineer",
+      "local_start": 15.734,
+      "local_end": 16.095,
+      "global_start": 177.894,
+      "global_end": 178.255,
+      "score": 0.785,
+      "segment_index": 3,
+      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
+    },
+    {
+      "word": "running",
+      "local_start": 16.155,
+      "local_end": 16.335,
+      "global_start": 178.315,
+      "global_end": 178.495,
+      "score": 0.937,
+      "segment_index": 3,
+      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
+    },
+    {
+      "word": "a",
+      "local_start": 16.375,
+      "local_end": 16.435,
+      "global_start": 178.535,
+      "global_end": 178.595,
+      "score": 0.564,
+      "segment_index": 3,
+      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
+    },
+    {
+      "word": "local",
+      "local_start": 16.475,
+      "local_end": 16.695,
+      "global_start": 178.635,
+      "global_end": 178.855,
+      "score": 0.919,
+      "segment_index": 3,
+      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
+    },
+    {
+      "word": "model.",
+      "local_start": 16.735,
+      "local_end": 16.955,
+      "global_start": 178.895,
+      "global_end": 179.115,
+      "score": 0.917,
+      "segment_index": 3,
+      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
+    },
+    {
+      "word": "Once",
+      "local_start": 17.295,
+      "local_end": 17.395,
+      "global_start": 179.455,
+      "global_end": 179.555,
+      "score": 0.95,
+      "segment_index": 4,
+      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
+    },
+    {
+      "word": "we've",
+      "local_start": 17.415,
+      "local_end": 17.555,
+      "global_start": 179.575,
+      "global_end": 179.715,
+      "score": 0.815,
+      "segment_index": 4,
+      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
+    },
+    {
+      "word": "hired",
+      "local_start": 17.575,
+      "local_end": 17.775,
+      "global_start": 179.735,
+      "global_end": 179.935,
+      "score": 0.812,
+      "segment_index": 4,
+      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
+    },
+    {
+      "word": "our",
+      "local_start": 17.795,
+      "local_end": 17.895,
+      "global_start": 179.955,
+      "global_end": 180.055,
+      "score": 0.856,
+      "segment_index": 4,
+      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
+    },
+    {
+      "word": "team,",
+      "local_start": 17.915,
+      "local_end": 18.115,
+      "global_start": 180.075,
+      "global_end": 180.275,
+      "score": 0.786,
+      "segment_index": 4,
+      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
+    },
+    {
+      "word": "we",
+      "local_start": 18.135,
+      "local_end": 18.235,
+      "global_start": 180.295,
+      "global_end": 180.395,
+      "score": 0.512,
+      "segment_index": 4,
+      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
+    },
+    {
+      "word": "will",
+      "local_start": 18.255,
+      "local_end": 18.395,
+      "global_start": 180.415,
+      "global_end": 180.555,
+      "score": 0.835,
+      "segment_index": 4,
+      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
+    },
+    {
+      "word": "then",
+      "local_start": 18.415,
+      "local_end": 18.555,
+      "global_start": 180.575,
+      "global_end": 180.715,
+      "score": 0.877,
+      "segment_index": 4,
+      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
+    },
+    {
+      "word": "assign",
+      "local_start": 18.615,
+      "local_end": 18.955,
+      "global_start": 180.775,
+      "global_end": 181.115,
+      "score": 0.913,
+      "segment_index": 4,
+      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
+    },
+    {
+      "word": "a",
+      "local_start": 18.995,
+      "local_end": 19.035,
+      "global_start": 181.155,
+      "global_end": 181.195,
+      "score": 0.554,
+      "segment_index": 4,
+      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
+    },
+    {
+      "word": "task,",
+      "local_start": 19.075,
+      "local_end": 19.415,
+      "global_start": 181.235,
+      "global_end": 181.575,
+      "score": 0.98,
+      "segment_index": 4,
+      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
+    },
+    {
+      "word": "a",
+      "local_start": 19.735,
+      "local_end": 19.775,
+      "global_start": 181.895,
+      "global_end": 181.935,
+      "score": 0.994,
+      "segment_index": 4,
+      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
+    },
+    {
+      "word": "task",
+      "local_start": 19.835,
+      "local_end": 20.175,
+      "global_start": 181.995,
+      "global_end": 182.335,
+      "score": 0.894,
+      "segment_index": 4,
+      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
+    },
+    {
+      "word": "to",
+      "local_start": 20.416,
+      "local_end": 20.516,
+      "global_start": 182.576,
+      "global_end": 182.676,
+      "score": 0.988,
+      "segment_index": 4,
+      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
+    },
+    {
+      "word": "solve",
+      "local_start": 20.616,
+      "local_end": 20.936,
+      "global_start": 182.776,
+      "global_end": 183.096,
+      "score": 0.684,
+      "segment_index": 4,
+      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
+    },
+    {
+      "word": "our",
+      "local_start": 20.976,
+      "local_end": 21.076,
+      "global_start": 183.136,
+      "global_end": 183.236,
+      "score": 0.883,
+      "segment_index": 4,
+      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
+    },
+    {
+      "word": "toilet",
+      "local_start": 21.136,
+      "local_end": 21.456,
+      "global_start": 183.296,
+      "global_end": 183.616,
+      "score": 0.836,
+      "segment_index": 4,
+      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
+    },
+    {
+      "word": "problems,",
+      "local_start": 21.476,
+      "local_end": 21.896,
+      "global_start": 183.636,
+      "global_end": 184.056,
+      "score": 0.786,
+      "segment_index": 4,
+      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
+    },
+    {
+      "word": "and",
+      "local_start": 22.336,
+      "local_end": 22.396,
+      "global_start": 184.496,
+      "global_end": 184.556,
+      "score": 0.988,
+      "segment_index": 4,
+      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
+    },
+    {
+      "word": "we'll",
+      "local_start": 22.416,
+      "local_end": 22.556,
+      "global_start": 184.576,
+      "global_end": 184.716,
+      "score": 0.837,
+      "segment_index": 4,
+      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
+    },
+    {
+      "word": "watch",
+      "local_start": 22.576,
+      "local_end": 22.756,
+      "global_start": 184.736,
+      "global_end": 184.916,
+      "score": 0.768,
+      "segment_index": 4,
+      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
+    },
+    {
+      "word": "them",
+      "local_start": 22.776,
+      "local_end": 22.916,
+      "global_start": 184.936,
+      "global_end": 185.076,
+      "score": 0.715,
+      "segment_index": 4,
+      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
+    },
+    {
+      "word": "go",
+      "local_start": 22.956,
+      "local_end": 23.036,
+      "global_start": 185.116,
+      "global_end": 185.196,
+      "score": 0.718,
+      "segment_index": 4,
+      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
+    },
+    {
+      "word": "to",
+      "local_start": 23.076,
+      "local_end": 23.136,
+      "global_start": 185.236,
+      "global_end": 185.296,
+      "score": 0.851,
+      "segment_index": 4,
+      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
+    },
+    {
+      "word": "work.",
+      "local_start": 23.176,
+      "local_end": 23.376,
+      "global_start": 185.336,
+      "global_end": 185.536,
+      "score": 0.689,
+      "segment_index": 4,
+      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
+    },
+    {
+      "word": "Now,",
+      "local_start": 23.696,
+      "local_end": 23.836,
+      "global_start": 185.856,
+      "global_end": 185.996,
+      "score": 0.858,
+      "segment_index": 5,
+      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
+    },
+    {
+      "word": "I",
+      "local_start": 23.936,
+      "local_end": 23.996,
+      "global_start": 186.096,
+      "global_end": 186.156,
+      "score": 0.669,
+      "segment_index": 5,
+      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
+    },
+    {
+      "word": "want",
+      "local_start": 24.016,
+      "local_end": 24.096,
+      "global_start": 186.176,
+      "global_end": 186.256,
+      "score": 0.999,
+      "segment_index": 5,
+      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
+    },
+    {
+      "word": "you",
+      "local_start": 24.116,
+      "local_end": 24.196,
+      "global_start": 186.276,
+      "global_end": 186.356,
+      "score": 0.831,
+      "segment_index": 5,
+      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
+    },
+    {
+      "word": "to",
+      "local_start": 24.216,
+      "local_end": 24.256,
+      "global_start": 186.376,
+      "global_end": 186.416,
+      "score": 0.999,
+      "segment_index": 5,
+      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
+    },
+    {
+      "word": "pause",
+      "local_start": 24.296,
+      "local_end": 24.496,
+      "global_start": 186.456,
+      "global_end": 186.656,
+      "score": 0.99,
+      "segment_index": 5,
+      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
+    },
+    {
+      "word": "here",
+      "local_start": 24.536,
+      "local_end": 24.696,
+      "global_start": 186.696,
+      "global_end": 186.856,
+      "score": 0.728,
+      "segment_index": 5,
+      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
+    },
+    {
+      "word": "for",
+      "local_start": 24.736,
+      "local_end": 24.857,
+      "global_start": 186.896,
+      "global_end": 187.017,
+      "score": 0.786,
+      "segment_index": 5,
+      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
+    },
+    {
+      "word": "a",
+      "local_start": 24.897,
+      "local_end": 24.917,
+      "global_start": 187.057,
+      "global_end": 187.077,
+      "score": 0.998,
+      "segment_index": 5,
+      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
+    },
+    {
+      "word": "moment",
+      "local_start": 24.957,
+      "local_end": 25.217,
+      "global_start": 187.117,
+      "global_end": 187.377,
+      "score": 0.774,
+      "segment_index": 5,
+      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
+    },
+    {
+      "word": "and",
+      "local_start": 25.257,
+      "local_end": 25.317,
+      "global_start": 187.417,
+      "global_end": 187.477,
+      "score": 0.861,
+      "segment_index": 5,
+      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
+    },
+    {
+      "word": "think",
+      "local_start": 25.377,
+      "local_end": 25.517,
+      "global_start": 187.537,
+      "global_end": 187.677,
+      "score": 0.991,
+      "segment_index": 5,
+      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
+    },
+    {
+      "word": "about",
+      "local_start": 25.557,
+      "local_end": 25.717,
+      "global_start": 187.717,
+      "global_end": 187.877,
+      "score": 0.68,
+      "segment_index": 5,
+      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
+    },
+    {
+      "word": "what",
+      "local_start": 25.737,
+      "local_end": 25.837,
+      "global_start": 187.897,
+      "global_end": 187.997,
+      "score": 0.875,
+      "segment_index": 5,
+      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
+    },
+    {
+      "word": "we're",
+      "local_start": 25.877,
+      "local_end": 26.017,
+      "global_start": 188.037,
+      "global_end": 188.177,
+      "score": 0.838,
+      "segment_index": 5,
+      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
+    },
+    {
+      "word": "doing",
+      "local_start": 26.037,
+      "local_end": 26.257,
+      "global_start": 188.197,
+      "global_end": 188.417,
+      "score": 0.729,
+      "segment_index": 5,
+      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
+    },
+    {
+      "word": "here.",
+      "local_start": 26.297,
+      "local_end": 26.437,
+      "global_start": 188.457,
+      "global_end": 188.597,
+      "score": 0.752,
+      "segment_index": 5,
+      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
+    },
+    {
+      "word": "We're",
+      "local_start": 27.097,
+      "local_end": 27.298,
+      "global_start": 189.257,
+      "global_end": 189.458,
+      "score": 0.705,
+      "segment_index": 6,
+      "segment_text": "We're Harness Maxing."
+    },
+    {
+      "word": "Harness",
+      "local_start": 27.338,
+      "local_end": 27.639,
+      "global_start": 189.498,
+      "global_end": 189.799,
+      "score": 0.866,
+      "segment_index": 6,
+      "segment_text": "We're Harness Maxing."
+    },
+    {
+      "word": "Maxing.",
+      "local_start": 27.679,
+      "local_end": 28.059,
+      "global_start": 189.839,
+      "global_end": 190.219,
+      "score": 0.973,
+      "segment_index": 6,
+      "segment_text": "We're Harness Maxing."
+    },
+    {
+      "word": "No",
+      "local_start": 28.26,
+      "local_end": 28.34,
+      "global_start": 190.42,
+      "global_end": 190.5,
+      "score": 0.772,
+      "segment_index": 7,
+      "segment_text": "No matter what new harness comes out or model, Paperclip is a meta harness."
+    },
+    {
+      "word": "matter",
+      "local_start": 28.36,
+      "local_end": 28.581,
+      "global_start": 190.52,
+      "global_end": 190.741,
+      "score": 0.886,
+      "segment_index": 7,
+      "segment_text": "No matter what new harness comes out or model, Paperclip is a meta harness."
+    },
+    {
+      "word": "what",
+      "local_start": 28.661,
+      "local_end": 28.821,
+      "global_start": 190.821,
+      "global_end": 190.981,
+      "score": 0.915,
+      "segment_index": 7,
+      "segment_text": "No matter what new harness comes out or model, Paperclip is a meta harness."
+    },
+    {
+      "word": "new",
+      "local_start": 28.881,
+      "local_end": 28.982,
+      "global_start": 191.041,
+      "global_end": 191.142,
+      "score": 0.998,
+      "segment_index": 7,
+      "segment_text": "No matter what new harness comes out or model, Paperclip is a meta harness."
+    },
+    {
+      "word": "harness",
+      "local_start": 29.022,
+      "local_end": 29.302,
+      "global_start": 191.182,
+      "global_end": 191.462,
+      "score": 0.843,
+      "segment_index": 7,
+      "segment_text": "No matter what new harness comes out or model, Paperclip is a meta harness."
+    },
+    {
+      "word": "comes",
+      "local_start": 29.322,
+      "local_end": 29.503,
+      "global_start": 191.482,
+      "global_end": 191.663,
+      "score": 0.773,
+      "segment_index": 7,
+      "segment_text": "No matter what new harness comes out or model, Paperclip is a meta harness."
+    },
+    {
+      "word": "out",
+      "local_start": 29.583,
+      "local_end": 29.683,
+      "global_start": 191.743,
+      "global_end": 191.843,
+      "score": 0.986,
+      "segment_index": 7,
+      "segment_text": "No matter what new harness comes out or model, Paperclip is a meta harness."
+    },
+    {
+      "word": "or",
+      "local_start": 29.824,
+      "local_end": 29.924,
+      "global_start": 191.984,
+      "global_end": 192.084,
+      "score": 0.659,
+      "segment_index": 7,
+      "segment_text": "No matter what new harness comes out or model, Paperclip is a meta harness."
+    },
+    {
+      "word": "model,",
+      "local_start": 29.984,
+      "local_end": 30.305,
+      "global_start": 192.144,
+      "global_end": 192.465,
+      "score": 0.838,
+      "segment_index": 7,
+      "segment_text": "No matter what new harness comes out or model, Paperclip is a meta harness."
+    },
+    {
+      "word": "Paperclip",
+      "local_start": 30.465,
+      "local_end": 30.986,
+      "global_start": 192.625,
+      "global_end": 193.146,
+      "score": 0.849,
+      "segment_index": 7,
+      "segment_text": "No matter what new harness comes out or model, Paperclip is a meta harness."
+    },
+    {
+      "word": "is",
+      "local_start": 31.107,
+      "local_end": 31.207,
+      "global_start": 193.267,
+      "global_end": 193.367,
+      "score": 0.694,
+      "segment_index": 7,
+      "segment_text": "No matter what new harness comes out or model, Paperclip is a meta harness."
+    },
+    {
+      "word": "a",
+      "local_start": 31.247,
+      "local_end": 31.287,
+      "global_start": 193.407,
+      "global_end": 193.447,
+      "score": 0.718,
+      "segment_index": 7,
+      "segment_text": "No matter what new harness comes out or model, Paperclip is a meta harness."
+    },
+    {
+      "word": "meta",
+      "local_start": 31.367,
+      "local_end": 31.668,
+      "global_start": 193.527,
+      "global_end": 193.828,
+      "score": 0.952,
+      "segment_index": 7,
+      "segment_text": "No matter what new harness comes out or model, Paperclip is a meta harness."
+    },
+    {
+      "word": "harness.",
+      "local_start": 31.728,
+      "local_end": 32.129,
+      "global_start": 193.888,
+      "global_end": 194.289,
+      "score": 0.819,
+      "segment_index": 7,
+      "segment_text": "No matter what new harness comes out or model, Paperclip is a meta harness."
+    },
+    {
+      "word": "We",
+      "local_start": 32.45,
+      "local_end": 32.55,
+      "global_start": 194.61,
+      "global_end": 194.71,
+      "score": 0.985,
+      "segment_index": 8,
+      "segment_text": "We can breathe."
+    },
+    {
+      "word": "can",
+      "local_start": 32.57,
+      "local_end": 32.69,
+      "global_start": 194.73,
+      "global_end": 194.85,
+      "score": 0.989,
+      "segment_index": 8,
+      "segment_text": "We can breathe."
+    },
+    {
+      "word": "breathe.",
+      "local_start": 32.73,
+      "local_end": 32.951,
+      "global_start": 194.89,
+      "global_end": 195.111,
+      "score": 0.8,
+      "segment_index": 8,
+      "segment_text": "We can breathe."
+    }
+  ],
+  "raw_segments": [
+    {
+      "start": 0.031,
+      "end": 26.997,
+      "text": "The uh, org chart will be like this. Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes. And just for fun, I'll hire some more employees too. Probably a security engineer running codex, and let's say I helped desk engineer running a local model. Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work. Now, I want you to pause here for a moment and think about what we're doing here."
+    },
+    {
+      "start": 26.997,
+      "end": 32.971,
+      "text": "We're Harness Maxing. No matter what new harness comes out or model, Paperclip is a meta harness. We can breathe."
+    }
+  ]
+}

@@ -1,0 +1,1109 @@
+{
+  "section_id": "section_004",
+  "candidate_id": 4,
+  "video_id": "7RVf25Rg0Mc",
+  "file_name": "section_004.mp4",
+  "file_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/sections/section_004.mp4",
+  "start_offset": 297.76,
+  "end_offset": 336.48,
+  "target_duration_s": 38.72,
+  "probed_duration_s": 38.743,
+  "original_candidate_ranges": [
+    {
+      "start": 305.76,
+      "end": 314.48
+    },
+    {
+      "start": 320.52,
+      "end": 328.48
+    }
+  ],
+  "padded_range": {
+    "start": 297.76,
+    "end": 336.48
+  },
+  "combined_text": "Here, what you're about to see is one of the most powerful parts of Paperclip, and it's how we talk with our agents, how we interface with them. And that's through tasks. Now, we're about to assign our toilet task. But first, I want to just test this and make sure it works. [...] Boom, Dumbledore assigns a task to Ron. And that right there is our first moment where we talk to an agent and then an agent talk to another agent. And they're both working here.",
+  "reason": "Shows the 'agent-to-agent' communication feature in action, which is a highly engaging visual for viewers.",
+  "alignment": {
+    "whisper_model": "base",
+    "language": "en",
+    "device": "cpu",
+    "compute_type": "float32",
+    "total_words": 106,
+    "timestamp_note": "local_start/local_end are relative to the section MP4 file (0-based seconds). global_start/global_end are authoritative original-video timestamps = local_timestamp + start_offset."
+  },
+  "words": [
+    {
+      "word": "which",
+      "local_start": 0.271,
+      "local_end": 0.391,
+      "global_start": 298.031,
+      "global_end": 298.151,
+      "score": 0.904,
+      "segment_index": 0,
+      "segment_text": "which means you don't need credentials."
+    },
+    {
+      "word": "means",
+      "local_start": 0.431,
+      "local_end": 0.571,
+      "global_start": 298.191,
+      "global_end": 298.331,
+      "score": 0.903,
+      "segment_index": 0,
+      "segment_text": "which means you don't need credentials."
+    },
+    {
+      "word": "you",
+      "local_start": 0.591,
+      "local_end": 0.672,
+      "global_start": 298.351,
+      "global_end": 298.432,
+      "score": 0.985,
+      "segment_index": 0,
+      "segment_text": "which means you don't need credentials."
+    },
+    {
+      "word": "don't",
+      "local_start": 0.692,
+      "local_end": 0.812,
+      "global_start": 298.452,
+      "global_end": 298.572,
+      "score": 0.913,
+      "segment_index": 0,
+      "segment_text": "which means you don't need credentials."
+    },
+    {
+      "word": "need",
+      "local_start": 0.852,
+      "local_end": 0.972,
+      "global_start": 298.612,
+      "global_end": 298.732,
+      "score": 0.84,
+      "segment_index": 0,
+      "segment_text": "which means you don't need credentials."
+    },
+    {
+      "word": "credentials.",
+      "local_start": 0.992,
+      "local_end": 1.412,
+      "global_start": 298.752,
+      "global_end": 299.172,
+      "score": 0.836,
+      "segment_index": 0,
+      "segment_text": "which means you don't need credentials."
+    },
+    {
+      "word": "You",
+      "local_start": 1.432,
+      "local_end": 1.492,
+      "global_start": 299.192,
+      "global_end": 299.252,
+      "score": 0.331,
+      "segment_index": 1,
+      "segment_text": "You just use those cookie sessions."
+    },
+    {
+      "word": "just",
+      "local_start": 1.512,
+      "local_end": 1.612,
+      "global_start": 299.272,
+      "global_end": 299.372,
+      "score": 0.228,
+      "segment_index": 1,
+      "segment_text": "You just use those cookie sessions."
+    },
+    {
+      "word": "use",
+      "local_start": 1.672,
+      "local_end": 1.752,
+      "global_start": 299.432,
+      "global_end": 299.512,
+      "score": 0.895,
+      "segment_index": 1,
+      "segment_text": "You just use those cookie sessions."
+    },
+    {
+      "word": "those",
+      "local_start": 1.793,
+      "local_end": 1.913,
+      "global_start": 299.553,
+      "global_end": 299.673,
+      "score": 0.903,
+      "segment_index": 1,
+      "segment_text": "You just use those cookie sessions."
+    },
+    {
+      "word": "cookie",
+      "local_start": 1.953,
+      "local_end": 2.213,
+      "global_start": 299.713,
+      "global_end": 299.973,
+      "score": 0.852,
+      "segment_index": 1,
+      "segment_text": "You just use those cookie sessions."
+    },
+    {
+      "word": "sessions.",
+      "local_start": 2.233,
+      "local_end": 2.573,
+      "global_start": 299.993,
+      "global_end": 300.333,
+      "score": 0.838,
+      "segment_index": 1,
+      "segment_text": "You just use those cookie sessions."
+    },
+    {
+      "word": "Skips",
+      "local_start": 2.953,
+      "local_end": 3.234,
+      "global_start": 300.713,
+      "global_end": 300.994,
+      "score": 0.827,
+      "segment_index": 2,
+      "segment_text": "Skips to factor."
+    },
+    {
+      "word": "to",
+      "local_start": 3.254,
+      "local_end": 3.434,
+      "global_start": 301.014,
+      "global_end": 301.194,
+      "score": 0.885,
+      "segment_index": 2,
+      "segment_text": "Skips to factor."
+    },
+    {
+      "word": "factor.",
+      "local_start": 3.474,
+      "local_end": 3.874,
+      "global_start": 301.234,
+      "global_end": 301.634,
+      "score": 0.934,
+      "segment_index": 2,
+      "segment_text": "Skips to factor."
+    },
+    {
+      "word": "So",
+      "local_start": 4.755,
+      "local_end": 4.875,
+      "global_start": 302.515,
+      "global_end": 302.635,
+      "score": 0.974,
+      "segment_index": 3,
+      "segment_text": "So listen up."
+    },
+    {
+      "word": "listen",
+      "local_start": 4.935,
+      "local_end": 5.175,
+      "global_start": 302.695,
+      "global_end": 302.935,
+      "score": 0.871,
+      "segment_index": 3,
+      "segment_text": "So listen up."
+    },
+    {
+      "word": "up.",
+      "local_start": 5.235,
+      "local_end": 5.295,
+      "global_start": 302.995,
+      "global_end": 303.055,
+      "score": 0.933,
+      "segment_index": 3,
+      "segment_text": "So listen up."
+    },
+    {
+      "word": "We",
+      "local_start": 5.716,
+      "local_end": 5.816,
+      "global_start": 303.476,
+      "global_end": 303.576,
+      "score": 0.938,
+      "segment_index": 4,
+      "segment_text": "We know how breaches happen now."
+    },
+    {
+      "word": "know",
+      "local_start": 5.856,
+      "local_end": 5.976,
+      "global_start": 303.616,
+      "global_end": 303.736,
+      "score": 0.856,
+      "segment_index": 4,
+      "segment_text": "We know how breaches happen now."
+    },
+    {
+      "word": "how",
+      "local_start": 6.016,
+      "local_end": 6.136,
+      "global_start": 303.776,
+      "global_end": 303.896,
+      "score": 0.794,
+      "segment_index": 4,
+      "segment_text": "We know how breaches happen now."
+    },
+    {
+      "word": "breaches",
+      "local_start": 6.196,
+      "local_end": 6.517,
+      "global_start": 303.956,
+      "global_end": 304.277,
+      "score": 0.687,
+      "segment_index": 4,
+      "segment_text": "We know how breaches happen now."
+    },
+    {
+      "word": "happen",
+      "local_start": 6.557,
+      "local_end": 6.837,
+      "global_start": 304.317,
+      "global_end": 304.597,
+      "score": 0.91,
+      "segment_index": 4,
+      "segment_text": "We know how breaches happen now."
+    },
+    {
+      "word": "now.",
+      "local_start": 6.857,
+      "local_end": 6.997,
+      "global_start": 304.617,
+      "global_end": 304.757,
+      "score": 0.871,
+      "segment_index": 4,
+      "segment_text": "We know how breaches happen now."
+    },
+    {
+      "word": "It's",
+      "local_start": 7.177,
+      "local_end": 7.257,
+      "global_start": 304.937,
+      "global_end": 305.017,
+      "score": 0.019,
+      "segment_index": 5,
+      "segment_text": "It's on a mystery."
+    },
+    {
+      "word": "on",
+      "local_start": 7.277,
+      "local_end": 7.337,
+      "global_start": 305.037,
+      "global_end": 305.097,
+      "score": 0.62,
+      "segment_index": 5,
+      "segment_text": "It's on a mystery."
+    },
+    {
+      "word": "a",
+      "local_start": 7.377,
+      "local_end": 7.417,
+      "global_start": 305.137,
+      "global_end": 305.177,
+      "score": 0.475,
+      "segment_index": 5,
+      "segment_text": "It's on a mystery."
+    },
+    {
+      "word": "mystery.",
+      "local_start": 7.437,
+      "local_end": 7.798,
+      "global_start": 305.197,
+      "global_end": 305.558,
+      "score": 0.752,
+      "segment_index": 5,
+      "segment_text": "It's on a mystery."
+    },
+    {
+      "word": "Attackers",
+      "local_start": 8.058,
+      "local_end": 8.438,
+      "global_start": 305.818,
+      "global_end": 306.198,
+      "score": 0.869,
+      "segment_index": 6,
+      "segment_text": "Attackers don't hack in."
+    },
+    {
+      "word": "don't",
+      "local_start": 8.458,
+      "local_end": 8.638,
+      "global_start": 306.218,
+      "global_end": 306.398,
+      "score": 0.668,
+      "segment_index": 6,
+      "segment_text": "Attackers don't hack in."
+    },
+    {
+      "word": "hack",
+      "local_start": 8.718,
+      "local_end": 8.979,
+      "global_start": 306.478,
+      "global_end": 306.739,
+      "score": 0.966,
+      "segment_index": 6,
+      "segment_text": "Attackers don't hack in."
+    },
+    {
+      "word": "in.",
+      "local_start": 9.099,
+      "local_end": 9.219,
+      "global_start": 306.859,
+      "global_end": 306.979,
+      "score": 0.862,
+      "segment_index": 6,
+      "segment_text": "Attackers don't hack in."
+    },
+    {
+      "word": "They",
+      "local_start": 9.379,
+      "local_end": 9.579,
+      "global_start": 307.139,
+      "global_end": 307.339,
+      "score": 0.798,
+      "segment_index": 7,
+      "segment_text": "They log in."
+    },
+    {
+      "word": "log",
+      "local_start": 9.639,
+      "local_end": 9.839,
+      "global_start": 307.399,
+      "global_end": 307.599,
+      "score": 0.659,
+      "segment_index": 7,
+      "segment_text": "They log in."
+    },
+    {
+      "word": "in.",
+      "local_start": 9.979,
+      "local_end": 10.12,
+      "global_start": 307.739,
+      "global_end": 307.88,
+      "score": 0.763,
+      "segment_index": 7,
+      "segment_text": "They log in."
+    },
+    {
+      "word": "Info",
+      "local_start": 10.5,
+      "local_end": 10.8,
+      "global_start": 308.26,
+      "global_end": 308.56,
+      "score": 0.596,
+      "segment_index": 8,
+      "segment_text": "Info stealer malware grabs everything."
+    },
+    {
+      "word": "stealer",
+      "local_start": 10.82,
+      "local_end": 11.14,
+      "global_start": 308.58,
+      "global_end": 308.9,
+      "score": 0.826,
+      "segment_index": 8,
+      "segment_text": "Info stealer malware grabs everything."
+    },
+    {
+      "word": "malware",
+      "local_start": 11.16,
+      "local_end": 11.581,
+      "global_start": 308.92,
+      "global_end": 309.341,
+      "score": 0.816,
+      "segment_index": 8,
+      "segment_text": "Info stealer malware grabs everything."
+    },
+    {
+      "word": "grabs",
+      "local_start": 11.921,
+      "local_end": 12.281,
+      "global_start": 309.681,
+      "global_end": 310.041,
+      "score": 0.904,
+      "segment_index": 8,
+      "segment_text": "Info stealer malware grabs everything."
+    },
+    {
+      "word": "everything.",
+      "local_start": 12.582,
+      "local_end": 13.022,
+      "global_start": 310.342,
+      "global_end": 310.782,
+      "score": 0.843,
+      "segment_index": 8,
+      "segment_text": "Info stealer malware grabs everything."
+    },
+    {
+      "word": "Password",
+      "local_start": 13.242,
+      "local_end": 13.743,
+      "global_start": 311.002,
+      "global_end": 311.503,
+      "score": 0.87,
+      "segment_index": 9,
+      "segment_text": "Password session cookies."
+    },
+    {
+      "word": "session",
+      "local_start": 13.823,
+      "local_end": 14.163,
+      "global_start": 311.583,
+      "global_end": 311.923,
+      "score": 0.83,
+      "segment_index": 9,
+      "segment_text": "Password session cookies."
+    },
+    {
+      "word": "cookies.",
+      "local_start": 14.183,
+      "local_end": 14.543,
+      "global_start": 311.943,
+      "global_end": 312.303,
+      "score": 0.957,
+      "segment_index": 9,
+      "segment_text": "Password session cookies."
+    },
+    {
+      "word": "MFA",
+      "local_start": 15.024,
+      "local_end": 15.344,
+      "global_start": 312.784,
+      "global_end": 313.104,
+      "score": 0.795,
+      "segment_index": 10,
+      "segment_text": "MFA tokens."
+    },
+    {
+      "word": "tokens.",
+      "local_start": 15.364,
+      "local_end": 16.285,
+      "global_start": 313.124,
+      "global_end": 314.045,
+      "score": 0.825,
+      "segment_index": 10,
+      "segment_text": "MFA tokens."
+    },
+    {
+      "word": "54%",
+      "local_start": 16.445,
+      "local_end": 17.166,
+      "global_start": 314.205,
+      "global_end": 314.926,
+      "score": 0.576,
+      "segment_index": 11,
+      "segment_text": "54% of ransomware victims had their info."
+    },
+    {
+      "word": "of",
+      "local_start": 17.386,
+      "local_end": 17.446,
+      "global_start": 315.146,
+      "global_end": 315.206,
+      "score": 0.748,
+      "segment_index": 11,
+      "segment_text": "54% of ransomware victims had their info."
+    },
+    {
+      "word": "ransomware",
+      "local_start": 17.546,
+      "local_end": 18.086,
+      "global_start": 315.306,
+      "global_end": 315.846,
+      "score": 0.656,
+      "segment_index": 11,
+      "segment_text": "54% of ransomware victims had their info."
+    },
+    {
+      "word": "victims",
+      "local_start": 18.106,
+      "local_end": 18.487,
+      "global_start": 315.866,
+      "global_end": 316.247,
+      "score": 0.845,
+      "segment_index": 11,
+      "segment_text": "54% of ransomware victims had their info."
+    },
+    {
+      "word": "had",
+      "local_start": 18.707,
+      "local_end": 18.927,
+      "global_start": 316.467,
+      "global_end": 316.687,
+      "score": 0.981,
+      "segment_index": 11,
+      "segment_text": "54% of ransomware victims had their info."
+    },
+    {
+      "word": "their",
+      "local_start": 19.007,
+      "local_end": 19.207,
+      "global_start": 316.767,
+      "global_end": 316.967,
+      "score": 0.787,
+      "segment_index": 11,
+      "segment_text": "54% of ransomware victims had their info."
+    },
+    {
+      "word": "info.",
+      "local_start": 19.287,
+      "local_end": 19.688,
+      "global_start": 317.047,
+      "global_end": 317.448,
+      "score": 0.905,
+      "segment_index": 11,
+      "segment_text": "54% of ransomware victims had their info."
+    },
+    {
+      "word": "Sitting",
+      "local_start": 20.048,
+      "local_end": 20.248,
+      "global_start": 317.808,
+      "global_end": 318.008,
+      "score": 0.944,
+      "segment_index": 12,
+      "segment_text": "Sitting inside stealer logs way before they ever got hacked."
+    },
+    {
+      "word": "inside",
+      "local_start": 20.268,
+      "local_end": 20.528,
+      "global_start": 318.028,
+      "global_end": 318.288,
+      "score": 0.953,
+      "segment_index": 12,
+      "segment_text": "Sitting inside stealer logs way before they ever got hacked."
+    },
+    {
+      "word": "stealer",
+      "local_start": 20.589,
+      "local_end": 20.929,
+      "global_start": 318.349,
+      "global_end": 318.689,
+      "score": 0.764,
+      "segment_index": 12,
+      "segment_text": "Sitting inside stealer logs way before they ever got hacked."
+    },
+    {
+      "word": "logs",
+      "local_start": 20.949,
+      "local_end": 21.269,
+      "global_start": 318.709,
+      "global_end": 319.029,
+      "score": 0.855,
+      "segment_index": 12,
+      "segment_text": "Sitting inside stealer logs way before they ever got hacked."
+    },
+    {
+      "word": "way",
+      "local_start": 21.589,
+      "local_end": 21.79,
+      "global_start": 319.349,
+      "global_end": 319.55,
+      "score": 0.864,
+      "segment_index": 12,
+      "segment_text": "Sitting inside stealer logs way before they ever got hacked."
+    },
+    {
+      "word": "before",
+      "local_start": 21.83,
+      "local_end": 22.15,
+      "global_start": 319.59,
+      "global_end": 319.91,
+      "score": 0.908,
+      "segment_index": 12,
+      "segment_text": "Sitting inside stealer logs way before they ever got hacked."
+    },
+    {
+      "word": "they",
+      "local_start": 22.19,
+      "local_end": 22.29,
+      "global_start": 319.95,
+      "global_end": 320.05,
+      "score": 0.949,
+      "segment_index": 12,
+      "segment_text": "Sitting inside stealer logs way before they ever got hacked."
+    },
+    {
+      "word": "ever",
+      "local_start": 22.33,
+      "local_end": 22.45,
+      "global_start": 320.09,
+      "global_end": 320.21,
+      "score": 0.876,
+      "segment_index": 12,
+      "segment_text": "Sitting inside stealer logs way before they ever got hacked."
+    },
+    {
+      "word": "got",
+      "local_start": 22.49,
+      "local_end": 22.63,
+      "global_start": 320.25,
+      "global_end": 320.39,
+      "score": 0.907,
+      "segment_index": 12,
+      "segment_text": "Sitting inside stealer logs way before they ever got hacked."
+    },
+    {
+      "word": "hacked.",
+      "local_start": 22.67,
+      "local_end": 22.951,
+      "global_start": 320.43,
+      "global_end": 320.711,
+      "score": 0.984,
+      "segment_index": 12,
+      "segment_text": "Sitting inside stealer logs way before they ever got hacked."
+    },
+    {
+      "word": "And",
+      "local_start": 23.111,
+      "local_end": 23.171,
+      "global_start": 320.871,
+      "global_end": 320.931,
+      "score": 0.537,
+      "segment_index": 13,
+      "segment_text": "And most companies take 36 hours before they even noticed something has happened."
+    },
+    {
+      "word": "most",
+      "local_start": 23.211,
+      "local_end": 23.371,
+      "global_start": 320.971,
+      "global_end": 321.131,
+      "score": 0.841,
+      "segment_index": 13,
+      "segment_text": "And most companies take 36 hours before they even noticed something has happened."
+    },
+    {
+      "word": "companies",
+      "local_start": 23.451,
+      "local_end": 23.911,
+      "global_start": 321.211,
+      "global_end": 321.671,
+      "score": 0.868,
+      "segment_index": 13,
+      "segment_text": "And most companies take 36 hours before they even noticed something has happened."
+    },
+    {
+      "word": "take",
+      "local_start": 24.372,
+      "local_end": 24.592,
+      "global_start": 322.132,
+      "global_end": 322.352,
+      "score": 0.859,
+      "segment_index": 13,
+      "segment_text": "And most companies take 36 hours before they even noticed something has happened."
+    },
+    {
+      "word": "36",
+      "local_start": 24.772,
+      "local_end": 24.992,
+      "global_start": 322.532,
+      "global_end": 322.752,
+      "score": 0.686,
+      "segment_index": 13,
+      "segment_text": "And most companies take 36 hours before they even noticed something has happened."
+    },
+    {
+      "word": "hours",
+      "local_start": 25.373,
+      "local_end": 25.713,
+      "global_start": 323.133,
+      "global_end": 323.473,
+      "score": 0.776,
+      "segment_index": 13,
+      "segment_text": "And most companies take 36 hours before they even noticed something has happened."
+    },
+    {
+      "word": "before",
+      "local_start": 25.753,
+      "local_end": 25.993,
+      "global_start": 323.513,
+      "global_end": 323.753,
+      "score": 0.72,
+      "segment_index": 13,
+      "segment_text": "And most companies take 36 hours before they even noticed something has happened."
+    },
+    {
+      "word": "they",
+      "local_start": 26.013,
+      "local_end": 26.133,
+      "global_start": 323.773,
+      "global_end": 323.893,
+      "score": 0.813,
+      "segment_index": 13,
+      "segment_text": "And most companies take 36 hours before they even noticed something has happened."
+    },
+    {
+      "word": "even",
+      "local_start": 26.173,
+      "local_end": 26.353,
+      "global_start": 323.933,
+      "global_end": 324.113,
+      "score": 0.812,
+      "segment_index": 13,
+      "segment_text": "And most companies take 36 hours before they even noticed something has happened."
+    },
+    {
+      "word": "noticed",
+      "local_start": 26.494,
+      "local_end": 26.894,
+      "global_start": 324.254,
+      "global_end": 324.654,
+      "score": 0.829,
+      "segment_index": 13,
+      "segment_text": "And most companies take 36 hours before they even noticed something has happened."
+    },
+    {
+      "word": "something",
+      "local_start": 27.194,
+      "local_end": 27.434,
+      "global_start": 324.954,
+      "global_end": 325.194,
+      "score": 0.897,
+      "segment_index": 13,
+      "segment_text": "And most companies take 36 hours before they even noticed something has happened."
+    },
+    {
+      "word": "has",
+      "local_start": 27.474,
+      "local_end": 27.594,
+      "global_start": 325.234,
+      "global_end": 325.354,
+      "score": 0.906,
+      "segment_index": 13,
+      "segment_text": "And most companies take 36 hours before they even noticed something has happened."
+    },
+    {
+      "word": "happened.",
+      "local_start": 27.635,
+      "local_end": 27.975,
+      "global_start": 325.395,
+      "global_end": 325.735,
+      "score": 0.845,
+      "segment_index": 13,
+      "segment_text": "And most companies take 36 hours before they even noticed something has happened."
+    },
+    {
+      "word": "Attackers",
+      "local_start": 28.375,
+      "local_end": 28.756,
+      "global_start": 326.135,
+      "global_end": 326.516,
+      "score": 0.906,
+      "segment_index": 14,
+      "segment_text": "Attackers only need 48 minutes."
+    },
+    {
+      "word": "only",
+      "local_start": 28.797,
+      "local_end": 29.057,
+      "global_start": 326.557,
+      "global_end": 326.817,
+      "score": 0.734,
+      "segment_index": 14,
+      "segment_text": "Attackers only need 48 minutes."
+    },
+    {
+      "word": "need",
+      "local_start": 29.077,
+      "local_end": 29.378,
+      "global_start": 326.837,
+      "global_end": 327.138,
+      "score": 0.427,
+      "segment_index": 14,
+      "segment_text": "Attackers only need 48 minutes."
+    },
+    {
+      "word": "48",
+      "local_start": 29.398,
+      "local_end": 29.538,
+      "global_start": 327.158,
+      "global_end": 327.298,
+      "score": 0.354,
+      "segment_index": 14,
+      "segment_text": "Attackers only need 48 minutes."
+    },
+    {
+      "word": "minutes.",
+      "local_start": 29.558,
+      "local_end": 29.819,
+      "global_start": 327.318,
+      "global_end": 327.579,
+      "score": 0.922,
+      "segment_index": 14,
+      "segment_text": "Attackers only need 48 minutes."
+    },
+    {
+      "word": "Both",
+      "local_start": 30.06,
+      "local_end": 30.24,
+      "global_start": 327.82,
+      "global_end": 328.0,
+      "score": 0.479,
+      "segment_index": 15,
+      "segment_text": "Both Flair, you realize things happen within seconds."
+    },
+    {
+      "word": "Flair,",
+      "local_start": 30.32,
+      "local_end": 30.661,
+      "global_start": 328.08,
+      "global_end": 328.421,
+      "score": 0.813,
+      "segment_index": 15,
+      "segment_text": "Both Flair, you realize things happen within seconds."
+    },
+    {
+      "word": "you",
+      "local_start": 31.283,
+      "local_end": 31.584,
+      "global_start": 329.043,
+      "global_end": 329.344,
+      "score": 0.869,
+      "segment_index": 15,
+      "segment_text": "Both Flair, you realize things happen within seconds."
+    },
+    {
+      "word": "realize",
+      "local_start": 31.664,
+      "local_end": 32.125,
+      "global_start": 329.424,
+      "global_end": 329.885,
+      "score": 0.82,
+      "segment_index": 15,
+      "segment_text": "Both Flair, you realize things happen within seconds."
+    },
+    {
+      "word": "things",
+      "local_start": 32.145,
+      "local_end": 32.326,
+      "global_start": 329.905,
+      "global_end": 330.086,
+      "score": 0.835,
+      "segment_index": 15,
+      "segment_text": "Both Flair, you realize things happen within seconds."
+    },
+    {
+      "word": "happen",
+      "local_start": 32.366,
+      "local_end": 32.646,
+      "global_start": 330.126,
+      "global_end": 330.406,
+      "score": 0.808,
+      "segment_index": 15,
+      "segment_text": "Both Flair, you realize things happen within seconds."
+    },
+    {
+      "word": "within",
+      "local_start": 32.666,
+      "local_end": 32.907,
+      "global_start": 330.426,
+      "global_end": 330.667,
+      "score": 0.861,
+      "segment_index": 15,
+      "segment_text": "Both Flair, you realize things happen within seconds."
+    },
+    {
+      "word": "seconds.",
+      "local_start": 32.967,
+      "local_end": 33.288,
+      "global_start": 330.727,
+      "global_end": 331.048,
+      "score": 0.986,
+      "segment_index": 15,
+      "segment_text": "Both Flair, you realize things happen within seconds."
+    },
+    {
+      "word": "They",
+      "local_start": 33.509,
+      "local_end": 33.629,
+      "global_start": 331.269,
+      "global_end": 331.389,
+      "score": 0.843,
+      "segment_index": 16,
+      "segment_text": "They have a real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "have",
+      "local_start": 33.669,
+      "local_end": 33.769,
+      "global_start": 331.429,
+      "global_end": 331.529,
+      "score": 0.879,
+      "segment_index": 16,
+      "segment_text": "They have a real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "a",
+      "local_start": 33.789,
+      "local_end": 33.809,
+      "global_start": 331.549,
+      "global_end": 331.569,
+      "score": 0.035,
+      "segment_index": 16,
+      "segment_text": "They have a real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "real",
+      "local_start": 33.87,
+      "local_end": 34.07,
+      "global_start": 331.63,
+      "global_end": 331.83,
+      "score": 0.88,
+      "segment_index": 16,
+      "segment_text": "They have a real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "time",
+      "local_start": 34.13,
+      "local_end": 34.331,
+      "global_start": 331.89,
+      "global_end": 332.091,
+      "score": 0.88,
+      "segment_index": 16,
+      "segment_text": "They have a real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "detection",
+      "local_start": 34.371,
+      "local_end": 34.832,
+      "global_start": 332.131,
+      "global_end": 332.592,
+      "score": 0.9,
+      "segment_index": 16,
+      "segment_text": "They have a real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "and",
+      "local_start": 34.972,
+      "local_end": 35.073,
+      "global_start": 332.732,
+      "global_end": 332.833,
+      "score": 0.818,
+      "segment_index": 16,
+      "segment_text": "They have a real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "actually",
+      "local_start": 35.133,
+      "local_end": 35.393,
+      "global_start": 332.893,
+      "global_end": 333.153,
+      "score": 0.941,
+      "segment_index": 16,
+      "segment_text": "They have a real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "checks",
+      "local_start": 35.474,
+      "local_end": 35.774,
+      "global_start": 333.234,
+      "global_end": 333.534,
+      "score": 0.747,
+      "segment_index": 16,
+      "segment_text": "They have a real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "against",
+      "local_start": 35.895,
+      "local_end": 36.195,
+      "global_start": 333.655,
+      "global_end": 333.955,
+      "score": 0.767,
+      "segment_index": 16,
+      "segment_text": "They have a real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "Entra",
+      "local_start": 36.396,
+      "local_end": 36.717,
+      "global_start": 334.156,
+      "global_end": 334.477,
+      "score": 0.811,
+      "segment_index": 16,
+      "segment_text": "They have a real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "ID",
+      "local_start": 36.857,
+      "local_end": 37.178,
+      "global_start": 334.617,
+      "global_end": 334.938,
+      "score": 0.872,
+      "segment_index": 16,
+      "segment_text": "They have a real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "whether",
+      "local_start": 37.278,
+      "local_end": 37.499,
+      "global_start": 335.038,
+      "global_end": 335.259,
+      "score": 0.911,
+      "segment_index": 16,
+      "segment_text": "They have a real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "an",
+      "local_start": 37.539,
+      "local_end": 37.579,
+      "global_start": 335.299,
+      "global_end": 335.339,
+      "score": 0.995,
+      "segment_index": 16,
+      "segment_text": "They have a real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "account",
+      "local_start": 37.619,
+      "local_end": 37.94,
+      "global_start": 335.379,
+      "global_end": 335.7,
+      "score": 0.835,
+      "segment_index": 16,
+      "segment_text": "They have a real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "is",
+      "local_start": 38.0,
+      "local_end": 38.06,
+      "global_start": 335.76,
+      "global_end": 335.82,
+      "score": 0.805,
+      "segment_index": 16,
+      "segment_text": "They have a real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "actually",
+      "local_start": 38.14,
+      "local_end": 38.421,
+      "global_start": 335.9,
+      "global_end": 336.181,
+      "score": 0.852,
+      "segment_index": 16,
+      "segment_text": "They have a real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "real.",
+      "local_start": 38.501,
+      "local_end": 38.682,
+      "global_start": 336.261,
+      "global_end": 336.442,
+      "score": 0.988,
+      "segment_index": 16,
+      "segment_text": "They have a real time detection and actually checks against Entra ID whether an account is actually real."
+    }
+  ],
+  "raw_segments": [
+    {
+      "start": 0.031,
+      "end": 28.195,
+      "text": "which means you don't need credentials. You just use those cookie sessions. Skips to factor. So listen up. We know how breaches happen now. It's on a mystery. Attackers don't hack in. They log in. Info stealer malware grabs everything. Password session cookies. MFA tokens. 54% of ransomware victims had their info. Sitting inside stealer logs way before they ever got hacked. And most companies take 36 hours before they even noticed something has happened."
+    },
+    {
+      "start": 28.195,
+      "end": 38.742,
+      "text": "Attackers only need 48 minutes. Both Flair, you realize things happen within seconds. They have a real time detection and actually checks against Entra ID whether an account is actually real."
+    }
+  ]
+}

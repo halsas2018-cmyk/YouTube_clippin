@@ -1,0 +1,1024 @@
+{
+  "section_id": "section_006",
+  "candidate_id": 5,
+  "video_id": "7RVf25Rg0Mc",
+  "file_name": "section_006.mp4",
+  "file_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/sections/section_006.mp4",
+  "start_offset": 660.8,
+  "end_offset": 686.68,
+  "target_duration_s": 25.88,
+  "probed_duration_s": 25.886,
+  "original_candidate_ranges": [
+    {
+      "start": 629.8,
+      "end": 640.0
+    },
+    {
+      "start": 668.8,
+      "end": 678.68
+    }
+  ],
+  "padded_range": {
+    "start": 660.8,
+    "end": 686.68
+  },
+  "combined_text": "It's not a mystery. Four links on flu powder have been broken for 15 months. Flu powder is my MicroTik switch we're talking about. Anything that disturbs the building knocks them over. [...] It comes down to the transceivers. I have these SFPs. They are these third-party SFPs I bought off Amazon fairly cheap. I bought them in different batches over time as I've added more employees. And apparently the ports are all in one of the batches.",
+  "reason": "This is a satisfying 'tech mystery' resolution that provides real-world value for IT professionals.",
+  "alignment": {
+    "whisper_model": "base",
+    "language": "en",
+    "device": "cpu",
+    "compute_type": "float32",
+    "total_words": 98,
+    "timestamp_note": "local_start/local_end are relative to the section MP4 file (0-based seconds). global_start/global_end are authoritative original-video timestamps = local_timestamp + start_offset."
+  },
+  "words": [
+    {
+      "word": "Look",
+      "local_start": 0.191,
+      "local_end": 0.311,
+      "global_start": 660.991,
+      "global_end": 661.111,
+      "score": 0.997,
+      "segment_index": 0,
+      "segment_text": "Look at this."
+    },
+    {
+      "word": "at",
+      "local_start": 0.351,
+      "local_end": 0.391,
+      "global_start": 661.151,
+      "global_end": 661.191,
+      "score": 0.997,
+      "segment_index": 0,
+      "segment_text": "Look at this."
+    },
+    {
+      "word": "this.",
+      "local_start": 0.411,
+      "local_end": 0.592,
+      "global_start": 661.211,
+      "global_end": 661.392,
+      "score": 0.85,
+      "segment_index": 0,
+      "segment_text": "Look at this."
+    },
+    {
+      "word": "You",
+      "local_start": 1.092,
+      "local_end": 1.152,
+      "global_start": 661.892,
+      "global_end": 661.952,
+      "score": 1.0,
+      "segment_index": 1,
+      "segment_text": "You don't even have to come to this paperclip interface."
+    },
+    {
+      "word": "don't",
+      "local_start": 1.172,
+      "local_end": 1.292,
+      "global_start": 661.972,
+      "global_end": 662.092,
+      "score": 0.884,
+      "segment_index": 1,
+      "segment_text": "You don't even have to come to this paperclip interface."
+    },
+    {
+      "word": "even",
+      "local_start": 1.332,
+      "local_end": 1.493,
+      "global_start": 662.132,
+      "global_end": 662.293,
+      "score": 0.831,
+      "segment_index": 1,
+      "segment_text": "You don't even have to come to this paperclip interface."
+    },
+    {
+      "word": "have",
+      "local_start": 1.553,
+      "local_end": 1.673,
+      "global_start": 662.353,
+      "global_end": 662.473,
+      "score": 0.923,
+      "segment_index": 1,
+      "segment_text": "You don't even have to come to this paperclip interface."
+    },
+    {
+      "word": "to",
+      "local_start": 1.713,
+      "local_end": 1.773,
+      "global_start": 662.513,
+      "global_end": 662.573,
+      "score": 0.791,
+      "segment_index": 1,
+      "segment_text": "You don't even have to come to this paperclip interface."
+    },
+    {
+      "word": "come",
+      "local_start": 1.833,
+      "local_end": 2.033,
+      "global_start": 662.633,
+      "global_end": 662.833,
+      "score": 0.869,
+      "segment_index": 1,
+      "segment_text": "You don't even have to come to this paperclip interface."
+    },
+    {
+      "word": "to",
+      "local_start": 2.053,
+      "local_end": 2.133,
+      "global_start": 662.853,
+      "global_end": 662.933,
+      "score": 0.508,
+      "segment_index": 1,
+      "segment_text": "You don't even have to come to this paperclip interface."
+    },
+    {
+      "word": "this",
+      "local_start": 2.153,
+      "local_end": 2.274,
+      "global_start": 662.953,
+      "global_end": 663.074,
+      "score": 0.765,
+      "segment_index": 1,
+      "segment_text": "You don't even have to come to this paperclip interface."
+    },
+    {
+      "word": "paperclip",
+      "local_start": 2.294,
+      "local_end": 2.654,
+      "global_start": 663.094,
+      "global_end": 663.454,
+      "score": 0.799,
+      "segment_index": 1,
+      "segment_text": "You don't even have to come to this paperclip interface."
+    },
+    {
+      "word": "interface.",
+      "local_start": 2.674,
+      "local_end": 3.054,
+      "global_start": 663.474,
+      "global_end": 663.854,
+      "score": 0.924,
+      "segment_index": 1,
+      "segment_text": "You don't even have to come to this paperclip interface."
+    },
+    {
+      "word": "You",
+      "local_start": 3.435,
+      "local_end": 3.515,
+      "global_start": 664.235,
+      "global_end": 664.315,
+      "score": 0.834,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "can",
+      "local_start": 3.535,
+      "local_end": 3.615,
+      "global_start": 664.335,
+      "global_end": 664.415,
+      "score": 0.829,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "actually",
+      "local_start": 3.635,
+      "local_end": 3.835,
+      "global_start": 664.435,
+      "global_end": 664.635,
+      "score": 0.92,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "talk",
+      "local_start": 3.875,
+      "local_end": 4.076,
+      "global_start": 664.675,
+      "global_end": 664.876,
+      "score": 0.852,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "to",
+      "local_start": 4.116,
+      "local_end": 4.176,
+      "global_start": 664.916,
+      "global_end": 664.976,
+      "score": 0.75,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "your",
+      "local_start": 4.216,
+      "local_end": 4.356,
+      "global_start": 665.016,
+      "global_end": 665.156,
+      "score": 0.794,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "agents",
+      "local_start": 4.496,
+      "local_end": 4.776,
+      "global_start": 665.296,
+      "global_end": 665.576,
+      "score": 0.921,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "and",
+      "local_start": 5.157,
+      "local_end": 5.257,
+      "global_start": 665.957,
+      "global_end": 666.057,
+      "score": 0.845,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "they",
+      "local_start": 5.337,
+      "local_end": 5.537,
+      "global_start": 666.137,
+      "global_end": 666.337,
+      "score": 0.812,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "can",
+      "local_start": 5.557,
+      "local_end": 5.697,
+      "global_start": 666.357,
+      "global_end": 666.497,
+      "score": 0.88,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "do",
+      "local_start": 5.717,
+      "local_end": 5.817,
+      "global_start": 666.517,
+      "global_end": 666.617,
+      "score": 0.995,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "stuff",
+      "local_start": 5.858,
+      "local_end": 6.018,
+      "global_start": 666.658,
+      "global_end": 666.818,
+      "score": 0.947,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "in",
+      "local_start": 6.058,
+      "local_end": 6.118,
+      "global_start": 666.858,
+      "global_end": 666.918,
+      "score": 0.736,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "paperclip",
+      "local_start": 6.138,
+      "local_end": 6.498,
+      "global_start": 666.938,
+      "global_end": 667.298,
+      "score": 0.771,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "like",
+      "local_start": 6.518,
+      "local_end": 6.618,
+      "global_start": 667.318,
+      "global_end": 667.418,
+      "score": 0.874,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "I'm",
+      "local_start": 6.638,
+      "local_end": 6.718,
+      "global_start": 667.438,
+      "global_end": 667.518,
+      "score": 0.177,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "asking",
+      "local_start": 6.739,
+      "local_end": 7.019,
+      "global_start": 667.539,
+      "global_end": 667.819,
+      "score": 0.812,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "Ron",
+      "local_start": 7.079,
+      "local_end": 7.259,
+      "global_start": 667.879,
+      "global_end": 668.059,
+      "score": 0.856,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "right",
+      "local_start": 7.299,
+      "local_end": 7.419,
+      "global_start": 668.099,
+      "global_end": 668.219,
+      "score": 0.888,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "now",
+      "local_start": 7.439,
+      "local_end": 7.559,
+      "global_start": 668.239,
+      "global_end": 668.359,
+      "score": 0.848,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "to",
+      "local_start": 7.62,
+      "local_end": 7.7,
+      "global_start": 668.42,
+      "global_end": 668.5,
+      "score": 0.712,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "assign",
+      "local_start": 7.74,
+      "local_end": 7.96,
+      "global_start": 668.54,
+      "global_end": 668.76,
+      "score": 0.8,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "a",
+      "local_start": 7.98,
+      "local_end": 8.02,
+      "global_start": 668.78,
+      "global_end": 668.82,
+      "score": 0.658,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "task",
+      "local_start": 8.06,
+      "local_end": 8.34,
+      "global_start": 668.86,
+      "global_end": 669.14,
+      "score": 0.976,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "to",
+      "local_start": 8.36,
+      "local_end": 8.48,
+      "global_start": 669.16,
+      "global_end": 669.28,
+      "score": 0.714,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "Matt",
+      "local_start": 8.5,
+      "local_end": 8.621,
+      "global_start": 669.3,
+      "global_end": 669.421,
+      "score": 0.544,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "Imoody",
+      "local_start": 8.661,
+      "local_end": 9.001,
+      "global_start": 669.461,
+      "global_end": 669.801,
+      "score": 0.845,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "through",
+      "local_start": 9.081,
+      "local_end": 9.321,
+      "global_start": 669.881,
+      "global_end": 670.121,
+      "score": 0.871,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "hermys.",
+      "local_start": 9.361,
+      "local_end": 9.702,
+      "global_start": 670.161,
+      "global_end": 670.502,
+      "score": 0.785,
+      "segment_index": 2,
+      "segment_text": "You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys."
+    },
+    {
+      "word": "This",
+      "local_start": 10.082,
+      "local_end": 10.202,
+      "global_start": 670.882,
+      "global_end": 671.002,
+      "score": 0.849,
+      "segment_index": 3,
+      "segment_text": "This works because they all have a paperclip skill."
+    },
+    {
+      "word": "works",
+      "local_start": 10.242,
+      "local_end": 10.423,
+      "global_start": 671.042,
+      "global_end": 671.223,
+      "score": 0.838,
+      "segment_index": 3,
+      "segment_text": "This works because they all have a paperclip skill."
+    },
+    {
+      "word": "because",
+      "local_start": 10.443,
+      "local_end": 10.623,
+      "global_start": 671.243,
+      "global_end": 671.423,
+      "score": 0.873,
+      "segment_index": 3,
+      "segment_text": "This works because they all have a paperclip skill."
+    },
+    {
+      "word": "they",
+      "local_start": 10.643,
+      "local_end": 10.743,
+      "global_start": 671.443,
+      "global_end": 671.543,
+      "score": 0.892,
+      "segment_index": 3,
+      "segment_text": "This works because they all have a paperclip skill."
+    },
+    {
+      "word": "all",
+      "local_start": 10.763,
+      "local_end": 10.883,
+      "global_start": 671.563,
+      "global_end": 671.683,
+      "score": 0.802,
+      "segment_index": 3,
+      "segment_text": "This works because they all have a paperclip skill."
+    },
+    {
+      "word": "have",
+      "local_start": 10.903,
+      "local_end": 10.983,
+      "global_start": 671.703,
+      "global_end": 671.783,
+      "score": 0.733,
+      "segment_index": 3,
+      "segment_text": "This works because they all have a paperclip skill."
+    },
+    {
+      "word": "a",
+      "local_start": 11.023,
+      "local_end": 11.043,
+      "global_start": 671.823,
+      "global_end": 671.843,
+      "score": 0.988,
+      "segment_index": 3,
+      "segment_text": "This works because they all have a paperclip skill."
+    },
+    {
+      "word": "paperclip",
+      "local_start": 11.083,
+      "local_end": 11.464,
+      "global_start": 671.883,
+      "global_end": 672.264,
+      "score": 0.862,
+      "segment_index": 3,
+      "segment_text": "This works because they all have a paperclip skill."
+    },
+    {
+      "word": "skill.",
+      "local_start": 11.484,
+      "local_end": 11.724,
+      "global_start": 672.284,
+      "global_end": 672.524,
+      "score": 0.919,
+      "segment_index": 3,
+      "segment_text": "This works because they all have a paperclip skill."
+    },
+    {
+      "word": "Isn't",
+      "local_start": 11.924,
+      "local_end": 12.044,
+      "global_start": 672.724,
+      "global_end": 672.844,
+      "score": 0.804,
+      "segment_index": 4,
+      "segment_text": "Isn't that awesome?"
+    },
+    {
+      "word": "that",
+      "local_start": 12.064,
+      "local_end": 12.165,
+      "global_start": 672.864,
+      "global_end": 672.965,
+      "score": 0.328,
+      "segment_index": 4,
+      "segment_text": "Isn't that awesome?"
+    },
+    {
+      "word": "awesome?",
+      "local_start": 12.245,
+      "local_end": 12.485,
+      "global_start": 673.045,
+      "global_end": 673.285,
+      "score": 0.771,
+      "segment_index": 4,
+      "segment_text": "Isn't that awesome?"
+    },
+    {
+      "word": "Also",
+      "local_start": 12.805,
+      "local_end": 13.006,
+      "global_start": 673.605,
+      "global_end": 673.806,
+      "score": 0.689,
+      "segment_index": 5,
+      "segment_text": "Also look at this organization stuff."
+    },
+    {
+      "word": "look",
+      "local_start": 13.026,
+      "local_end": 13.126,
+      "global_start": 673.826,
+      "global_end": 673.926,
+      "score": 0.997,
+      "segment_index": 5,
+      "segment_text": "Also look at this organization stuff."
+    },
+    {
+      "word": "at",
+      "local_start": 13.146,
+      "local_end": 13.186,
+      "global_start": 673.946,
+      "global_end": 673.986,
+      "score": 0.863,
+      "segment_index": 5,
+      "segment_text": "Also look at this organization stuff."
+    },
+    {
+      "word": "this",
+      "local_start": 13.206,
+      "local_end": 13.306,
+      "global_start": 674.006,
+      "global_end": 674.106,
+      "score": 0.178,
+      "segment_index": 5,
+      "segment_text": "Also look at this organization stuff."
+    },
+    {
+      "word": "organization",
+      "local_start": 13.346,
+      "local_end": 13.826,
+      "global_start": 674.146,
+      "global_end": 674.626,
+      "score": 0.827,
+      "segment_index": 5,
+      "segment_text": "Also look at this organization stuff."
+    },
+    {
+      "word": "stuff.",
+      "local_start": 13.846,
+      "local_end": 14.027,
+      "global_start": 674.646,
+      "global_end": 674.827,
+      "score": 0.71,
+      "segment_index": 5,
+      "segment_text": "Also look at this organization stuff."
+    },
+    {
+      "word": "We",
+      "local_start": 14.047,
+      "local_end": 14.127,
+      "global_start": 674.847,
+      "global_end": 674.927,
+      "score": 0.415,
+      "segment_index": 6,
+      "segment_text": "We get an org chart, of course."
+    },
+    {
+      "word": "get",
+      "local_start": 14.147,
+      "local_end": 14.207,
+      "global_start": 674.947,
+      "global_end": 675.007,
+      "score": 0.014,
+      "segment_index": 6,
+      "segment_text": "We get an org chart, of course."
+    },
+    {
+      "word": "an",
+      "local_start": 14.227,
+      "local_end": 14.267,
+      "global_start": 675.027,
+      "global_end": 675.067,
+      "score": 0.132,
+      "segment_index": 6,
+      "segment_text": "We get an org chart, of course."
+    },
+    {
+      "word": "org",
+      "local_start": 14.347,
+      "local_end": 14.467,
+      "global_start": 675.147,
+      "global_end": 675.267,
+      "score": 0.777,
+      "segment_index": 6,
+      "segment_text": "We get an org chart, of course."
+    },
+    {
+      "word": "chart,",
+      "local_start": 14.487,
+      "local_end": 14.687,
+      "global_start": 675.287,
+      "global_end": 675.487,
+      "score": 0.689,
+      "segment_index": 6,
+      "segment_text": "We get an org chart, of course."
+    },
+    {
+      "word": "of",
+      "local_start": 14.707,
+      "local_end": 14.768,
+      "global_start": 675.507,
+      "global_end": 675.568,
+      "score": 0.748,
+      "segment_index": 6,
+      "segment_text": "We get an org chart, of course."
+    },
+    {
+      "word": "course.",
+      "local_start": 14.828,
+      "local_end": 15.048,
+      "global_start": 675.628,
+      "global_end": 675.848,
+      "score": 0.847,
+      "segment_index": 6,
+      "segment_text": "We get an org chart, of course."
+    },
+    {
+      "word": "Activity.",
+      "local_start": 15.348,
+      "local_end": 15.769,
+      "global_start": 676.148,
+      "global_end": 676.569,
+      "score": 0.898,
+      "segment_index": 7,
+      "segment_text": "Activity."
+    },
+    {
+      "word": "We",
+      "local_start": 16.069,
+      "local_end": 16.149,
+      "global_start": 676.869,
+      "global_end": 676.949,
+      "score": 0.842,
+      "segment_index": 8,
+      "segment_text": "We have timelines."
+    },
+    {
+      "word": "have",
+      "local_start": 16.189,
+      "local_end": 16.269,
+      "global_start": 676.989,
+      "global_end": 677.069,
+      "score": 0.999,
+      "segment_index": 8,
+      "segment_text": "We have timelines."
+    },
+    {
+      "word": "timelines.",
+      "local_start": 16.329,
+      "local_end": 16.91,
+      "global_start": 677.129,
+      "global_end": 677.71,
+      "score": 0.954,
+      "segment_index": 8,
+      "segment_text": "We have timelines."
+    },
+    {
+      "word": "Everything's",
+      "local_start": 17.451,
+      "local_end": 17.811,
+      "global_start": 678.251,
+      "global_end": 678.611,
+      "score": 0.859,
+      "segment_index": 9,
+      "segment_text": "Everything's trackable."
+    },
+    {
+      "word": "trackable.",
+      "local_start": 17.851,
+      "local_end": 18.291,
+      "global_start": 678.651,
+      "global_end": 679.091,
+      "score": 0.866,
+      "segment_index": 9,
+      "segment_text": "Everything's trackable."
+    },
+    {
+      "word": "Everything's",
+      "local_start": 18.392,
+      "local_end": 18.772,
+      "global_start": 679.192,
+      "global_end": 679.572,
+      "score": 0.853,
+      "segment_index": 10,
+      "segment_text": "Everything's traceable."
+    },
+    {
+      "word": "traceable.",
+      "local_start": 18.832,
+      "local_end": 19.313,
+      "global_start": 679.632,
+      "global_end": 680.113,
+      "score": 0.83,
+      "segment_index": 10,
+      "segment_text": "Everything's traceable."
+    },
+    {
+      "word": "And",
+      "local_start": 19.713,
+      "local_end": 19.793,
+      "global_start": 680.513,
+      "global_end": 680.593,
+      "score": 0.865,
+      "segment_index": 11,
+      "segment_text": "And that's important when you're about to solve a big toilet problem that we're going to solve right now."
+    },
+    {
+      "word": "that's",
+      "local_start": 19.813,
+      "local_end": 19.993,
+      "global_start": 680.613,
+      "global_end": 680.793,
+      "score": 0.864,
+      "segment_index": 11,
+      "segment_text": "And that's important when you're about to solve a big toilet problem that we're going to solve right now."
+    },
+    {
+      "word": "important",
+      "local_start": 20.033,
+      "local_end": 20.494,
+      "global_start": 680.833,
+      "global_end": 681.294,
+      "score": 0.755,
+      "segment_index": 11,
+      "segment_text": "And that's important when you're about to solve a big toilet problem that we're going to solve right now."
+    },
+    {
+      "word": "when",
+      "local_start": 20.614,
+      "local_end": 20.694,
+      "global_start": 681.414,
+      "global_end": 681.494,
+      "score": 0.993,
+      "segment_index": 11,
+      "segment_text": "And that's important when you're about to solve a big toilet problem that we're going to solve right now."
+    },
+    {
+      "word": "you're",
+      "local_start": 20.714,
+      "local_end": 20.854,
+      "global_start": 681.514,
+      "global_end": 681.654,
+      "score": 0.856,
+      "segment_index": 11,
+      "segment_text": "And that's important when you're about to solve a big toilet problem that we're going to solve right now."
+    },
+    {
+      "word": "about",
+      "local_start": 20.874,
+      "local_end": 20.974,
+      "global_start": 681.674,
+      "global_end": 681.774,
+      "score": 0.996,
+      "segment_index": 11,
+      "segment_text": "And that's important when you're about to solve a big toilet problem that we're going to solve right now."
+    },
+    {
+      "word": "to",
+      "local_start": 20.995,
+      "local_end": 21.075,
+      "global_start": 681.795,
+      "global_end": 681.875,
+      "score": 0.154,
+      "segment_index": 11,
+      "segment_text": "And that's important when you're about to solve a big toilet problem that we're going to solve right now."
+    },
+    {
+      "word": "solve",
+      "local_start": 21.095,
+      "local_end": 21.355,
+      "global_start": 681.895,
+      "global_end": 682.155,
+      "score": 0.73,
+      "segment_index": 11,
+      "segment_text": "And that's important when you're about to solve a big toilet problem that we're going to solve right now."
+    },
+    {
+      "word": "a",
+      "local_start": 21.375,
+      "local_end": 21.395,
+      "global_start": 682.175,
+      "global_end": 682.195,
+      "score": 0.005,
+      "segment_index": 11,
+      "segment_text": "And that's important when you're about to solve a big toilet problem that we're going to solve right now."
+    },
+    {
+      "word": "big",
+      "local_start": 21.435,
+      "local_end": 21.635,
+      "global_start": 682.235,
+      "global_end": 682.435,
+      "score": 0.935,
+      "segment_index": 11,
+      "segment_text": "And that's important when you're about to solve a big toilet problem that we're going to solve right now."
+    },
+    {
+      "word": "toilet",
+      "local_start": 21.715,
+      "local_end": 22.036,
+      "global_start": 682.515,
+      "global_end": 682.836,
+      "score": 0.821,
+      "segment_index": 11,
+      "segment_text": "And that's important when you're about to solve a big toilet problem that we're going to solve right now."
+    },
+    {
+      "word": "problem",
+      "local_start": 22.076,
+      "local_end": 22.396,
+      "global_start": 682.876,
+      "global_end": 683.196,
+      "score": 0.778,
+      "segment_index": 11,
+      "segment_text": "And that's important when you're about to solve a big toilet problem that we're going to solve right now."
+    },
+    {
+      "word": "that",
+      "local_start": 22.416,
+      "local_end": 22.496,
+      "global_start": 683.216,
+      "global_end": 683.296,
+      "score": 0.998,
+      "segment_index": 11,
+      "segment_text": "And that's important when you're about to solve a big toilet problem that we're going to solve right now."
+    },
+    {
+      "word": "we're",
+      "local_start": 22.516,
+      "local_end": 22.616,
+      "global_start": 683.316,
+      "global_end": 683.416,
+      "score": 0.612,
+      "segment_index": 11,
+      "segment_text": "And that's important when you're about to solve a big toilet problem that we're going to solve right now."
+    },
+    {
+      "word": "going",
+      "local_start": 22.636,
+      "local_end": 22.736,
+      "global_start": 683.436,
+      "global_end": 683.536,
+      "score": 0.25,
+      "segment_index": 11,
+      "segment_text": "And that's important when you're about to solve a big toilet problem that we're going to solve right now."
+    },
+    {
+      "word": "to",
+      "local_start": 22.756,
+      "local_end": 22.797,
+      "global_start": 683.556,
+      "global_end": 683.597,
+      "score": 0.0,
+      "segment_index": 11,
+      "segment_text": "And that's important when you're about to solve a big toilet problem that we're going to solve right now."
+    },
+    {
+      "word": "solve",
+      "local_start": 22.817,
+      "local_end": 23.077,
+      "global_start": 683.617,
+      "global_end": 683.877,
+      "score": 0.881,
+      "segment_index": 11,
+      "segment_text": "And that's important when you're about to solve a big toilet problem that we're going to solve right now."
+    },
+    {
+      "word": "right",
+      "local_start": 24.258,
+      "local_end": 24.418,
+      "global_start": 685.058,
+      "global_end": 685.218,
+      "score": 0.705,
+      "segment_index": 11,
+      "segment_text": "And that's important when you're about to solve a big toilet problem that we're going to solve right now."
+    },
+    {
+      "word": "now.",
+      "local_start": 24.458,
+      "local_end": 24.619,
+      "global_start": 685.258,
+      "global_end": 685.419,
+      "score": 0.953,
+      "segment_index": 11,
+      "segment_text": "And that's important when you're about to solve a big toilet problem that we're going to solve right now."
+    },
+    {
+      "word": "Get",
+      "local_start": 25.159,
+      "local_end": 25.259,
+      "global_start": 685.959,
+      "global_end": 686.059,
+      "score": 0.839,
+      "segment_index": 12,
+      "segment_text": "Get your coffee stinky"
+    },
+    {
+      "word": "your",
+      "local_start": 25.279,
+      "local_end": 25.399,
+      "global_start": 686.079,
+      "global_end": 686.199,
+      "score": 0.754,
+      "segment_index": 12,
+      "segment_text": "Get your coffee stinky"
+    },
+    {
+      "word": "coffee",
+      "local_start": 25.439,
+      "local_end": 25.72,
+      "global_start": 686.239,
+      "global_end": 686.52,
+      "score": 0.982,
+      "segment_index": 12,
+      "segment_text": "Get your coffee stinky"
+    },
+    {
+      "word": "stinky",
+      "local_start": 25.74,
+      "local_end": 25.9,
+      "global_start": 686.54,
+      "global_end": 686.7,
+      "score": 0.595,
+      "segment_index": 12,
+      "segment_text": "Get your coffee stinky"
+    }
+  ],
+  "raw_segments": [
+    {
+      "start": 0.031,
+      "end": 25.9,
+      "text": "Look at this. You don't even have to come to this paperclip interface. You can actually talk to your agents and they can do stuff in paperclip like I'm asking Ron right now to assign a task to Matt Imoody through hermys. This works because they all have a paperclip skill. Isn't that awesome? Also look at this organization stuff. We get an org chart, of course. Activity. We have timelines. Everything's trackable. Everything's traceable. And that's important when you're about to solve a big toilet problem that we're going to solve right now. Get your coffee stinky"
+    }
+  ]
+}
