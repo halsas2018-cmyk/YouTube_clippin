@@ -1,0 +1,66 @@
+name: Render Remotion Videos
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  render:
+    name: Render all candidates
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: remotion/package-lock.json
+
+      - name: Install dependencies
+        working-directory: remotion
+        run: npm ci
+
+      - name: Install Remotion browser
+        working-directory: remotion
+        run: npx remotion browser ensure
+
+      - name: Discover video ID and candidate IDs
+        id: discover
+        working-directory: remotion
+        run: |
+          # Find video ID from the downloads directory
+          VIDEO_ID=$(ls public/media/downloads/ | head -n 1)
+          echo "video_id=$VIDEO_ID" >> $GITHUB_OUTPUT
+
+          # Extract candidate IDs from final_clip_timings.json
+          CANDIDATE_IDS=$(cat "public/media/downloads/$VIDEO_ID/final_clip_timings.json" | \
+            python3 -c "import json, sys; data = json.load(sys.stdin); print(' '.join(str(c['candidate_id']) for c in data['candidates']))")
+          echo "candidate_ids=$CANDIDATE_IDS" >> $GITHUB_OUTPUT
+
+      - name: Render all candidates
+        working-directory: remotion
+        run: |
+          VIDEO_ID="${{ steps.discover.outputs.video_id }}"
+          CANDIDATE_IDS="${{ steps.discover.outputs.candidate_ids }}"
+
+          for CANDIDATE_ID in $CANDIDATE_IDS; do
+            COMPOSITION_ID="${VIDEO_ID}-cand${CANDIDATE_ID}"
+            OUTPUT_FILE="${VIDEO_ID}-cand${CANDIDATE_ID}.mp4"
+            echo "Rendering $COMPOSITION_ID -> $OUTPUT_FILE"
+            npx remotion render src/index.tsx "$COMPOSITION_ID" \
+              --props "{\"videoId\":\"$VIDEO_ID\",\"candidateId\":$CANDIDATE_ID}" \
+              --output "$OUTPUT_FILE"
+          done
+
+      - name: Upload rendered videos
+        uses: actions/upload-artifact@v4
+        with:
+          name: rendered-videos
+          path: remotion/*.mp4
+          retention-days: 7
