@@ -5,37 +5,33 @@
   "file_name": "section_001.mp4",
   "file_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/sections/section_001.mp4",
   "start_offset": 26.68,
-  "end_offset": 66.52,
-  "target_duration_s": 39.84,
-  "probed_duration_s": 39.853,
+  "end_offset": 63.16,
+  "target_duration_s": 36.48,
+  "probed_duration_s": 36.501,
   "original_candidate_ranges": [
     {
       "start": 34.68,
-      "end": 46.56
-    },
-    {
-      "start": 53.92,
-      "end": 58.52
+      "end": 55.16
     }
   ],
   "padded_range": {
     "start": 26.68,
-    "end": 66.52
+    "end": 63.16
   },
   "streams": [
     {
       "index": 0,
       "codec_name": "av1",
       "codec_type": "video",
-      "duration": "39.853000"
+      "duration": "36.483000"
     },
     {
       "index": 1,
       "codec_name": "aac",
       "codec_type": "audio",
-      "duration": "39.845011"
+      "duration": "36.500998"
     }
   ],
-  "combined_text": "In Paperclip, your agents become employees. You give them managers, you assign them tasks. They can talk to each other, but it's not what you think. It's through the task, intentional and focused. [...] And it doesn't matter what harness you have. Everyone can be brought into this company.",
-  "reason": "This clip quickly explains the core value proposition of Paperclip as a meta-harness for AI agents, making it perfect for a tech-focused short."
+  "combined_text": "In Paperclip, your agents become employees. You give them managers, you assign them tasks. They can talk to each other, but it's not what you think. It's through the task, intentional and focused. I haven't seen a lot of super value out of like agent conference room or an agent town where you just set your agents to sit there and talk to each other.",
+  "reason": "This clip clearly explains the unique value proposition of Paperclip as a 'meta harness' for managing AI agents as employees, which is a compelling hook for tech-focused viewers."
 }

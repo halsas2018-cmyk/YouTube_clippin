@@ -1,6 +1,6 @@
 {
   "video_id": "7RVf25Rg0Mc",
-  "total_clip_duration_s": 16.074,
+  "total_clip_duration_s": 20.434,
   "audio_assets": [
     {
       "asset_id": "audio_background_music_001",
@@ -12,7 +12,7 @@
       "query": "Background music track",
       "timing": {
         "start": 0.0,
-        "end": 16.074
+        "end": 20.434
       }
     },
     {

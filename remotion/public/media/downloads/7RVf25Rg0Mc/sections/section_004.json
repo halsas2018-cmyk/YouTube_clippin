@@ -4,38 +4,34 @@
   "video_id": "7RVf25Rg0Mc",
   "file_name": "section_004.mp4",
   "file_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/sections/section_004.mp4",
-  "start_offset": 297.76,
-  "end_offset": 336.48,
-  "target_duration_s": 38.72,
-  "probed_duration_s": 38.743,
+  "start_offset": 526.64,
+  "end_offset": 579.52,
+  "target_duration_s": 52.88,
+  "probed_duration_s": 52.906,
   "original_candidate_ranges": [
     {
-      "start": 305.76,
-      "end": 314.48
-    },
-    {
-      "start": 320.52,
-      "end": 328.48
+      "start": 534.64,
+      "end": 571.52
     }
   ],
   "padded_range": {
-    "start": 297.76,
-    "end": 336.48
+    "start": 526.64,
+    "end": 579.52
   },
   "streams": [
     {
       "index": 0,
       "codec_name": "av1",
       "codec_type": "video",
-      "duration": "38.743000"
+      "duration": "52.906000"
     },
     {
       "index": 1,
       "codec_name": "aac",
       "codec_type": "audio",
-      "duration": "38.720000"
+      "duration": "52.883991"
     }
   ],
-  "combined_text": "Here, what you're about to see is one of the most powerful parts of Paperclip, and it's how we talk with our agents, how we interface with them. And that's through tasks. Now, we're about to assign our toilet task. But first, I want to just test this and make sure it works. [...] Boom, Dumbledore assigns a task to Ron. And that right there is our first moment where we talk to an agent and then an agent talk to another agent. And they're both working here.",
-  "reason": "Shows the 'agent-to-agent' communication feature in action, which is a highly engaging visual for viewers."
+  "combined_text": "Routines are actually pretty sick. Let's create one right now. You can think of a routine like a scheduled task, right? It's going to run on a schedule that you set, and we can do a ton of things with this. It's actually pretty powerful. [...] Check storage. And I'm going to voice dictate this because I'm lazy. Every day, check the storage on the SEF server and check for any health issues. I'll have you report back the amount of storage we have left. And if there's anything that's low, you need to create a decision for Chuck. [...] It's like every day at 10:00 a.m. Add trigger. Boom. It's active. It's saved. If I go to routines, I see it sitting right there. You can also run it at any time. By the way, this is how I run my stand-ups. Run now. Run the routine.",
+  "reason": "This clip showcases the automation capabilities of the platform, specifically how users can set up recurring 'routines' for their AI agents."
 }

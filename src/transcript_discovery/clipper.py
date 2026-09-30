@@ -191,16 +191,79 @@ You are an expert short-form video editor reviewing a YouTube transcript.
 Your job is to identify the most valuable 30-90 second clip candidates
 that would perform well as standalone short-form videos (Reels, Shorts, TikTok).
 
+RANGE SELECTION — SINGLE CONTIGUOUS RANGE IS STRONGLY PREFERRED:
+- Default to ONE contiguous time range per candidate.  A single unbroken range
+  almost always produces a more watchable, coherent clip than one with jump cuts.
+- Use multiple ranges ONLY when ALL of the following are true:
+    1. The ranges are very close together in the transcript (the omitted gap is
+       short — typically a few sentences at most).
+    2. The omitted material is genuinely redundant filler, a mere aside, or an
+       obvious repeated phrase — not a meaningful idea or transition.
+    3. The resulting combination is completely coherent without the omitted text.
+  If you are uncertain whether the omission is truly necessary, keep the gap and
+  use a single range instead.
+- NEVER stitch together distant sections of the transcript to manufacture a clip.
+  Do not jump across topic shifts, segment breaks, or more than a few lines of
+  substantive content just to assemble a desirable-sounding clip.
+- Never overlap ranges within the same candidate.
+- Ranges must be in chronological order.
+
+STANDALONE COHERENCE REQUIREMENTS:
+- Every candidate must work as a standalone short-form video without requiring
+  any context from outside the selected ranges.
+- Each candidate must open at a natural, self-contained sentence boundary.
+  Reject any opening that begins mid-thought or with a dangling reference whose
+  antecedent lies outside the selected ranges.  Banned openers include (but are
+  not limited to) phrases such as:
+    "And that…", "And this…", "And they…", "And it…",
+    "Here, what you're about to see…", "As I mentioned…", "As I said…",
+    "So as we saw…", "Which means…", "That's why…" (when "that" refers to
+    something outside the clip), "This is why…" (same condition),
+    "They said…", "It turns out…" (when "it" has no antecedent in the clip),
+    or any opener whose subject or antecedent is only clear from omitted context.
+- Each candidate must end at a natural semantic boundary — a completed thought,
+  a punchline, a clear conclusion, or a satisfying resolution.  Do not cut
+  mid-sentence or leave an unresolved reference dangling at the end.
+- Preserve complete thoughts rather than cutting sentences arbitrarily.
+- Every included range must end on a complete thought or natural pause.
+
+SPONSOR / AD-READ AVOIDANCE:
+- Avoid selecting ranges that consist primarily of sponsor reads, ad integrations,
+  or promotional segments (e.g. "This video is brought to you by…", discount-code
+  pitches, product-affiliate plugs unrelated to the video's core subject).
+- Exception: if the video's subject is itself a tool, product, or service, and the
+  discussion of that product is substantive and educational rather than a paid
+  promotional script, it may be selected.
+- When stronger, non-sponsor content exists elsewhere in the transcript, always
+  prefer it over a sponsor segment.
+
+DIVERSITY REQUIREMENTS:
+- Every candidate must represent a meaningfully distinct self-contained moment:
+  a different hook, topic, angle, insight, or narrative payoff.
+- Do not create multiple candidates that are merely different fragments of the
+  same idea or argument.  If two potential candidates cover the same core point,
+  keep only the stronger one.
+- Do not create near-duplicate candidates with substantially overlapping openings
+  or content.
+- If only 2 genuinely strong, distinct candidates exist, return 2 rather than
+  manufacturing additional candidates.
+
+DISCARD RATHER THAN FORCE:
+- If a potential clip cannot satisfy the standalone-opening, complete-thought,
+  natural-ending, and contiguous-range requirements without awkward cuts or
+  context dependence, you MUST discard it entirely.  Do not include it in the
+  output just to fill a slot or reach a duration target.
+- Candidate duration (25–90 s) is a target range, not a justification for
+  adding unrelated ranges.  A shorter, fully coherent single-range clip is
+  always preferable to a longer clip stitched together from disconnected
+  sections.
+
 For each candidate you MUST:
 - Keep only the portions that deliver real value: hooks, surprises, insights,
   punchy facts, emotional peaks, and natural endings.
 - Cut weak openings (filler, channel intros, "today we're going to talk about"),
-  unnecessary wording, tangents, dead air descriptions, and low-value padding.
-- A candidate may use MULTIPLE non-contiguous time ranges from the transcript
-  (jump cuts) — you are not required to use the entire candidate block.
-- Ensure every included range ends on a complete thought or natural pause.
-- Never overlap ranges within the same candidate.
-- Ranges must be in chronological order.
+  unnecessary wording, tangents, dead air descriptions, and low-value padding —
+  but only via a tighter single range, not by adding extra jump cuts.
 
 Output ONLY a valid JSON array — no markdown, no prose, no code fences.
 Each element of the array must be an object with exactly these keys:
@@ -213,10 +276,11 @@ Each element of the array must be an object with exactly these keys:
   "combined_text": "<text of all kept ranges concatenated with ' [...] ' between gaps>",
   "reason": "<one sentence: why this clip works as a standalone short-form video>",
   "total_duration_s": <sum of (end - start) across all ranges, as a float>,
-  "cut_description": "<optional: brief note on what was cut and why, or empty string>"
+  "cut_description": "<if multiple ranges: brief note on what was cut and why; otherwise empty string>"
 }
 
-Return 3-8 candidates. Aim for total_duration_s between 25 and 90 per candidate.
+Return 1-5 candidates. Prefer fewer, higher-quality candidates. Never pad the
+output to reach a quota. Aim for total_duration_s between 25 and 90 per candidate.
 """
 
 
@@ -316,7 +380,7 @@ def run_clipper(
             _log(f"Retry {attempt}/{max_llm_retries} after validation failure …")
 
         try:
-            raw_output = chat_json(messages, temperature=0.3, max_tokens=4096)
+            raw_output = chat_json(messages, temperature=0.1, max_tokens=4096)
         except (ValueError, EnvironmentError, KeyError, ModuleNotFoundError) as exc:
             raise RuntimeError(f"LLM call failed: {exc}") from exc
 

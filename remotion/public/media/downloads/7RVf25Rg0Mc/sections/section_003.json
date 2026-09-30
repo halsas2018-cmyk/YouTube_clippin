@@ -4,38 +4,34 @@
   "video_id": "7RVf25Rg0Mc",
   "file_name": "section_003.mp4",
   "file_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/sections/section_003.mp4",
-  "start_offset": 162.16,
-  "end_offset": 195.12,
-  "target_duration_s": 32.96,
-  "probed_duration_s": 32.98,
+  "start_offset": 297.0,
+  "end_offset": 338.0,
+  "target_duration_s": 41.0,
+  "probed_duration_s": 41.013,
   "original_candidate_ranges": [
     {
-      "start": 170.16,
-      "end": 177.92
-    },
-    {
-      "start": 180.12,
-      "end": 187.12
+      "start": 305.0,
+      "end": 330.0
     }
   ],
   "padded_range": {
-    "start": 162.16,
-    "end": 195.12
+    "start": 297.0,
+    "end": 338.0
   },
   "streams": [
     {
       "index": 0,
       "codec_name": "av1",
       "codec_type": "video",
-      "duration": "32.968000"
+      "duration": "41.005000"
     },
     {
       "index": 1,
       "codec_name": "aac",
       "codec_type": "audio",
-      "duration": "32.980000"
+      "duration": "41.012993"
     }
   ],
-  "combined_text": "We know how breaches happen now. It's not a mystery. Attackers don't hack in. They log in. Infostealer malware grabs everything. Passwords, session cookies, MFA tokens. 54% of ransomware victims had their info sitting inside stealer logs way before they ever got hacked. [...] Attackers only need 48 minutes. But with Flare, you realize things happen within seconds. They have real-time detection, and actually checks against Entra ID whether an account is actually real and active, and it can kill a session before anyone opens a ticket.",
-  "reason": "This provides a high-value, punchy security insight that works well as a standalone educational short."
+  "combined_text": "Here, what you're about to see is one of the most powerful parts of Paperclip, and it's how we talk with our agents, how we interface with them. And that's through tasks. Now, we're about to assign our toilet task. But first, I want to just test this and make sure it works. Cuz so far, we haven't even talked to our agents, and our agents haven't talked to each other. We're going to do both of those right now. So, we'll set up a task and assign it to Dumbledore. Just to say, \"Hey, why don't you talk to Ron? Test Ron, make sure he works.\" So, we'll set up our task and go. And within moments, watch what happens here. Boom, Dumbledore assigns a task to Ron. And that right there is our first moment where we talk to an agent and then an agent talk to another agent. And they're both working here. Dumbledore is actually waiting and then when Ron finishes his task, Dumbledore is like, \"Hey, we tested, we're good.\" Isn't that sick? Now, some movie magic's about to happen.",
+  "reason": "This clip demonstrates the practical, hands-on power of the tool by showing agents delegating tasks to each other, which is the core 'wow' factor of the video."
 }

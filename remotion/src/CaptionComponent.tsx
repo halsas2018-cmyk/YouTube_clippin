@@ -183,7 +183,7 @@ const CaptionComponent: React.FC = () => {
   if (activeWord) {
     const emoji = getEmojiForCurrentTime();
     return (
-      <AbsoluteFill style={{ justifyContent: "center", alignItems: "flex-start", paddingTop: 200 }}>
+      <AbsoluteFill style={{ justifyContent: "center", alignItems: "flex-start", paddingTop: 450 }}>
         <div style={{
           fontSize: 80,
           fontWeight: "bold",

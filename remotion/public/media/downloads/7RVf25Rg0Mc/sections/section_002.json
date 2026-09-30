@@ -5,37 +5,33 @@
   "file_name": "section_002.mp4",
   "file_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/sections/section_002.mp4",
   "start_offset": 99.08,
-  "end_offset": 134.0,
-  "target_duration_s": 34.92,
-  "probed_duration_s": 34.922,
+  "end_offset": 139.8,
+  "target_duration_s": 40.72,
+  "probed_duration_s": 40.727,
   "original_candidate_ranges": [
     {
       "start": 107.08,
-      "end": 117.8
-    },
-    {
-      "start": 121.44,
-      "end": 126.0
+      "end": 131.8
     }
   ],
   "padded_range": {
     "start": 99.08,
-    "end": 134.0
+    "end": 139.8
   },
   "streams": [
     {
       "index": 0,
       "codec_name": "av1",
       "codec_type": "video",
-      "duration": "34.921000"
+      "duration": "40.726000"
     },
     {
       "index": 1,
       "codec_name": "aac",
       "codec_type": "audio",
-      "duration": "34.921995"
+      "duration": "40.727007"
     }
   ],
-  "combined_text": "We're harness maxing. No matter what new harness comes out or model, paperclip is a meta harness. We can bring any other harness or model to it. Paperclip can use it. Paperclip is our company, and it's a company that can run the greatest and latest models, and the greatest and latest harnesses, and all the features they come out with. [...] All AI agents. Network and systems engineers, storage, security, a legit company running on Paperclip.",
-  "reason": "This highlights the 'meta-harness' concept, which is the most compelling technical selling point for AI enthusiasts."
+  "combined_text": "We're harness maxing. No matter what new harness comes out or model, paperclip is a meta harness. We can bring any other harness or model to it. Paperclip can use it. Paperclip is our company, and it's a company that can run the greatest and latest models, and the greatest and latest harnesses, and all the features they come out with. Just think about that. Doesn't that make you excited to try this? It does. Coffee break.",
+  "reason": "This segment effectively summarizes the 'meta harness' concept, positioning the tool as a future-proof solution for AI agent management."
 }

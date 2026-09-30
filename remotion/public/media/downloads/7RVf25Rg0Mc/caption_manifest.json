@@ -5,8 +5,8 @@
   "candidates": [
     {
       "candidate_id": 1,
-      "total_clip_duration_s": 16.074,
-      "caption_group_count": 17,
+      "total_clip_duration_s": 20.434,
+      "caption_group_count": 21,
       "caption_groups": [
         {
           "group_id": "cand_1_cap_001",
@@ -386,8 +386,8 @@
           "group_id": "cand_1_cap_011",
           "range_index": 0,
           "start_time": 10.705,
-          "end_time": 11.226,
-          "duration_s": 0.521,
+          "end_time": 11.227,
+          "duration_s": 0.522,
           "text": "I haven't seen a",
           "word_count": 4,
           "words": [
@@ -397,7 +397,7 @@
               "clip_end": 10.745,
               "global_start": 45.559,
               "global_end": 45.599,
-              "score": 0.58
+              "score": 0.532
             },
             {
               "word": "haven't",
@@ -405,22 +405,22 @@
               "clip_end": 10.986,
               "global_start": 45.619,
               "global_end": 45.84,
-              "score": 0.768
+              "score": 0.792
             },
             {
               "word": "seen",
               "clip_start": 11.006,
-              "clip_end": 11.146,
+              "clip_end": 11.147,
               "global_start": 45.86,
-              "global_end": 46.0,
-              "score": 0.898
+              "global_end": 46.001,
+              "score": 0.906
             },
             {
               "word": "a",
-              "clip_start": 11.186,
-              "clip_end": 11.226,
-              "global_start": 46.04,
-              "global_end": 46.08,
+              "clip_start": 11.187,
+              "clip_end": 11.227,
+              "global_start": 46.041,
+              "global_end": 46.081,
               "score": 0.491
             }
           ]
@@ -428,234 +428,398 @@
         {
           "group_id": "cand_1_cap_012",
           "range_index": 0,
-          "start_time": 11.266,
-          "end_time": 11.807,
-          "duration_s": 0.541,
-          "text": "lot of super",
-          "word_count": 3,
+          "start_time": 11.267,
+          "end_time": 12.19,
+          "duration_s": 0.923,
+          "text": "lot of super value",
+          "word_count": 4,
           "words": [
             {
               "word": "lot",
-              "clip_start": 11.266,
-              "clip_end": 11.426,
-              "global_start": 46.12,
-              "global_end": 46.28,
-              "score": 0.796
+              "clip_start": 11.267,
+              "clip_end": 11.427,
+              "global_start": 46.121,
+              "global_end": 46.281,
+              "score": 0.81
             },
             {
               "word": "of",
-              "clip_start": 11.446,
-              "clip_end": 11.486,
-              "global_start": 46.3,
-              "global_end": 46.34,
-              "score": 0.994
+              "clip_start": 11.448,
+              "clip_end": 11.488,
+              "global_start": 46.302,
+              "global_end": 46.342,
+              "score": 0.996
             },
             {
               "word": "super",
-              "clip_start": 11.567,
-              "clip_end": 11.807,
-              "global_start": 46.421,
-              "global_end": 46.661,
-              "score": 0.862
+              "clip_start": 11.568,
+              "clip_end": 11.809,
+              "global_start": 46.422,
+              "global_end": 46.663,
+              "score": 0.888
+            },
+            {
+              "word": "value",
+              "clip_start": 11.849,
+              "clip_end": 12.19,
+              "global_start": 46.703,
+              "global_end": 47.044,
+              "score": 0.878
             }
           ]
         },
         {
           "group_id": "cand_1_cap_013",
-          "range_index": 1,
-          "start_time": 11.807,
-          "end_time": 12.388,
+          "range_index": 0,
+          "start_time": 12.31,
+          "end_time": 13.393,
+          "duration_s": 1.083,
+          "text": "out of like an",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "out",
+              "clip_start": 12.31,
+              "clip_end": 12.41,
+              "global_start": 47.164,
+              "global_end": 47.264,
+              "score": 0.773
+            },
+            {
+              "word": "of",
+              "clip_start": 12.451,
+              "clip_end": 12.531,
+              "global_start": 47.305,
+              "global_end": 47.385,
+              "score": 0.814
+            },
+            {
+              "word": "like",
+              "clip_start": 12.591,
+              "clip_end": 12.751,
+              "global_start": 47.445,
+              "global_end": 47.605,
+              "score": 0.329
+            },
+            {
+              "word": "an",
+              "clip_start": 12.771,
+              "clip_end": 13.393,
+              "global_start": 47.625,
+              "global_end": 48.247,
+              "score": 0.934
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_014",
+          "range_index": 0,
+          "start_time": 13.413,
+          "end_time": 15.098,
+          "duration_s": 1.685,
+          "text": "agent conference room or",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "agent",
+              "clip_start": 13.413,
+              "clip_end": 13.734,
+              "global_start": 48.267,
+              "global_end": 48.588,
+              "score": 0.876
+            },
+            {
+              "word": "conference",
+              "clip_start": 14.035,
+              "clip_end": 14.557,
+              "global_start": 48.889,
+              "global_end": 49.411,
+              "score": 0.915
+            },
+            {
+              "word": "room",
+              "clip_start": 14.697,
+              "clip_end": 14.918,
+              "global_start": 49.551,
+              "global_end": 49.772,
+              "score": 0.663
+            },
+            {
+              "word": "or",
+              "clip_start": 14.998,
+              "clip_end": 15.098,
+              "global_start": 49.852,
+              "global_end": 49.952,
+              "score": 0.652
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_015",
+          "range_index": 0,
+          "start_time": 15.118,
+          "end_time": 16.442,
+          "duration_s": 1.324,
+          "text": "an agent town where",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "an",
+              "clip_start": 15.118,
+              "clip_end": 15.159,
+              "global_start": 49.972,
+              "global_end": 50.013,
+              "score": 0.734
+            },
+            {
+              "word": "agent",
+              "clip_start": 15.299,
+              "clip_end": 15.58,
+              "global_start": 50.153,
+              "global_end": 50.434,
+              "score": 0.908
+            },
+            {
+              "word": "town",
+              "clip_start": 15.74,
+              "clip_end": 16.182,
+              "global_start": 50.594,
+              "global_end": 51.036,
+              "score": 0.894
+            },
+            {
+              "word": "where",
+              "clip_start": 16.222,
+              "clip_end": 16.442,
+              "global_start": 51.076,
+              "global_end": 51.296,
+              "score": 0.396
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_016",
+          "range_index": 0,
+          "start_time": 16.462,
+          "end_time": 16.663,
+          "duration_s": 0.201,
+          "text": "you just",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "you",
+              "clip_start": 16.462,
+              "clip_end": 16.543,
+              "global_start": 51.316,
+              "global_end": 51.397,
+              "score": 0.167
+            },
+            {
+              "word": "just",
+              "clip_start": 16.563,
+              "clip_end": 16.663,
+              "global_start": 51.417,
+              "global_end": 51.517,
+              "score": 0.494
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_017",
+          "range_index": 0,
+          "start_time": 17.064,
+          "end_time": 17.847,
+          "duration_s": 0.783,
+          "text": "set your agents to",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "set",
+              "clip_start": 17.064,
+              "clip_end": 17.225,
+              "global_start": 51.918,
+              "global_end": 52.079,
+              "score": 0.758
+            },
+            {
+              "word": "your",
+              "clip_start": 17.245,
+              "clip_end": 17.385,
+              "global_start": 52.099,
+              "global_end": 52.239,
+              "score": 0.908
+            },
+            {
+              "word": "agents",
+              "clip_start": 17.486,
+              "clip_end": 17.746,
+              "global_start": 52.34,
+              "global_end": 52.6,
+              "score": 0.847
+            },
+            {
+              "word": "to",
+              "clip_start": 17.786,
+              "clip_end": 17.847,
+              "global_start": 52.64,
+              "global_end": 52.701,
+              "score": 0.754
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_018",
+          "range_index": 0,
+          "start_time": 17.887,
+          "end_time": 18.549,
+          "duration_s": 0.662,
+          "text": "sit there and talk",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "sit",
+              "clip_start": 17.887,
+              "clip_end": 18.007,
+              "global_start": 52.741,
+              "global_end": 52.861,
+              "score": 0.839
+            },
+            {
+              "word": "there",
+              "clip_start": 18.027,
+              "clip_end": 18.168,
+              "global_start": 52.881,
+              "global_end": 53.022,
+              "score": 0.802
+            },
+            {
+              "word": "and",
+              "clip_start": 18.188,
+              "clip_end": 18.268,
+              "global_start": 53.042,
+              "global_end": 53.122,
+              "score": 0.834
+            },
+            {
+              "word": "talk",
+              "clip_start": 18.308,
+              "clip_end": 18.549,
+              "global_start": 53.162,
+              "global_end": 53.403,
+              "score": 0.92
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_019",
+          "range_index": 0,
+          "start_time": 18.589,
+          "end_time": 19.07,
+          "duration_s": 0.481,
+          "text": "to each other.",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "to",
+              "clip_start": 18.589,
+              "clip_end": 18.669,
+              "global_start": 53.443,
+              "global_end": 53.523,
+              "score": 0.898
+            },
+            {
+              "word": "each",
+              "clip_start": 18.709,
+              "clip_end": 18.83,
+              "global_start": 53.563,
+              "global_end": 53.684,
+              "score": 0.77
+            },
+            {
+              "word": "other.",
+              "clip_start": 18.89,
+              "clip_end": 19.07,
+              "global_start": 53.744,
+              "global_end": 53.924,
+              "score": 0.836
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_020",
+          "range_index": 0,
+          "start_time": 19.151,
+          "end_time": 19.732,
           "duration_s": 0.581,
           "text": "And it doesn't matter",
           "word_count": 4,
           "words": [
             {
               "word": "And",
-              "clip_start": 11.807,
-              "clip_end": 11.887,
-              "global_start": 53.993,
-              "global_end": 54.073,
-              "score": 0.779
+              "clip_start": 19.151,
+              "clip_end": 19.231,
+              "global_start": 54.005,
+              "global_end": 54.085,
+              "score": 0.824
             },
             {
               "word": "it",
-              "clip_start": 11.907,
-              "clip_end": 11.967,
-              "global_start": 54.093,
-              "global_end": 54.153,
-              "score": 0.644
-            },
-            {
-              "word": "doesn't",
-              "clip_start": 12.007,
-              "clip_end": 12.187,
-              "global_start": 54.193,
-              "global_end": 54.373,
-              "score": 0.87
-            },
-            {
-              "word": "matter",
-              "clip_start": 12.227,
-              "clip_end": 12.388,
-              "global_start": 54.413,
-              "global_end": 54.574,
-              "score": 0.917
-            }
-          ]
-        },
-        {
-          "group_id": "cand_1_cap_014",
-          "range_index": 1,
-          "start_time": 12.408,
-          "end_time": 13.329,
-          "duration_s": 0.921,
-          "text": "what harness you have,",
-          "word_count": 4,
-          "words": [
-            {
-              "word": "what",
-              "clip_start": 12.408,
-              "clip_end": 12.528,
-              "global_start": 54.594,
-              "global_end": 54.714,
-              "score": 0.787
-            },
-            {
-              "word": "harness",
-              "clip_start": 12.588,
-              "clip_end": 12.929,
-              "global_start": 54.774,
-              "global_end": 55.115,
-              "score": 0.785
-            },
-            {
-              "word": "you",
-              "clip_start": 12.949,
-              "clip_end": 13.089,
-              "global_start": 55.135,
-              "global_end": 55.275,
-              "score": 0.917
-            },
-            {
-              "word": "have,",
-              "clip_start": 13.129,
-              "clip_end": 13.329,
-              "global_start": 55.315,
-              "global_end": 55.515,
-              "score": 0.885
-            }
-          ]
-        },
-        {
-          "group_id": "cand_1_cap_015",
-          "range_index": 1,
-          "start_time": 13.61,
-          "end_time": 14.451,
-          "duration_s": 0.841,
-          "text": "everyone can be brought",
-          "word_count": 4,
-          "words": [
-            {
-              "word": "everyone",
-              "clip_start": 13.61,
-              "clip_end": 13.95,
-              "global_start": 55.796,
-              "global_end": 56.136,
-              "score": 0.942
-            },
-            {
-              "word": "can",
-              "clip_start": 13.99,
-              "clip_end": 14.09,
-              "global_start": 56.176,
-              "global_end": 56.276,
-              "score": 0.991
-            },
-            {
-              "word": "be",
-              "clip_start": 14.11,
-              "clip_end": 14.191,
-              "global_start": 56.296,
-              "global_end": 56.377,
-              "score": 0.64
-            },
-            {
-              "word": "brought",
-              "clip_start": 14.231,
-              "clip_end": 14.451,
-              "global_start": 56.417,
-              "global_end": 56.637,
-              "score": 0.733
-            }
-          ]
-        },
-        {
-          "group_id": "cand_1_cap_016",
-          "range_index": 1,
-          "start_time": 14.491,
-          "end_time": 15.152,
-          "duration_s": 0.661,
-          "text": "into this company.",
-          "word_count": 3,
-          "words": [
-            {
-              "word": "into",
-              "clip_start": 14.491,
-              "clip_end": 14.671,
-              "global_start": 56.677,
-              "global_end": 56.857,
-              "score": 0.879
-            },
-            {
-              "word": "this",
-              "clip_start": 14.691,
-              "clip_end": 14.832,
-              "global_start": 56.877,
-              "global_end": 57.018,
+              "clip_start": 19.251,
+              "clip_end": 19.311,
+              "global_start": 54.105,
+              "global_end": 54.165,
               "score": 0.718
             },
             {
-              "word": "company.",
-              "clip_start": 14.872,
-              "clip_end": 15.152,
-              "global_start": 57.058,
-              "global_end": 57.338,
-              "score": 0.883
+              "word": "doesn't",
+              "clip_start": 19.351,
+              "clip_end": 19.532,
+              "global_start": 54.205,
+              "global_end": 54.386,
+              "score": 0.879
+            },
+            {
+              "word": "matter",
+              "clip_start": 19.572,
+              "clip_end": 19.732,
+              "global_start": 54.426,
+              "global_end": 54.586,
+              "score": 0.917
             }
           ]
         },
         {
-          "group_id": "cand_1_cap_017",
-          "range_index": 1,
-          "start_time": 15.352,
-          "end_time": 16.074,
-          "duration_s": 0.722,
-          "text": "Isn't that amazing?",
+          "group_id": "cand_1_cap_021",
+          "range_index": 0,
+          "start_time": 19.752,
+          "end_time": 20.434,
+          "duration_s": 0.682,
+          "text": "what harness you",
           "word_count": 3,
           "words": [
             {
-              "word": "Isn't",
-              "clip_start": 15.352,
-              "clip_end": 15.493,
-              "global_start": 57.538,
-              "global_end": 57.679,
-              "score": 0.852
+              "word": "what",
+              "clip_start": 19.752,
+              "clip_end": 19.873,
+              "global_start": 54.606,
+              "global_end": 54.727,
+              "score": 0.753
             },
             {
-              "word": "that",
-              "clip_start": 15.513,
-              "clip_end": 15.613,
-              "global_start": 57.699,
-              "global_end": 57.799,
-              "score": 0.237
+              "word": "harness",
+              "clip_start": 19.933,
+              "clip_end": 20.274,
+              "global_start": 54.787,
+              "global_end": 55.128,
+              "score": 0.788
             },
             {
-              "word": "amazing?",
-              "clip_start": 15.673,
-              "clip_end": 16.074,
-              "global_start": 57.859,
-              "global_end": 58.26,
-              "score": 0.962
+              "word": "you",
+              "clip_start": 20.294,
+              "clip_end": 20.434,
+              "global_start": 55.148,
+              "global_end": 55.288,
+              "score": 0.917
             }
           ]
         }
@@ -663,8 +827,8 @@
     },
     {
       "candidate_id": 2,
-      "total_clip_duration_s": 15.607,
-      "caption_group_count": 22,
+      "total_clip_duration_s": 24.919,
+      "caption_group_count": 31,
       "caption_groups": [
         {
           "group_id": "cand_2_cap_001",
@@ -1216,10 +1380,10 @@
           "group_id": "cand_2_cap_015",
           "range_index": 0,
           "start_time": 10.785,
-          "end_time": 10.905,
-          "duration_s": 0.12,
-          "text": "like",
-          "word_count": 1,
+          "end_time": 11.905,
+          "duration_s": 1.12,
+          "text": "like on Proxmox or",
+          "word_count": 4,
           "words": [
             {
               "word": "like",
@@ -1228,30 +1392,226 @@
               "global_start": 117.779,
               "global_end": 117.899,
               "score": 0.877
+            },
+            {
+              "word": "on",
+              "clip_start": 10.965,
+              "clip_end": 11.045,
+              "global_start": 117.959,
+              "global_end": 118.039,
+              "score": 0.852
+            },
+            {
+              "word": "Proxmox",
+              "clip_start": 11.065,
+              "clip_end": 11.625,
+              "global_start": 118.059,
+              "global_end": 118.619,
+              "score": 0.884
+            },
+            {
+              "word": "or",
+              "clip_start": 11.805,
+              "clip_end": 11.905,
+              "global_start": 118.799,
+              "global_end": 118.899,
+              "score": 0.71
             }
           ]
         },
         {
           "group_id": "cand_2_cap_016",
-          "range_index": 1,
-          "start_time": 10.905,
-          "end_time": 11.265,
-          "duration_s": 0.36,
-          "text": "this video,",
-          "word_count": 2,
+          "range_index": 0,
+          "start_time": 11.925,
+          "end_time": 12.645,
+          "duration_s": 0.72,
+          "text": "a VPS in the",
+          "word_count": 4,
           "words": [
             {
+              "word": "a",
+              "clip_start": 11.925,
+              "clip_end": 11.945,
+              "global_start": 118.919,
+              "global_end": 118.939,
+              "score": 0.0
+            },
+            {
+              "word": "VPS",
+              "clip_start": 12.045,
+              "clip_end": 12.505,
+              "global_start": 119.039,
+              "global_end": 119.499,
+              "score": 0.704
+            },
+            {
+              "word": "in",
+              "clip_start": 12.525,
+              "clip_end": 12.565,
+              "global_start": 119.519,
+              "global_end": 119.559,
+              "score": 0.945
+            },
+            {
+              "word": "the",
+              "clip_start": 12.585,
+              "clip_end": 12.645,
+              "global_start": 119.579,
+              "global_end": 119.639,
+              "score": 0.703
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_017",
+          "range_index": 0,
+          "start_time": 12.665,
+          "end_time": 13.346,
+          "duration_s": 0.681,
+          "text": "cloud. I'm going to",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "cloud.",
+              "clip_start": 12.665,
+              "clip_end": 12.925,
+              "global_start": 119.659,
+              "global_end": 119.919,
+              "score": 0.937
+            },
+            {
+              "word": "I'm",
+              "clip_start": 13.065,
+              "clip_end": 13.165,
+              "global_start": 120.059,
+              "global_end": 120.159,
+              "score": 0.805
+            },
+            {
+              "word": "going",
+              "clip_start": 13.185,
+              "clip_end": 13.286,
+              "global_start": 120.179,
+              "global_end": 120.28,
+              "score": 0.644
+            },
+            {
+              "word": "to",
+              "clip_start": 13.306,
+              "clip_end": 13.346,
+              "global_start": 120.3,
+              "global_end": 120.34,
+              "score": 0.996
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_018",
+          "range_index": 0,
+          "start_time": 13.366,
+          "end_time": 13.866,
+          "duration_s": 0.5,
+          "text": "show you both,",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "show",
+              "clip_start": 13.366,
+              "clip_end": 13.486,
+              "global_start": 120.36,
+              "global_end": 120.48,
+              "score": 0.75
+            },
+            {
+              "word": "you",
+              "clip_start": 13.506,
+              "clip_end": 13.606,
+              "global_start": 120.5,
+              "global_end": 120.6,
+              "score": 0.819
+            },
+            {
+              "word": "both,",
+              "clip_start": 13.666,
+              "clip_end": 13.866,
+              "global_start": 120.66,
+              "global_end": 120.86,
+              "score": 0.854
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_019",
+          "range_index": 0,
+          "start_time": 13.906,
+          "end_time": 14.306,
+          "duration_s": 0.4,
+          "text": "and by the end",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "and",
+              "clip_start": 13.906,
+              "clip_end": 13.986,
+              "global_start": 120.9,
+              "global_end": 120.98,
+              "score": 0.832
+            },
+            {
+              "word": "by",
+              "clip_start": 14.006,
+              "clip_end": 14.086,
+              "global_start": 121.0,
+              "global_end": 121.08,
+              "score": 0.845
+            },
+            {
+              "word": "the",
+              "clip_start": 14.126,
+              "clip_end": 14.186,
+              "global_start": 121.12,
+              "global_end": 121.18,
+              "score": 1.0
+            },
+            {
+              "word": "end",
+              "clip_start": 14.226,
+              "clip_end": 14.306,
+              "global_start": 121.22,
+              "global_end": 121.3,
+              "score": 0.579
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_020",
+          "range_index": 0,
+          "start_time": 14.326,
+          "end_time": 14.746,
+          "duration_s": 0.42,
+          "text": "of this video,",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "of",
+              "clip_start": 14.326,
+              "clip_end": 14.366,
+              "global_start": 121.32,
+              "global_end": 121.36,
+              "score": 0.966
+            },
+            {
               "word": "this",
-              "clip_start": 10.905,
-              "clip_end": 11.005,
+              "clip_start": 14.386,
+              "clip_end": 14.486,
               "global_start": 121.38,
               "global_end": 121.48,
               "score": 0.64
             },
             {
               "word": "video,",
-              "clip_start": 11.045,
-              "clip_end": 11.265,
+              "clip_start": 14.526,
+              "clip_end": 14.746,
               "global_start": 121.52,
               "global_end": 121.74,
               "score": 0.72
@@ -1259,42 +1619,42 @@
           ]
         },
         {
-          "group_id": "cand_2_cap_017",
-          "range_index": 1,
-          "start_time": 11.285,
-          "end_time": 11.705,
+          "group_id": "cand_2_cap_021",
+          "range_index": 0,
+          "start_time": 14.766,
+          "end_time": 15.186,
           "duration_s": 0.42,
           "text": "you're going to have",
           "word_count": 4,
           "words": [
             {
               "word": "you're",
-              "clip_start": 11.285,
-              "clip_end": 11.405,
+              "clip_start": 14.766,
+              "clip_end": 14.886,
               "global_start": 121.76,
               "global_end": 121.88,
               "score": 0.027
             },
             {
               "word": "going",
-              "clip_start": 11.425,
-              "clip_end": 11.525,
+              "clip_start": 14.906,
+              "clip_end": 15.006,
               "global_start": 121.9,
               "global_end": 122.0,
               "score": 0.188
             },
             {
               "word": "to",
-              "clip_start": 11.545,
-              "clip_end": 11.585,
+              "clip_start": 15.026,
+              "clip_end": 15.066,
               "global_start": 122.02,
               "global_end": 122.06,
               "score": 0.0
             },
             {
               "word": "have",
-              "clip_start": 11.605,
-              "clip_end": 11.705,
+              "clip_start": 15.086,
+              "clip_end": 15.186,
               "global_start": 122.08,
               "global_end": 122.18,
               "score": 0.384
@@ -1302,42 +1662,42 @@
           ]
         },
         {
-          "group_id": "cand_2_cap_018",
-          "range_index": 1,
-          "start_time": 11.725,
-          "end_time": 12.746,
+          "group_id": "cand_2_cap_022",
+          "range_index": 0,
+          "start_time": 15.206,
+          "end_time": 16.227,
           "duration_s": 1.021,
           "text": "your very own Paperclip",
           "word_count": 4,
           "words": [
             {
               "word": "your",
-              "clip_start": 11.725,
-              "clip_end": 11.845,
+              "clip_start": 15.206,
+              "clip_end": 15.326,
               "global_start": 122.2,
               "global_end": 122.32,
               "score": 0.75
             },
             {
               "word": "very",
-              "clip_start": 11.885,
-              "clip_end": 12.085,
+              "clip_start": 15.366,
+              "clip_end": 15.566,
               "global_start": 122.36,
               "global_end": 122.56,
               "score": 0.858
             },
             {
               "word": "own",
-              "clip_start": 12.145,
-              "clip_end": 12.245,
+              "clip_start": 15.626,
+              "clip_end": 15.726,
               "global_start": 122.62,
               "global_end": 122.72,
               "score": 0.968
             },
             {
               "word": "Paperclip",
-              "clip_start": 12.286,
-              "clip_end": 12.746,
+              "clip_start": 15.767,
+              "clip_end": 16.227,
               "global_start": 122.761,
               "global_end": 123.221,
               "score": 0.817
@@ -1345,34 +1705,34 @@
           ]
         },
         {
-          "group_id": "cand_2_cap_019",
-          "range_index": 1,
-          "start_time": 12.766,
-          "end_time": 13.806,
+          "group_id": "cand_2_cap_023",
+          "range_index": 0,
+          "start_time": 16.247,
+          "end_time": 17.287,
           "duration_s": 1.04,
           "text": "company running agents.",
           "word_count": 3,
           "words": [
             {
               "word": "company",
-              "clip_start": 12.766,
-              "clip_end": 13.086,
+              "clip_start": 16.247,
+              "clip_end": 16.567,
               "global_start": 123.241,
               "global_end": 123.561,
               "score": 0.932
             },
             {
               "word": "running",
-              "clip_start": 13.166,
-              "clip_end": 13.386,
+              "clip_start": 16.647,
+              "clip_end": 16.867,
               "global_start": 123.641,
               "global_end": 123.861,
               "score": 0.939
             },
             {
               "word": "agents.",
-              "clip_start": 13.526,
-              "clip_end": 13.806,
+              "clip_start": 17.007,
+              "clip_end": 17.287,
               "global_start": 124.001,
               "global_end": 124.281,
               "score": 0.872
@@ -1380,34 +1740,34 @@
           ]
         },
         {
-          "group_id": "cand_2_cap_020",
-          "range_index": 1,
-          "start_time": 14.126,
-          "end_time": 14.566,
+          "group_id": "cand_2_cap_024",
+          "range_index": 0,
+          "start_time": 17.607,
+          "end_time": 18.047,
           "duration_s": 0.44,
           "text": "You want that,",
           "word_count": 3,
           "words": [
             {
               "word": "You",
-              "clip_start": 14.126,
-              "clip_end": 14.246,
+              "clip_start": 17.607,
+              "clip_end": 17.727,
               "global_start": 124.601,
               "global_end": 124.721,
               "score": 0.755
             },
             {
               "word": "want",
-              "clip_start": 14.266,
-              "clip_end": 14.406,
+              "clip_start": 17.747,
+              "clip_end": 17.887,
               "global_start": 124.741,
               "global_end": 124.881,
               "score": 0.761
             },
             {
               "word": "that,",
-              "clip_start": 14.446,
-              "clip_end": 14.566,
+              "clip_start": 17.927,
+              "clip_end": 18.047,
               "global_start": 124.921,
               "global_end": 125.041,
               "score": 0.964
@@ -1415,26 +1775,26 @@
           ]
         },
         {
-          "group_id": "cand_2_cap_021",
-          "range_index": 1,
-          "start_time": 14.626,
-          "end_time": 15.267,
+          "group_id": "cand_2_cap_025",
+          "range_index": 0,
+          "start_time": 18.107,
+          "end_time": 18.748,
           "duration_s": 0.641,
           "text": "right? Yes,",
           "word_count": 2,
           "words": [
             {
               "word": "right?",
-              "clip_start": 14.626,
-              "clip_end": 14.807,
+              "clip_start": 18.107,
+              "clip_end": 18.288,
               "global_start": 125.101,
               "global_end": 125.282,
               "score": 0.913
             },
             {
               "word": "Yes,",
-              "clip_start": 15.107,
-              "clip_end": 15.267,
+              "clip_start": 18.588,
+              "clip_end": 18.748,
               "global_start": 125.582,
               "global_end": 125.742,
               "score": 0.986
@@ -1442,29 +1802,236 @@
           ]
         },
         {
-          "group_id": "cand_2_cap_022",
-          "range_index": 1,
-          "start_time": 15.287,
-          "end_time": 15.607,
+          "group_id": "cand_2_cap_026",
+          "range_index": 0,
+          "start_time": 18.768,
+          "end_time": 19.088,
           "duration_s": 0.32,
           "text": "you do.",
           "word_count": 2,
           "words": [
             {
               "word": "you",
-              "clip_start": 15.287,
-              "clip_end": 15.427,
+              "clip_start": 18.768,
+              "clip_end": 18.908,
               "global_start": 125.762,
               "global_end": 125.902,
               "score": 0.735
             },
             {
               "word": "do.",
-              "clip_start": 15.447,
-              "clip_end": 15.607,
+              "clip_start": 18.928,
+              "clip_end": 19.088,
               "global_start": 125.922,
               "global_end": 126.082,
               "score": 0.933
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_027",
+          "range_index": 0,
+          "start_time": 19.688,
+          "end_time": 20.108,
+          "duration_s": 0.42,
+          "text": "Let's take a sip",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "Let's",
+              "clip_start": 19.688,
+              "clip_end": 19.828,
+              "global_start": 126.682,
+              "global_end": 126.822,
+              "score": 0.784
+            },
+            {
+              "word": "take",
+              "clip_start": 19.848,
+              "clip_end": 19.928,
+              "global_start": 126.842,
+              "global_end": 126.922,
+              "score": 0.962
+            },
+            {
+              "word": "a",
+              "clip_start": 19.948,
+              "clip_end": 19.988,
+              "global_start": 126.942,
+              "global_end": 126.982,
+              "score": 0.457
+            },
+            {
+              "word": "sip",
+              "clip_start": 20.008,
+              "clip_end": 20.108,
+              "global_start": 127.002,
+              "global_end": 127.102,
+              "score": 0.551
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_028",
+          "range_index": 0,
+          "start_time": 20.128,
+          "end_time": 20.729,
+          "duration_s": 0.601,
+          "text": "of coffee real quick.",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "of",
+              "clip_start": 20.128,
+              "clip_end": 20.168,
+              "global_start": 127.122,
+              "global_end": 127.162,
+              "score": 0.002
+            },
+            {
+              "word": "coffee",
+              "clip_start": 20.188,
+              "clip_end": 20.388,
+              "global_start": 127.182,
+              "global_end": 127.382,
+              "score": 0.605
+            },
+            {
+              "word": "real",
+              "clip_start": 20.408,
+              "clip_end": 20.528,
+              "global_start": 127.402,
+              "global_end": 127.522,
+              "score": 0.128
+            },
+            {
+              "word": "quick.",
+              "clip_start": 20.548,
+              "clip_end": 20.729,
+              "global_start": 127.542,
+              "global_end": 127.723,
+              "score": 0.711
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_029",
+          "range_index": 0,
+          "start_time": 20.969,
+          "end_time": 21.529,
+          "duration_s": 0.56,
+          "text": "All of us together,",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "All",
+              "clip_start": 20.969,
+              "clip_end": 21.069,
+              "global_start": 127.963,
+              "global_end": 128.063,
+              "score": 0.854
+            },
+            {
+              "word": "of",
+              "clip_start": 21.089,
+              "clip_end": 21.129,
+              "global_start": 128.083,
+              "global_end": 128.123,
+              "score": 0.585
+            },
+            {
+              "word": "us",
+              "clip_start": 21.169,
+              "clip_end": 21.229,
+              "global_start": 128.163,
+              "global_end": 128.223,
+              "score": 0.709
+            },
+            {
+              "word": "together,",
+              "clip_start": 21.269,
+              "clip_end": 21.529,
+              "global_start": 128.263,
+              "global_end": 128.523,
+              "score": 0.893
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_030",
+          "range_index": 0,
+          "start_time": 21.549,
+          "end_time": 21.829,
+          "duration_s": 0.28,
+          "text": "are you ready?",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "are",
+              "clip_start": 21.549,
+              "clip_end": 21.609,
+              "global_start": 128.543,
+              "global_end": 128.603,
+              "score": 0.002
+            },
+            {
+              "word": "you",
+              "clip_start": 21.629,
+              "clip_end": 21.689,
+              "global_start": 128.623,
+              "global_end": 128.683,
+              "score": 0.0
+            },
+            {
+              "word": "ready?",
+              "clip_start": 21.709,
+              "clip_end": 21.829,
+              "global_start": 128.703,
+              "global_end": 128.823,
+              "score": 0.438
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_031",
+          "range_index": 0,
+          "start_time": 24.115,
+          "end_time": 24.919,
+          "duration_s": 0.804,
+          "text": "Now here's my absolute",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "Now",
+              "clip_start": 24.115,
+              "clip_end": 24.195,
+              "global_start": 131.109,
+              "global_end": 131.189,
+              "score": 0.088
+            },
+            {
+              "word": "here's",
+              "clip_start": 24.216,
+              "clip_end": 24.356,
+              "global_start": 131.21,
+              "global_end": 131.35,
+              "score": 0.863
+            },
+            {
+              "word": "my",
+              "clip_start": 24.376,
+              "clip_end": 24.477,
+              "global_start": 131.37,
+              "global_end": 131.471,
+              "score": 0.978
+            },
+            {
+              "word": "absolute",
+              "clip_start": 24.597,
+              "clip_end": 24.919,
+              "global_start": 131.591,
+              "global_end": 131.913,
+              "score": 0.76
             }
           ]
         }
@@ -1472,49 +2039,49 @@
     },
     {
       "candidate_id": 3,
-      "total_clip_duration_s": 15.384,
-      "caption_group_count": 19,
+      "total_clip_duration_s": 25.151,
+      "caption_group_count": 18,
       "caption_groups": [
         {
           "group_id": "cand_3_cap_001",
           "range_index": 0,
           "start_time": 0.0,
-          "end_time": 0.8,
-          "duration_s": 0.8,
-          "text": "I'll actually have running",
+          "end_time": 0.62,
+          "duration_s": 0.62,
+          "text": "It's on a mystery.",
           "word_count": 4,
           "words": [
             {
-              "word": "I'll",
+              "word": "It's",
               "clip_start": 0.0,
-              "clip_end": 0.12,
-              "global_start": 170.173,
-              "global_end": 170.293,
-              "score": 0.384
+              "clip_end": 0.08,
+              "global_start": 304.938,
+              "global_end": 305.018,
+              "score": 0.022
             },
             {
-              "word": "actually",
-              "clip_start": 0.14,
-              "clip_end": 0.36,
-              "global_start": 170.313,
-              "global_end": 170.533,
-              "score": 0.887
+              "word": "on",
+              "clip_start": 0.1,
+              "clip_end": 0.16,
+              "global_start": 305.038,
+              "global_end": 305.098,
+              "score": 0.63
             },
             {
-              "word": "have",
-              "clip_start": 0.4,
-              "clip_end": 0.54,
-              "global_start": 170.573,
-              "global_end": 170.713,
-              "score": 0.619
+              "word": "a",
+              "clip_start": 0.2,
+              "clip_end": 0.24,
+              "global_start": 305.138,
+              "global_end": 305.178,
+              "score": 0.437
             },
             {
-              "word": "running",
-              "clip_start": 0.58,
-              "clip_end": 0.8,
-              "global_start": 170.753,
-              "global_end": 170.973,
-              "score": 0.825
+              "word": "mystery.",
+              "clip_start": 0.26,
+              "clip_end": 0.62,
+              "global_start": 305.198,
+              "global_end": 305.558,
+              "score": 0.747
             }
           ]
         },
@@ -1522,243 +2089,267 @@
           "group_id": "cand_3_cap_002",
           "range_index": 0,
           "start_time": 0.88,
-          "end_time": 1.44,
-          "duration_s": 0.56,
-          "text": "Claude code,",
-          "word_count": 2,
+          "end_time": 2.041,
+          "duration_s": 1.161,
+          "text": "Attackers don't hack in.",
+          "word_count": 4,
           "words": [
             {
-              "word": "Claude",
+              "word": "Attackers",
               "clip_start": 0.88,
-              "clip_end": 1.14,
-              "global_start": 171.053,
-              "global_end": 171.313,
-              "score": 0.602
+              "clip_end": 1.261,
+              "global_start": 305.818,
+              "global_end": 306.199,
+              "score": 0.869
             },
             {
-              "word": "code,",
-              "clip_start": 1.18,
-              "clip_end": 1.44,
-              "global_start": 171.353,
-              "global_end": 171.613,
-              "score": 0.688
+              "word": "don't",
+              "clip_start": 1.281,
+              "clip_end": 1.461,
+              "global_start": 306.219,
+              "global_end": 306.399,
+              "score": 0.665
+            },
+            {
+              "word": "hack",
+              "clip_start": 1.541,
+              "clip_end": 1.801,
+              "global_start": 306.479,
+              "global_end": 306.739,
+              "score": 0.97
+            },
+            {
+              "word": "in.",
+              "clip_start": 1.921,
+              "clip_end": 2.041,
+              "global_start": 306.859,
+              "global_end": 306.979,
+              "score": 0.852
             }
           ]
         },
         {
           "group_id": "cand_3_cap_003",
           "range_index": 0,
-          "start_time": 1.72,
-          "end_time": 2.52,
-          "duration_s": 0.8,
-          "text": "and not Hermes.",
+          "start_time": 2.201,
+          "end_time": 2.942,
+          "duration_s": 0.741,
+          "text": "They log in.",
           "word_count": 3,
           "words": [
             {
-              "word": "and",
-              "clip_start": 1.72,
-              "clip_end": 1.82,
-              "global_start": 171.893,
-              "global_end": 171.993,
-              "score": 0.871
+              "word": "They",
+              "clip_start": 2.201,
+              "clip_end": 2.402,
+              "global_start": 307.139,
+              "global_end": 307.34,
+              "score": 0.782
             },
             {
-              "word": "not",
-              "clip_start": 1.92,
-              "clip_end": 2.08,
-              "global_start": 172.093,
-              "global_end": 172.253,
-              "score": 0.91
+              "word": "log",
+              "clip_start": 2.462,
+              "clip_end": 2.722,
+              "global_start": 307.4,
+              "global_end": 307.66,
+              "score": 0.772
             },
             {
-              "word": "Hermes.",
-              "clip_start": 2.14,
-              "clip_end": 2.52,
-              "global_start": 172.313,
-              "global_end": 172.693,
-              "score": 0.864
+              "word": "in.",
+              "clip_start": 2.802,
+              "clip_end": 2.942,
+              "global_start": 307.74,
+              "global_end": 307.88,
+              "score": 0.784
             }
           ]
         },
         {
           "group_id": "cand_3_cap_004",
           "range_index": 0,
-          "start_time": 2.96,
-          "end_time": 3.521,
-          "duration_s": 0.561,
-          "text": "And just for fun,",
+          "start_time": 3.322,
+          "end_time": 5.104,
+          "duration_s": 1.782,
+          "text": "Info stealer malware grabs",
           "word_count": 4,
           "words": [
             {
-              "word": "And",
-              "clip_start": 2.96,
-              "clip_end": 3.04,
-              "global_start": 173.133,
-              "global_end": 173.213,
-              "score": 0.549
+              "word": "Info",
+              "clip_start": 3.322,
+              "clip_end": 3.623,
+              "global_start": 308.26,
+              "global_end": 308.561,
+              "score": 0.573
             },
             {
-              "word": "just",
-              "clip_start": 3.06,
-              "clip_end": 3.16,
-              "global_start": 173.233,
-              "global_end": 173.333,
-              "score": 0.939
+              "word": "stealer",
+              "clip_start": 3.643,
+              "clip_end": 3.963,
+              "global_start": 308.581,
+              "global_end": 308.901,
+              "score": 0.823
             },
             {
-              "word": "for",
-              "clip_start": 3.18,
-              "clip_end": 3.281,
-              "global_start": 173.353,
-              "global_end": 173.454,
-              "score": 0.946
+              "word": "malware",
+              "clip_start": 3.983,
+              "clip_end": 4.403,
+              "global_start": 308.921,
+              "global_end": 309.341,
+              "score": 0.816
             },
             {
-              "word": "fun,",
-              "clip_start": 3.341,
-              "clip_end": 3.521,
-              "global_start": 173.514,
-              "global_end": 173.694,
-              "score": 0.834
+              "word": "grabs",
+              "clip_start": 4.743,
+              "clip_end": 5.104,
+              "global_start": 309.681,
+              "global_end": 310.042,
+              "score": 0.901
             }
           ]
         },
         {
           "group_id": "cand_3_cap_005",
           "range_index": 0,
-          "start_time": 3.541,
-          "end_time": 4.041,
-          "duration_s": 0.5,
-          "text": "I'll hire some more",
+          "start_time": 5.404,
+          "end_time": 7.366,
+          "duration_s": 1.962,
+          "text": "everything. Password session cookies.",
           "word_count": 4,
           "words": [
             {
-              "word": "I'll",
-              "clip_start": 3.541,
-              "clip_end": 3.641,
-              "global_start": 173.714,
-              "global_end": 173.814,
-              "score": 0.29
+              "word": "everything.",
+              "clip_start": 5.404,
+              "clip_end": 5.844,
+              "global_start": 310.342,
+              "global_end": 310.782,
+              "score": 0.84
             },
             {
-              "word": "hire",
-              "clip_start": 3.661,
-              "clip_end": 3.821,
-              "global_start": 173.834,
-              "global_end": 173.994,
-              "score": 0.542
+              "word": "Password",
+              "clip_start": 6.065,
+              "clip_end": 6.565,
+              "global_start": 311.003,
+              "global_end": 311.503,
+              "score": 0.871
             },
             {
-              "word": "some",
-              "clip_start": 3.841,
-              "clip_end": 3.921,
-              "global_start": 174.014,
-              "global_end": 174.094,
-              "score": 0.58
+              "word": "session",
+              "clip_start": 6.645,
+              "clip_end": 6.985,
+              "global_start": 311.583,
+              "global_end": 311.923,
+              "score": 0.835
             },
             {
-              "word": "more",
-              "clip_start": 3.941,
-              "clip_end": 4.041,
-              "global_start": 174.114,
-              "global_end": 174.214,
-              "score": 0.831
+              "word": "cookies.",
+              "clip_start": 7.005,
+              "clip_end": 7.366,
+              "global_start": 311.943,
+              "global_end": 312.304,
+              "score": 0.957
             }
           ]
         },
         {
           "group_id": "cand_3_cap_006",
           "range_index": 0,
-          "start_time": 4.081,
-          "end_time": 4.661,
-          "duration_s": 0.58,
-          "text": "employees too.",
+          "start_time": 7.846,
+          "end_time": 9.107,
+          "duration_s": 1.261,
+          "text": "MFA tokens.",
           "word_count": 2,
           "words": [
             {
-              "word": "employees",
-              "clip_start": 4.081,
-              "clip_end": 4.441,
-              "global_start": 174.254,
-              "global_end": 174.614,
-              "score": 0.804
+              "word": "MFA",
+              "clip_start": 7.846,
+              "clip_end": 8.166,
+              "global_start": 312.784,
+              "global_end": 313.104,
+              "score": 0.795
             },
             {
-              "word": "too.",
-              "clip_start": 4.481,
-              "clip_end": 4.661,
-              "global_start": 174.654,
-              "global_end": 174.834,
-              "score": 0.762
+              "word": "tokens.",
+              "clip_start": 8.186,
+              "clip_end": 9.107,
+              "global_start": 313.124,
+              "global_end": 314.045,
+              "score": 0.812
             }
           ]
         },
         {
           "group_id": "cand_3_cap_007",
           "range_index": 0,
-          "start_time": 4.901,
-          "end_time": 5.981,
-          "duration_s": 1.08,
-          "text": "Probably a security engineer",
+          "start_time": 9.267,
+          "end_time": 11.309,
+          "duration_s": 2.042,
+          "text": "54% of ransomware victims",
           "word_count": 4,
           "words": [
             {
-              "word": "Probably",
-              "clip_start": 4.901,
-              "clip_end": 5.121,
-              "global_start": 175.074,
-              "global_end": 175.294,
-              "score": 0.938
+              "word": "54%",
+              "clip_start": 9.267,
+              "clip_end": 9.988,
+              "global_start": 314.205,
+              "global_end": 314.926,
+              "score": 0.529
             },
             {
-              "word": "a",
-              "clip_start": 5.141,
-              "clip_end": 5.161,
-              "global_start": 175.314,
-              "global_end": 175.334,
-              "score": 0.026
+              "word": "of",
+              "clip_start": 10.208,
+              "clip_end": 10.268,
+              "global_start": 315.146,
+              "global_end": 315.206,
+              "score": 0.685
             },
             {
-              "word": "security",
-              "clip_start": 5.181,
-              "clip_end": 5.581,
-              "global_start": 175.354,
-              "global_end": 175.754,
-              "score": 0.692
+              "word": "ransomware",
+              "clip_start": 10.368,
+              "clip_end": 10.889,
+              "global_start": 315.306,
+              "global_end": 315.827,
+              "score": 0.736
             },
             {
-              "word": "engineer",
-              "clip_start": 5.601,
-              "clip_end": 5.981,
-              "global_start": 175.774,
-              "global_end": 176.154,
-              "score": 0.852
+              "word": "victims",
+              "clip_start": 10.929,
+              "clip_end": 11.309,
+              "global_start": 315.867,
+              "global_end": 316.247,
+              "score": 0.841
             }
           ]
         },
         {
           "group_id": "cand_3_cap_008",
           "range_index": 0,
-          "start_time": 6.021,
-          "end_time": 6.621,
-          "duration_s": 0.6,
-          "text": "running codex,",
-          "word_count": 2,
+          "start_time": 11.529,
+          "end_time": 12.51,
+          "duration_s": 0.981,
+          "text": "had their info.",
+          "word_count": 3,
           "words": [
             {
-              "word": "running",
-              "clip_start": 6.021,
-              "clip_end": 6.201,
-              "global_start": 176.194,
-              "global_end": 176.374,
-              "score": 0.938
+              "word": "had",
+              "clip_start": 11.529,
+              "clip_end": 11.749,
+              "global_start": 316.467,
+              "global_end": 316.687,
+              "score": 0.975
             },
             {
-              "word": "codex,",
-              "clip_start": 6.241,
-              "clip_end": 6.621,
-              "global_start": 176.414,
-              "global_end": 176.794,
+              "word": "their",
+              "clip_start": 11.829,
+              "clip_end": 12.03,
+              "global_start": 316.767,
+              "global_end": 316.968,
+              "score": 0.789
+            },
+            {
+              "word": "info.",
+              "clip_start": 12.11,
+              "clip_end": 12.51,
+              "global_start": 317.048,
+              "global_end": 317.448,
               "score": 0.89
             }
           ]
@@ -1766,425 +2357,374 @@
         {
           "group_id": "cand_3_cap_009",
           "range_index": 0,
-          "start_time": 6.941,
-          "end_time": 7.361,
-          "duration_s": 0.42,
-          "text": "and let's say I",
+          "start_time": 12.87,
+          "end_time": 14.091,
+          "duration_s": 1.221,
+          "text": "Sitting inside stealer logs",
           "word_count": 4,
           "words": [
             {
-              "word": "and",
-              "clip_start": 6.941,
-              "clip_end": 7.001,
-              "global_start": 177.114,
-              "global_end": 177.174,
-              "score": 0.138
+              "word": "Sitting",
+              "clip_start": 12.87,
+              "clip_end": 13.07,
+              "global_start": 317.808,
+              "global_end": 318.008,
+              "score": 0.882
             },
             {
-              "word": "let's",
-              "clip_start": 7.021,
-              "clip_end": 7.141,
-              "global_start": 177.194,
-              "global_end": 177.314,
-              "score": 0.546
+              "word": "inside",
+              "clip_start": 13.09,
+              "clip_end": 13.351,
+              "global_start": 318.028,
+              "global_end": 318.289,
+              "score": 0.946
             },
             {
-              "word": "say",
-              "clip_start": 7.181,
-              "clip_end": 7.281,
-              "global_start": 177.354,
-              "global_end": 177.454,
-              "score": 0.827
+              "word": "stealer",
+              "clip_start": 13.411,
+              "clip_end": 13.751,
+              "global_start": 318.349,
+              "global_end": 318.689,
+              "score": 0.759
             },
             {
-              "word": "I",
-              "clip_start": 7.321,
-              "clip_end": 7.361,
-              "global_start": 177.494,
-              "global_end": 177.534,
-              "score": 0.145
+              "word": "logs",
+              "clip_start": 13.771,
+              "clip_end": 14.091,
+              "global_start": 318.709,
+              "global_end": 319.029,
+              "score": 0.852
             }
           ]
         },
         {
           "group_id": "cand_3_cap_010",
           "range_index": 0,
-          "start_time": 7.381,
-          "end_time": 8.082,
-          "duration_s": 0.701,
-          "text": "helped desk engineer",
-          "word_count": 3,
+          "start_time": 14.412,
+          "end_time": 15.272,
+          "duration_s": 0.86,
+          "text": "way before they ever",
+          "word_count": 4,
           "words": [
             {
-              "word": "helped",
-              "clip_start": 7.381,
-              "clip_end": 7.521,
-              "global_start": 177.554,
-              "global_end": 177.694,
-              "score": 0.623
+              "word": "way",
+              "clip_start": 14.412,
+              "clip_end": 14.612,
+              "global_start": 319.35,
+              "global_end": 319.55,
+              "score": 0.883
             },
             {
-              "word": "desk",
-              "clip_start": 7.541,
-              "clip_end": 7.701,
-              "global_start": 177.714,
-              "global_end": 177.874,
-              "score": 0.772
+              "word": "before",
+              "clip_start": 14.652,
+              "clip_end": 14.972,
+              "global_start": 319.59,
+              "global_end": 319.91,
+              "score": 0.904
             },
             {
-              "word": "engineer",
-              "clip_start": 7.721,
-              "clip_end": 8.082,
-              "global_start": 177.894,
-              "global_end": 178.255,
-              "score": 0.785
+              "word": "they",
+              "clip_start": 15.012,
+              "clip_end": 15.112,
+              "global_start": 319.95,
+              "global_end": 320.05,
+              "score": 0.944
+            },
+            {
+              "word": "ever",
+              "clip_start": 15.152,
+              "clip_end": 15.272,
+              "global_start": 320.09,
+              "global_end": 320.21,
+              "score": 0.869
             }
           ]
         },
         {
           "group_id": "cand_3_cap_011",
-          "range_index": 1,
-          "start_time": 8.082,
-          "end_time": 8.722,
-          "duration_s": 0.64,
-          "text": "team, we will then",
-          "word_count": 4,
+          "range_index": 0,
+          "start_time": 15.312,
+          "end_time": 15.773,
+          "duration_s": 0.461,
+          "text": "got hacked.",
+          "word_count": 2,
           "words": [
             {
-              "word": "team,",
-              "clip_start": 8.082,
-              "clip_end": 8.282,
-              "global_start": 180.075,
-              "global_end": 180.275,
-              "score": 0.786
+              "word": "got",
+              "clip_start": 15.312,
+              "clip_end": 15.452,
+              "global_start": 320.25,
+              "global_end": 320.39,
+              "score": 0.874
             },
             {
-              "word": "we",
-              "clip_start": 8.302,
-              "clip_end": 8.402,
-              "global_start": 180.295,
-              "global_end": 180.395,
-              "score": 0.512
-            },
-            {
-              "word": "will",
-              "clip_start": 8.422,
-              "clip_end": 8.562,
-              "global_start": 180.415,
-              "global_end": 180.555,
-              "score": 0.835
-            },
-            {
-              "word": "then",
-              "clip_start": 8.582,
-              "clip_end": 8.722,
-              "global_start": 180.575,
-              "global_end": 180.715,
-              "score": 0.877
+              "word": "hacked.",
+              "clip_start": 15.492,
+              "clip_end": 15.773,
+              "global_start": 320.43,
+              "global_end": 320.711,
+              "score": 0.983
             }
           ]
         },
         {
           "group_id": "cand_3_cap_012",
-          "range_index": 1,
-          "start_time": 8.782,
-          "end_time": 9.582,
+          "range_index": 0,
+          "start_time": 15.933,
+          "end_time": 16.733,
           "duration_s": 0.8,
-          "text": "assign a task,",
+          "text": "And most companies",
           "word_count": 3,
           "words": [
             {
-              "word": "assign",
-              "clip_start": 8.782,
-              "clip_end": 9.122,
-              "global_start": 180.775,
-              "global_end": 181.115,
-              "score": 0.913
+              "word": "And",
+              "clip_start": 15.933,
+              "clip_end": 15.993,
+              "global_start": 320.871,
+              "global_end": 320.931,
+              "score": 0.562
             },
             {
-              "word": "a",
-              "clip_start": 9.162,
-              "clip_end": 9.202,
-              "global_start": 181.155,
-              "global_end": 181.195,
-              "score": 0.554
+              "word": "most",
+              "clip_start": 16.033,
+              "clip_end": 16.193,
+              "global_start": 320.971,
+              "global_end": 321.131,
+              "score": 0.851
             },
             {
-              "word": "task,",
-              "clip_start": 9.242,
-              "clip_end": 9.582,
-              "global_start": 181.235,
-              "global_end": 181.575,
-              "score": 0.98
+              "word": "companies",
+              "clip_start": 16.273,
+              "clip_end": 16.733,
+              "global_start": 321.211,
+              "global_end": 321.671,
+              "score": 0.872
             }
           ]
         },
         {
           "group_id": "cand_3_cap_013",
-          "range_index": 1,
-          "start_time": 9.902,
-          "end_time": 11.103,
-          "duration_s": 1.201,
-          "text": "a task to solve",
+          "range_index": 0,
+          "start_time": 17.194,
+          "end_time": 18.815,
+          "duration_s": 1.621,
+          "text": "take 36 hours before",
           "word_count": 4,
           "words": [
             {
-              "word": "a",
-              "clip_start": 9.902,
-              "clip_end": 9.942,
-              "global_start": 181.895,
-              "global_end": 181.935,
-              "score": 0.994
+              "word": "take",
+              "clip_start": 17.194,
+              "clip_end": 17.414,
+              "global_start": 322.132,
+              "global_end": 322.352,
+              "score": 0.856
             },
             {
-              "word": "task",
-              "clip_start": 10.002,
-              "clip_end": 10.342,
-              "global_start": 181.995,
-              "global_end": 182.335,
-              "score": 0.894
+              "word": "36",
+              "clip_start": 17.594,
+              "clip_end": 17.814,
+              "global_start": 322.532,
+              "global_end": 322.752,
+              "score": 0.629
             },
             {
-              "word": "to",
-              "clip_start": 10.583,
-              "clip_end": 10.683,
-              "global_start": 182.576,
-              "global_end": 182.676,
-              "score": 0.988
+              "word": "hours",
+              "clip_start": 18.195,
+              "clip_end": 18.535,
+              "global_start": 323.133,
+              "global_end": 323.473,
+              "score": 0.773
             },
             {
-              "word": "solve",
-              "clip_start": 10.783,
-              "clip_end": 11.103,
-              "global_start": 182.776,
-              "global_end": 183.096,
-              "score": 0.684
+              "word": "before",
+              "clip_start": 18.575,
+              "clip_end": 18.815,
+              "global_start": 323.513,
+              "global_end": 323.753,
+              "score": 0.69
             }
           ]
         },
         {
           "group_id": "cand_3_cap_014",
-          "range_index": 1,
-          "start_time": 11.143,
-          "end_time": 12.063,
-          "duration_s": 0.92,
-          "text": "our toilet problems,",
-          "word_count": 3,
+          "range_index": 0,
+          "start_time": 18.835,
+          "end_time": 20.256,
+          "duration_s": 1.421,
+          "text": "they even noticed something",
+          "word_count": 4,
           "words": [
             {
-              "word": "our",
-              "clip_start": 11.143,
-              "clip_end": 11.243,
-              "global_start": 183.136,
-              "global_end": 183.236,
-              "score": 0.883
+              "word": "they",
+              "clip_start": 18.835,
+              "clip_end": 18.955,
+              "global_start": 323.773,
+              "global_end": 323.893,
+              "score": 0.803
             },
             {
-              "word": "toilet",
-              "clip_start": 11.303,
-              "clip_end": 11.623,
-              "global_start": 183.296,
-              "global_end": 183.616,
-              "score": 0.836
+              "word": "even",
+              "clip_start": 18.995,
+              "clip_end": 19.175,
+              "global_start": 323.933,
+              "global_end": 324.113,
+              "score": 0.798
             },
             {
-              "word": "problems,",
-              "clip_start": 11.643,
-              "clip_end": 12.063,
-              "global_start": 183.636,
-              "global_end": 184.056,
-              "score": 0.786
+              "word": "noticed",
+              "clip_start": 19.316,
+              "clip_end": 19.716,
+              "global_start": 324.254,
+              "global_end": 324.654,
+              "score": 0.832
+            },
+            {
+              "word": "something",
+              "clip_start": 20.016,
+              "clip_end": 20.256,
+              "global_start": 324.954,
+              "global_end": 325.194,
+              "score": 0.899
             }
           ]
         },
         {
           "group_id": "cand_3_cap_015",
-          "range_index": 1,
-          "start_time": 12.503,
-          "end_time": 13.083,
-          "duration_s": 0.58,
-          "text": "and we'll watch them",
-          "word_count": 4,
+          "range_index": 0,
+          "start_time": 20.296,
+          "end_time": 20.797,
+          "duration_s": 0.501,
+          "text": "has happened.",
+          "word_count": 2,
           "words": [
             {
-              "word": "and",
-              "clip_start": 12.503,
-              "clip_end": 12.563,
-              "global_start": 184.496,
-              "global_end": 184.556,
-              "score": 0.988
+              "word": "has",
+              "clip_start": 20.296,
+              "clip_end": 20.417,
+              "global_start": 325.234,
+              "global_end": 325.355,
+              "score": 0.92
             },
             {
-              "word": "we'll",
-              "clip_start": 12.583,
-              "clip_end": 12.723,
-              "global_start": 184.576,
-              "global_end": 184.716,
-              "score": 0.837
-            },
-            {
-              "word": "watch",
-              "clip_start": 12.743,
-              "clip_end": 12.923,
-              "global_start": 184.736,
-              "global_end": 184.916,
-              "score": 0.768
-            },
-            {
-              "word": "them",
-              "clip_start": 12.943,
-              "clip_end": 13.083,
-              "global_start": 184.936,
-              "global_end": 185.076,
-              "score": 0.715
+              "word": "happened.",
+              "clip_start": 20.457,
+              "clip_end": 20.797,
+              "global_start": 325.395,
+              "global_end": 325.735,
+              "score": 0.844
             }
           ]
         },
         {
           "group_id": "cand_3_cap_016",
-          "range_index": 1,
-          "start_time": 13.123,
-          "end_time": 13.543,
-          "duration_s": 0.42,
-          "text": "go to work.",
-          "word_count": 3,
+          "range_index": 0,
+          "start_time": 21.198,
+          "end_time": 22.362,
+          "duration_s": 1.164,
+          "text": "Attackers only need 48",
+          "word_count": 4,
           "words": [
             {
-              "word": "go",
-              "clip_start": 13.123,
-              "clip_end": 13.203,
-              "global_start": 185.116,
-              "global_end": 185.196,
-              "score": 0.718
+              "word": "Attackers",
+              "clip_start": 21.198,
+              "clip_end": 21.579,
+              "global_start": 326.136,
+              "global_end": 326.517,
+              "score": 0.899
             },
             {
-              "word": "to",
-              "clip_start": 13.243,
-              "clip_end": 13.303,
-              "global_start": 185.236,
-              "global_end": 185.296,
-              "score": 0.851
+              "word": "only",
+              "clip_start": 21.619,
+              "clip_end": 21.88,
+              "global_start": 326.557,
+              "global_end": 326.818,
+              "score": 0.722
             },
             {
-              "word": "work.",
-              "clip_start": 13.343,
-              "clip_end": 13.543,
-              "global_start": 185.336,
-              "global_end": 185.536,
-              "score": 0.689
+              "word": "need",
+              "clip_start": 21.9,
+              "clip_end": 22.201,
+              "global_start": 326.838,
+              "global_end": 327.139,
+              "score": 0.447
+            },
+            {
+              "word": "48",
+              "clip_start": 22.221,
+              "clip_end": 22.362,
+              "global_start": 327.159,
+              "global_end": 327.3,
+              "score": 0.353
             }
           ]
         },
         {
           "group_id": "cand_3_cap_017",
-          "range_index": 1,
-          "start_time": 13.863,
-          "end_time": 14.363,
-          "duration_s": 0.5,
-          "text": "Now, I want you",
-          "word_count": 4,
+          "range_index": 0,
+          "start_time": 22.382,
+          "end_time": 23.506,
+          "duration_s": 1.124,
+          "text": "minutes. Both Flair,",
+          "word_count": 3,
           "words": [
             {
-              "word": "Now,",
-              "clip_start": 13.863,
-              "clip_end": 14.003,
-              "global_start": 185.856,
-              "global_end": 185.996,
-              "score": 0.858
+              "word": "minutes.",
+              "clip_start": 22.382,
+              "clip_end": 22.643,
+              "global_start": 327.32,
+              "global_end": 327.581,
+              "score": 0.918
             },
             {
-              "word": "I",
-              "clip_start": 14.103,
-              "clip_end": 14.163,
-              "global_start": 186.096,
-              "global_end": 186.156,
-              "score": 0.669
+              "word": "Both",
+              "clip_start": 22.883,
+              "clip_end": 23.064,
+              "global_start": 327.821,
+              "global_end": 328.002,
+              "score": 0.458
             },
             {
-              "word": "want",
-              "clip_start": 14.183,
-              "clip_end": 14.263,
-              "global_start": 186.176,
-              "global_end": 186.256,
-              "score": 0.999
-            },
-            {
-              "word": "you",
-              "clip_start": 14.283,
-              "clip_end": 14.363,
-              "global_start": 186.276,
-              "global_end": 186.356,
-              "score": 0.831
+              "word": "Flair,",
+              "clip_start": 23.144,
+              "clip_end": 23.506,
+              "global_start": 328.082,
+              "global_end": 328.444,
+              "score": 0.577
             }
           ]
         },
         {
           "group_id": "cand_3_cap_018",
-          "range_index": 1,
-          "start_time": 14.383,
-          "end_time": 15.024,
-          "duration_s": 0.641,
-          "text": "to pause here for",
-          "word_count": 4,
+          "range_index": 0,
+          "start_time": 24.108,
+          "end_time": 25.151,
+          "duration_s": 1.043,
+          "text": "you realize things",
+          "word_count": 3,
           "words": [
             {
-              "word": "to",
-              "clip_start": 14.383,
-              "clip_end": 14.423,
-              "global_start": 186.376,
-              "global_end": 186.416,
-              "score": 0.999
+              "word": "you",
+              "clip_start": 24.108,
+              "clip_end": 24.429,
+              "global_start": 329.046,
+              "global_end": 329.367,
+              "score": 0.841
             },
             {
-              "word": "pause",
-              "clip_start": 14.463,
-              "clip_end": 14.663,
-              "global_start": 186.456,
-              "global_end": 186.656,
-              "score": 0.99
+              "word": "realize",
+              "clip_start": 24.489,
+              "clip_end": 24.951,
+              "global_start": 329.427,
+              "global_end": 329.889,
+              "score": 0.814
             },
             {
-              "word": "here",
-              "clip_start": 14.703,
-              "clip_end": 14.863,
-              "global_start": 186.696,
-              "global_end": 186.856,
-              "score": 0.728
-            },
-            {
-              "word": "for",
-              "clip_start": 14.903,
-              "clip_end": 15.024,
-              "global_start": 186.896,
-              "global_end": 187.017,
-              "score": 0.786
-            }
-          ]
-        },
-        {
-          "group_id": "cand_3_cap_019",
-          "range_index": 1,
-          "start_time": 15.064,
-          "end_time": 15.384,
-          "duration_s": 0.32,
-          "text": "a moment",
-          "word_count": 2,
-          "words": [
-            {
-              "word": "a",
-              "clip_start": 15.064,
-              "clip_end": 15.084,
-              "global_start": 187.057,
-              "global_end": 187.077,
-              "score": 0.998
-            },
-            {
-              "word": "moment",
-              "clip_start": 15.124,
-              "clip_end": 15.384,
-              "global_start": 187.117,
-              "global_end": 187.377,
-              "score": 0.774
+              "word": "things",
+              "clip_start": 24.971,
+              "clip_end": 25.151,
+              "global_start": 329.909,
+              "global_end": 330.089,
+              "score": 0.834
             }
           ]
         }
@@ -2192,882 +2732,1792 @@
     },
     {
       "candidate_id": 4,
-      "total_clip_duration_s": 17.099,
-      "caption_group_count": 12,
+      "total_clip_duration_s": 37.305,
+      "caption_group_count": 46,
       "caption_groups": [
         {
           "group_id": "cand_4_cap_001",
           "range_index": 0,
           "start_time": 0.0,
-          "end_time": 1.161,
-          "duration_s": 1.161,
-          "text": "Attackers don't hack in.",
+          "end_time": 1.041,
+          "duration_s": 1.041,
+          "text": "employee. Now notice what",
           "word_count": 4,
           "words": [
             {
-              "word": "Attackers",
+              "word": "employee.",
               "clip_start": 0.0,
-              "clip_end": 0.38,
-              "global_start": 305.818,
-              "global_end": 306.198,
-              "score": 0.869
+              "clip_end": 0.421,
+              "global_start": 534.319,
+              "global_end": 534.74,
+              "score": 0.795
             },
             {
-              "word": "don't",
-              "clip_start": 0.4,
-              "clip_end": 0.58,
-              "global_start": 306.218,
-              "global_end": 306.398,
-              "score": 0.668
+              "word": "Now",
+              "clip_start": 0.641,
+              "clip_end": 0.721,
+              "global_start": 534.96,
+              "global_end": 535.04,
+              "score": 0.915
             },
             {
-              "word": "hack",
-              "clip_start": 0.66,
-              "clip_end": 0.921,
-              "global_start": 306.478,
-              "global_end": 306.739,
-              "score": 0.966
+              "word": "notice",
+              "clip_start": 0.761,
+              "clip_end": 0.901,
+              "global_start": 535.08,
+              "global_end": 535.22,
+              "score": 0.324
             },
             {
-              "word": "in.",
-              "clip_start": 1.041,
-              "clip_end": 1.161,
-              "global_start": 306.859,
-              "global_end": 306.979,
-              "score": 0.862
+              "word": "what",
+              "clip_start": 0.921,
+              "clip_end": 1.041,
+              "global_start": 535.24,
+              "global_end": 535.36,
+              "score": 0.643
             }
           ]
         },
         {
           "group_id": "cand_4_cap_002",
           "range_index": 0,
-          "start_time": 1.321,
-          "end_time": 2.062,
-          "duration_s": 0.741,
-          "text": "They log in.",
-          "word_count": 3,
+          "start_time": 1.081,
+          "end_time": 1.762,
+          "duration_s": 0.681,
+          "text": "Ron says to us.",
+          "word_count": 4,
           "words": [
             {
-              "word": "They",
-              "clip_start": 1.321,
-              "clip_end": 1.521,
-              "global_start": 307.139,
-              "global_end": 307.339,
-              "score": 0.798
+              "word": "Ron",
+              "clip_start": 1.081,
+              "clip_end": 1.322,
+              "global_start": 535.4,
+              "global_end": 535.641,
+              "score": 0.803
             },
             {
-              "word": "log",
-              "clip_start": 1.581,
-              "clip_end": 1.781,
-              "global_start": 307.399,
-              "global_end": 307.599,
-              "score": 0.659
+              "word": "says",
+              "clip_start": 1.342,
+              "clip_end": 1.522,
+              "global_start": 535.661,
+              "global_end": 535.841,
+              "score": 0.804
             },
             {
-              "word": "in.",
-              "clip_start": 1.921,
-              "clip_end": 2.062,
-              "global_start": 307.739,
-              "global_end": 307.88,
-              "score": 0.763
+              "word": "to",
+              "clip_start": 1.542,
+              "clip_end": 1.642,
+              "global_start": 535.861,
+              "global_end": 535.961,
+              "score": 0.952
+            },
+            {
+              "word": "us.",
+              "clip_start": 1.682,
+              "clip_end": 1.762,
+              "global_start": 536.001,
+              "global_end": 536.081,
+              "score": 0.78
             }
           ]
         },
         {
           "group_id": "cand_4_cap_003",
           "range_index": 0,
-          "start_time": 2.442,
-          "end_time": 4.223,
-          "duration_s": 1.781,
-          "text": "Info stealer malware grabs",
-          "word_count": 4,
+          "start_time": 1.782,
+          "end_time": 2.042,
+          "duration_s": 0.26,
+          "text": "He's like,",
+          "word_count": 2,
           "words": [
             {
-              "word": "Info",
-              "clip_start": 2.442,
-              "clip_end": 2.742,
-              "global_start": 308.26,
-              "global_end": 308.56,
-              "score": 0.596
+              "word": "He's",
+              "clip_start": 1.782,
+              "clip_end": 1.882,
+              "global_start": 536.101,
+              "global_end": 536.201,
+              "score": 0.924
             },
             {
-              "word": "stealer",
-              "clip_start": 2.762,
-              "clip_end": 3.082,
-              "global_start": 308.58,
-              "global_end": 308.9,
-              "score": 0.826
-            },
-            {
-              "word": "malware",
-              "clip_start": 3.102,
-              "clip_end": 3.523,
-              "global_start": 308.92,
-              "global_end": 309.341,
-              "score": 0.816
-            },
-            {
-              "word": "grabs",
-              "clip_start": 3.863,
-              "clip_end": 4.223,
-              "global_start": 309.681,
-              "global_end": 310.041,
-              "score": 0.904
+              "word": "like,",
+              "clip_start": 1.902,
+              "clip_end": 2.042,
+              "global_start": 536.221,
+              "global_end": 536.361,
+              "score": 0.896
             }
           ]
         },
         {
           "group_id": "cand_4_cap_004",
           "range_index": 0,
-          "start_time": 4.524,
-          "end_time": 6.485,
-          "duration_s": 1.961,
-          "text": "everything. Password session cookies.",
+          "start_time": 2.082,
+          "end_time": 3.023,
+          "duration_s": 0.941,
+          "text": "hey, I'm waiting on",
           "word_count": 4,
           "words": [
             {
-              "word": "everything.",
-              "clip_start": 4.524,
-              "clip_end": 4.964,
-              "global_start": 310.342,
-              "global_end": 310.782,
-              "score": 0.843
+              "word": "hey,",
+              "clip_start": 2.082,
+              "clip_end": 2.323,
+              "global_start": 536.401,
+              "global_end": 536.642,
+              "score": 0.902
             },
             {
-              "word": "Password",
-              "clip_start": 5.184,
-              "clip_end": 5.685,
-              "global_start": 311.002,
-              "global_end": 311.503,
-              "score": 0.87
+              "word": "I'm",
+              "clip_start": 2.423,
+              "clip_end": 2.523,
+              "global_start": 536.742,
+              "global_end": 536.842,
+              "score": 0.983
             },
             {
-              "word": "session",
-              "clip_start": 5.765,
-              "clip_end": 6.105,
-              "global_start": 311.583,
-              "global_end": 311.923,
-              "score": 0.83
+              "word": "waiting",
+              "clip_start": 2.563,
+              "clip_end": 2.823,
+              "global_start": 536.882,
+              "global_end": 537.142,
+              "score": 0.814
             },
             {
-              "word": "cookies.",
-              "clip_start": 6.125,
-              "clip_end": 6.485,
-              "global_start": 311.943,
-              "global_end": 312.303,
-              "score": 0.957
+              "word": "on",
+              "clip_start": 2.943,
+              "clip_end": 3.023,
+              "global_start": 537.262,
+              "global_end": 537.342,
+              "score": 0.807
             }
           ]
         },
         {
           "group_id": "cand_4_cap_005",
           "range_index": 0,
-          "start_time": 6.966,
-          "end_time": 8.227,
-          "duration_s": 1.261,
-          "text": "MFA tokens.",
+          "start_time": 3.144,
+          "end_time": 4.005,
+          "duration_s": 0.861,
+          "text": "board approval.",
           "word_count": 2,
           "words": [
             {
-              "word": "MFA",
-              "clip_start": 6.966,
-              "clip_end": 7.286,
-              "global_start": 312.784,
-              "global_end": 313.104,
-              "score": 0.795
+              "word": "board",
+              "clip_start": 3.144,
+              "clip_end": 3.444,
+              "global_start": 537.463,
+              "global_end": 537.763,
+              "score": 0.764
             },
             {
-              "word": "tokens.",
-              "clip_start": 7.306,
-              "clip_end": 8.227,
-              "global_start": 313.124,
-              "global_end": 314.045,
-              "score": 0.825
+              "word": "approval.",
+              "clip_start": 3.504,
+              "clip_end": 4.005,
+              "global_start": 537.823,
+              "global_end": 538.324,
+              "score": 0.89
             }
           ]
         },
         {
           "group_id": "cand_4_cap_006",
           "range_index": 0,
-          "start_time": 8.387,
-          "end_time": 9.108,
-          "duration_s": 0.721,
-          "text": "54%",
-          "word_count": 1,
+          "start_time": 4.245,
+          "end_time": 4.765,
+          "duration_s": 0.52,
+          "text": "Who's the board?",
+          "word_count": 3,
           "words": [
             {
-              "word": "54%",
-              "clip_start": 8.387,
-              "clip_end": 9.108,
-              "global_start": 314.205,
-              "global_end": 314.926,
-              "score": 0.576
+              "word": "Who's",
+              "clip_start": 4.245,
+              "clip_end": 4.405,
+              "global_start": 538.564,
+              "global_end": 538.724,
+              "score": 0.926
+            },
+            {
+              "word": "the",
+              "clip_start": 4.425,
+              "clip_end": 4.505,
+              "global_start": 538.744,
+              "global_end": 538.824,
+              "score": 0.86
+            },
+            {
+              "word": "board?",
+              "clip_start": 4.525,
+              "clip_end": 4.765,
+              "global_start": 538.844,
+              "global_end": 539.084,
+              "score": 0.872
             }
           ]
         },
         {
           "group_id": "cand_4_cap_007",
-          "range_index": 1,
-          "start_time": 9.108,
-          "end_time": 10.349,
-          "duration_s": 1.241,
-          "text": "hacked. And most companies",
-          "word_count": 4,
+          "range_index": 0,
+          "start_time": 5.622,
+          "end_time": 6.122,
+          "duration_s": 0.5,
+          "text": "That's you.",
+          "word_count": 2,
           "words": [
             {
-              "word": "hacked.",
-              "clip_start": 9.108,
-              "clip_end": 9.389,
-              "global_start": 320.43,
-              "global_end": 320.711,
-              "score": 0.984
+              "word": "That's",
+              "clip_start": 5.622,
+              "clip_end": 5.862,
+              "global_start": 539.941,
+              "global_end": 540.181,
+              "score": 0.767
             },
             {
-              "word": "And",
-              "clip_start": 9.549,
-              "clip_end": 9.609,
-              "global_start": 320.871,
-              "global_end": 320.931,
-              "score": 0.537
-            },
-            {
-              "word": "most",
-              "clip_start": 9.649,
-              "clip_end": 9.809,
-              "global_start": 320.971,
-              "global_end": 321.131,
-              "score": 0.841
-            },
-            {
-              "word": "companies",
-              "clip_start": 9.889,
-              "clip_end": 10.349,
-              "global_start": 321.211,
-              "global_end": 321.671,
-              "score": 0.868
+              "word": "you.",
+              "clip_start": 5.902,
+              "clip_end": 6.122,
+              "global_start": 540.221,
+              "global_end": 540.441,
+              "score": 0.92
             }
           ]
         },
         {
           "group_id": "cand_4_cap_008",
-          "range_index": 1,
-          "start_time": 10.81,
-          "end_time": 12.431,
-          "duration_s": 1.621,
-          "text": "take 36 hours before",
+          "range_index": 0,
+          "start_time": 6.442,
+          "end_time": 6.962,
+          "duration_s": 0.52,
+          "text": "Look at us on",
           "word_count": 4,
           "words": [
             {
-              "word": "take",
-              "clip_start": 10.81,
-              "clip_end": 11.03,
-              "global_start": 322.132,
-              "global_end": 322.352,
-              "score": 0.859
+              "word": "Look",
+              "clip_start": 6.442,
+              "clip_end": 6.602,
+              "global_start": 540.761,
+              "global_end": 540.921,
+              "score": 0.924
             },
             {
-              "word": "36",
-              "clip_start": 11.21,
-              "clip_end": 11.43,
-              "global_start": 322.532,
-              "global_end": 322.752,
-              "score": 0.686
+              "word": "at",
+              "clip_start": 6.622,
+              "clip_end": 6.682,
+              "global_start": 540.941,
+              "global_end": 541.001,
+              "score": 0.77
             },
             {
-              "word": "hours",
-              "clip_start": 11.811,
-              "clip_end": 12.151,
-              "global_start": 323.133,
-              "global_end": 323.473,
-              "score": 0.776
+              "word": "us",
+              "clip_start": 6.722,
+              "clip_end": 6.822,
+              "global_start": 541.041,
+              "global_end": 541.141,
+              "score": 0.541
             },
             {
-              "word": "before",
-              "clip_start": 12.191,
-              "clip_end": 12.431,
-              "global_start": 323.513,
-              "global_end": 323.753,
-              "score": 0.72
+              "word": "on",
+              "clip_start": 6.902,
+              "clip_end": 6.962,
+              "global_start": 541.221,
+              "global_end": 541.281,
+              "score": 0.976
             }
           ]
         },
         {
           "group_id": "cand_4_cap_009",
-          "range_index": 1,
-          "start_time": 12.451,
-          "end_time": 13.872,
-          "duration_s": 1.421,
-          "text": "they even noticed something",
-          "word_count": 4,
+          "range_index": 0,
+          "start_time": 7.002,
+          "end_time": 7.463,
+          "duration_s": 0.461,
+          "text": "our company.",
+          "word_count": 2,
           "words": [
             {
-              "word": "they",
-              "clip_start": 12.451,
-              "clip_end": 12.571,
-              "global_start": 323.773,
-              "global_end": 323.893,
-              "score": 0.813
+              "word": "our",
+              "clip_start": 7.002,
+              "clip_end": 7.082,
+              "global_start": 541.321,
+              "global_end": 541.401,
+              "score": 0.852
             },
             {
-              "word": "even",
-              "clip_start": 12.611,
-              "clip_end": 12.791,
-              "global_start": 323.933,
-              "global_end": 324.113,
-              "score": 0.812
-            },
-            {
-              "word": "noticed",
-              "clip_start": 12.932,
-              "clip_end": 13.332,
-              "global_start": 324.254,
-              "global_end": 324.654,
-              "score": 0.829
-            },
-            {
-              "word": "something",
-              "clip_start": 13.632,
-              "clip_end": 13.872,
-              "global_start": 324.954,
-              "global_end": 325.194,
-              "score": 0.897
+              "word": "company.",
+              "clip_start": 7.143,
+              "clip_end": 7.463,
+              "global_start": 541.462,
+              "global_end": 541.782,
+              "score": 0.964
             }
           ]
         },
         {
           "group_id": "cand_4_cap_010",
-          "range_index": 1,
-          "start_time": 13.912,
-          "end_time": 14.413,
-          "duration_s": 0.501,
-          "text": "has happened.",
-          "word_count": 2,
+          "range_index": 0,
+          "start_time": 7.523,
+          "end_time": 8.063,
+          "duration_s": 0.54,
+          "text": "We're the board of",
+          "word_count": 4,
           "words": [
             {
-              "word": "has",
-              "clip_start": 13.912,
-              "clip_end": 14.032,
-              "global_start": 325.234,
-              "global_end": 325.354,
-              "score": 0.906
+              "word": "We're",
+              "clip_start": 7.523,
+              "clip_end": 7.663,
+              "global_start": 541.842,
+              "global_end": 541.982,
+              "score": 0.912
             },
             {
-              "word": "happened.",
-              "clip_start": 14.073,
-              "clip_end": 14.413,
-              "global_start": 325.395,
-              "global_end": 325.735,
-              "score": 0.845
+              "word": "the",
+              "clip_start": 7.683,
+              "clip_end": 7.763,
+              "global_start": 542.002,
+              "global_end": 542.082,
+              "score": 0.825
+            },
+            {
+              "word": "board",
+              "clip_start": 7.783,
+              "clip_end": 7.983,
+              "global_start": 542.102,
+              "global_end": 542.302,
+              "score": 0.779
+            },
+            {
+              "word": "of",
+              "clip_start": 8.003,
+              "clip_end": 8.063,
+              "global_start": 542.322,
+              "global_end": 542.382,
+              "score": 0.746
             }
           ]
         },
         {
           "group_id": "cand_4_cap_011",
-          "range_index": 1,
-          "start_time": 14.813,
-          "end_time": 15.976,
-          "duration_s": 1.163,
-          "text": "Attackers only need 48",
+          "range_index": 0,
+          "start_time": 8.083,
+          "end_time": 9.343,
+          "duration_s": 1.26,
+          "text": "directors. Look how far",
           "word_count": 4,
           "words": [
             {
-              "word": "Attackers",
-              "clip_start": 14.813,
-              "clip_end": 15.194,
-              "global_start": 326.135,
-              "global_end": 326.516,
-              "score": 0.906
+              "word": "directors.",
+              "clip_start": 8.083,
+              "clip_end": 8.603,
+              "global_start": 542.402,
+              "global_end": 542.922,
+              "score": 0.888
             },
             {
-              "word": "only",
-              "clip_start": 15.235,
-              "clip_end": 15.495,
-              "global_start": 326.557,
-              "global_end": 326.817,
-              "score": 0.734
+              "word": "Look",
+              "clip_start": 8.923,
+              "clip_end": 9.043,
+              "global_start": 543.242,
+              "global_end": 543.362,
+              "score": 0.876
             },
             {
-              "word": "need",
-              "clip_start": 15.515,
-              "clip_end": 15.816,
-              "global_start": 326.837,
-              "global_end": 327.138,
-              "score": 0.427
+              "word": "how",
+              "clip_start": 9.063,
+              "clip_end": 9.163,
+              "global_start": 543.382,
+              "global_end": 543.482,
+              "score": 0.714
             },
             {
-              "word": "48",
-              "clip_start": 15.836,
-              "clip_end": 15.976,
-              "global_start": 327.158,
-              "global_end": 327.298,
-              "score": 0.354
+              "word": "far",
+              "clip_start": 9.183,
+              "clip_end": 9.343,
+              "global_start": 543.502,
+              "global_end": 543.662,
+              "score": 0.705
             }
           ]
         },
         {
           "group_id": "cand_4_cap_012",
-          "range_index": 1,
-          "start_time": 15.996,
-          "end_time": 17.099,
-          "duration_s": 1.103,
-          "text": "minutes. Both Flair,",
-          "word_count": 3,
-          "words": [
-            {
-              "word": "minutes.",
-              "clip_start": 15.996,
-              "clip_end": 16.257,
-              "global_start": 327.318,
-              "global_end": 327.579,
-              "score": 0.922
-            },
-            {
-              "word": "Both",
-              "clip_start": 16.498,
-              "clip_end": 16.678,
-              "global_start": 327.82,
-              "global_end": 328.0,
-              "score": 0.479
-            },
-            {
-              "word": "Flair,",
-              "clip_start": 16.758,
-              "clip_end": 17.099,
-              "global_start": 328.08,
-              "global_end": 328.421,
-              "score": 0.813
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "candidate_id": 5,
-      "total_clip_duration_s": 10.311,
-      "caption_group_count": 11,
-      "caption_groups": [
-        {
-          "group_id": "cand_5_cap_001",
-          "range_index": 1,
-          "start_time": 0.0,
-          "end_time": 0.641,
-          "duration_s": 0.641,
-          "text": "a task to Matt",
-          "word_count": 4,
-          "words": [
-            {
-              "word": "a",
-              "clip_start": 0.0,
-              "clip_end": 0.04,
-              "global_start": 668.78,
-              "global_end": 668.82,
-              "score": 0.658
-            },
-            {
-              "word": "task",
-              "clip_start": 0.08,
-              "clip_end": 0.36,
-              "global_start": 668.86,
-              "global_end": 669.14,
-              "score": 0.976
-            },
-            {
-              "word": "to",
-              "clip_start": 0.38,
-              "clip_end": 0.5,
-              "global_start": 669.16,
-              "global_end": 669.28,
-              "score": 0.714
-            },
-            {
-              "word": "Matt",
-              "clip_start": 0.52,
-              "clip_end": 0.641,
-              "global_start": 669.3,
-              "global_end": 669.421,
-              "score": 0.544
-            }
-          ]
-        },
-        {
-          "group_id": "cand_5_cap_002",
-          "range_index": 1,
-          "start_time": 0.681,
-          "end_time": 1.722,
-          "duration_s": 1.041,
-          "text": "Imoody through hermys.",
-          "word_count": 3,
-          "words": [
-            {
-              "word": "Imoody",
-              "clip_start": 0.681,
-              "clip_end": 1.021,
-              "global_start": 669.461,
-              "global_end": 669.801,
-              "score": 0.845
-            },
-            {
-              "word": "through",
-              "clip_start": 1.101,
-              "clip_end": 1.341,
-              "global_start": 669.881,
-              "global_end": 670.121,
-              "score": 0.871
-            },
-            {
-              "word": "hermys.",
-              "clip_start": 1.381,
-              "clip_end": 1.722,
-              "global_start": 670.161,
-              "global_end": 670.502,
-              "score": 0.785
-            }
-          ]
-        },
-        {
-          "group_id": "cand_5_cap_003",
-          "range_index": 1,
-          "start_time": 2.102,
-          "end_time": 2.763,
-          "duration_s": 0.661,
-          "text": "This works because they",
-          "word_count": 4,
-          "words": [
-            {
-              "word": "This",
-              "clip_start": 2.102,
-              "clip_end": 2.222,
-              "global_start": 670.882,
-              "global_end": 671.002,
-              "score": 0.849
-            },
-            {
-              "word": "works",
-              "clip_start": 2.262,
-              "clip_end": 2.443,
-              "global_start": 671.042,
-              "global_end": 671.223,
-              "score": 0.838
-            },
-            {
-              "word": "because",
-              "clip_start": 2.463,
-              "clip_end": 2.643,
-              "global_start": 671.243,
-              "global_end": 671.423,
-              "score": 0.873
-            },
-            {
-              "word": "they",
-              "clip_start": 2.663,
-              "clip_end": 2.763,
-              "global_start": 671.443,
-              "global_end": 671.543,
-              "score": 0.892
-            }
-          ]
-        },
-        {
-          "group_id": "cand_5_cap_004",
-          "range_index": 1,
-          "start_time": 2.783,
-          "end_time": 3.484,
-          "duration_s": 0.701,
-          "text": "all have a paperclip",
-          "word_count": 4,
-          "words": [
-            {
-              "word": "all",
-              "clip_start": 2.783,
-              "clip_end": 2.903,
-              "global_start": 671.563,
-              "global_end": 671.683,
-              "score": 0.802
-            },
-            {
-              "word": "have",
-              "clip_start": 2.923,
-              "clip_end": 3.003,
-              "global_start": 671.703,
-              "global_end": 671.783,
-              "score": 0.733
-            },
-            {
-              "word": "a",
-              "clip_start": 3.043,
-              "clip_end": 3.063,
-              "global_start": 671.823,
-              "global_end": 671.843,
-              "score": 0.988
-            },
-            {
-              "word": "paperclip",
-              "clip_start": 3.103,
-              "clip_end": 3.484,
-              "global_start": 671.883,
-              "global_end": 672.264,
-              "score": 0.862
-            }
-          ]
-        },
-        {
-          "group_id": "cand_5_cap_005",
-          "range_index": 1,
-          "start_time": 3.504,
-          "end_time": 4.505,
-          "duration_s": 1.001,
-          "text": "skill. Isn't that awesome?",
-          "word_count": 4,
-          "words": [
-            {
-              "word": "skill.",
-              "clip_start": 3.504,
-              "clip_end": 3.744,
-              "global_start": 672.284,
-              "global_end": 672.524,
-              "score": 0.919
-            },
-            {
-              "word": "Isn't",
-              "clip_start": 3.944,
-              "clip_end": 4.064,
-              "global_start": 672.724,
-              "global_end": 672.844,
-              "score": 0.804
-            },
-            {
-              "word": "that",
-              "clip_start": 4.084,
-              "clip_end": 4.185,
-              "global_start": 672.864,
-              "global_end": 672.965,
-              "score": 0.328
-            },
-            {
-              "word": "awesome?",
-              "clip_start": 4.265,
-              "clip_end": 4.505,
-              "global_start": 673.045,
-              "global_end": 673.285,
-              "score": 0.771
-            }
-          ]
-        },
-        {
-          "group_id": "cand_5_cap_006",
-          "range_index": 1,
-          "start_time": 4.825,
-          "end_time": 5.326,
-          "duration_s": 0.501,
-          "text": "Also look at this",
-          "word_count": 4,
-          "words": [
-            {
-              "word": "Also",
-              "clip_start": 4.825,
-              "clip_end": 5.026,
-              "global_start": 673.605,
-              "global_end": 673.806,
-              "score": 0.689
-            },
-            {
-              "word": "look",
-              "clip_start": 5.046,
-              "clip_end": 5.146,
-              "global_start": 673.826,
-              "global_end": 673.926,
-              "score": 0.997
-            },
-            {
-              "word": "at",
-              "clip_start": 5.166,
-              "clip_end": 5.206,
-              "global_start": 673.946,
-              "global_end": 673.986,
-              "score": 0.863
-            },
-            {
-              "word": "this",
-              "clip_start": 5.226,
-              "clip_end": 5.326,
-              "global_start": 674.006,
-              "global_end": 674.106,
-              "score": 0.178
-            }
-          ]
-        },
-        {
-          "group_id": "cand_5_cap_007",
-          "range_index": 1,
-          "start_time": 5.366,
-          "end_time": 6.047,
-          "duration_s": 0.681,
-          "text": "organization stuff.",
+          "range_index": 0,
+          "start_time": 9.363,
+          "end_time": 9.903,
+          "duration_s": 0.54,
+          "text": "we've come.",
           "word_count": 2,
           "words": [
             {
-              "word": "organization",
-              "clip_start": 5.366,
-              "clip_end": 5.846,
-              "global_start": 674.146,
-              "global_end": 674.626,
-              "score": 0.827
+              "word": "we've",
+              "clip_start": 9.363,
+              "clip_end": 9.503,
+              "global_start": 543.682,
+              "global_end": 543.822,
+              "score": 0.856
             },
             {
-              "word": "stuff.",
-              "clip_start": 5.866,
-              "clip_end": 6.047,
-              "global_start": 674.646,
-              "global_end": 674.827,
-              "score": 0.71
-            }
-          ]
-        },
-        {
-          "group_id": "cand_5_cap_008",
-          "range_index": 1,
-          "start_time": 6.067,
-          "end_time": 6.487,
-          "duration_s": 0.42,
-          "text": "We get an org",
-          "word_count": 4,
-          "words": [
-            {
-              "word": "We",
-              "clip_start": 6.067,
-              "clip_end": 6.147,
-              "global_start": 674.847,
-              "global_end": 674.927,
-              "score": 0.415
-            },
-            {
-              "word": "get",
-              "clip_start": 6.167,
-              "clip_end": 6.227,
-              "global_start": 674.947,
-              "global_end": 675.007,
-              "score": 0.014
-            },
-            {
-              "word": "an",
-              "clip_start": 6.247,
-              "clip_end": 6.287,
-              "global_start": 675.027,
-              "global_end": 675.067,
-              "score": 0.132
-            },
-            {
-              "word": "org",
-              "clip_start": 6.367,
-              "clip_end": 6.487,
-              "global_start": 675.147,
-              "global_end": 675.267,
-              "score": 0.777
-            }
-          ]
-        },
-        {
-          "group_id": "cand_5_cap_009",
-          "range_index": 1,
-          "start_time": 6.507,
-          "end_time": 7.068,
-          "duration_s": 0.561,
-          "text": "chart, of course.",
-          "word_count": 3,
-          "words": [
-            {
-              "word": "chart,",
-              "clip_start": 6.507,
-              "clip_end": 6.707,
-              "global_start": 675.287,
-              "global_end": 675.487,
-              "score": 0.689
-            },
-            {
-              "word": "of",
-              "clip_start": 6.727,
-              "clip_end": 6.788,
-              "global_start": 675.507,
-              "global_end": 675.568,
-              "score": 0.748
-            },
-            {
-              "word": "course.",
-              "clip_start": 6.848,
-              "clip_end": 7.068,
-              "global_start": 675.628,
-              "global_end": 675.848,
-              "score": 0.847
-            }
-          ]
-        },
-        {
-          "group_id": "cand_5_cap_010",
-          "range_index": 1,
-          "start_time": 7.368,
-          "end_time": 8.93,
-          "duration_s": 1.562,
-          "text": "Activity. We have timelines.",
-          "word_count": 4,
-          "words": [
-            {
-              "word": "Activity.",
-              "clip_start": 7.368,
-              "clip_end": 7.789,
-              "global_start": 676.148,
-              "global_end": 676.569,
-              "score": 0.898
-            },
-            {
-              "word": "We",
-              "clip_start": 8.089,
-              "clip_end": 8.169,
-              "global_start": 676.869,
-              "global_end": 676.949,
-              "score": 0.842
-            },
-            {
-              "word": "have",
-              "clip_start": 8.209,
-              "clip_end": 8.289,
-              "global_start": 676.989,
-              "global_end": 677.069,
-              "score": 0.999
-            },
-            {
-              "word": "timelines.",
-              "clip_start": 8.349,
-              "clip_end": 8.93,
-              "global_start": 677.129,
-              "global_end": 677.71,
+              "word": "come.",
+              "clip_start": 9.543,
+              "clip_end": 9.903,
+              "global_start": 543.862,
+              "global_end": 544.222,
               "score": 0.954
             }
           ]
         },
         {
-          "group_id": "cand_5_cap_011",
-          "range_index": 1,
-          "start_time": 9.471,
-          "end_time": 10.311,
-          "duration_s": 0.84,
-          "text": "Everything's trackable.",
+          "group_id": "cand_4_cap_013",
+          "range_index": 0,
+          "start_time": 9.923,
+          "end_time": 10.824,
+          "duration_s": 0.901,
+          "text": "That's where we sit",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "That's",
+              "clip_start": 9.923,
+              "clip_end": 10.083,
+              "global_start": 544.242,
+              "global_end": 544.402,
+              "score": 0.792
+            },
+            {
+              "word": "where",
+              "clip_start": 10.103,
+              "clip_end": 10.264,
+              "global_start": 544.422,
+              "global_end": 544.583,
+              "score": 0.729
+            },
+            {
+              "word": "we",
+              "clip_start": 10.344,
+              "clip_end": 10.524,
+              "global_start": 544.663,
+              "global_end": 544.843,
+              "score": 0.848
+            },
+            {
+              "word": "sit",
+              "clip_start": 10.604,
+              "clip_end": 10.824,
+              "global_start": 544.923,
+              "global_end": 545.143,
+              "score": 0.865
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_014",
+          "range_index": 0,
+          "start_time": 10.944,
+          "end_time": 11.224,
+          "duration_s": 0.28,
+          "text": "in this",
           "word_count": 2,
           "words": [
             {
-              "word": "Everything's",
-              "clip_start": 9.471,
-              "clip_end": 9.831,
-              "global_start": 678.251,
-              "global_end": 678.611,
+              "word": "in",
+              "clip_start": 10.944,
+              "clip_end": 11.024,
+              "global_start": 545.263,
+              "global_end": 545.343,
+              "score": 0.934
+            },
+            {
+              "word": "this",
+              "clip_start": 11.064,
+              "clip_end": 11.224,
+              "global_start": 545.383,
+              "global_end": 545.543,
+              "score": 0.824
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_015",
+          "range_index": 0,
+          "start_time": 11.664,
+          "end_time": 13.425,
+          "duration_s": 1.761,
+          "text": "paperclip organizational hierarchy.",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "paperclip",
+              "clip_start": 11.664,
+              "clip_end": 12.224,
+              "global_start": 545.983,
+              "global_end": 546.543,
+              "score": 0.913
+            },
+            {
+              "word": "organizational",
+              "clip_start": 12.404,
+              "clip_end": 12.984,
+              "global_start": 546.723,
+              "global_end": 547.303,
+              "score": 0.808
+            },
+            {
+              "word": "hierarchy.",
+              "clip_start": 13.024,
+              "clip_end": 13.425,
+              "global_start": 547.343,
+              "global_end": 547.744,
+              "score": 0.767
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_016",
+          "range_index": 0,
+          "start_time": 13.565,
+          "end_time": 14.225,
+          "duration_s": 0.66,
+          "text": "Our agents are the",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "Our",
+              "clip_start": 13.565,
+              "clip_end": 13.665,
+              "global_start": 547.884,
+              "global_end": 547.984,
+              "score": 0.682
+            },
+            {
+              "word": "agents",
+              "clip_start": 13.805,
+              "clip_end": 14.025,
+              "global_start": 548.124,
+              "global_end": 548.344,
+              "score": 0.928
+            },
+            {
+              "word": "are",
+              "clip_start": 14.045,
+              "clip_end": 14.145,
+              "global_start": 548.364,
+              "global_end": 548.464,
+              "score": 0.634
+            },
+            {
+              "word": "the",
+              "clip_start": 14.165,
+              "clip_end": 14.225,
+              "global_start": 548.484,
+              "global_end": 548.544,
+              "score": 0.993
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_017",
+          "range_index": 0,
+          "start_time": 14.265,
+          "end_time": 14.785,
+          "duration_s": 0.52,
+          "text": "employees.",
+          "word_count": 1,
+          "words": [
+            {
+              "word": "employees.",
+              "clip_start": 14.265,
+              "clip_end": 14.785,
+              "global_start": 548.584,
+              "global_end": 549.104,
+              "score": 0.647
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_018",
+          "range_index": 0,
+          "start_time": 15.525,
+          "end_time": 16.085,
+          "duration_s": 0.56,
+          "text": "We're up here.",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "We're",
+              "clip_start": 15.525,
+              "clip_end": 15.685,
+              "global_start": 549.844,
+              "global_end": 550.004,
+              "score": 0.75
+            },
+            {
+              "word": "up",
+              "clip_start": 15.725,
+              "clip_end": 15.805,
+              "global_start": 550.044,
+              "global_end": 550.124,
+              "score": 0.7
+            },
+            {
+              "word": "here.",
+              "clip_start": 15.845,
+              "clip_end": 16.085,
+              "global_start": 550.164,
+              "global_end": 550.404,
+              "score": 0.878
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_019",
+          "range_index": 0,
+          "start_time": 16.466,
+          "end_time": 17.226,
+          "duration_s": 0.76,
+          "text": "We're calling the shots.",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "We're",
+              "clip_start": 16.466,
+              "clip_end": 16.586,
+              "global_start": 550.785,
+              "global_end": 550.905,
+              "score": 0.752
+            },
+            {
+              "word": "calling",
+              "clip_start": 16.606,
+              "clip_end": 16.806,
+              "global_start": 550.925,
+              "global_end": 551.125,
+              "score": 0.523
+            },
+            {
+              "word": "the",
+              "clip_start": 16.826,
+              "clip_end": 16.886,
+              "global_start": 551.145,
+              "global_end": 551.205,
+              "score": 0.638
+            },
+            {
+              "word": "shots.",
+              "clip_start": 16.906,
+              "clip_end": 17.226,
+              "global_start": 551.225,
+              "global_end": 551.545,
+              "score": 0.858
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_020",
+          "range_index": 0,
+          "start_time": 17.566,
+          "end_time": 17.986,
+          "duration_s": 0.42,
+          "text": "Now here what you're",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "Now",
+              "clip_start": 17.566,
+              "clip_end": 17.646,
+              "global_start": 551.885,
+              "global_end": 551.965,
+              "score": 0.863
+            },
+            {
+              "word": "here",
+              "clip_start": 17.666,
+              "clip_end": 17.746,
+              "global_start": 551.985,
+              "global_end": 552.065,
+              "score": 0.494
+            },
+            {
+              "word": "what",
+              "clip_start": 17.766,
+              "clip_end": 17.846,
+              "global_start": 552.085,
+              "global_end": 552.165,
+              "score": 0.001
+            },
+            {
+              "word": "you're",
+              "clip_start": 17.866,
+              "clip_end": 17.986,
+              "global_start": 552.185,
+              "global_end": 552.305,
+              "score": 0.461
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_021",
+          "range_index": 0,
+          "start_time": 18.006,
+          "end_time": 18.406,
+          "duration_s": 0.4,
+          "text": "about to see is",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "about",
+              "clip_start": 18.006,
+              "clip_end": 18.106,
+              "global_start": 552.325,
+              "global_end": 552.425,
+              "score": 0.005
+            },
+            {
+              "word": "to",
+              "clip_start": 18.126,
+              "clip_end": 18.166,
+              "global_start": 552.445,
+              "global_end": 552.485,
+              "score": 0.445
+            },
+            {
+              "word": "see",
+              "clip_start": 18.186,
+              "clip_end": 18.326,
+              "global_start": 552.505,
+              "global_end": 552.645,
+              "score": 0.875
+            },
+            {
+              "word": "is",
+              "clip_start": 18.366,
+              "clip_end": 18.406,
+              "global_start": 552.685,
+              "global_end": 552.725,
+              "score": 0.996
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_022",
+          "range_index": 0,
+          "start_time": 18.446,
+          "end_time": 18.786,
+          "duration_s": 0.34,
+          "text": "one of the most",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "one",
+              "clip_start": 18.446,
+              "clip_end": 18.506,
+              "global_start": 552.765,
+              "global_end": 552.825,
+              "score": 0.998
+            },
+            {
+              "word": "of",
+              "clip_start": 18.526,
+              "clip_end": 18.566,
+              "global_start": 552.845,
+              "global_end": 552.885,
+              "score": 0.982
+            },
+            {
+              "word": "the",
+              "clip_start": 18.586,
+              "clip_end": 18.646,
+              "global_start": 552.905,
+              "global_end": 552.965,
+              "score": 0.969
+            },
+            {
+              "word": "most",
+              "clip_start": 18.686,
+              "clip_end": 18.786,
+              "global_start": 553.005,
+              "global_end": 553.105,
+              "score": 0.876
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_023",
+          "range_index": 0,
+          "start_time": 18.846,
+          "end_time": 20.267,
+          "duration_s": 1.421,
+          "text": "powerful parts of paperclip.",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "powerful",
+              "clip_start": 18.846,
+              "clip_end": 19.247,
+              "global_start": 553.165,
+              "global_end": 553.566,
+              "score": 0.818
+            },
+            {
+              "word": "parts",
+              "clip_start": 19.327,
+              "clip_end": 19.627,
+              "global_start": 553.646,
+              "global_end": 553.946,
+              "score": 0.81
+            },
+            {
+              "word": "of",
+              "clip_start": 19.707,
+              "clip_end": 19.787,
+              "global_start": 554.026,
+              "global_end": 554.106,
+              "score": 0.816
+            },
+            {
+              "word": "paperclip.",
+              "clip_start": 19.827,
+              "clip_end": 20.267,
+              "global_start": 554.146,
+              "global_end": 554.586,
+              "score": 0.892
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_024",
+          "range_index": 0,
+          "start_time": 20.287,
+          "end_time": 20.787,
+          "duration_s": 0.5,
+          "text": "And it's how we",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "And",
+              "clip_start": 20.287,
+              "clip_end": 20.347,
+              "global_start": 554.606,
+              "global_end": 554.666,
+              "score": 0.986
+            },
+            {
+              "word": "it's",
+              "clip_start": 20.387,
+              "clip_end": 20.467,
+              "global_start": 554.706,
+              "global_end": 554.786,
+              "score": 0.976
+            },
+            {
+              "word": "how",
+              "clip_start": 20.507,
+              "clip_end": 20.607,
+              "global_start": 554.826,
+              "global_end": 554.926,
+              "score": 0.961
+            },
+            {
+              "word": "we",
+              "clip_start": 20.667,
+              "clip_end": 20.787,
+              "global_start": 554.986,
+              "global_end": 555.106,
+              "score": 0.989
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_025",
+          "range_index": 0,
+          "start_time": 21.247,
+          "end_time": 21.987,
+          "duration_s": 0.74,
+          "text": "talk with our agents,",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "talk",
+              "clip_start": 21.247,
+              "clip_end": 21.487,
+              "global_start": 555.566,
+              "global_end": 555.806,
+              "score": 0.838
+            },
+            {
+              "word": "with",
+              "clip_start": 21.507,
+              "clip_end": 21.607,
+              "global_start": 555.826,
+              "global_end": 555.926,
+              "score": 0.873
+            },
+            {
+              "word": "our",
+              "clip_start": 21.647,
+              "clip_end": 21.707,
+              "global_start": 555.966,
+              "global_end": 556.026,
+              "score": 0.999
+            },
+            {
+              "word": "agents,",
+              "clip_start": 21.767,
+              "clip_end": 21.987,
+              "global_start": 556.086,
+              "global_end": 556.306,
+              "score": 0.92
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_026",
+          "range_index": 0,
+          "start_time": 22.007,
+          "end_time": 22.668,
+          "duration_s": 0.661,
+          "text": "how we interface with",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "how",
+              "clip_start": 22.007,
+              "clip_end": 22.087,
+              "global_start": 556.326,
+              "global_end": 556.406,
+              "score": 0.841
+            },
+            {
+              "word": "we",
+              "clip_start": 22.107,
+              "clip_end": 22.228,
+              "global_start": 556.426,
+              "global_end": 556.547,
+              "score": 0.731
+            },
+            {
+              "word": "interface",
+              "clip_start": 22.268,
+              "clip_end": 22.568,
+              "global_start": 556.587,
+              "global_end": 556.887,
               "score": 0.859
             },
             {
-              "word": "trackable.",
-              "clip_start": 9.871,
-              "clip_end": 10.311,
-              "global_start": 678.651,
-              "global_end": 679.091,
+              "word": "with",
+              "clip_start": 22.588,
+              "clip_end": 22.668,
+              "global_start": 556.907,
+              "global_end": 556.987,
+              "score": 1.0
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_027",
+          "range_index": 0,
+          "start_time": 22.708,
+          "end_time": 23.388,
+          "duration_s": 0.68,
+          "text": "them. And that's through",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "them.",
+              "clip_start": 22.708,
+              "clip_end": 22.828,
+              "global_start": 557.027,
+              "global_end": 557.147,
+              "score": 0.995
+            },
+            {
+              "word": "And",
+              "clip_start": 22.848,
+              "clip_end": 22.908,
+              "global_start": 557.167,
+              "global_end": 557.227,
+              "score": 0.989
+            },
+            {
+              "word": "that's",
+              "clip_start": 22.928,
+              "clip_end": 23.068,
+              "global_start": 557.247,
+              "global_end": 557.387,
+              "score": 0.907
+            },
+            {
+              "word": "through",
+              "clip_start": 23.108,
+              "clip_end": 23.388,
+              "global_start": 557.427,
+              "global_end": 557.707,
+              "score": 0.604
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_028",
+          "range_index": 0,
+          "start_time": 23.748,
+          "end_time": 24.828,
+          "duration_s": 1.08,
+          "text": "tasks. Now we're about",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "tasks.",
+              "clip_start": 23.748,
+              "clip_end": 24.168,
+              "global_start": 558.067,
+              "global_end": 558.487,
+              "score": 0.934
+            },
+            {
+              "word": "Now",
+              "clip_start": 24.468,
+              "clip_end": 24.528,
+              "global_start": 558.787,
+              "global_end": 558.847,
+              "score": 0.921
+            },
+            {
+              "word": "we're",
+              "clip_start": 24.548,
+              "clip_end": 24.668,
+              "global_start": 558.867,
+              "global_end": 558.987,
+              "score": 0.457
+            },
+            {
+              "word": "about",
+              "clip_start": 24.688,
+              "clip_end": 24.828,
+              "global_start": 559.007,
+              "global_end": 559.147,
+              "score": 0.858
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_029",
+          "range_index": 0,
+          "start_time": 24.848,
+          "end_time": 25.469,
+          "duration_s": 0.621,
+          "text": "to sign our toilet",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "to",
+              "clip_start": 24.848,
+              "clip_end": 24.928,
+              "global_start": 559.167,
+              "global_end": 559.247,
+              "score": 0.494
+            },
+            {
+              "word": "sign",
+              "clip_start": 24.948,
+              "clip_end": 25.068,
+              "global_start": 559.267,
+              "global_end": 559.387,
+              "score": 0.787
+            },
+            {
+              "word": "our",
+              "clip_start": 25.108,
+              "clip_end": 25.188,
+              "global_start": 559.427,
+              "global_end": 559.507,
+              "score": 0.588
+            },
+            {
+              "word": "toilet",
+              "clip_start": 25.209,
+              "clip_end": 25.469,
+              "global_start": 559.528,
+              "global_end": 559.788,
+              "score": 0.724
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_030",
+          "range_index": 0,
+          "start_time": 25.489,
+          "end_time": 26.229,
+          "duration_s": 0.74,
+          "text": "task. But first I",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "task.",
+              "clip_start": 25.489,
+              "clip_end": 25.749,
+              "global_start": 559.808,
+              "global_end": 560.068,
+              "score": 0.988
+            },
+            {
+              "word": "But",
+              "clip_start": 25.889,
+              "clip_end": 25.989,
+              "global_start": 560.208,
+              "global_end": 560.308,
+              "score": 0.815
+            },
+            {
+              "word": "first",
+              "clip_start": 26.009,
+              "clip_end": 26.149,
+              "global_start": 560.328,
+              "global_end": 560.468,
+              "score": 0.894
+            },
+            {
+              "word": "I",
+              "clip_start": 26.189,
+              "clip_end": 26.229,
+              "global_start": 560.508,
+              "global_end": 560.548,
+              "score": 0.863
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_031",
+          "range_index": 0,
+          "start_time": 26.249,
+          "end_time": 26.809,
+          "duration_s": 0.56,
+          "text": "want to just test",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "want",
+              "clip_start": 26.249,
+              "clip_end": 26.329,
+              "global_start": 560.568,
+              "global_end": 560.648,
+              "score": 0.74
+            },
+            {
+              "word": "to",
+              "clip_start": 26.349,
+              "clip_end": 26.409,
+              "global_start": 560.668,
+              "global_end": 560.728,
+              "score": 0.732
+            },
+            {
+              "word": "just",
+              "clip_start": 26.429,
+              "clip_end": 26.549,
+              "global_start": 560.748,
+              "global_end": 560.868,
+              "score": 0.898
+            },
+            {
+              "word": "test",
+              "clip_start": 26.589,
+              "clip_end": 26.809,
+              "global_start": 560.908,
+              "global_end": 561.128,
+              "score": 0.969
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_032",
+          "range_index": 0,
+          "start_time": 26.829,
+          "end_time": 27.289,
+          "duration_s": 0.46,
+          "text": "this and make sure",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "this",
+              "clip_start": 26.829,
+              "clip_end": 26.949,
+              "global_start": 561.148,
+              "global_end": 561.268,
+              "score": 0.776
+            },
+            {
+              "word": "and",
+              "clip_start": 26.969,
+              "clip_end": 27.029,
+              "global_start": 561.288,
+              "global_end": 561.348,
+              "score": 0.356
+            },
+            {
+              "word": "make",
+              "clip_start": 27.069,
+              "clip_end": 27.149,
+              "global_start": 561.388,
+              "global_end": 561.468,
+              "score": 0.984
+            },
+            {
+              "word": "sure",
+              "clip_start": 27.169,
+              "clip_end": 27.289,
+              "global_start": 561.488,
+              "global_end": 561.608,
+              "score": 0.821
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_033",
+          "range_index": 0,
+          "start_time": 27.309,
+          "end_time": 27.609,
+          "duration_s": 0.3,
+          "text": "it works.",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "it",
+              "clip_start": 27.309,
+              "clip_end": 27.369,
+              "global_start": 561.628,
+              "global_end": 561.688,
+              "score": 0.657
+            },
+            {
+              "word": "works.",
+              "clip_start": 27.409,
+              "clip_end": 27.609,
+              "global_start": 561.728,
+              "global_end": 561.928,
+              "score": 0.924
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_034",
+          "range_index": 0,
+          "start_time": 27.729,
+          "end_time": 28.209,
+          "duration_s": 0.48,
+          "text": "Because so far we",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "Because",
+              "clip_start": 27.729,
+              "clip_end": 27.869,
+              "global_start": 562.048,
+              "global_end": 562.188,
+              "score": 0.098
+            },
+            {
+              "word": "so",
+              "clip_start": 27.889,
+              "clip_end": 27.969,
+              "global_start": 562.208,
+              "global_end": 562.288,
+              "score": 0.833
+            },
+            {
+              "word": "far",
+              "clip_start": 27.989,
+              "clip_end": 28.109,
+              "global_start": 562.308,
+              "global_end": 562.428,
+              "score": 0.769
+            },
+            {
+              "word": "we",
+              "clip_start": 28.149,
+              "clip_end": 28.209,
+              "global_start": 562.468,
+              "global_end": 562.528,
+              "score": 0.744
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_035",
+          "range_index": 0,
+          "start_time": 28.23,
+          "end_time": 28.95,
+          "duration_s": 0.72,
+          "text": "haven't even talked to",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "haven't",
+              "clip_start": 28.23,
+              "clip_end": 28.39,
+              "global_start": 562.549,
+              "global_end": 562.709,
+              "score": 0.914
+            },
+            {
+              "word": "even",
+              "clip_start": 28.41,
+              "clip_end": 28.57,
+              "global_start": 562.729,
+              "global_end": 562.889,
+              "score": 0.696
+            },
+            {
+              "word": "talked",
+              "clip_start": 28.61,
+              "clip_end": 28.85,
+              "global_start": 562.929,
+              "global_end": 563.169,
+              "score": 0.782
+            },
+            {
+              "word": "to",
+              "clip_start": 28.87,
+              "clip_end": 28.95,
+              "global_start": 563.189,
+              "global_end": 563.269,
+              "score": 0.744
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_036",
+          "range_index": 0,
+          "start_time": 28.99,
+          "end_time": 29.41,
+          "duration_s": 0.42,
+          "text": "our agents.",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "our",
+              "clip_start": 28.99,
+              "clip_end": 29.07,
+              "global_start": 563.309,
+              "global_end": 563.389,
+              "score": 0.841
+            },
+            {
+              "word": "agents.",
+              "clip_start": 29.15,
+              "clip_end": 29.41,
+              "global_start": 563.469,
+              "global_end": 563.729,
+              "score": 0.925
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_037",
+          "range_index": 0,
+          "start_time": 29.91,
+          "end_time": 30.852,
+          "duration_s": 0.942,
+          "text": "And our agents haven't",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "And",
+              "clip_start": 29.91,
+              "clip_end": 30.051,
+              "global_start": 564.229,
+              "global_end": 564.37,
+              "score": 0.689
+            },
+            {
+              "word": "our",
+              "clip_start": 30.191,
+              "clip_end": 30.291,
+              "global_start": 564.51,
+              "global_end": 564.61,
+              "score": 0.743
+            },
+            {
+              "word": "agents",
+              "clip_start": 30.371,
+              "clip_end": 30.612,
+              "global_start": 564.69,
+              "global_end": 564.931,
+              "score": 0.861
+            },
+            {
+              "word": "haven't",
+              "clip_start": 30.632,
+              "clip_end": 30.852,
+              "global_start": 564.951,
+              "global_end": 565.171,
+              "score": 0.795
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_038",
+          "range_index": 0,
+          "start_time": 30.892,
+          "end_time": 31.594,
+          "duration_s": 0.702,
+          "text": "talked to each other,",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "talked",
+              "clip_start": 30.892,
+              "clip_end": 31.093,
+              "global_start": 565.211,
+              "global_end": 565.412,
+              "score": 0.756
+            },
+            {
+              "word": "to",
+              "clip_start": 31.133,
+              "clip_end": 31.213,
+              "global_start": 565.452,
+              "global_end": 565.532,
               "score": 0.866
+            },
+            {
+              "word": "each",
+              "clip_start": 31.253,
+              "clip_end": 31.373,
+              "global_start": 565.572,
+              "global_end": 565.692,
+              "score": 0.753
+            },
+            {
+              "word": "other,",
+              "clip_start": 31.433,
+              "clip_end": 31.594,
+              "global_start": 565.752,
+              "global_end": 565.913,
+              "score": 0.824
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_039",
+          "range_index": 0,
+          "start_time": 31.614,
+          "end_time": 31.954,
+          "duration_s": 0.34,
+          "text": "we're going to do",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "we're",
+              "clip_start": 31.614,
+              "clip_end": 31.714,
+              "global_start": 565.933,
+              "global_end": 566.033,
+              "score": 0.127
+            },
+            {
+              "word": "going",
+              "clip_start": 31.734,
+              "clip_end": 31.834,
+              "global_start": 566.053,
+              "global_end": 566.153,
+              "score": 0.002
+            },
+            {
+              "word": "to",
+              "clip_start": 31.854,
+              "clip_end": 31.894,
+              "global_start": 566.173,
+              "global_end": 566.213,
+              "score": 0.004
+            },
+            {
+              "word": "do",
+              "clip_start": 31.914,
+              "clip_end": 31.954,
+              "global_start": 566.233,
+              "global_end": 566.273,
+              "score": 0.0
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_040",
+          "range_index": 0,
+          "start_time": 32.235,
+          "end_time": 32.856,
+          "duration_s": 0.621,
+          "text": "both of those right",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "both",
+              "clip_start": 32.235,
+              "clip_end": 32.375,
+              "global_start": 566.554,
+              "global_end": 566.694,
+              "score": 0.804
+            },
+            {
+              "word": "of",
+              "clip_start": 32.415,
+              "clip_end": 32.455,
+              "global_start": 566.734,
+              "global_end": 566.774,
+              "score": 0.73
+            },
+            {
+              "word": "those",
+              "clip_start": 32.475,
+              "clip_end": 32.636,
+              "global_start": 566.794,
+              "global_end": 566.955,
+              "score": 0.899
+            },
+            {
+              "word": "right",
+              "clip_start": 32.716,
+              "clip_end": 32.856,
+              "global_start": 567.035,
+              "global_end": 567.175,
+              "score": 0.847
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_041",
+          "range_index": 0,
+          "start_time": 32.896,
+          "end_time": 33.518,
+          "duration_s": 0.622,
+          "text": "now. So we'll set",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "now.",
+              "clip_start": 32.896,
+              "clip_end": 33.037,
+              "global_start": 567.215,
+              "global_end": 567.356,
+              "score": 0.978
+            },
+            {
+              "word": "So",
+              "clip_start": 33.237,
+              "clip_end": 33.297,
+              "global_start": 567.556,
+              "global_end": 567.616,
+              "score": 0.588
+            },
+            {
+              "word": "we'll",
+              "clip_start": 33.317,
+              "clip_end": 33.437,
+              "global_start": 567.636,
+              "global_end": 567.756,
+              "score": 0.803
+            },
+            {
+              "word": "set",
+              "clip_start": 33.457,
+              "clip_end": 33.518,
+              "global_start": 567.776,
+              "global_end": 567.837,
+              "score": 0.968
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_042",
+          "range_index": 0,
+          "start_time": 33.538,
+          "end_time": 34.079,
+          "duration_s": 0.541,
+          "text": "up a task and",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "up",
+              "clip_start": 33.538,
+              "clip_end": 33.598,
+              "global_start": 567.857,
+              "global_end": 567.917,
+              "score": 0.748
+            },
+            {
+              "word": "a",
+              "clip_start": 33.638,
+              "clip_end": 33.658,
+              "global_start": 567.957,
+              "global_end": 567.977,
+              "score": 0.982
+            },
+            {
+              "word": "task",
+              "clip_start": 33.698,
+              "clip_end": 33.958,
+              "global_start": 568.017,
+              "global_end": 568.277,
+              "score": 0.998
+            },
+            {
+              "word": "and",
+              "clip_start": 34.019,
+              "clip_end": 34.079,
+              "global_start": 568.338,
+              "global_end": 568.398,
+              "score": 0.973
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_043",
+          "range_index": 0,
+          "start_time": 34.099,
+          "end_time": 35.061,
+          "duration_s": 0.962,
+          "text": "assign it to Dumbledore.",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "assign",
+              "clip_start": 34.099,
+              "clip_end": 34.319,
+              "global_start": 568.418,
+              "global_end": 568.638,
+              "score": 0.884
+            },
+            {
+              "word": "it",
+              "clip_start": 34.359,
+              "clip_end": 34.419,
+              "global_start": 568.678,
+              "global_end": 568.738,
+              "score": 0.744
+            },
+            {
+              "word": "to",
+              "clip_start": 34.439,
+              "clip_end": 34.56,
+              "global_start": 568.758,
+              "global_end": 568.879,
+              "score": 0.643
+            },
+            {
+              "word": "Dumbledore.",
+              "clip_start": 34.62,
+              "clip_end": 35.061,
+              "global_start": 568.939,
+              "global_end": 569.38,
+              "score": 0.807
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_044",
+          "range_index": 0,
+          "start_time": 35.301,
+          "end_time": 36.003,
+          "duration_s": 0.702,
+          "text": "Just to say hey,",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "Just",
+              "clip_start": 35.301,
+              "clip_end": 35.461,
+              "global_start": 569.62,
+              "global_end": 569.78,
+              "score": 0.723
+            },
+            {
+              "word": "to",
+              "clip_start": 35.502,
+              "clip_end": 35.582,
+              "global_start": 569.821,
+              "global_end": 569.901,
+              "score": 0.758
+            },
+            {
+              "word": "say",
+              "clip_start": 35.622,
+              "clip_end": 35.782,
+              "global_start": 569.941,
+              "global_end": 570.101,
+              "score": 0.796
+            },
+            {
+              "word": "hey,",
+              "clip_start": 35.822,
+              "clip_end": 36.003,
+              "global_start": 570.141,
+              "global_end": 570.322,
+              "score": 0.982
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_045",
+          "range_index": 0,
+          "start_time": 36.423,
+          "end_time": 36.944,
+          "duration_s": 0.521,
+          "text": "why don't you talk",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "why",
+              "clip_start": 36.423,
+              "clip_end": 36.524,
+              "global_start": 570.742,
+              "global_end": 570.843,
+              "score": 0.222
+            },
+            {
+              "word": "don't",
+              "clip_start": 36.544,
+              "clip_end": 36.644,
+              "global_start": 570.863,
+              "global_end": 570.963,
+              "score": 0.44
+            },
+            {
+              "word": "you",
+              "clip_start": 36.664,
+              "clip_end": 36.764,
+              "global_start": 570.983,
+              "global_end": 571.083,
+              "score": 0.716
+            },
+            {
+              "word": "talk",
+              "clip_start": 36.784,
+              "clip_end": 36.944,
+              "global_start": 571.103,
+              "global_end": 571.263,
+              "score": 0.914
+            }
+          ]
+        },
+        {
+          "group_id": "cand_4_cap_046",
+          "range_index": 0,
+          "start_time": 36.964,
+          "end_time": 37.305,
+          "duration_s": 0.341,
+          "text": "to Ron,",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "to",
+              "clip_start": 36.964,
+              "clip_end": 37.045,
+              "global_start": 571.283,
+              "global_end": 571.364,
+              "score": 0.629
+            },
+            {
+              "word": "Ron,",
+              "clip_start": 37.065,
+              "clip_end": 37.305,
+              "global_start": 571.384,
+              "global_end": 571.624,
+              "score": 0.852
             }
           ]
         }

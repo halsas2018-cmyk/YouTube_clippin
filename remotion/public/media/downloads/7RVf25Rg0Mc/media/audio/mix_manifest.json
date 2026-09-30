@@ -6,13 +6,13 @@
   },
   "output_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/media/audio/mixed.wav",
   "sample_rate_hz": 44100,
-  "duration_s": 16.073990929705214,
+  "duration_s": 20.433990929705214,
   "background_music_volume_base": 0.3,
-  "speech_ducking_applied": 17,
-  "sfx_events_count": 20,
+  "speech_ducking_applied": 21,
+  "sfx_events_count": 23,
   "validation": {
     "duration_ok": true,
-    "non_silent_rms": 0.01710008265489959,
+    "non_silent_rms": 0.015089930415281002,
     "ducking_verified": "checked"
   }
 }

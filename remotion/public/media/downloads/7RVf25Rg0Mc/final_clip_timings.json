@@ -2,72 +2,49 @@
   "video_id": "7RVf25Rg0Mc",
   "llm_provider": "google",
   "llm_model": "gemini-3.1-flash-lite",
-  "candidate_count": 5,
+  "candidate_count": 4,
   "candidates": [
     {
       "candidate_id": 1,
-      "reason": "This clip quickly explains the core value proposition of Paperclip as a meta-harness for AI agents, making it perfect for a tech-focused short.",
-      "cut_description": "Removed conversational filler and music transitions to focus on the definition of the tool.",
-      "combined_text": "In Paperclip, your agents become employees. You give them managers, you assign them tasks. They can talk to each other, but it's not what you think. It's through the task, intentional and focused. [...] And it doesn't matter what harness you have. Everyone can be brought into this company.",
+      "reason": "This clip clearly explains the unique value proposition of Paperclip as a 'meta harness' for managing AI agents as employees, which is a compelling hook for tech-focused viewers.",
+      "cut_description": "",
+      "combined_text": "In Paperclip, your agents become employees. You give them managers, you assign them tasks. They can talk to each other, but it's not what you think. It's through the task, intentional and focused. I haven't seen a lot of super value out of like agent conference room or an agent town where you just set your agents to sit there and talk to each other.",
       "original_candidate_ranges": [
         {
           "start": 34.68,
-          "end": 46.56
-        },
-        {
-          "start": 53.92,
-          "end": 58.52
+          "end": 55.16
         }
       ],
       "padded_ranges": [
         {
           "start": 26.68,
-          "end": 66.52
+          "end": 63.16
         }
       ],
       "selected_global_ranges": [
         {
           "range_index": 0,
           "target_start": 34.68,
-          "target_end": 46.56,
+          "target_end": 55.16,
           "global_start": 34.854,
-          "global_end": 46.661,
-          "duration_s": 11.807,
+          "global_end": 55.288,
+          "duration_s": 20.434,
           "first_word": "In",
-          "last_word": "super",
-          "word_count": 40
-        },
-        {
-          "range_index": 1,
-          "target_start": 53.92,
-          "target_end": 58.52,
-          "global_start": 53.993,
-          "global_end": 58.26,
-          "duration_s": 4.267,
-          "first_word": "And",
-          "last_word": "amazing?",
-          "word_count": 18
+          "last_word": "you",
+          "word_count": 73
         }
       ],
       "clip_relative_ranges": [
         {
           "range_index": 0,
           "clip_start": 0.0,
-          "clip_end": 11.807,
-          "duration_s": 11.807,
+          "clip_end": 20.434,
+          "duration_s": 20.434,
           "global_start": 34.854,
-          "global_end": 46.661
-        },
-        {
-          "range_index": 1,
-          "clip_start": 11.807,
-          "clip_end": 16.074,
-          "duration_s": 4.267,
-          "global_start": 53.993,
-          "global_end": 58.26
+          "global_end": 55.288
         }
       ],
-      "total_clip_duration_s": 16.074,
+      "total_clip_duration_s": 20.434,
       "aligned_words": [
         {
           "word": "In",
@@ -372,7 +349,7 @@
           "global_end": 45.599,
           "clip_start": 10.705,
           "clip_end": 10.745,
-          "score": 0.58,
+          "score": 0.532,
           "range_index": 0
         },
         {
@@ -381,282 +358,394 @@
           "global_end": 45.84,
           "clip_start": 10.765,
           "clip_end": 10.986,
-          "score": 0.768,
+          "score": 0.792,
           "range_index": 0
         },
         {
           "word": "seen",
           "global_start": 45.86,
-          "global_end": 46.0,
+          "global_end": 46.001,
           "clip_start": 11.006,
-          "clip_end": 11.146,
-          "score": 0.898,
+          "clip_end": 11.147,
+          "score": 0.906,
           "range_index": 0
         },
         {
           "word": "a",
-          "global_start": 46.04,
-          "global_end": 46.08,
-          "clip_start": 11.186,
-          "clip_end": 11.226,
+          "global_start": 46.041,
+          "global_end": 46.081,
+          "clip_start": 11.187,
+          "clip_end": 11.227,
           "score": 0.491,
           "range_index": 0
         },
         {
           "word": "lot",
-          "global_start": 46.12,
-          "global_end": 46.28,
-          "clip_start": 11.266,
-          "clip_end": 11.426,
-          "score": 0.796,
+          "global_start": 46.121,
+          "global_end": 46.281,
+          "clip_start": 11.267,
+          "clip_end": 11.427,
+          "score": 0.81,
           "range_index": 0
         },
         {
           "word": "of",
-          "global_start": 46.3,
-          "global_end": 46.34,
-          "clip_start": 11.446,
-          "clip_end": 11.486,
-          "score": 0.994,
+          "global_start": 46.302,
+          "global_end": 46.342,
+          "clip_start": 11.448,
+          "clip_end": 11.488,
+          "score": 0.996,
           "range_index": 0
         },
         {
           "word": "super",
-          "global_start": 46.421,
-          "global_end": 46.661,
-          "clip_start": 11.567,
-          "clip_end": 11.807,
-          "score": 0.862,
+          "global_start": 46.422,
+          "global_end": 46.663,
+          "clip_start": 11.568,
+          "clip_end": 11.809,
+          "score": 0.888,
+          "range_index": 0
+        },
+        {
+          "word": "value",
+          "global_start": 46.703,
+          "global_end": 47.044,
+          "clip_start": 11.849,
+          "clip_end": 12.19,
+          "score": 0.878,
+          "range_index": 0
+        },
+        {
+          "word": "out",
+          "global_start": 47.164,
+          "global_end": 47.264,
+          "clip_start": 12.31,
+          "clip_end": 12.41,
+          "score": 0.773,
+          "range_index": 0
+        },
+        {
+          "word": "of",
+          "global_start": 47.305,
+          "global_end": 47.385,
+          "clip_start": 12.451,
+          "clip_end": 12.531,
+          "score": 0.814,
+          "range_index": 0
+        },
+        {
+          "word": "like",
+          "global_start": 47.445,
+          "global_end": 47.605,
+          "clip_start": 12.591,
+          "clip_end": 12.751,
+          "score": 0.329,
+          "range_index": 0
+        },
+        {
+          "word": "an",
+          "global_start": 47.625,
+          "global_end": 48.247,
+          "clip_start": 12.771,
+          "clip_end": 13.393,
+          "score": 0.934,
+          "range_index": 0
+        },
+        {
+          "word": "agent",
+          "global_start": 48.267,
+          "global_end": 48.588,
+          "clip_start": 13.413,
+          "clip_end": 13.734,
+          "score": 0.876,
+          "range_index": 0
+        },
+        {
+          "word": "conference",
+          "global_start": 48.889,
+          "global_end": 49.411,
+          "clip_start": 14.035,
+          "clip_end": 14.557,
+          "score": 0.915,
+          "range_index": 0
+        },
+        {
+          "word": "room",
+          "global_start": 49.551,
+          "global_end": 49.772,
+          "clip_start": 14.697,
+          "clip_end": 14.918,
+          "score": 0.663,
+          "range_index": 0
+        },
+        {
+          "word": "or",
+          "global_start": 49.852,
+          "global_end": 49.952,
+          "clip_start": 14.998,
+          "clip_end": 15.098,
+          "score": 0.652,
+          "range_index": 0
+        },
+        {
+          "word": "an",
+          "global_start": 49.972,
+          "global_end": 50.013,
+          "clip_start": 15.118,
+          "clip_end": 15.159,
+          "score": 0.734,
+          "range_index": 0
+        },
+        {
+          "word": "agent",
+          "global_start": 50.153,
+          "global_end": 50.434,
+          "clip_start": 15.299,
+          "clip_end": 15.58,
+          "score": 0.908,
+          "range_index": 0
+        },
+        {
+          "word": "town",
+          "global_start": 50.594,
+          "global_end": 51.036,
+          "clip_start": 15.74,
+          "clip_end": 16.182,
+          "score": 0.894,
+          "range_index": 0
+        },
+        {
+          "word": "where",
+          "global_start": 51.076,
+          "global_end": 51.296,
+          "clip_start": 16.222,
+          "clip_end": 16.442,
+          "score": 0.396,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 51.316,
+          "global_end": 51.397,
+          "clip_start": 16.462,
+          "clip_end": 16.543,
+          "score": 0.167,
+          "range_index": 0
+        },
+        {
+          "word": "just",
+          "global_start": 51.417,
+          "global_end": 51.517,
+          "clip_start": 16.563,
+          "clip_end": 16.663,
+          "score": 0.494,
+          "range_index": 0
+        },
+        {
+          "word": "set",
+          "global_start": 51.918,
+          "global_end": 52.079,
+          "clip_start": 17.064,
+          "clip_end": 17.225,
+          "score": 0.758,
+          "range_index": 0
+        },
+        {
+          "word": "your",
+          "global_start": 52.099,
+          "global_end": 52.239,
+          "clip_start": 17.245,
+          "clip_end": 17.385,
+          "score": 0.908,
+          "range_index": 0
+        },
+        {
+          "word": "agents",
+          "global_start": 52.34,
+          "global_end": 52.6,
+          "clip_start": 17.486,
+          "clip_end": 17.746,
+          "score": 0.847,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 52.64,
+          "global_end": 52.701,
+          "clip_start": 17.786,
+          "clip_end": 17.847,
+          "score": 0.754,
+          "range_index": 0
+        },
+        {
+          "word": "sit",
+          "global_start": 52.741,
+          "global_end": 52.861,
+          "clip_start": 17.887,
+          "clip_end": 18.007,
+          "score": 0.839,
+          "range_index": 0
+        },
+        {
+          "word": "there",
+          "global_start": 52.881,
+          "global_end": 53.022,
+          "clip_start": 18.027,
+          "clip_end": 18.168,
+          "score": 0.802,
+          "range_index": 0
+        },
+        {
+          "word": "and",
+          "global_start": 53.042,
+          "global_end": 53.122,
+          "clip_start": 18.188,
+          "clip_end": 18.268,
+          "score": 0.834,
+          "range_index": 0
+        },
+        {
+          "word": "talk",
+          "global_start": 53.162,
+          "global_end": 53.403,
+          "clip_start": 18.308,
+          "clip_end": 18.549,
+          "score": 0.92,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 53.443,
+          "global_end": 53.523,
+          "clip_start": 18.589,
+          "clip_end": 18.669,
+          "score": 0.898,
+          "range_index": 0
+        },
+        {
+          "word": "each",
+          "global_start": 53.563,
+          "global_end": 53.684,
+          "clip_start": 18.709,
+          "clip_end": 18.83,
+          "score": 0.77,
+          "range_index": 0
+        },
+        {
+          "word": "other.",
+          "global_start": 53.744,
+          "global_end": 53.924,
+          "clip_start": 18.89,
+          "clip_end": 19.07,
+          "score": 0.836,
           "range_index": 0
         },
         {
           "word": "And",
-          "global_start": 53.993,
-          "global_end": 54.073,
-          "clip_start": 11.807,
-          "clip_end": 11.887,
-          "score": 0.779,
-          "range_index": 1
+          "global_start": 54.005,
+          "global_end": 54.085,
+          "clip_start": 19.151,
+          "clip_end": 19.231,
+          "score": 0.824,
+          "range_index": 0
         },
         {
           "word": "it",
-          "global_start": 54.093,
-          "global_end": 54.153,
-          "clip_start": 11.907,
-          "clip_end": 11.967,
-          "score": 0.644,
-          "range_index": 1
+          "global_start": 54.105,
+          "global_end": 54.165,
+          "clip_start": 19.251,
+          "clip_end": 19.311,
+          "score": 0.718,
+          "range_index": 0
         },
         {
           "word": "doesn't",
-          "global_start": 54.193,
-          "global_end": 54.373,
-          "clip_start": 12.007,
-          "clip_end": 12.187,
-          "score": 0.87,
-          "range_index": 1
+          "global_start": 54.205,
+          "global_end": 54.386,
+          "clip_start": 19.351,
+          "clip_end": 19.532,
+          "score": 0.879,
+          "range_index": 0
         },
         {
           "word": "matter",
-          "global_start": 54.413,
-          "global_end": 54.574,
-          "clip_start": 12.227,
-          "clip_end": 12.388,
+          "global_start": 54.426,
+          "global_end": 54.586,
+          "clip_start": 19.572,
+          "clip_end": 19.732,
           "score": 0.917,
-          "range_index": 1
+          "range_index": 0
         },
         {
           "word": "what",
-          "global_start": 54.594,
-          "global_end": 54.714,
-          "clip_start": 12.408,
-          "clip_end": 12.528,
-          "score": 0.787,
-          "range_index": 1
+          "global_start": 54.606,
+          "global_end": 54.727,
+          "clip_start": 19.752,
+          "clip_end": 19.873,
+          "score": 0.753,
+          "range_index": 0
         },
         {
           "word": "harness",
-          "global_start": 54.774,
-          "global_end": 55.115,
-          "clip_start": 12.588,
-          "clip_end": 12.929,
-          "score": 0.785,
-          "range_index": 1
+          "global_start": 54.787,
+          "global_end": 55.128,
+          "clip_start": 19.933,
+          "clip_end": 20.274,
+          "score": 0.788,
+          "range_index": 0
         },
         {
           "word": "you",
-          "global_start": 55.135,
-          "global_end": 55.275,
-          "clip_start": 12.949,
-          "clip_end": 13.089,
+          "global_start": 55.148,
+          "global_end": 55.288,
+          "clip_start": 20.294,
+          "clip_end": 20.434,
           "score": 0.917,
-          "range_index": 1
-        },
-        {
-          "word": "have,",
-          "global_start": 55.315,
-          "global_end": 55.515,
-          "clip_start": 13.129,
-          "clip_end": 13.329,
-          "score": 0.885,
-          "range_index": 1
-        },
-        {
-          "word": "everyone",
-          "global_start": 55.796,
-          "global_end": 56.136,
-          "clip_start": 13.61,
-          "clip_end": 13.95,
-          "score": 0.942,
-          "range_index": 1
-        },
-        {
-          "word": "can",
-          "global_start": 56.176,
-          "global_end": 56.276,
-          "clip_start": 13.99,
-          "clip_end": 14.09,
-          "score": 0.991,
-          "range_index": 1
-        },
-        {
-          "word": "be",
-          "global_start": 56.296,
-          "global_end": 56.377,
-          "clip_start": 14.11,
-          "clip_end": 14.191,
-          "score": 0.64,
-          "range_index": 1
-        },
-        {
-          "word": "brought",
-          "global_start": 56.417,
-          "global_end": 56.637,
-          "clip_start": 14.231,
-          "clip_end": 14.451,
-          "score": 0.733,
-          "range_index": 1
-        },
-        {
-          "word": "into",
-          "global_start": 56.677,
-          "global_end": 56.857,
-          "clip_start": 14.491,
-          "clip_end": 14.671,
-          "score": 0.879,
-          "range_index": 1
-        },
-        {
-          "word": "this",
-          "global_start": 56.877,
-          "global_end": 57.018,
-          "clip_start": 14.691,
-          "clip_end": 14.832,
-          "score": 0.718,
-          "range_index": 1
-        },
-        {
-          "word": "company.",
-          "global_start": 57.058,
-          "global_end": 57.338,
-          "clip_start": 14.872,
-          "clip_end": 15.152,
-          "score": 0.883,
-          "range_index": 1
-        },
-        {
-          "word": "Isn't",
-          "global_start": 57.538,
-          "global_end": 57.679,
-          "clip_start": 15.352,
-          "clip_end": 15.493,
-          "score": 0.852,
-          "range_index": 1
-        },
-        {
-          "word": "that",
-          "global_start": 57.699,
-          "global_end": 57.799,
-          "clip_start": 15.513,
-          "clip_end": 15.613,
-          "score": 0.237,
-          "range_index": 1
-        },
-        {
-          "word": "amazing?",
-          "global_start": 57.859,
-          "global_end": 58.26,
-          "clip_start": 15.673,
-          "clip_end": 16.074,
-          "score": 0.962,
-          "range_index": 1
+          "range_index": 0
         }
       ]
     },
     {
       "candidate_id": 2,
-      "reason": "This highlights the 'meta-harness' concept, which is the most compelling technical selling point for AI enthusiasts.",
-      "cut_description": "Trimmed repetitive phrasing and filler words to keep the pace fast.",
-      "combined_text": "We're harness maxing. No matter what new harness comes out or model, paperclip is a meta harness. We can bring any other harness or model to it. Paperclip can use it. Paperclip is our company, and it's a company that can run the greatest and latest models, and the greatest and latest harnesses, and all the features they come out with. [...] All AI agents. Network and systems engineers, storage, security, a legit company running on Paperclip.",
+      "reason": "This segment effectively summarizes the 'meta harness' concept, positioning the tool as a future-proof solution for AI agent management.",
+      "cut_description": "",
+      "combined_text": "We're harness maxing. No matter what new harness comes out or model, paperclip is a meta harness. We can bring any other harness or model to it. Paperclip can use it. Paperclip is our company, and it's a company that can run the greatest and latest models, and the greatest and latest harnesses, and all the features they come out with. Just think about that. Doesn't that make you excited to try this? It does. Coffee break.",
       "original_candidate_ranges": [
         {
           "start": 107.08,
-          "end": 117.8
-        },
-        {
-          "start": 121.44,
-          "end": 126.0
+          "end": 131.8
         }
       ],
       "padded_ranges": [
         {
           "start": 99.08,
-          "end": 134.0
+          "end": 139.8
         }
       ],
       "selected_global_ranges": [
         {
           "range_index": 0,
           "target_start": 107.08,
-          "target_end": 117.8,
+          "target_end": 131.8,
           "global_start": 106.994,
-          "global_end": 117.899,
-          "duration_s": 10.905,
+          "global_end": 131.913,
+          "duration_s": 24.919,
           "first_word": "right",
-          "last_word": "like",
-          "word_count": 50
-        },
-        {
-          "range_index": 1,
-          "target_start": 121.44,
-          "target_end": 126.0,
-          "global_start": 121.38,
-          "global_end": 126.082,
-          "duration_s": 4.702,
-          "first_word": "this",
-          "last_word": "do.",
-          "word_count": 20
+          "last_word": "absolute",
+          "word_count": 108
         }
       ],
       "clip_relative_ranges": [
         {
           "range_index": 0,
           "clip_start": 0.0,
-          "clip_end": 10.905,
-          "duration_s": 10.905,
+          "clip_end": 24.919,
+          "duration_s": 24.919,
           "global_start": 106.994,
-          "global_end": 117.899
-        },
-        {
-          "range_index": 1,
-          "clip_start": 10.905,
-          "clip_end": 15.607,
-          "duration_s": 4.702,
-          "global_start": 121.38,
-          "global_end": 126.082
+          "global_end": 131.913
         }
       ],
-      "total_clip_duration_s": 15.607,
+      "total_clip_duration_s": 24.919,
       "aligned_words": [
         {
           "word": "right",
@@ -1109,1018 +1198,739 @@
           "range_index": 0
         },
         {
+          "word": "on",
+          "global_start": 117.959,
+          "global_end": 118.039,
+          "clip_start": 10.965,
+          "clip_end": 11.045,
+          "score": 0.852,
+          "range_index": 0
+        },
+        {
+          "word": "Proxmox",
+          "global_start": 118.059,
+          "global_end": 118.619,
+          "clip_start": 11.065,
+          "clip_end": 11.625,
+          "score": 0.884,
+          "range_index": 0
+        },
+        {
+          "word": "or",
+          "global_start": 118.799,
+          "global_end": 118.899,
+          "clip_start": 11.805,
+          "clip_end": 11.905,
+          "score": 0.71,
+          "range_index": 0
+        },
+        {
+          "word": "a",
+          "global_start": 118.919,
+          "global_end": 118.939,
+          "clip_start": 11.925,
+          "clip_end": 11.945,
+          "score": 0.0,
+          "range_index": 0
+        },
+        {
+          "word": "VPS",
+          "global_start": 119.039,
+          "global_end": 119.499,
+          "clip_start": 12.045,
+          "clip_end": 12.505,
+          "score": 0.704,
+          "range_index": 0
+        },
+        {
+          "word": "in",
+          "global_start": 119.519,
+          "global_end": 119.559,
+          "clip_start": 12.525,
+          "clip_end": 12.565,
+          "score": 0.945,
+          "range_index": 0
+        },
+        {
+          "word": "the",
+          "global_start": 119.579,
+          "global_end": 119.639,
+          "clip_start": 12.585,
+          "clip_end": 12.645,
+          "score": 0.703,
+          "range_index": 0
+        },
+        {
+          "word": "cloud.",
+          "global_start": 119.659,
+          "global_end": 119.919,
+          "clip_start": 12.665,
+          "clip_end": 12.925,
+          "score": 0.937,
+          "range_index": 0
+        },
+        {
+          "word": "I'm",
+          "global_start": 120.059,
+          "global_end": 120.159,
+          "clip_start": 13.065,
+          "clip_end": 13.165,
+          "score": 0.805,
+          "range_index": 0
+        },
+        {
+          "word": "going",
+          "global_start": 120.179,
+          "global_end": 120.28,
+          "clip_start": 13.185,
+          "clip_end": 13.286,
+          "score": 0.644,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 120.3,
+          "global_end": 120.34,
+          "clip_start": 13.306,
+          "clip_end": 13.346,
+          "score": 0.996,
+          "range_index": 0
+        },
+        {
+          "word": "show",
+          "global_start": 120.36,
+          "global_end": 120.48,
+          "clip_start": 13.366,
+          "clip_end": 13.486,
+          "score": 0.75,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 120.5,
+          "global_end": 120.6,
+          "clip_start": 13.506,
+          "clip_end": 13.606,
+          "score": 0.819,
+          "range_index": 0
+        },
+        {
+          "word": "both,",
+          "global_start": 120.66,
+          "global_end": 120.86,
+          "clip_start": 13.666,
+          "clip_end": 13.866,
+          "score": 0.854,
+          "range_index": 0
+        },
+        {
+          "word": "and",
+          "global_start": 120.9,
+          "global_end": 120.98,
+          "clip_start": 13.906,
+          "clip_end": 13.986,
+          "score": 0.832,
+          "range_index": 0
+        },
+        {
+          "word": "by",
+          "global_start": 121.0,
+          "global_end": 121.08,
+          "clip_start": 14.006,
+          "clip_end": 14.086,
+          "score": 0.845,
+          "range_index": 0
+        },
+        {
+          "word": "the",
+          "global_start": 121.12,
+          "global_end": 121.18,
+          "clip_start": 14.126,
+          "clip_end": 14.186,
+          "score": 1.0,
+          "range_index": 0
+        },
+        {
+          "word": "end",
+          "global_start": 121.22,
+          "global_end": 121.3,
+          "clip_start": 14.226,
+          "clip_end": 14.306,
+          "score": 0.579,
+          "range_index": 0
+        },
+        {
+          "word": "of",
+          "global_start": 121.32,
+          "global_end": 121.36,
+          "clip_start": 14.326,
+          "clip_end": 14.366,
+          "score": 0.966,
+          "range_index": 0
+        },
+        {
           "word": "this",
           "global_start": 121.38,
           "global_end": 121.48,
-          "clip_start": 10.905,
-          "clip_end": 11.005,
+          "clip_start": 14.386,
+          "clip_end": 14.486,
           "score": 0.64,
-          "range_index": 1
+          "range_index": 0
         },
         {
           "word": "video,",
           "global_start": 121.52,
           "global_end": 121.74,
-          "clip_start": 11.045,
-          "clip_end": 11.265,
+          "clip_start": 14.526,
+          "clip_end": 14.746,
           "score": 0.72,
-          "range_index": 1
+          "range_index": 0
         },
         {
           "word": "you're",
           "global_start": 121.76,
           "global_end": 121.88,
-          "clip_start": 11.285,
-          "clip_end": 11.405,
+          "clip_start": 14.766,
+          "clip_end": 14.886,
           "score": 0.027,
-          "range_index": 1
+          "range_index": 0
         },
         {
           "word": "going",
           "global_start": 121.9,
           "global_end": 122.0,
-          "clip_start": 11.425,
-          "clip_end": 11.525,
+          "clip_start": 14.906,
+          "clip_end": 15.006,
           "score": 0.188,
-          "range_index": 1
+          "range_index": 0
         },
         {
           "word": "to",
           "global_start": 122.02,
           "global_end": 122.06,
-          "clip_start": 11.545,
-          "clip_end": 11.585,
+          "clip_start": 15.026,
+          "clip_end": 15.066,
           "score": 0.0,
-          "range_index": 1
+          "range_index": 0
         },
         {
           "word": "have",
           "global_start": 122.08,
           "global_end": 122.18,
-          "clip_start": 11.605,
-          "clip_end": 11.705,
+          "clip_start": 15.086,
+          "clip_end": 15.186,
           "score": 0.384,
-          "range_index": 1
+          "range_index": 0
         },
         {
           "word": "your",
           "global_start": 122.2,
           "global_end": 122.32,
-          "clip_start": 11.725,
-          "clip_end": 11.845,
+          "clip_start": 15.206,
+          "clip_end": 15.326,
           "score": 0.75,
-          "range_index": 1
+          "range_index": 0
         },
         {
           "word": "very",
           "global_start": 122.36,
           "global_end": 122.56,
-          "clip_start": 11.885,
-          "clip_end": 12.085,
+          "clip_start": 15.366,
+          "clip_end": 15.566,
           "score": 0.858,
-          "range_index": 1
+          "range_index": 0
         },
         {
           "word": "own",
           "global_start": 122.62,
           "global_end": 122.72,
-          "clip_start": 12.145,
-          "clip_end": 12.245,
+          "clip_start": 15.626,
+          "clip_end": 15.726,
           "score": 0.968,
-          "range_index": 1
+          "range_index": 0
         },
         {
           "word": "Paperclip",
           "global_start": 122.761,
           "global_end": 123.221,
-          "clip_start": 12.286,
-          "clip_end": 12.746,
+          "clip_start": 15.767,
+          "clip_end": 16.227,
           "score": 0.817,
-          "range_index": 1
+          "range_index": 0
         },
         {
           "word": "company",
           "global_start": 123.241,
           "global_end": 123.561,
-          "clip_start": 12.766,
-          "clip_end": 13.086,
+          "clip_start": 16.247,
+          "clip_end": 16.567,
           "score": 0.932,
-          "range_index": 1
+          "range_index": 0
         },
         {
           "word": "running",
           "global_start": 123.641,
           "global_end": 123.861,
-          "clip_start": 13.166,
-          "clip_end": 13.386,
+          "clip_start": 16.647,
+          "clip_end": 16.867,
           "score": 0.939,
-          "range_index": 1
+          "range_index": 0
         },
         {
           "word": "agents.",
           "global_start": 124.001,
           "global_end": 124.281,
-          "clip_start": 13.526,
-          "clip_end": 13.806,
+          "clip_start": 17.007,
+          "clip_end": 17.287,
           "score": 0.872,
-          "range_index": 1
+          "range_index": 0
         },
         {
           "word": "You",
           "global_start": 124.601,
           "global_end": 124.721,
-          "clip_start": 14.126,
-          "clip_end": 14.246,
+          "clip_start": 17.607,
+          "clip_end": 17.727,
           "score": 0.755,
-          "range_index": 1
+          "range_index": 0
         },
         {
           "word": "want",
           "global_start": 124.741,
           "global_end": 124.881,
-          "clip_start": 14.266,
-          "clip_end": 14.406,
+          "clip_start": 17.747,
+          "clip_end": 17.887,
           "score": 0.761,
-          "range_index": 1
+          "range_index": 0
         },
         {
           "word": "that,",
           "global_start": 124.921,
           "global_end": 125.041,
-          "clip_start": 14.446,
-          "clip_end": 14.566,
+          "clip_start": 17.927,
+          "clip_end": 18.047,
           "score": 0.964,
-          "range_index": 1
+          "range_index": 0
         },
         {
           "word": "right?",
           "global_start": 125.101,
           "global_end": 125.282,
-          "clip_start": 14.626,
-          "clip_end": 14.807,
+          "clip_start": 18.107,
+          "clip_end": 18.288,
           "score": 0.913,
-          "range_index": 1
+          "range_index": 0
         },
         {
           "word": "Yes,",
           "global_start": 125.582,
           "global_end": 125.742,
-          "clip_start": 15.107,
-          "clip_end": 15.267,
+          "clip_start": 18.588,
+          "clip_end": 18.748,
           "score": 0.986,
-          "range_index": 1
+          "range_index": 0
         },
         {
           "word": "you",
           "global_start": 125.762,
           "global_end": 125.902,
-          "clip_start": 15.287,
-          "clip_end": 15.427,
+          "clip_start": 18.768,
+          "clip_end": 18.908,
           "score": 0.735,
-          "range_index": 1
+          "range_index": 0
         },
         {
           "word": "do.",
           "global_start": 125.922,
           "global_end": 126.082,
-          "clip_start": 15.447,
-          "clip_end": 15.607,
+          "clip_start": 18.928,
+          "clip_end": 19.088,
           "score": 0.933,
-          "range_index": 1
+          "range_index": 0
+        },
+        {
+          "word": "Let's",
+          "global_start": 126.682,
+          "global_end": 126.822,
+          "clip_start": 19.688,
+          "clip_end": 19.828,
+          "score": 0.784,
+          "range_index": 0
+        },
+        {
+          "word": "take",
+          "global_start": 126.842,
+          "global_end": 126.922,
+          "clip_start": 19.848,
+          "clip_end": 19.928,
+          "score": 0.962,
+          "range_index": 0
+        },
+        {
+          "word": "a",
+          "global_start": 126.942,
+          "global_end": 126.982,
+          "clip_start": 19.948,
+          "clip_end": 19.988,
+          "score": 0.457,
+          "range_index": 0
+        },
+        {
+          "word": "sip",
+          "global_start": 127.002,
+          "global_end": 127.102,
+          "clip_start": 20.008,
+          "clip_end": 20.108,
+          "score": 0.551,
+          "range_index": 0
+        },
+        {
+          "word": "of",
+          "global_start": 127.122,
+          "global_end": 127.162,
+          "clip_start": 20.128,
+          "clip_end": 20.168,
+          "score": 0.002,
+          "range_index": 0
+        },
+        {
+          "word": "coffee",
+          "global_start": 127.182,
+          "global_end": 127.382,
+          "clip_start": 20.188,
+          "clip_end": 20.388,
+          "score": 0.605,
+          "range_index": 0
+        },
+        {
+          "word": "real",
+          "global_start": 127.402,
+          "global_end": 127.522,
+          "clip_start": 20.408,
+          "clip_end": 20.528,
+          "score": 0.128,
+          "range_index": 0
+        },
+        {
+          "word": "quick.",
+          "global_start": 127.542,
+          "global_end": 127.723,
+          "clip_start": 20.548,
+          "clip_end": 20.729,
+          "score": 0.711,
+          "range_index": 0
+        },
+        {
+          "word": "All",
+          "global_start": 127.963,
+          "global_end": 128.063,
+          "clip_start": 20.969,
+          "clip_end": 21.069,
+          "score": 0.854,
+          "range_index": 0
+        },
+        {
+          "word": "of",
+          "global_start": 128.083,
+          "global_end": 128.123,
+          "clip_start": 21.089,
+          "clip_end": 21.129,
+          "score": 0.585,
+          "range_index": 0
+        },
+        {
+          "word": "us",
+          "global_start": 128.163,
+          "global_end": 128.223,
+          "clip_start": 21.169,
+          "clip_end": 21.229,
+          "score": 0.709,
+          "range_index": 0
+        },
+        {
+          "word": "together,",
+          "global_start": 128.263,
+          "global_end": 128.523,
+          "clip_start": 21.269,
+          "clip_end": 21.529,
+          "score": 0.893,
+          "range_index": 0
+        },
+        {
+          "word": "are",
+          "global_start": 128.543,
+          "global_end": 128.603,
+          "clip_start": 21.549,
+          "clip_end": 21.609,
+          "score": 0.002,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 128.623,
+          "global_end": 128.683,
+          "clip_start": 21.629,
+          "clip_end": 21.689,
+          "score": 0.0,
+          "range_index": 0
+        },
+        {
+          "word": "ready?",
+          "global_start": 128.703,
+          "global_end": 128.823,
+          "clip_start": 21.709,
+          "clip_end": 21.829,
+          "score": 0.438,
+          "range_index": 0
+        },
+        {
+          "word": "Now",
+          "global_start": 131.109,
+          "global_end": 131.189,
+          "clip_start": 24.115,
+          "clip_end": 24.195,
+          "score": 0.088,
+          "range_index": 0
+        },
+        {
+          "word": "here's",
+          "global_start": 131.21,
+          "global_end": 131.35,
+          "clip_start": 24.216,
+          "clip_end": 24.356,
+          "score": 0.863,
+          "range_index": 0
+        },
+        {
+          "word": "my",
+          "global_start": 131.37,
+          "global_end": 131.471,
+          "clip_start": 24.376,
+          "clip_end": 24.477,
+          "score": 0.978,
+          "range_index": 0
+        },
+        {
+          "word": "absolute",
+          "global_start": 131.591,
+          "global_end": 131.913,
+          "clip_start": 24.597,
+          "clip_end": 24.919,
+          "score": 0.76,
+          "range_index": 0
         }
       ]
     },
     {
       "candidate_id": 3,
-      "reason": "This provides a high-value, punchy security insight that works well as a standalone educational short.",
-      "cut_description": "Removed sponsor-specific fluff and focused on the security threat and solution.",
-      "combined_text": "We know how breaches happen now. It's not a mystery. Attackers don't hack in. They log in. Infostealer malware grabs everything. Passwords, session cookies, MFA tokens. 54% of ransomware victims had their info sitting inside stealer logs way before they ever got hacked. [...] Attackers only need 48 minutes. But with Flare, you realize things happen within seconds. They have real-time detection, and actually checks against Entra ID whether an account is actually real and active, and it can kill a session before anyone opens a ticket.",
+      "reason": "This clip demonstrates the practical, hands-on power of the tool by showing agents delegating tasks to each other, which is the core 'wow' factor of the video.",
+      "cut_description": "",
+      "combined_text": "Here, what you're about to see is one of the most powerful parts of Paperclip, and it's how we talk with our agents, how we interface with them. And that's through tasks. Now, we're about to assign our toilet task. But first, I want to just test this and make sure it works. Cuz so far, we haven't even talked to our agents, and our agents haven't talked to each other. We're going to do both of those right now. So, we'll set up a task and assign it to Dumbledore. Just to say, \"Hey, why don't you talk to Ron? Test Ron, make sure he works.\" So, we'll set up our task and go. And within moments, watch what happens here. Boom, Dumbledore assigns a task to Ron. And that right there is our first moment where we talk to an agent and then an agent talk to another agent. And they're both working here. Dumbledore is actually waiting and then when Ron finishes his task, Dumbledore is like, \"Hey, we tested, we're good.\" Isn't that sick? Now, some movie magic's about to happen.",
       "original_candidate_ranges": [
         {
-          "start": 170.16,
-          "end": 177.92
-        },
-        {
-          "start": 180.12,
-          "end": 187.12
+          "start": 305.0,
+          "end": 330.0
         }
       ],
       "padded_ranges": [
         {
-          "start": 162.16,
-          "end": 195.12
+          "start": 297.0,
+          "end": 338.0
         }
       ],
       "selected_global_ranges": [
         {
           "range_index": 0,
-          "target_start": 170.16,
-          "target_end": 177.92,
-          "global_start": 170.173,
-          "global_end": 178.255,
-          "duration_s": 8.082,
-          "first_word": "I'll",
-          "last_word": "engineer",
-          "word_count": 32
-        },
-        {
-          "range_index": 1,
-          "target_start": 180.12,
-          "target_end": 187.12,
-          "global_start": 180.075,
-          "global_end": 187.377,
-          "duration_s": 7.302,
-          "first_word": "team,",
-          "last_word": "moment",
-          "word_count": 31
+          "target_start": 305.0,
+          "target_end": 330.0,
+          "global_start": 304.938,
+          "global_end": 330.089,
+          "duration_s": 25.151,
+          "first_word": "It's",
+          "last_word": "things",
+          "word_count": 61
         }
       ],
       "clip_relative_ranges": [
         {
           "range_index": 0,
           "clip_start": 0.0,
-          "clip_end": 8.082,
-          "duration_s": 8.082,
-          "global_start": 170.173,
-          "global_end": 178.255
-        },
-        {
-          "range_index": 1,
-          "clip_start": 8.082,
-          "clip_end": 15.384,
-          "duration_s": 7.302,
-          "global_start": 180.075,
-          "global_end": 187.377
+          "clip_end": 25.151,
+          "duration_s": 25.151,
+          "global_start": 304.938,
+          "global_end": 330.089
         }
       ],
-      "total_clip_duration_s": 15.384,
+      "total_clip_duration_s": 25.151,
       "aligned_words": [
         {
-          "word": "I'll",
-          "global_start": 170.173,
-          "global_end": 170.293,
+          "word": "It's",
+          "global_start": 304.938,
+          "global_end": 305.018,
           "clip_start": 0.0,
-          "clip_end": 0.12,
-          "score": 0.384,
+          "clip_end": 0.08,
+          "score": 0.022,
           "range_index": 0
         },
         {
-          "word": "actually",
-          "global_start": 170.313,
-          "global_end": 170.533,
-          "clip_start": 0.14,
-          "clip_end": 0.36,
-          "score": 0.887,
-          "range_index": 0
-        },
-        {
-          "word": "have",
-          "global_start": 170.573,
-          "global_end": 170.713,
-          "clip_start": 0.4,
-          "clip_end": 0.54,
-          "score": 0.619,
-          "range_index": 0
-        },
-        {
-          "word": "running",
-          "global_start": 170.753,
-          "global_end": 170.973,
-          "clip_start": 0.58,
-          "clip_end": 0.8,
-          "score": 0.825,
-          "range_index": 0
-        },
-        {
-          "word": "Claude",
-          "global_start": 171.053,
-          "global_end": 171.313,
-          "clip_start": 0.88,
-          "clip_end": 1.14,
-          "score": 0.602,
-          "range_index": 0
-        },
-        {
-          "word": "code,",
-          "global_start": 171.353,
-          "global_end": 171.613,
-          "clip_start": 1.18,
-          "clip_end": 1.44,
-          "score": 0.688,
-          "range_index": 0
-        },
-        {
-          "word": "and",
-          "global_start": 171.893,
-          "global_end": 171.993,
-          "clip_start": 1.72,
-          "clip_end": 1.82,
-          "score": 0.871,
-          "range_index": 0
-        },
-        {
-          "word": "not",
-          "global_start": 172.093,
-          "global_end": 172.253,
-          "clip_start": 1.92,
-          "clip_end": 2.08,
-          "score": 0.91,
-          "range_index": 0
-        },
-        {
-          "word": "Hermes.",
-          "global_start": 172.313,
-          "global_end": 172.693,
-          "clip_start": 2.14,
-          "clip_end": 2.52,
-          "score": 0.864,
-          "range_index": 0
-        },
-        {
-          "word": "And",
-          "global_start": 173.133,
-          "global_end": 173.213,
-          "clip_start": 2.96,
-          "clip_end": 3.04,
-          "score": 0.549,
-          "range_index": 0
-        },
-        {
-          "word": "just",
-          "global_start": 173.233,
-          "global_end": 173.333,
-          "clip_start": 3.06,
-          "clip_end": 3.16,
-          "score": 0.939,
-          "range_index": 0
-        },
-        {
-          "word": "for",
-          "global_start": 173.353,
-          "global_end": 173.454,
-          "clip_start": 3.18,
-          "clip_end": 3.281,
-          "score": 0.946,
-          "range_index": 0
-        },
-        {
-          "word": "fun,",
-          "global_start": 173.514,
-          "global_end": 173.694,
-          "clip_start": 3.341,
-          "clip_end": 3.521,
-          "score": 0.834,
-          "range_index": 0
-        },
-        {
-          "word": "I'll",
-          "global_start": 173.714,
-          "global_end": 173.814,
-          "clip_start": 3.541,
-          "clip_end": 3.641,
-          "score": 0.29,
-          "range_index": 0
-        },
-        {
-          "word": "hire",
-          "global_start": 173.834,
-          "global_end": 173.994,
-          "clip_start": 3.661,
-          "clip_end": 3.821,
-          "score": 0.542,
-          "range_index": 0
-        },
-        {
-          "word": "some",
-          "global_start": 174.014,
-          "global_end": 174.094,
-          "clip_start": 3.841,
-          "clip_end": 3.921,
-          "score": 0.58,
-          "range_index": 0
-        },
-        {
-          "word": "more",
-          "global_start": 174.114,
-          "global_end": 174.214,
-          "clip_start": 3.941,
-          "clip_end": 4.041,
-          "score": 0.831,
-          "range_index": 0
-        },
-        {
-          "word": "employees",
-          "global_start": 174.254,
-          "global_end": 174.614,
-          "clip_start": 4.081,
-          "clip_end": 4.441,
-          "score": 0.804,
-          "range_index": 0
-        },
-        {
-          "word": "too.",
-          "global_start": 174.654,
-          "global_end": 174.834,
-          "clip_start": 4.481,
-          "clip_end": 4.661,
-          "score": 0.762,
-          "range_index": 0
-        },
-        {
-          "word": "Probably",
-          "global_start": 175.074,
-          "global_end": 175.294,
-          "clip_start": 4.901,
-          "clip_end": 5.121,
-          "score": 0.938,
+          "word": "on",
+          "global_start": 305.038,
+          "global_end": 305.098,
+          "clip_start": 0.1,
+          "clip_end": 0.16,
+          "score": 0.63,
           "range_index": 0
         },
         {
           "word": "a",
-          "global_start": 175.314,
-          "global_end": 175.334,
-          "clip_start": 5.141,
-          "clip_end": 5.161,
-          "score": 0.026,
+          "global_start": 305.138,
+          "global_end": 305.178,
+          "clip_start": 0.2,
+          "clip_end": 0.24,
+          "score": 0.437,
           "range_index": 0
         },
         {
-          "word": "security",
-          "global_start": 175.354,
-          "global_end": 175.754,
-          "clip_start": 5.181,
-          "clip_end": 5.581,
-          "score": 0.692,
+          "word": "mystery.",
+          "global_start": 305.198,
+          "global_end": 305.558,
+          "clip_start": 0.26,
+          "clip_end": 0.62,
+          "score": 0.747,
           "range_index": 0
         },
-        {
-          "word": "engineer",
-          "global_start": 175.774,
-          "global_end": 176.154,
-          "clip_start": 5.601,
-          "clip_end": 5.981,
-          "score": 0.852,
-          "range_index": 0
-        },
-        {
-          "word": "running",
-          "global_start": 176.194,
-          "global_end": 176.374,
-          "clip_start": 6.021,
-          "clip_end": 6.201,
-          "score": 0.938,
-          "range_index": 0
-        },
-        {
-          "word": "codex,",
-          "global_start": 176.414,
-          "global_end": 176.794,
-          "clip_start": 6.241,
-          "clip_end": 6.621,
-          "score": 0.89,
-          "range_index": 0
-        },
-        {
-          "word": "and",
-          "global_start": 177.114,
-          "global_end": 177.174,
-          "clip_start": 6.941,
-          "clip_end": 7.001,
-          "score": 0.138,
-          "range_index": 0
-        },
-        {
-          "word": "let's",
-          "global_start": 177.194,
-          "global_end": 177.314,
-          "clip_start": 7.021,
-          "clip_end": 7.141,
-          "score": 0.546,
-          "range_index": 0
-        },
-        {
-          "word": "say",
-          "global_start": 177.354,
-          "global_end": 177.454,
-          "clip_start": 7.181,
-          "clip_end": 7.281,
-          "score": 0.827,
-          "range_index": 0
-        },
-        {
-          "word": "I",
-          "global_start": 177.494,
-          "global_end": 177.534,
-          "clip_start": 7.321,
-          "clip_end": 7.361,
-          "score": 0.145,
-          "range_index": 0
-        },
-        {
-          "word": "helped",
-          "global_start": 177.554,
-          "global_end": 177.694,
-          "clip_start": 7.381,
-          "clip_end": 7.521,
-          "score": 0.623,
-          "range_index": 0
-        },
-        {
-          "word": "desk",
-          "global_start": 177.714,
-          "global_end": 177.874,
-          "clip_start": 7.541,
-          "clip_end": 7.701,
-          "score": 0.772,
-          "range_index": 0
-        },
-        {
-          "word": "engineer",
-          "global_start": 177.894,
-          "global_end": 178.255,
-          "clip_start": 7.721,
-          "clip_end": 8.082,
-          "score": 0.785,
-          "range_index": 0
-        },
-        {
-          "word": "team,",
-          "global_start": 180.075,
-          "global_end": 180.275,
-          "clip_start": 8.082,
-          "clip_end": 8.282,
-          "score": 0.786,
-          "range_index": 1
-        },
-        {
-          "word": "we",
-          "global_start": 180.295,
-          "global_end": 180.395,
-          "clip_start": 8.302,
-          "clip_end": 8.402,
-          "score": 0.512,
-          "range_index": 1
-        },
-        {
-          "word": "will",
-          "global_start": 180.415,
-          "global_end": 180.555,
-          "clip_start": 8.422,
-          "clip_end": 8.562,
-          "score": 0.835,
-          "range_index": 1
-        },
-        {
-          "word": "then",
-          "global_start": 180.575,
-          "global_end": 180.715,
-          "clip_start": 8.582,
-          "clip_end": 8.722,
-          "score": 0.877,
-          "range_index": 1
-        },
-        {
-          "word": "assign",
-          "global_start": 180.775,
-          "global_end": 181.115,
-          "clip_start": 8.782,
-          "clip_end": 9.122,
-          "score": 0.913,
-          "range_index": 1
-        },
-        {
-          "word": "a",
-          "global_start": 181.155,
-          "global_end": 181.195,
-          "clip_start": 9.162,
-          "clip_end": 9.202,
-          "score": 0.554,
-          "range_index": 1
-        },
-        {
-          "word": "task,",
-          "global_start": 181.235,
-          "global_end": 181.575,
-          "clip_start": 9.242,
-          "clip_end": 9.582,
-          "score": 0.98,
-          "range_index": 1
-        },
-        {
-          "word": "a",
-          "global_start": 181.895,
-          "global_end": 181.935,
-          "clip_start": 9.902,
-          "clip_end": 9.942,
-          "score": 0.994,
-          "range_index": 1
-        },
-        {
-          "word": "task",
-          "global_start": 181.995,
-          "global_end": 182.335,
-          "clip_start": 10.002,
-          "clip_end": 10.342,
-          "score": 0.894,
-          "range_index": 1
-        },
-        {
-          "word": "to",
-          "global_start": 182.576,
-          "global_end": 182.676,
-          "clip_start": 10.583,
-          "clip_end": 10.683,
-          "score": 0.988,
-          "range_index": 1
-        },
-        {
-          "word": "solve",
-          "global_start": 182.776,
-          "global_end": 183.096,
-          "clip_start": 10.783,
-          "clip_end": 11.103,
-          "score": 0.684,
-          "range_index": 1
-        },
-        {
-          "word": "our",
-          "global_start": 183.136,
-          "global_end": 183.236,
-          "clip_start": 11.143,
-          "clip_end": 11.243,
-          "score": 0.883,
-          "range_index": 1
-        },
-        {
-          "word": "toilet",
-          "global_start": 183.296,
-          "global_end": 183.616,
-          "clip_start": 11.303,
-          "clip_end": 11.623,
-          "score": 0.836,
-          "range_index": 1
-        },
-        {
-          "word": "problems,",
-          "global_start": 183.636,
-          "global_end": 184.056,
-          "clip_start": 11.643,
-          "clip_end": 12.063,
-          "score": 0.786,
-          "range_index": 1
-        },
-        {
-          "word": "and",
-          "global_start": 184.496,
-          "global_end": 184.556,
-          "clip_start": 12.503,
-          "clip_end": 12.563,
-          "score": 0.988,
-          "range_index": 1
-        },
-        {
-          "word": "we'll",
-          "global_start": 184.576,
-          "global_end": 184.716,
-          "clip_start": 12.583,
-          "clip_end": 12.723,
-          "score": 0.837,
-          "range_index": 1
-        },
-        {
-          "word": "watch",
-          "global_start": 184.736,
-          "global_end": 184.916,
-          "clip_start": 12.743,
-          "clip_end": 12.923,
-          "score": 0.768,
-          "range_index": 1
-        },
-        {
-          "word": "them",
-          "global_start": 184.936,
-          "global_end": 185.076,
-          "clip_start": 12.943,
-          "clip_end": 13.083,
-          "score": 0.715,
-          "range_index": 1
-        },
-        {
-          "word": "go",
-          "global_start": 185.116,
-          "global_end": 185.196,
-          "clip_start": 13.123,
-          "clip_end": 13.203,
-          "score": 0.718,
-          "range_index": 1
-        },
-        {
-          "word": "to",
-          "global_start": 185.236,
-          "global_end": 185.296,
-          "clip_start": 13.243,
-          "clip_end": 13.303,
-          "score": 0.851,
-          "range_index": 1
-        },
-        {
-          "word": "work.",
-          "global_start": 185.336,
-          "global_end": 185.536,
-          "clip_start": 13.343,
-          "clip_end": 13.543,
-          "score": 0.689,
-          "range_index": 1
-        },
-        {
-          "word": "Now,",
-          "global_start": 185.856,
-          "global_end": 185.996,
-          "clip_start": 13.863,
-          "clip_end": 14.003,
-          "score": 0.858,
-          "range_index": 1
-        },
-        {
-          "word": "I",
-          "global_start": 186.096,
-          "global_end": 186.156,
-          "clip_start": 14.103,
-          "clip_end": 14.163,
-          "score": 0.669,
-          "range_index": 1
-        },
-        {
-          "word": "want",
-          "global_start": 186.176,
-          "global_end": 186.256,
-          "clip_start": 14.183,
-          "clip_end": 14.263,
-          "score": 0.999,
-          "range_index": 1
-        },
-        {
-          "word": "you",
-          "global_start": 186.276,
-          "global_end": 186.356,
-          "clip_start": 14.283,
-          "clip_end": 14.363,
-          "score": 0.831,
-          "range_index": 1
-        },
-        {
-          "word": "to",
-          "global_start": 186.376,
-          "global_end": 186.416,
-          "clip_start": 14.383,
-          "clip_end": 14.423,
-          "score": 0.999,
-          "range_index": 1
-        },
-        {
-          "word": "pause",
-          "global_start": 186.456,
-          "global_end": 186.656,
-          "clip_start": 14.463,
-          "clip_end": 14.663,
-          "score": 0.99,
-          "range_index": 1
-        },
-        {
-          "word": "here",
-          "global_start": 186.696,
-          "global_end": 186.856,
-          "clip_start": 14.703,
-          "clip_end": 14.863,
-          "score": 0.728,
-          "range_index": 1
-        },
-        {
-          "word": "for",
-          "global_start": 186.896,
-          "global_end": 187.017,
-          "clip_start": 14.903,
-          "clip_end": 15.024,
-          "score": 0.786,
-          "range_index": 1
-        },
-        {
-          "word": "a",
-          "global_start": 187.057,
-          "global_end": 187.077,
-          "clip_start": 15.064,
-          "clip_end": 15.084,
-          "score": 0.998,
-          "range_index": 1
-        },
-        {
-          "word": "moment",
-          "global_start": 187.117,
-          "global_end": 187.377,
-          "clip_start": 15.124,
-          "clip_end": 15.384,
-          "score": 0.774,
-          "range_index": 1
-        }
-      ]
-    },
-    {
-      "candidate_id": 4,
-      "reason": "Shows the 'agent-to-agent' communication feature in action, which is a highly engaging visual for viewers.",
-      "cut_description": "Removed setup filler and focused on the specific demonstration of agent interaction.",
-      "combined_text": "Here, what you're about to see is one of the most powerful parts of Paperclip, and it's how we talk with our agents, how we interface with them. And that's through tasks. Now, we're about to assign our toilet task. But first, I want to just test this and make sure it works. [...] Boom, Dumbledore assigns a task to Ron. And that right there is our first moment where we talk to an agent and then an agent talk to another agent. And they're both working here.",
-      "original_candidate_ranges": [
-        {
-          "start": 305.76,
-          "end": 314.48
-        },
-        {
-          "start": 320.52,
-          "end": 328.48
-        }
-      ],
-      "padded_ranges": [
-        {
-          "start": 297.76,
-          "end": 336.48
-        }
-      ],
-      "selected_global_ranges": [
-        {
-          "range_index": 0,
-          "target_start": 305.76,
-          "target_end": 314.48,
-          "global_start": 305.818,
-          "global_end": 314.926,
-          "duration_s": 9.108,
-          "first_word": "Attackers",
-          "last_word": "54%",
-          "word_count": 18
-        },
-        {
-          "range_index": 1,
-          "target_start": 320.52,
-          "target_end": 328.48,
-          "global_start": 320.43,
-          "global_end": 328.421,
-          "duration_s": 7.991,
-          "first_word": "hacked.",
-          "last_word": "Flair,",
-          "word_count": 21
-        }
-      ],
-      "clip_relative_ranges": [
-        {
-          "range_index": 0,
-          "clip_start": 0.0,
-          "clip_end": 9.108,
-          "duration_s": 9.108,
-          "global_start": 305.818,
-          "global_end": 314.926
-        },
-        {
-          "range_index": 1,
-          "clip_start": 9.108,
-          "clip_end": 17.099,
-          "duration_s": 7.991,
-          "global_start": 320.43,
-          "global_end": 328.421
-        }
-      ],
-      "total_clip_duration_s": 17.099,
-      "aligned_words": [
         {
           "word": "Attackers",
           "global_start": 305.818,
-          "global_end": 306.198,
-          "clip_start": 0.0,
-          "clip_end": 0.38,
+          "global_end": 306.199,
+          "clip_start": 0.88,
+          "clip_end": 1.261,
           "score": 0.869,
           "range_index": 0
         },
         {
           "word": "don't",
-          "global_start": 306.218,
-          "global_end": 306.398,
-          "clip_start": 0.4,
-          "clip_end": 0.58,
-          "score": 0.668,
+          "global_start": 306.219,
+          "global_end": 306.399,
+          "clip_start": 1.281,
+          "clip_end": 1.461,
+          "score": 0.665,
           "range_index": 0
         },
         {
           "word": "hack",
-          "global_start": 306.478,
+          "global_start": 306.479,
           "global_end": 306.739,
-          "clip_start": 0.66,
-          "clip_end": 0.921,
-          "score": 0.966,
+          "clip_start": 1.541,
+          "clip_end": 1.801,
+          "score": 0.97,
           "range_index": 0
         },
         {
           "word": "in.",
           "global_start": 306.859,
           "global_end": 306.979,
-          "clip_start": 1.041,
-          "clip_end": 1.161,
-          "score": 0.862,
+          "clip_start": 1.921,
+          "clip_end": 2.041,
+          "score": 0.852,
           "range_index": 0
         },
         {
           "word": "They",
           "global_start": 307.139,
-          "global_end": 307.339,
-          "clip_start": 1.321,
-          "clip_end": 1.521,
-          "score": 0.798,
+          "global_end": 307.34,
+          "clip_start": 2.201,
+          "clip_end": 2.402,
+          "score": 0.782,
           "range_index": 0
         },
         {
           "word": "log",
-          "global_start": 307.399,
-          "global_end": 307.599,
-          "clip_start": 1.581,
-          "clip_end": 1.781,
-          "score": 0.659,
+          "global_start": 307.4,
+          "global_end": 307.66,
+          "clip_start": 2.462,
+          "clip_end": 2.722,
+          "score": 0.772,
           "range_index": 0
         },
         {
           "word": "in.",
-          "global_start": 307.739,
+          "global_start": 307.74,
           "global_end": 307.88,
-          "clip_start": 1.921,
-          "clip_end": 2.062,
-          "score": 0.763,
+          "clip_start": 2.802,
+          "clip_end": 2.942,
+          "score": 0.784,
           "range_index": 0
         },
         {
           "word": "Info",
           "global_start": 308.26,
-          "global_end": 308.56,
-          "clip_start": 2.442,
-          "clip_end": 2.742,
-          "score": 0.596,
+          "global_end": 308.561,
+          "clip_start": 3.322,
+          "clip_end": 3.623,
+          "score": 0.573,
           "range_index": 0
         },
         {
           "word": "stealer",
-          "global_start": 308.58,
-          "global_end": 308.9,
-          "clip_start": 2.762,
-          "clip_end": 3.082,
-          "score": 0.826,
+          "global_start": 308.581,
+          "global_end": 308.901,
+          "clip_start": 3.643,
+          "clip_end": 3.963,
+          "score": 0.823,
           "range_index": 0
         },
         {
           "word": "malware",
-          "global_start": 308.92,
+          "global_start": 308.921,
           "global_end": 309.341,
-          "clip_start": 3.102,
-          "clip_end": 3.523,
+          "clip_start": 3.983,
+          "clip_end": 4.403,
           "score": 0.816,
           "range_index": 0
         },
         {
           "word": "grabs",
           "global_start": 309.681,
-          "global_end": 310.041,
-          "clip_start": 3.863,
-          "clip_end": 4.223,
-          "score": 0.904,
+          "global_end": 310.042,
+          "clip_start": 4.743,
+          "clip_end": 5.104,
+          "score": 0.901,
           "range_index": 0
         },
         {
           "word": "everything.",
           "global_start": 310.342,
           "global_end": 310.782,
-          "clip_start": 4.524,
-          "clip_end": 4.964,
-          "score": 0.843,
+          "clip_start": 5.404,
+          "clip_end": 5.844,
+          "score": 0.84,
           "range_index": 0
         },
         {
           "word": "Password",
-          "global_start": 311.002,
+          "global_start": 311.003,
           "global_end": 311.503,
-          "clip_start": 5.184,
-          "clip_end": 5.685,
-          "score": 0.87,
+          "clip_start": 6.065,
+          "clip_end": 6.565,
+          "score": 0.871,
           "range_index": 0
         },
         {
           "word": "session",
           "global_start": 311.583,
           "global_end": 311.923,
-          "clip_start": 5.765,
-          "clip_end": 6.105,
-          "score": 0.83,
+          "clip_start": 6.645,
+          "clip_end": 6.985,
+          "score": 0.835,
           "range_index": 0
         },
         {
           "word": "cookies.",
           "global_start": 311.943,
-          "global_end": 312.303,
-          "clip_start": 6.125,
-          "clip_end": 6.485,
+          "global_end": 312.304,
+          "clip_start": 7.005,
+          "clip_end": 7.366,
           "score": 0.957,
           "range_index": 0
         },
@@ -2128,8 +1938,8 @@
           "word": "MFA",
           "global_start": 312.784,
           "global_end": 313.104,
-          "clip_start": 6.966,
-          "clip_end": 7.286,
+          "clip_start": 7.846,
+          "clip_end": 8.166,
           "score": 0.795,
           "range_index": 0
         },
@@ -2137,602 +1947,1854 @@
           "word": "tokens.",
           "global_start": 313.124,
           "global_end": 314.045,
-          "clip_start": 7.306,
-          "clip_end": 8.227,
-          "score": 0.825,
+          "clip_start": 8.186,
+          "clip_end": 9.107,
+          "score": 0.812,
           "range_index": 0
         },
         {
           "word": "54%",
           "global_start": 314.205,
           "global_end": 314.926,
-          "clip_start": 8.387,
-          "clip_end": 9.108,
-          "score": 0.576,
+          "clip_start": 9.267,
+          "clip_end": 9.988,
+          "score": 0.529,
+          "range_index": 0
+        },
+        {
+          "word": "of",
+          "global_start": 315.146,
+          "global_end": 315.206,
+          "clip_start": 10.208,
+          "clip_end": 10.268,
+          "score": 0.685,
+          "range_index": 0
+        },
+        {
+          "word": "ransomware",
+          "global_start": 315.306,
+          "global_end": 315.827,
+          "clip_start": 10.368,
+          "clip_end": 10.889,
+          "score": 0.736,
+          "range_index": 0
+        },
+        {
+          "word": "victims",
+          "global_start": 315.867,
+          "global_end": 316.247,
+          "clip_start": 10.929,
+          "clip_end": 11.309,
+          "score": 0.841,
+          "range_index": 0
+        },
+        {
+          "word": "had",
+          "global_start": 316.467,
+          "global_end": 316.687,
+          "clip_start": 11.529,
+          "clip_end": 11.749,
+          "score": 0.975,
+          "range_index": 0
+        },
+        {
+          "word": "their",
+          "global_start": 316.767,
+          "global_end": 316.968,
+          "clip_start": 11.829,
+          "clip_end": 12.03,
+          "score": 0.789,
+          "range_index": 0
+        },
+        {
+          "word": "info.",
+          "global_start": 317.048,
+          "global_end": 317.448,
+          "clip_start": 12.11,
+          "clip_end": 12.51,
+          "score": 0.89,
+          "range_index": 0
+        },
+        {
+          "word": "Sitting",
+          "global_start": 317.808,
+          "global_end": 318.008,
+          "clip_start": 12.87,
+          "clip_end": 13.07,
+          "score": 0.882,
+          "range_index": 0
+        },
+        {
+          "word": "inside",
+          "global_start": 318.028,
+          "global_end": 318.289,
+          "clip_start": 13.09,
+          "clip_end": 13.351,
+          "score": 0.946,
+          "range_index": 0
+        },
+        {
+          "word": "stealer",
+          "global_start": 318.349,
+          "global_end": 318.689,
+          "clip_start": 13.411,
+          "clip_end": 13.751,
+          "score": 0.759,
+          "range_index": 0
+        },
+        {
+          "word": "logs",
+          "global_start": 318.709,
+          "global_end": 319.029,
+          "clip_start": 13.771,
+          "clip_end": 14.091,
+          "score": 0.852,
+          "range_index": 0
+        },
+        {
+          "word": "way",
+          "global_start": 319.35,
+          "global_end": 319.55,
+          "clip_start": 14.412,
+          "clip_end": 14.612,
+          "score": 0.883,
+          "range_index": 0
+        },
+        {
+          "word": "before",
+          "global_start": 319.59,
+          "global_end": 319.91,
+          "clip_start": 14.652,
+          "clip_end": 14.972,
+          "score": 0.904,
+          "range_index": 0
+        },
+        {
+          "word": "they",
+          "global_start": 319.95,
+          "global_end": 320.05,
+          "clip_start": 15.012,
+          "clip_end": 15.112,
+          "score": 0.944,
+          "range_index": 0
+        },
+        {
+          "word": "ever",
+          "global_start": 320.09,
+          "global_end": 320.21,
+          "clip_start": 15.152,
+          "clip_end": 15.272,
+          "score": 0.869,
+          "range_index": 0
+        },
+        {
+          "word": "got",
+          "global_start": 320.25,
+          "global_end": 320.39,
+          "clip_start": 15.312,
+          "clip_end": 15.452,
+          "score": 0.874,
           "range_index": 0
         },
         {
           "word": "hacked.",
           "global_start": 320.43,
           "global_end": 320.711,
-          "clip_start": 9.108,
-          "clip_end": 9.389,
-          "score": 0.984,
-          "range_index": 1
+          "clip_start": 15.492,
+          "clip_end": 15.773,
+          "score": 0.983,
+          "range_index": 0
         },
         {
           "word": "And",
           "global_start": 320.871,
           "global_end": 320.931,
-          "clip_start": 9.549,
-          "clip_end": 9.609,
-          "score": 0.537,
-          "range_index": 1
+          "clip_start": 15.933,
+          "clip_end": 15.993,
+          "score": 0.562,
+          "range_index": 0
         },
         {
           "word": "most",
           "global_start": 320.971,
           "global_end": 321.131,
-          "clip_start": 9.649,
-          "clip_end": 9.809,
-          "score": 0.841,
-          "range_index": 1
+          "clip_start": 16.033,
+          "clip_end": 16.193,
+          "score": 0.851,
+          "range_index": 0
         },
         {
           "word": "companies",
           "global_start": 321.211,
           "global_end": 321.671,
-          "clip_start": 9.889,
-          "clip_end": 10.349,
-          "score": 0.868,
-          "range_index": 1
+          "clip_start": 16.273,
+          "clip_end": 16.733,
+          "score": 0.872,
+          "range_index": 0
         },
         {
           "word": "take",
           "global_start": 322.132,
           "global_end": 322.352,
-          "clip_start": 10.81,
-          "clip_end": 11.03,
-          "score": 0.859,
-          "range_index": 1
+          "clip_start": 17.194,
+          "clip_end": 17.414,
+          "score": 0.856,
+          "range_index": 0
         },
         {
           "word": "36",
           "global_start": 322.532,
           "global_end": 322.752,
-          "clip_start": 11.21,
-          "clip_end": 11.43,
-          "score": 0.686,
-          "range_index": 1
+          "clip_start": 17.594,
+          "clip_end": 17.814,
+          "score": 0.629,
+          "range_index": 0
         },
         {
           "word": "hours",
           "global_start": 323.133,
           "global_end": 323.473,
-          "clip_start": 11.811,
-          "clip_end": 12.151,
-          "score": 0.776,
-          "range_index": 1
+          "clip_start": 18.195,
+          "clip_end": 18.535,
+          "score": 0.773,
+          "range_index": 0
         },
         {
           "word": "before",
           "global_start": 323.513,
           "global_end": 323.753,
-          "clip_start": 12.191,
-          "clip_end": 12.431,
-          "score": 0.72,
-          "range_index": 1
+          "clip_start": 18.575,
+          "clip_end": 18.815,
+          "score": 0.69,
+          "range_index": 0
         },
         {
           "word": "they",
           "global_start": 323.773,
           "global_end": 323.893,
-          "clip_start": 12.451,
-          "clip_end": 12.571,
-          "score": 0.813,
-          "range_index": 1
+          "clip_start": 18.835,
+          "clip_end": 18.955,
+          "score": 0.803,
+          "range_index": 0
         },
         {
           "word": "even",
           "global_start": 323.933,
           "global_end": 324.113,
-          "clip_start": 12.611,
-          "clip_end": 12.791,
-          "score": 0.812,
-          "range_index": 1
+          "clip_start": 18.995,
+          "clip_end": 19.175,
+          "score": 0.798,
+          "range_index": 0
         },
         {
           "word": "noticed",
           "global_start": 324.254,
           "global_end": 324.654,
-          "clip_start": 12.932,
-          "clip_end": 13.332,
-          "score": 0.829,
-          "range_index": 1
+          "clip_start": 19.316,
+          "clip_end": 19.716,
+          "score": 0.832,
+          "range_index": 0
         },
         {
           "word": "something",
           "global_start": 324.954,
           "global_end": 325.194,
-          "clip_start": 13.632,
-          "clip_end": 13.872,
-          "score": 0.897,
-          "range_index": 1
+          "clip_start": 20.016,
+          "clip_end": 20.256,
+          "score": 0.899,
+          "range_index": 0
         },
         {
           "word": "has",
           "global_start": 325.234,
-          "global_end": 325.354,
-          "clip_start": 13.912,
-          "clip_end": 14.032,
-          "score": 0.906,
-          "range_index": 1
+          "global_end": 325.355,
+          "clip_start": 20.296,
+          "clip_end": 20.417,
+          "score": 0.92,
+          "range_index": 0
         },
         {
           "word": "happened.",
           "global_start": 325.395,
           "global_end": 325.735,
-          "clip_start": 14.073,
-          "clip_end": 14.413,
-          "score": 0.845,
-          "range_index": 1
+          "clip_start": 20.457,
+          "clip_end": 20.797,
+          "score": 0.844,
+          "range_index": 0
         },
         {
           "word": "Attackers",
-          "global_start": 326.135,
-          "global_end": 326.516,
-          "clip_start": 14.813,
-          "clip_end": 15.194,
-          "score": 0.906,
-          "range_index": 1
+          "global_start": 326.136,
+          "global_end": 326.517,
+          "clip_start": 21.198,
+          "clip_end": 21.579,
+          "score": 0.899,
+          "range_index": 0
         },
         {
           "word": "only",
           "global_start": 326.557,
-          "global_end": 326.817,
-          "clip_start": 15.235,
-          "clip_end": 15.495,
-          "score": 0.734,
-          "range_index": 1
+          "global_end": 326.818,
+          "clip_start": 21.619,
+          "clip_end": 21.88,
+          "score": 0.722,
+          "range_index": 0
         },
         {
           "word": "need",
-          "global_start": 326.837,
-          "global_end": 327.138,
-          "clip_start": 15.515,
-          "clip_end": 15.816,
-          "score": 0.427,
-          "range_index": 1
+          "global_start": 326.838,
+          "global_end": 327.139,
+          "clip_start": 21.9,
+          "clip_end": 22.201,
+          "score": 0.447,
+          "range_index": 0
         },
         {
           "word": "48",
-          "global_start": 327.158,
-          "global_end": 327.298,
-          "clip_start": 15.836,
-          "clip_end": 15.976,
-          "score": 0.354,
-          "range_index": 1
+          "global_start": 327.159,
+          "global_end": 327.3,
+          "clip_start": 22.221,
+          "clip_end": 22.362,
+          "score": 0.353,
+          "range_index": 0
         },
         {
           "word": "minutes.",
-          "global_start": 327.318,
-          "global_end": 327.579,
-          "clip_start": 15.996,
-          "clip_end": 16.257,
-          "score": 0.922,
-          "range_index": 1
+          "global_start": 327.32,
+          "global_end": 327.581,
+          "clip_start": 22.382,
+          "clip_end": 22.643,
+          "score": 0.918,
+          "range_index": 0
         },
         {
           "word": "Both",
-          "global_start": 327.82,
-          "global_end": 328.0,
-          "clip_start": 16.498,
-          "clip_end": 16.678,
-          "score": 0.479,
-          "range_index": 1
+          "global_start": 327.821,
+          "global_end": 328.002,
+          "clip_start": 22.883,
+          "clip_end": 23.064,
+          "score": 0.458,
+          "range_index": 0
         },
         {
           "word": "Flair,",
-          "global_start": 328.08,
-          "global_end": 328.421,
-          "clip_start": 16.758,
-          "clip_end": 17.099,
-          "score": 0.813,
-          "range_index": 1
+          "global_start": 328.082,
+          "global_end": 328.444,
+          "clip_start": 23.144,
+          "clip_end": 23.506,
+          "score": 0.577,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 329.046,
+          "global_end": 329.367,
+          "clip_start": 24.108,
+          "clip_end": 24.429,
+          "score": 0.841,
+          "range_index": 0
+        },
+        {
+          "word": "realize",
+          "global_start": 329.427,
+          "global_end": 329.889,
+          "clip_start": 24.489,
+          "clip_end": 24.951,
+          "score": 0.814,
+          "range_index": 0
+        },
+        {
+          "word": "things",
+          "global_start": 329.909,
+          "global_end": 330.089,
+          "clip_start": 24.971,
+          "clip_end": 25.151,
+          "score": 0.834,
+          "range_index": 0
         }
       ]
     },
     {
-      "candidate_id": 5,
-      "reason": "This is a satisfying 'tech mystery' resolution that provides real-world value for IT professionals.",
-      "cut_description": "Cut the fluff about the toilet flushing to focus on the actual technical diagnosis.",
-      "combined_text": "It's not a mystery. Four links on flu powder have been broken for 15 months. Flu powder is my MicroTik switch we're talking about. Anything that disturbs the building knocks them over. [...] It comes down to the transceivers. I have these SFPs. They are these third-party SFPs I bought off Amazon fairly cheap. I bought them in different batches over time as I've added more employees. And apparently the ports are all in one of the batches.",
+      "candidate_id": 4,
+      "reason": "This clip showcases the automation capabilities of the platform, specifically how users can set up recurring 'routines' for their AI agents.",
+      "cut_description": "Removed filler and setup steps to focus on the core functionality of creating and running a routine.",
+      "combined_text": "Routines are actually pretty sick. Let's create one right now. You can think of a routine like a scheduled task, right? It's going to run on a schedule that you set, and we can do a ton of things with this. It's actually pretty powerful. [...] Check storage. And I'm going to voice dictate this because I'm lazy. Every day, check the storage on the SEF server and check for any health issues. I'll have you report back the amount of storage we have left. And if there's anything that's low, you need to create a decision for Chuck. [...] It's like every day at 10:00 a.m. Add trigger. Boom. It's active. It's saved. If I go to routines, I see it sitting right there. You can also run it at any time. By the way, this is how I run my stand-ups. Run now. Run the routine.",
       "original_candidate_ranges": [
         {
-          "start": 629.8,
-          "end": 640.0
-        },
-        {
-          "start": 668.8,
-          "end": 678.68
+          "start": 534.64,
+          "end": 571.52
         }
       ],
       "padded_ranges": [
         {
-          "start": 621.8,
-          "end": 648.0
-        },
-        {
-          "start": 660.8,
-          "end": 686.68
+          "start": 526.64,
+          "end": 579.52
         }
       ],
       "selected_global_ranges": [
         {
-          "range_index": 1,
-          "target_start": 668.8,
-          "target_end": 678.68,
-          "global_start": 668.78,
-          "global_end": 679.091,
-          "duration_s": 10.311,
-          "first_word": "a",
-          "last_word": "trackable.",
-          "word_count": 38
+          "range_index": 0,
+          "target_start": 534.64,
+          "target_end": 571.52,
+          "global_start": 534.319,
+          "global_end": 571.624,
+          "duration_s": 37.305,
+          "first_word": "employee.",
+          "last_word": "Ron,",
+          "word_count": 160
         }
       ],
       "clip_relative_ranges": [
         {
-          "range_index": 1,
+          "range_index": 0,
           "clip_start": 0.0,
-          "clip_end": 10.311,
-          "duration_s": 10.311,
-          "global_start": 668.78,
-          "global_end": 679.091
+          "clip_end": 37.305,
+          "duration_s": 37.305,
+          "global_start": 534.319,
+          "global_end": 571.624
         }
       ],
-      "total_clip_duration_s": 10.311,
+      "total_clip_duration_s": 37.305,
       "aligned_words": [
         {
-          "word": "a",
-          "global_start": 668.78,
-          "global_end": 668.82,
+          "word": "employee.",
+          "global_start": 534.319,
+          "global_end": 534.74,
           "clip_start": 0.0,
-          "clip_end": 0.04,
-          "score": 0.658,
-          "range_index": 1
+          "clip_end": 0.421,
+          "score": 0.795,
+          "range_index": 0
         },
         {
-          "word": "task",
-          "global_start": 668.86,
-          "global_end": 669.14,
-          "clip_start": 0.08,
-          "clip_end": 0.36,
-          "score": 0.976,
-          "range_index": 1
+          "word": "Now",
+          "global_start": 534.96,
+          "global_end": 535.04,
+          "clip_start": 0.641,
+          "clip_end": 0.721,
+          "score": 0.915,
+          "range_index": 0
+        },
+        {
+          "word": "notice",
+          "global_start": 535.08,
+          "global_end": 535.22,
+          "clip_start": 0.761,
+          "clip_end": 0.901,
+          "score": 0.324,
+          "range_index": 0
+        },
+        {
+          "word": "what",
+          "global_start": 535.24,
+          "global_end": 535.36,
+          "clip_start": 0.921,
+          "clip_end": 1.041,
+          "score": 0.643,
+          "range_index": 0
+        },
+        {
+          "word": "Ron",
+          "global_start": 535.4,
+          "global_end": 535.641,
+          "clip_start": 1.081,
+          "clip_end": 1.322,
+          "score": 0.803,
+          "range_index": 0
+        },
+        {
+          "word": "says",
+          "global_start": 535.661,
+          "global_end": 535.841,
+          "clip_start": 1.342,
+          "clip_end": 1.522,
+          "score": 0.804,
+          "range_index": 0
         },
         {
           "word": "to",
-          "global_start": 669.16,
-          "global_end": 669.28,
-          "clip_start": 0.38,
-          "clip_end": 0.5,
-          "score": 0.714,
-          "range_index": 1
+          "global_start": 535.861,
+          "global_end": 535.961,
+          "clip_start": 1.542,
+          "clip_end": 1.642,
+          "score": 0.952,
+          "range_index": 0
         },
         {
-          "word": "Matt",
-          "global_start": 669.3,
-          "global_end": 669.421,
-          "clip_start": 0.52,
-          "clip_end": 0.641,
-          "score": 0.544,
-          "range_index": 1
+          "word": "us.",
+          "global_start": 536.001,
+          "global_end": 536.081,
+          "clip_start": 1.682,
+          "clip_end": 1.762,
+          "score": 0.78,
+          "range_index": 0
         },
         {
-          "word": "Imoody",
-          "global_start": 669.461,
-          "global_end": 669.801,
-          "clip_start": 0.681,
-          "clip_end": 1.021,
-          "score": 0.845,
-          "range_index": 1
+          "word": "He's",
+          "global_start": 536.101,
+          "global_end": 536.201,
+          "clip_start": 1.782,
+          "clip_end": 1.882,
+          "score": 0.924,
+          "range_index": 0
         },
         {
-          "word": "through",
-          "global_start": 669.881,
-          "global_end": 670.121,
-          "clip_start": 1.101,
-          "clip_end": 1.341,
-          "score": 0.871,
-          "range_index": 1
+          "word": "like,",
+          "global_start": 536.221,
+          "global_end": 536.361,
+          "clip_start": 1.902,
+          "clip_end": 2.042,
+          "score": 0.896,
+          "range_index": 0
         },
         {
-          "word": "hermys.",
-          "global_start": 670.161,
-          "global_end": 670.502,
-          "clip_start": 1.381,
-          "clip_end": 1.722,
-          "score": 0.785,
-          "range_index": 1
+          "word": "hey,",
+          "global_start": 536.401,
+          "global_end": 536.642,
+          "clip_start": 2.082,
+          "clip_end": 2.323,
+          "score": 0.902,
+          "range_index": 0
         },
         {
-          "word": "This",
-          "global_start": 670.882,
-          "global_end": 671.002,
-          "clip_start": 2.102,
-          "clip_end": 2.222,
-          "score": 0.849,
-          "range_index": 1
+          "word": "I'm",
+          "global_start": 536.742,
+          "global_end": 536.842,
+          "clip_start": 2.423,
+          "clip_end": 2.523,
+          "score": 0.983,
+          "range_index": 0
         },
         {
-          "word": "works",
-          "global_start": 671.042,
-          "global_end": 671.223,
-          "clip_start": 2.262,
-          "clip_end": 2.443,
-          "score": 0.838,
-          "range_index": 1
+          "word": "waiting",
+          "global_start": 536.882,
+          "global_end": 537.142,
+          "clip_start": 2.563,
+          "clip_end": 2.823,
+          "score": 0.814,
+          "range_index": 0
         },
         {
-          "word": "because",
-          "global_start": 671.243,
-          "global_end": 671.423,
-          "clip_start": 2.463,
-          "clip_end": 2.643,
-          "score": 0.873,
-          "range_index": 1
+          "word": "on",
+          "global_start": 537.262,
+          "global_end": 537.342,
+          "clip_start": 2.943,
+          "clip_end": 3.023,
+          "score": 0.807,
+          "range_index": 0
         },
         {
-          "word": "they",
-          "global_start": 671.443,
-          "global_end": 671.543,
-          "clip_start": 2.663,
-          "clip_end": 2.763,
-          "score": 0.892,
-          "range_index": 1
+          "word": "board",
+          "global_start": 537.463,
+          "global_end": 537.763,
+          "clip_start": 3.144,
+          "clip_end": 3.444,
+          "score": 0.764,
+          "range_index": 0
         },
         {
-          "word": "all",
-          "global_start": 671.563,
-          "global_end": 671.683,
-          "clip_start": 2.783,
-          "clip_end": 2.903,
-          "score": 0.802,
-          "range_index": 1
-        },
-        {
-          "word": "have",
-          "global_start": 671.703,
-          "global_end": 671.783,
-          "clip_start": 2.923,
-          "clip_end": 3.003,
-          "score": 0.733,
-          "range_index": 1
-        },
-        {
-          "word": "a",
-          "global_start": 671.823,
-          "global_end": 671.843,
-          "clip_start": 3.043,
-          "clip_end": 3.063,
-          "score": 0.988,
-          "range_index": 1
-        },
-        {
-          "word": "paperclip",
-          "global_start": 671.883,
-          "global_end": 672.264,
-          "clip_start": 3.103,
-          "clip_end": 3.484,
-          "score": 0.862,
-          "range_index": 1
-        },
-        {
-          "word": "skill.",
-          "global_start": 672.284,
-          "global_end": 672.524,
+          "word": "approval.",
+          "global_start": 537.823,
+          "global_end": 538.324,
           "clip_start": 3.504,
-          "clip_end": 3.744,
-          "score": 0.919,
-          "range_index": 1
+          "clip_end": 4.005,
+          "score": 0.89,
+          "range_index": 0
         },
         {
-          "word": "Isn't",
-          "global_start": 672.724,
-          "global_end": 672.844,
-          "clip_start": 3.944,
-          "clip_end": 4.064,
-          "score": 0.804,
-          "range_index": 1
+          "word": "Who's",
+          "global_start": 538.564,
+          "global_end": 538.724,
+          "clip_start": 4.245,
+          "clip_end": 4.405,
+          "score": 0.926,
+          "range_index": 0
         },
         {
-          "word": "that",
-          "global_start": 672.864,
-          "global_end": 672.965,
-          "clip_start": 4.084,
-          "clip_end": 4.185,
-          "score": 0.328,
-          "range_index": 1
-        },
-        {
-          "word": "awesome?",
-          "global_start": 673.045,
-          "global_end": 673.285,
-          "clip_start": 4.265,
+          "word": "the",
+          "global_start": 538.744,
+          "global_end": 538.824,
+          "clip_start": 4.425,
           "clip_end": 4.505,
-          "score": 0.771,
-          "range_index": 1
+          "score": 0.86,
+          "range_index": 0
         },
         {
-          "word": "Also",
-          "global_start": 673.605,
-          "global_end": 673.806,
-          "clip_start": 4.825,
-          "clip_end": 5.026,
-          "score": 0.689,
-          "range_index": 1
+          "word": "board?",
+          "global_start": 538.844,
+          "global_end": 539.084,
+          "clip_start": 4.525,
+          "clip_end": 4.765,
+          "score": 0.872,
+          "range_index": 0
         },
         {
-          "word": "look",
-          "global_start": 673.826,
-          "global_end": 673.926,
-          "clip_start": 5.046,
-          "clip_end": 5.146,
-          "score": 0.997,
-          "range_index": 1
+          "word": "That's",
+          "global_start": 539.941,
+          "global_end": 540.181,
+          "clip_start": 5.622,
+          "clip_end": 5.862,
+          "score": 0.767,
+          "range_index": 0
+        },
+        {
+          "word": "you.",
+          "global_start": 540.221,
+          "global_end": 540.441,
+          "clip_start": 5.902,
+          "clip_end": 6.122,
+          "score": 0.92,
+          "range_index": 0
+        },
+        {
+          "word": "Look",
+          "global_start": 540.761,
+          "global_end": 540.921,
+          "clip_start": 6.442,
+          "clip_end": 6.602,
+          "score": 0.924,
+          "range_index": 0
         },
         {
           "word": "at",
-          "global_start": 673.946,
-          "global_end": 673.986,
-          "clip_start": 5.166,
-          "clip_end": 5.206,
-          "score": 0.863,
-          "range_index": 1
+          "global_start": 540.941,
+          "global_end": 541.001,
+          "clip_start": 6.622,
+          "clip_end": 6.682,
+          "score": 0.77,
+          "range_index": 0
         },
         {
-          "word": "this",
-          "global_start": 674.006,
-          "global_end": 674.106,
-          "clip_start": 5.226,
-          "clip_end": 5.326,
-          "score": 0.178,
-          "range_index": 1
+          "word": "us",
+          "global_start": 541.041,
+          "global_end": 541.141,
+          "clip_start": 6.722,
+          "clip_end": 6.822,
+          "score": 0.541,
+          "range_index": 0
         },
         {
-          "word": "organization",
-          "global_start": 674.146,
-          "global_end": 674.626,
-          "clip_start": 5.366,
-          "clip_end": 5.846,
-          "score": 0.827,
-          "range_index": 1
+          "word": "on",
+          "global_start": 541.221,
+          "global_end": 541.281,
+          "clip_start": 6.902,
+          "clip_end": 6.962,
+          "score": 0.976,
+          "range_index": 0
         },
         {
-          "word": "stuff.",
-          "global_start": 674.646,
-          "global_end": 674.827,
-          "clip_start": 5.866,
-          "clip_end": 6.047,
-          "score": 0.71,
-          "range_index": 1
+          "word": "our",
+          "global_start": 541.321,
+          "global_end": 541.401,
+          "clip_start": 7.002,
+          "clip_end": 7.082,
+          "score": 0.852,
+          "range_index": 0
         },
         {
-          "word": "We",
-          "global_start": 674.847,
-          "global_end": 674.927,
-          "clip_start": 6.067,
-          "clip_end": 6.147,
-          "score": 0.415,
-          "range_index": 1
+          "word": "company.",
+          "global_start": 541.462,
+          "global_end": 541.782,
+          "clip_start": 7.143,
+          "clip_end": 7.463,
+          "score": 0.964,
+          "range_index": 0
         },
         {
-          "word": "get",
-          "global_start": 674.947,
-          "global_end": 675.007,
-          "clip_start": 6.167,
-          "clip_end": 6.227,
-          "score": 0.014,
-          "range_index": 1
+          "word": "We're",
+          "global_start": 541.842,
+          "global_end": 541.982,
+          "clip_start": 7.523,
+          "clip_end": 7.663,
+          "score": 0.912,
+          "range_index": 0
         },
         {
-          "word": "an",
-          "global_start": 675.027,
-          "global_end": 675.067,
-          "clip_start": 6.247,
-          "clip_end": 6.287,
-          "score": 0.132,
-          "range_index": 1
+          "word": "the",
+          "global_start": 542.002,
+          "global_end": 542.082,
+          "clip_start": 7.683,
+          "clip_end": 7.763,
+          "score": 0.825,
+          "range_index": 0
         },
         {
-          "word": "org",
-          "global_start": 675.147,
-          "global_end": 675.267,
-          "clip_start": 6.367,
-          "clip_end": 6.487,
-          "score": 0.777,
-          "range_index": 1
-        },
-        {
-          "word": "chart,",
-          "global_start": 675.287,
-          "global_end": 675.487,
-          "clip_start": 6.507,
-          "clip_end": 6.707,
-          "score": 0.689,
-          "range_index": 1
+          "word": "board",
+          "global_start": 542.102,
+          "global_end": 542.302,
+          "clip_start": 7.783,
+          "clip_end": 7.983,
+          "score": 0.779,
+          "range_index": 0
         },
         {
           "word": "of",
-          "global_start": 675.507,
-          "global_end": 675.568,
-          "clip_start": 6.727,
-          "clip_end": 6.788,
-          "score": 0.748,
-          "range_index": 1
+          "global_start": 542.322,
+          "global_end": 542.382,
+          "clip_start": 8.003,
+          "clip_end": 8.063,
+          "score": 0.746,
+          "range_index": 0
         },
         {
-          "word": "course.",
-          "global_start": 675.628,
-          "global_end": 675.848,
-          "clip_start": 6.848,
-          "clip_end": 7.068,
-          "score": 0.847,
-          "range_index": 1
+          "word": "directors.",
+          "global_start": 542.402,
+          "global_end": 542.922,
+          "clip_start": 8.083,
+          "clip_end": 8.603,
+          "score": 0.888,
+          "range_index": 0
         },
         {
-          "word": "Activity.",
-          "global_start": 676.148,
-          "global_end": 676.569,
-          "clip_start": 7.368,
-          "clip_end": 7.789,
-          "score": 0.898,
-          "range_index": 1
+          "word": "Look",
+          "global_start": 543.242,
+          "global_end": 543.362,
+          "clip_start": 8.923,
+          "clip_end": 9.043,
+          "score": 0.876,
+          "range_index": 0
         },
         {
-          "word": "We",
-          "global_start": 676.869,
-          "global_end": 676.949,
-          "clip_start": 8.089,
-          "clip_end": 8.169,
-          "score": 0.842,
-          "range_index": 1
+          "word": "how",
+          "global_start": 543.382,
+          "global_end": 543.482,
+          "clip_start": 9.063,
+          "clip_end": 9.163,
+          "score": 0.714,
+          "range_index": 0
         },
         {
-          "word": "have",
-          "global_start": 676.989,
-          "global_end": 677.069,
-          "clip_start": 8.209,
-          "clip_end": 8.289,
-          "score": 0.999,
-          "range_index": 1
+          "word": "far",
+          "global_start": 543.502,
+          "global_end": 543.662,
+          "clip_start": 9.183,
+          "clip_end": 9.343,
+          "score": 0.705,
+          "range_index": 0
         },
         {
-          "word": "timelines.",
-          "global_start": 677.129,
-          "global_end": 677.71,
-          "clip_start": 8.349,
-          "clip_end": 8.93,
+          "word": "we've",
+          "global_start": 543.682,
+          "global_end": 543.822,
+          "clip_start": 9.363,
+          "clip_end": 9.503,
+          "score": 0.856,
+          "range_index": 0
+        },
+        {
+          "word": "come.",
+          "global_start": 543.862,
+          "global_end": 544.222,
+          "clip_start": 9.543,
+          "clip_end": 9.903,
           "score": 0.954,
-          "range_index": 1
+          "range_index": 0
         },
         {
-          "word": "Everything's",
-          "global_start": 678.251,
-          "global_end": 678.611,
-          "clip_start": 9.471,
-          "clip_end": 9.831,
+          "word": "That's",
+          "global_start": 544.242,
+          "global_end": 544.402,
+          "clip_start": 9.923,
+          "clip_end": 10.083,
+          "score": 0.792,
+          "range_index": 0
+        },
+        {
+          "word": "where",
+          "global_start": 544.422,
+          "global_end": 544.583,
+          "clip_start": 10.103,
+          "clip_end": 10.264,
+          "score": 0.729,
+          "range_index": 0
+        },
+        {
+          "word": "we",
+          "global_start": 544.663,
+          "global_end": 544.843,
+          "clip_start": 10.344,
+          "clip_end": 10.524,
+          "score": 0.848,
+          "range_index": 0
+        },
+        {
+          "word": "sit",
+          "global_start": 544.923,
+          "global_end": 545.143,
+          "clip_start": 10.604,
+          "clip_end": 10.824,
+          "score": 0.865,
+          "range_index": 0
+        },
+        {
+          "word": "in",
+          "global_start": 545.263,
+          "global_end": 545.343,
+          "clip_start": 10.944,
+          "clip_end": 11.024,
+          "score": 0.934,
+          "range_index": 0
+        },
+        {
+          "word": "this",
+          "global_start": 545.383,
+          "global_end": 545.543,
+          "clip_start": 11.064,
+          "clip_end": 11.224,
+          "score": 0.824,
+          "range_index": 0
+        },
+        {
+          "word": "paperclip",
+          "global_start": 545.983,
+          "global_end": 546.543,
+          "clip_start": 11.664,
+          "clip_end": 12.224,
+          "score": 0.913,
+          "range_index": 0
+        },
+        {
+          "word": "organizational",
+          "global_start": 546.723,
+          "global_end": 547.303,
+          "clip_start": 12.404,
+          "clip_end": 12.984,
+          "score": 0.808,
+          "range_index": 0
+        },
+        {
+          "word": "hierarchy.",
+          "global_start": 547.343,
+          "global_end": 547.744,
+          "clip_start": 13.024,
+          "clip_end": 13.425,
+          "score": 0.767,
+          "range_index": 0
+        },
+        {
+          "word": "Our",
+          "global_start": 547.884,
+          "global_end": 547.984,
+          "clip_start": 13.565,
+          "clip_end": 13.665,
+          "score": 0.682,
+          "range_index": 0
+        },
+        {
+          "word": "agents",
+          "global_start": 548.124,
+          "global_end": 548.344,
+          "clip_start": 13.805,
+          "clip_end": 14.025,
+          "score": 0.928,
+          "range_index": 0
+        },
+        {
+          "word": "are",
+          "global_start": 548.364,
+          "global_end": 548.464,
+          "clip_start": 14.045,
+          "clip_end": 14.145,
+          "score": 0.634,
+          "range_index": 0
+        },
+        {
+          "word": "the",
+          "global_start": 548.484,
+          "global_end": 548.544,
+          "clip_start": 14.165,
+          "clip_end": 14.225,
+          "score": 0.993,
+          "range_index": 0
+        },
+        {
+          "word": "employees.",
+          "global_start": 548.584,
+          "global_end": 549.104,
+          "clip_start": 14.265,
+          "clip_end": 14.785,
+          "score": 0.647,
+          "range_index": 0
+        },
+        {
+          "word": "We're",
+          "global_start": 549.844,
+          "global_end": 550.004,
+          "clip_start": 15.525,
+          "clip_end": 15.685,
+          "score": 0.75,
+          "range_index": 0
+        },
+        {
+          "word": "up",
+          "global_start": 550.044,
+          "global_end": 550.124,
+          "clip_start": 15.725,
+          "clip_end": 15.805,
+          "score": 0.7,
+          "range_index": 0
+        },
+        {
+          "word": "here.",
+          "global_start": 550.164,
+          "global_end": 550.404,
+          "clip_start": 15.845,
+          "clip_end": 16.085,
+          "score": 0.878,
+          "range_index": 0
+        },
+        {
+          "word": "We're",
+          "global_start": 550.785,
+          "global_end": 550.905,
+          "clip_start": 16.466,
+          "clip_end": 16.586,
+          "score": 0.752,
+          "range_index": 0
+        },
+        {
+          "word": "calling",
+          "global_start": 550.925,
+          "global_end": 551.125,
+          "clip_start": 16.606,
+          "clip_end": 16.806,
+          "score": 0.523,
+          "range_index": 0
+        },
+        {
+          "word": "the",
+          "global_start": 551.145,
+          "global_end": 551.205,
+          "clip_start": 16.826,
+          "clip_end": 16.886,
+          "score": 0.638,
+          "range_index": 0
+        },
+        {
+          "word": "shots.",
+          "global_start": 551.225,
+          "global_end": 551.545,
+          "clip_start": 16.906,
+          "clip_end": 17.226,
+          "score": 0.858,
+          "range_index": 0
+        },
+        {
+          "word": "Now",
+          "global_start": 551.885,
+          "global_end": 551.965,
+          "clip_start": 17.566,
+          "clip_end": 17.646,
+          "score": 0.863,
+          "range_index": 0
+        },
+        {
+          "word": "here",
+          "global_start": 551.985,
+          "global_end": 552.065,
+          "clip_start": 17.666,
+          "clip_end": 17.746,
+          "score": 0.494,
+          "range_index": 0
+        },
+        {
+          "word": "what",
+          "global_start": 552.085,
+          "global_end": 552.165,
+          "clip_start": 17.766,
+          "clip_end": 17.846,
+          "score": 0.001,
+          "range_index": 0
+        },
+        {
+          "word": "you're",
+          "global_start": 552.185,
+          "global_end": 552.305,
+          "clip_start": 17.866,
+          "clip_end": 17.986,
+          "score": 0.461,
+          "range_index": 0
+        },
+        {
+          "word": "about",
+          "global_start": 552.325,
+          "global_end": 552.425,
+          "clip_start": 18.006,
+          "clip_end": 18.106,
+          "score": 0.005,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 552.445,
+          "global_end": 552.485,
+          "clip_start": 18.126,
+          "clip_end": 18.166,
+          "score": 0.445,
+          "range_index": 0
+        },
+        {
+          "word": "see",
+          "global_start": 552.505,
+          "global_end": 552.645,
+          "clip_start": 18.186,
+          "clip_end": 18.326,
+          "score": 0.875,
+          "range_index": 0
+        },
+        {
+          "word": "is",
+          "global_start": 552.685,
+          "global_end": 552.725,
+          "clip_start": 18.366,
+          "clip_end": 18.406,
+          "score": 0.996,
+          "range_index": 0
+        },
+        {
+          "word": "one",
+          "global_start": 552.765,
+          "global_end": 552.825,
+          "clip_start": 18.446,
+          "clip_end": 18.506,
+          "score": 0.998,
+          "range_index": 0
+        },
+        {
+          "word": "of",
+          "global_start": 552.845,
+          "global_end": 552.885,
+          "clip_start": 18.526,
+          "clip_end": 18.566,
+          "score": 0.982,
+          "range_index": 0
+        },
+        {
+          "word": "the",
+          "global_start": 552.905,
+          "global_end": 552.965,
+          "clip_start": 18.586,
+          "clip_end": 18.646,
+          "score": 0.969,
+          "range_index": 0
+        },
+        {
+          "word": "most",
+          "global_start": 553.005,
+          "global_end": 553.105,
+          "clip_start": 18.686,
+          "clip_end": 18.786,
+          "score": 0.876,
+          "range_index": 0
+        },
+        {
+          "word": "powerful",
+          "global_start": 553.165,
+          "global_end": 553.566,
+          "clip_start": 18.846,
+          "clip_end": 19.247,
+          "score": 0.818,
+          "range_index": 0
+        },
+        {
+          "word": "parts",
+          "global_start": 553.646,
+          "global_end": 553.946,
+          "clip_start": 19.327,
+          "clip_end": 19.627,
+          "score": 0.81,
+          "range_index": 0
+        },
+        {
+          "word": "of",
+          "global_start": 554.026,
+          "global_end": 554.106,
+          "clip_start": 19.707,
+          "clip_end": 19.787,
+          "score": 0.816,
+          "range_index": 0
+        },
+        {
+          "word": "paperclip.",
+          "global_start": 554.146,
+          "global_end": 554.586,
+          "clip_start": 19.827,
+          "clip_end": 20.267,
+          "score": 0.892,
+          "range_index": 0
+        },
+        {
+          "word": "And",
+          "global_start": 554.606,
+          "global_end": 554.666,
+          "clip_start": 20.287,
+          "clip_end": 20.347,
+          "score": 0.986,
+          "range_index": 0
+        },
+        {
+          "word": "it's",
+          "global_start": 554.706,
+          "global_end": 554.786,
+          "clip_start": 20.387,
+          "clip_end": 20.467,
+          "score": 0.976,
+          "range_index": 0
+        },
+        {
+          "word": "how",
+          "global_start": 554.826,
+          "global_end": 554.926,
+          "clip_start": 20.507,
+          "clip_end": 20.607,
+          "score": 0.961,
+          "range_index": 0
+        },
+        {
+          "word": "we",
+          "global_start": 554.986,
+          "global_end": 555.106,
+          "clip_start": 20.667,
+          "clip_end": 20.787,
+          "score": 0.989,
+          "range_index": 0
+        },
+        {
+          "word": "talk",
+          "global_start": 555.566,
+          "global_end": 555.806,
+          "clip_start": 21.247,
+          "clip_end": 21.487,
+          "score": 0.838,
+          "range_index": 0
+        },
+        {
+          "word": "with",
+          "global_start": 555.826,
+          "global_end": 555.926,
+          "clip_start": 21.507,
+          "clip_end": 21.607,
+          "score": 0.873,
+          "range_index": 0
+        },
+        {
+          "word": "our",
+          "global_start": 555.966,
+          "global_end": 556.026,
+          "clip_start": 21.647,
+          "clip_end": 21.707,
+          "score": 0.999,
+          "range_index": 0
+        },
+        {
+          "word": "agents,",
+          "global_start": 556.086,
+          "global_end": 556.306,
+          "clip_start": 21.767,
+          "clip_end": 21.987,
+          "score": 0.92,
+          "range_index": 0
+        },
+        {
+          "word": "how",
+          "global_start": 556.326,
+          "global_end": 556.406,
+          "clip_start": 22.007,
+          "clip_end": 22.087,
+          "score": 0.841,
+          "range_index": 0
+        },
+        {
+          "word": "we",
+          "global_start": 556.426,
+          "global_end": 556.547,
+          "clip_start": 22.107,
+          "clip_end": 22.228,
+          "score": 0.731,
+          "range_index": 0
+        },
+        {
+          "word": "interface",
+          "global_start": 556.587,
+          "global_end": 556.887,
+          "clip_start": 22.268,
+          "clip_end": 22.568,
           "score": 0.859,
-          "range_index": 1
+          "range_index": 0
         },
         {
-          "word": "trackable.",
-          "global_start": 678.651,
-          "global_end": 679.091,
-          "clip_start": 9.871,
-          "clip_end": 10.311,
+          "word": "with",
+          "global_start": 556.907,
+          "global_end": 556.987,
+          "clip_start": 22.588,
+          "clip_end": 22.668,
+          "score": 1.0,
+          "range_index": 0
+        },
+        {
+          "word": "them.",
+          "global_start": 557.027,
+          "global_end": 557.147,
+          "clip_start": 22.708,
+          "clip_end": 22.828,
+          "score": 0.995,
+          "range_index": 0
+        },
+        {
+          "word": "And",
+          "global_start": 557.167,
+          "global_end": 557.227,
+          "clip_start": 22.848,
+          "clip_end": 22.908,
+          "score": 0.989,
+          "range_index": 0
+        },
+        {
+          "word": "that's",
+          "global_start": 557.247,
+          "global_end": 557.387,
+          "clip_start": 22.928,
+          "clip_end": 23.068,
+          "score": 0.907,
+          "range_index": 0
+        },
+        {
+          "word": "through",
+          "global_start": 557.427,
+          "global_end": 557.707,
+          "clip_start": 23.108,
+          "clip_end": 23.388,
+          "score": 0.604,
+          "range_index": 0
+        },
+        {
+          "word": "tasks.",
+          "global_start": 558.067,
+          "global_end": 558.487,
+          "clip_start": 23.748,
+          "clip_end": 24.168,
+          "score": 0.934,
+          "range_index": 0
+        },
+        {
+          "word": "Now",
+          "global_start": 558.787,
+          "global_end": 558.847,
+          "clip_start": 24.468,
+          "clip_end": 24.528,
+          "score": 0.921,
+          "range_index": 0
+        },
+        {
+          "word": "we're",
+          "global_start": 558.867,
+          "global_end": 558.987,
+          "clip_start": 24.548,
+          "clip_end": 24.668,
+          "score": 0.457,
+          "range_index": 0
+        },
+        {
+          "word": "about",
+          "global_start": 559.007,
+          "global_end": 559.147,
+          "clip_start": 24.688,
+          "clip_end": 24.828,
+          "score": 0.858,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 559.167,
+          "global_end": 559.247,
+          "clip_start": 24.848,
+          "clip_end": 24.928,
+          "score": 0.494,
+          "range_index": 0
+        },
+        {
+          "word": "sign",
+          "global_start": 559.267,
+          "global_end": 559.387,
+          "clip_start": 24.948,
+          "clip_end": 25.068,
+          "score": 0.787,
+          "range_index": 0
+        },
+        {
+          "word": "our",
+          "global_start": 559.427,
+          "global_end": 559.507,
+          "clip_start": 25.108,
+          "clip_end": 25.188,
+          "score": 0.588,
+          "range_index": 0
+        },
+        {
+          "word": "toilet",
+          "global_start": 559.528,
+          "global_end": 559.788,
+          "clip_start": 25.209,
+          "clip_end": 25.469,
+          "score": 0.724,
+          "range_index": 0
+        },
+        {
+          "word": "task.",
+          "global_start": 559.808,
+          "global_end": 560.068,
+          "clip_start": 25.489,
+          "clip_end": 25.749,
+          "score": 0.988,
+          "range_index": 0
+        },
+        {
+          "word": "But",
+          "global_start": 560.208,
+          "global_end": 560.308,
+          "clip_start": 25.889,
+          "clip_end": 25.989,
+          "score": 0.815,
+          "range_index": 0
+        },
+        {
+          "word": "first",
+          "global_start": 560.328,
+          "global_end": 560.468,
+          "clip_start": 26.009,
+          "clip_end": 26.149,
+          "score": 0.894,
+          "range_index": 0
+        },
+        {
+          "word": "I",
+          "global_start": 560.508,
+          "global_end": 560.548,
+          "clip_start": 26.189,
+          "clip_end": 26.229,
+          "score": 0.863,
+          "range_index": 0
+        },
+        {
+          "word": "want",
+          "global_start": 560.568,
+          "global_end": 560.648,
+          "clip_start": 26.249,
+          "clip_end": 26.329,
+          "score": 0.74,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 560.668,
+          "global_end": 560.728,
+          "clip_start": 26.349,
+          "clip_end": 26.409,
+          "score": 0.732,
+          "range_index": 0
+        },
+        {
+          "word": "just",
+          "global_start": 560.748,
+          "global_end": 560.868,
+          "clip_start": 26.429,
+          "clip_end": 26.549,
+          "score": 0.898,
+          "range_index": 0
+        },
+        {
+          "word": "test",
+          "global_start": 560.908,
+          "global_end": 561.128,
+          "clip_start": 26.589,
+          "clip_end": 26.809,
+          "score": 0.969,
+          "range_index": 0
+        },
+        {
+          "word": "this",
+          "global_start": 561.148,
+          "global_end": 561.268,
+          "clip_start": 26.829,
+          "clip_end": 26.949,
+          "score": 0.776,
+          "range_index": 0
+        },
+        {
+          "word": "and",
+          "global_start": 561.288,
+          "global_end": 561.348,
+          "clip_start": 26.969,
+          "clip_end": 27.029,
+          "score": 0.356,
+          "range_index": 0
+        },
+        {
+          "word": "make",
+          "global_start": 561.388,
+          "global_end": 561.468,
+          "clip_start": 27.069,
+          "clip_end": 27.149,
+          "score": 0.984,
+          "range_index": 0
+        },
+        {
+          "word": "sure",
+          "global_start": 561.488,
+          "global_end": 561.608,
+          "clip_start": 27.169,
+          "clip_end": 27.289,
+          "score": 0.821,
+          "range_index": 0
+        },
+        {
+          "word": "it",
+          "global_start": 561.628,
+          "global_end": 561.688,
+          "clip_start": 27.309,
+          "clip_end": 27.369,
+          "score": 0.657,
+          "range_index": 0
+        },
+        {
+          "word": "works.",
+          "global_start": 561.728,
+          "global_end": 561.928,
+          "clip_start": 27.409,
+          "clip_end": 27.609,
+          "score": 0.924,
+          "range_index": 0
+        },
+        {
+          "word": "Because",
+          "global_start": 562.048,
+          "global_end": 562.188,
+          "clip_start": 27.729,
+          "clip_end": 27.869,
+          "score": 0.098,
+          "range_index": 0
+        },
+        {
+          "word": "so",
+          "global_start": 562.208,
+          "global_end": 562.288,
+          "clip_start": 27.889,
+          "clip_end": 27.969,
+          "score": 0.833,
+          "range_index": 0
+        },
+        {
+          "word": "far",
+          "global_start": 562.308,
+          "global_end": 562.428,
+          "clip_start": 27.989,
+          "clip_end": 28.109,
+          "score": 0.769,
+          "range_index": 0
+        },
+        {
+          "word": "we",
+          "global_start": 562.468,
+          "global_end": 562.528,
+          "clip_start": 28.149,
+          "clip_end": 28.209,
+          "score": 0.744,
+          "range_index": 0
+        },
+        {
+          "word": "haven't",
+          "global_start": 562.549,
+          "global_end": 562.709,
+          "clip_start": 28.23,
+          "clip_end": 28.39,
+          "score": 0.914,
+          "range_index": 0
+        },
+        {
+          "word": "even",
+          "global_start": 562.729,
+          "global_end": 562.889,
+          "clip_start": 28.41,
+          "clip_end": 28.57,
+          "score": 0.696,
+          "range_index": 0
+        },
+        {
+          "word": "talked",
+          "global_start": 562.929,
+          "global_end": 563.169,
+          "clip_start": 28.61,
+          "clip_end": 28.85,
+          "score": 0.782,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 563.189,
+          "global_end": 563.269,
+          "clip_start": 28.87,
+          "clip_end": 28.95,
+          "score": 0.744,
+          "range_index": 0
+        },
+        {
+          "word": "our",
+          "global_start": 563.309,
+          "global_end": 563.389,
+          "clip_start": 28.99,
+          "clip_end": 29.07,
+          "score": 0.841,
+          "range_index": 0
+        },
+        {
+          "word": "agents.",
+          "global_start": 563.469,
+          "global_end": 563.729,
+          "clip_start": 29.15,
+          "clip_end": 29.41,
+          "score": 0.925,
+          "range_index": 0
+        },
+        {
+          "word": "And",
+          "global_start": 564.229,
+          "global_end": 564.37,
+          "clip_start": 29.91,
+          "clip_end": 30.051,
+          "score": 0.689,
+          "range_index": 0
+        },
+        {
+          "word": "our",
+          "global_start": 564.51,
+          "global_end": 564.61,
+          "clip_start": 30.191,
+          "clip_end": 30.291,
+          "score": 0.743,
+          "range_index": 0
+        },
+        {
+          "word": "agents",
+          "global_start": 564.69,
+          "global_end": 564.931,
+          "clip_start": 30.371,
+          "clip_end": 30.612,
+          "score": 0.861,
+          "range_index": 0
+        },
+        {
+          "word": "haven't",
+          "global_start": 564.951,
+          "global_end": 565.171,
+          "clip_start": 30.632,
+          "clip_end": 30.852,
+          "score": 0.795,
+          "range_index": 0
+        },
+        {
+          "word": "talked",
+          "global_start": 565.211,
+          "global_end": 565.412,
+          "clip_start": 30.892,
+          "clip_end": 31.093,
+          "score": 0.756,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 565.452,
+          "global_end": 565.532,
+          "clip_start": 31.133,
+          "clip_end": 31.213,
           "score": 0.866,
-          "range_index": 1
+          "range_index": 0
+        },
+        {
+          "word": "each",
+          "global_start": 565.572,
+          "global_end": 565.692,
+          "clip_start": 31.253,
+          "clip_end": 31.373,
+          "score": 0.753,
+          "range_index": 0
+        },
+        {
+          "word": "other,",
+          "global_start": 565.752,
+          "global_end": 565.913,
+          "clip_start": 31.433,
+          "clip_end": 31.594,
+          "score": 0.824,
+          "range_index": 0
+        },
+        {
+          "word": "we're",
+          "global_start": 565.933,
+          "global_end": 566.033,
+          "clip_start": 31.614,
+          "clip_end": 31.714,
+          "score": 0.127,
+          "range_index": 0
+        },
+        {
+          "word": "going",
+          "global_start": 566.053,
+          "global_end": 566.153,
+          "clip_start": 31.734,
+          "clip_end": 31.834,
+          "score": 0.002,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 566.173,
+          "global_end": 566.213,
+          "clip_start": 31.854,
+          "clip_end": 31.894,
+          "score": 0.004,
+          "range_index": 0
+        },
+        {
+          "word": "do",
+          "global_start": 566.233,
+          "global_end": 566.273,
+          "clip_start": 31.914,
+          "clip_end": 31.954,
+          "score": 0.0,
+          "range_index": 0
+        },
+        {
+          "word": "both",
+          "global_start": 566.554,
+          "global_end": 566.694,
+          "clip_start": 32.235,
+          "clip_end": 32.375,
+          "score": 0.804,
+          "range_index": 0
+        },
+        {
+          "word": "of",
+          "global_start": 566.734,
+          "global_end": 566.774,
+          "clip_start": 32.415,
+          "clip_end": 32.455,
+          "score": 0.73,
+          "range_index": 0
+        },
+        {
+          "word": "those",
+          "global_start": 566.794,
+          "global_end": 566.955,
+          "clip_start": 32.475,
+          "clip_end": 32.636,
+          "score": 0.899,
+          "range_index": 0
+        },
+        {
+          "word": "right",
+          "global_start": 567.035,
+          "global_end": 567.175,
+          "clip_start": 32.716,
+          "clip_end": 32.856,
+          "score": 0.847,
+          "range_index": 0
+        },
+        {
+          "word": "now.",
+          "global_start": 567.215,
+          "global_end": 567.356,
+          "clip_start": 32.896,
+          "clip_end": 33.037,
+          "score": 0.978,
+          "range_index": 0
+        },
+        {
+          "word": "So",
+          "global_start": 567.556,
+          "global_end": 567.616,
+          "clip_start": 33.237,
+          "clip_end": 33.297,
+          "score": 0.588,
+          "range_index": 0
+        },
+        {
+          "word": "we'll",
+          "global_start": 567.636,
+          "global_end": 567.756,
+          "clip_start": 33.317,
+          "clip_end": 33.437,
+          "score": 0.803,
+          "range_index": 0
+        },
+        {
+          "word": "set",
+          "global_start": 567.776,
+          "global_end": 567.837,
+          "clip_start": 33.457,
+          "clip_end": 33.518,
+          "score": 0.968,
+          "range_index": 0
+        },
+        {
+          "word": "up",
+          "global_start": 567.857,
+          "global_end": 567.917,
+          "clip_start": 33.538,
+          "clip_end": 33.598,
+          "score": 0.748,
+          "range_index": 0
+        },
+        {
+          "word": "a",
+          "global_start": 567.957,
+          "global_end": 567.977,
+          "clip_start": 33.638,
+          "clip_end": 33.658,
+          "score": 0.982,
+          "range_index": 0
+        },
+        {
+          "word": "task",
+          "global_start": 568.017,
+          "global_end": 568.277,
+          "clip_start": 33.698,
+          "clip_end": 33.958,
+          "score": 0.998,
+          "range_index": 0
+        },
+        {
+          "word": "and",
+          "global_start": 568.338,
+          "global_end": 568.398,
+          "clip_start": 34.019,
+          "clip_end": 34.079,
+          "score": 0.973,
+          "range_index": 0
+        },
+        {
+          "word": "assign",
+          "global_start": 568.418,
+          "global_end": 568.638,
+          "clip_start": 34.099,
+          "clip_end": 34.319,
+          "score": 0.884,
+          "range_index": 0
+        },
+        {
+          "word": "it",
+          "global_start": 568.678,
+          "global_end": 568.738,
+          "clip_start": 34.359,
+          "clip_end": 34.419,
+          "score": 0.744,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 568.758,
+          "global_end": 568.879,
+          "clip_start": 34.439,
+          "clip_end": 34.56,
+          "score": 0.643,
+          "range_index": 0
+        },
+        {
+          "word": "Dumbledore.",
+          "global_start": 568.939,
+          "global_end": 569.38,
+          "clip_start": 34.62,
+          "clip_end": 35.061,
+          "score": 0.807,
+          "range_index": 0
+        },
+        {
+          "word": "Just",
+          "global_start": 569.62,
+          "global_end": 569.78,
+          "clip_start": 35.301,
+          "clip_end": 35.461,
+          "score": 0.723,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 569.821,
+          "global_end": 569.901,
+          "clip_start": 35.502,
+          "clip_end": 35.582,
+          "score": 0.758,
+          "range_index": 0
+        },
+        {
+          "word": "say",
+          "global_start": 569.941,
+          "global_end": 570.101,
+          "clip_start": 35.622,
+          "clip_end": 35.782,
+          "score": 0.796,
+          "range_index": 0
+        },
+        {
+          "word": "hey,",
+          "global_start": 570.141,
+          "global_end": 570.322,
+          "clip_start": 35.822,
+          "clip_end": 36.003,
+          "score": 0.982,
+          "range_index": 0
+        },
+        {
+          "word": "why",
+          "global_start": 570.742,
+          "global_end": 570.843,
+          "clip_start": 36.423,
+          "clip_end": 36.524,
+          "score": 0.222,
+          "range_index": 0
+        },
+        {
+          "word": "don't",
+          "global_start": 570.863,
+          "global_end": 570.963,
+          "clip_start": 36.544,
+          "clip_end": 36.644,
+          "score": 0.44,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 570.983,
+          "global_end": 571.083,
+          "clip_start": 36.664,
+          "clip_end": 36.764,
+          "score": 0.716,
+          "range_index": 0
+        },
+        {
+          "word": "talk",
+          "global_start": 571.103,
+          "global_end": 571.263,
+          "clip_start": 36.784,
+          "clip_end": 36.944,
+          "score": 0.914,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 571.283,
+          "global_end": 571.364,
+          "clip_start": 36.964,
+          "clip_end": 37.045,
+          "score": 0.629,
+          "range_index": 0
+        },
+        {
+          "word": "Ron,",
+          "global_start": 571.384,
+          "global_end": 571.624,
+          "clip_start": 37.065,
+          "clip_end": 37.305,
+          "score": 0.852,
+          "range_index": 0
         }
       ]
     }

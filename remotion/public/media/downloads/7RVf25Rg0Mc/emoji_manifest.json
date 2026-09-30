@@ -5,12 +5,12 @@
   "candidates": [
     {
       "candidate_id": 1,
-      "total_clip_duration_s": 16.074,
+      "total_clip_duration_s": 20.434,
       "emoji_selections": [
         {
           "text": "employees",
           "emoji": "\ud83d\udcbc",
-          "reason": "Highlights the professional nature of the agents.",
+          "reason": "Highlights the professional transformation of the agents.",
           "group_id": "cand_1_cap_002",
           "clip_start": 1.741,
           "clip_end": 2.321,
@@ -20,8 +20,8 @@
         },
         {
           "text": "tasks",
-          "emoji": "\ud83d\udcdd",
-          "reason": "Emphasizes the core function of the workflow.",
+          "emoji": "\ud83d\udccb",
+          "reason": "Emphasizes the core functional aspect of the workflow.",
           "group_id": "cand_1_cap_004",
           "clip_start": 4.242,
           "clip_end": 4.662,
@@ -32,7 +32,7 @@
         {
           "text": "intentional",
           "emoji": "\ud83c\udfaf",
-          "reason": "Highlights the purposeful nature of the communication.",
+          "reason": "Highlights the purposeful nature of the agent communication.",
           "group_id": "cand_1_cap_010",
           "clip_start": 9.124,
           "clip_end": 9.725,
@@ -42,8 +42,8 @@
         },
         {
           "text": "focused",
-          "emoji": "\ud83d\udd0d",
-          "reason": "Emphasizes the concentration and clarity of the process.",
+          "emoji": "\ud83e\udde0",
+          "reason": "Emphasizes the productivity and clarity of the process.",
           "group_id": "cand_1_cap_010",
           "clip_start": 10.025,
           "clip_end": 10.505,
@@ -52,15 +52,15 @@
           "matched_text": "focused."
         },
         {
-          "text": "amazing",
-          "emoji": "\u2728",
-          "reason": "Conveys the excitement and positive sentiment of the conclusion.",
-          "group_id": "cand_1_cap_017",
-          "clip_start": 15.673,
-          "clip_end": 16.074,
-          "start_time": 15.352,
-          "end_time": 16.074,
-          "matched_text": "amazing?"
+          "text": "super value",
+          "emoji": "\ud83d\udc8e",
+          "reason": "Highlights the high quality or benefit being discussed.",
+          "group_id": "cand_1_cap_012",
+          "clip_start": 11.568,
+          "clip_end": 11.809,
+          "start_time": 11.267,
+          "end_time": 12.19,
+          "matched_text": "super value"
         }
       ]
     }

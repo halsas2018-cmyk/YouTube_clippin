@@ -5,29 +5,29 @@
     "model": "gemini-3.1-flash-lite"
   },
   "decision_counts": {
-    "KEEP_ORIGINAL": 6,
-    "USE_BROLL": 10,
-    "ORIGINAL_WITH_OVERLAY": 5,
-    "total_decisions": 21
+    "KEEP_ORIGINAL": 8,
+    "USE_BROLL": 8,
+    "ORIGINAL_WITH_OVERLAY": 4,
+    "total_decisions": 20
   },
-  "total_asset_slots": 15,
+  "total_asset_slots": 12,
   "candidates": [
     {
       "candidate_id": 1,
-      "total_clip_duration_s": 16.074,
-      "original_video_duration_s": 8.067,
-      "broll_duration_s": 8.007,
-      "original_video_percentage": 50.19,
+      "total_clip_duration_s": 20.434,
+      "original_video_duration_s": 14.892,
+      "broll_duration_s": 5.542,
+      "original_video_percentage": 72.88,
       "decision_counts": {
-        "KEEP_ORIGINAL": 0,
-        "USE_BROLL": 2,
+        "KEEP_ORIGINAL": 1,
+        "USE_BROLL": 1,
         "ORIGINAL_WITH_OVERLAY": 1
       },
       "total_decisions": 3,
-      "asset_slot_count": 3,
+      "asset_slot_count": 2,
       "visual_decisions": [
         {
-          "decision": "USE_BROLL",
+          "decision": "KEEP_ORIGINAL",
           "supported_phrase": "In Paperclip, your agents become employees. You give them managers, you assign them tasks.",
           "matched_words": [
             "In",
@@ -45,7 +45,7 @@
             "them",
             "tasks."
           ],
-          "purpose": "Visualize the concept of digital agents performing professional roles.",
+          "purpose": "Establish the speaker and the core concept of the platform.",
           "authoritative_timing": {
             "clip_start": 0.0,
             "clip_end": 4.662,
@@ -55,12 +55,10 @@
           "provenance": {
             "global_start": 34.854,
             "global_end": 39.516
-          },
-          "visual_concept": "A clean, modern digital interface showing AI agents being assigned tasks in a dashboard.",
-          "search_query": "AI dashboard interface"
+          }
         },
         {
-          "decision": "ORIGINAL_WITH_OVERLAY",
+          "decision": "USE_BROLL",
           "supported_phrase": "They can talk to each other, but it's not what you think. It's through the task, intentional and focused.",
           "matched_words": [
             "They",
@@ -83,7 +81,7 @@
             "and",
             "focused."
           ],
-          "purpose": "Highlight the collaborative nature of the agents through a graphical representation.",
+          "purpose": "Visualize the concept of structured, task-oriented communication between AI agents.",
           "authoritative_timing": {
             "clip_start": 4.963,
             "clip_end": 10.505,
@@ -94,42 +92,47 @@
             "global_start": 39.817,
             "global_end": 45.359
           },
-          "visual_concept": "Animated lines connecting nodes representing agents, emphasizing structured communication.",
-          "search_query": "network nodes animation"
+          "visual_concept": "A clean, digital interface showing data packets or task nodes connecting between stylized AI agent icons.",
+          "search_query": "AI task network"
         },
         {
-          "decision": "USE_BROLL",
-          "supported_phrase": "And it doesn't matter what harness you have. Everyone can be brought into this company.",
+          "decision": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "I haven't seen a lot of super value out of like agent conference room or an agent town where you just set your agents to sit there and talk to each other.",
           "matched_words": [
-            "And",
-            "it",
-            "doesn't",
-            "matter",
-            "what",
-            "harness",
+            "conference",
+            "room",
+            "or",
+            "an",
+            "agent",
+            "town",
+            "where",
             "you",
-            "have,",
-            "everyone",
-            "can",
-            "be",
-            "brought",
-            "into",
-            "this",
-            "company."
+            "just",
+            "set",
+            "your",
+            "agents",
+            "to",
+            "sit",
+            "there",
+            "and",
+            "talk",
+            "to",
+            "each",
+            "other."
           ],
-          "purpose": "Showcase the inclusivity and versatility of the platform.",
+          "purpose": "Contrast the previous efficient model with a chaotic, unproductive 'agent town' concept.",
           "authoritative_timing": {
-            "clip_start": 11.807,
-            "clip_end": 15.152,
-            "duration_s": 3.345,
+            "clip_start": 14.035,
+            "clip_end": 19.07,
+            "duration_s": 5.035,
             "timing_source": "WhisperX word alignment"
           },
           "provenance": {
-            "global_start": 53.993,
-            "global_end": 57.338
+            "global_start": 48.889,
+            "global_end": 53.924
           },
-          "visual_concept": "A diverse group of people working in a modern, open-plan office space.",
-          "search_query": "diverse office team"
+          "visual_concept": "A chaotic, blurry graphic overlay of many overlapping chat bubbles to represent unproductive noise.",
+          "search_query": "chaotic chat bubbles"
         }
       ],
       "asset_slots": [
@@ -137,53 +140,6 @@
           "slot_id": "asset_slot_cand_1_001",
           "candidate_id": 1,
           "decision_type": "USE_BROLL",
-          "supported_phrase": "In Paperclip, your agents become employees. You give them managers, you assign them tasks.",
-          "matched_words": [
-            "In",
-            "Paperclip,",
-            "your",
-            "agents",
-            "become",
-            "employees.",
-            "You",
-            "give",
-            "them",
-            "managers,",
-            "you",
-            "assign",
-            "them",
-            "tasks."
-          ],
-          "visual_concept": "A clean, modern digital interface showing AI agents being assigned tasks in a dashboard.",
-          "search_query": "AI dashboard interface",
-          "purpose": "Visualize the concept of digital agents performing professional roles.",
-          "authoritative_timing": {
-            "clip_start": 0.0,
-            "clip_end": 4.662,
-            "duration_s": 4.662,
-            "timing_source": "WhisperX word alignment"
-          },
-          "provenance": {
-            "global_start": 34.854,
-            "global_end": 39.516
-          },
-          "acquisition": {
-            "provider": "pexels",
-            "media_type": "video",
-            "source_url": "https://www.pexels.com/video/agile-project-management-on-digital-tablet-38901962/",
-            "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_1_001.mp4",
-            "file_size_bytes": 447431,
-            "attribution": {
-              "author": "Jakub Zerdzicki",
-              "author_url": "https://www.pexels.com/@jakubzerdzicki",
-              "license": "Pexels License (Free to use)"
-            }
-          }
-        },
-        {
-          "slot_id": "asset_slot_cand_1_002",
-          "candidate_id": 1,
-          "decision_type": "ORIGINAL_WITH_OVERLAY",
           "supported_phrase": "They can talk to each other, but it's not what you think. It's through the task, intentional and focused.",
           "matched_words": [
             "They",
@@ -206,9 +162,9 @@
             "and",
             "focused."
           ],
-          "visual_concept": "Animated lines connecting nodes representing agents, emphasizing structured communication.",
-          "search_query": "network nodes animation",
-          "purpose": "Highlight the collaborative nature of the agents through a graphical representation.",
+          "visual_concept": "A clean, digital interface showing data packets or task nodes connecting between stylized AI agent icons.",
+          "search_query": "AI task network",
+          "purpose": "Visualize the concept of structured, task-oriented communication between AI agents.",
           "authoritative_timing": {
             "clip_start": 4.963,
             "clip_end": 10.505,
@@ -222,9 +178,9 @@
           "acquisition": {
             "provider": "pexels",
             "media_type": "video",
-            "source_url": "https://www.pexels.com/video/futuristic-glowing-network-nodes-animation-35002915/",
-            "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_1_002.mp4",
-            "file_size_bytes": 196608,
+            "source_url": "https://www.pexels.com/video/abstract-golden-neural-network-animation-35003022/",
+            "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_1_001.mp4",
+            "file_size_bytes": 447431,
             "attribution": {
               "author": "Nicola Narracci",
               "author_url": "https://www.pexels.com/@nicola-narracci-157460431",
@@ -233,49 +189,54 @@
           }
         },
         {
-          "slot_id": "asset_slot_cand_1_003",
+          "slot_id": "asset_slot_cand_1_002",
           "candidate_id": 1,
-          "decision_type": "USE_BROLL",
-          "supported_phrase": "And it doesn't matter what harness you have. Everyone can be brought into this company.",
+          "decision_type": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "I haven't seen a lot of super value out of like agent conference room or an agent town where you just set your agents to sit there and talk to each other.",
           "matched_words": [
-            "And",
-            "it",
-            "doesn't",
-            "matter",
-            "what",
-            "harness",
+            "conference",
+            "room",
+            "or",
+            "an",
+            "agent",
+            "town",
+            "where",
             "you",
-            "have,",
-            "everyone",
-            "can",
-            "be",
-            "brought",
-            "into",
-            "this",
-            "company."
+            "just",
+            "set",
+            "your",
+            "agents",
+            "to",
+            "sit",
+            "there",
+            "and",
+            "talk",
+            "to",
+            "each",
+            "other."
           ],
-          "visual_concept": "A diverse group of people working in a modern, open-plan office space.",
-          "search_query": "diverse office team",
-          "purpose": "Showcase the inclusivity and versatility of the platform.",
+          "visual_concept": "A chaotic, blurry graphic overlay of many overlapping chat bubbles to represent unproductive noise.",
+          "search_query": "chaotic chat bubbles",
+          "purpose": "Contrast the previous efficient model with a chaotic, unproductive 'agent town' concept.",
           "authoritative_timing": {
-            "clip_start": 11.807,
-            "clip_end": 15.152,
-            "duration_s": 3.345,
+            "clip_start": 14.035,
+            "clip_end": 19.07,
+            "duration_s": 5.035,
             "timing_source": "WhisperX word alignment"
           },
           "provenance": {
-            "global_start": 53.993,
-            "global_end": 57.338
+            "global_start": 48.889,
+            "global_end": 53.924
           },
           "acquisition": {
             "provider": "pexels",
             "media_type": "video",
-            "source_url": "https://www.pexels.com/video/colleagues-having-a-conversation-7983993/",
-            "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_1_003.mp4",
-            "file_size_bytes": 458752,
+            "source_url": "https://www.pexels.com/video/paper-clips-falling-on-a-flat-surface-6187212/",
+            "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_1_002.mp4",
+            "file_size_bytes": 196608,
             "attribution": {
-              "author": "Thirdman",
-              "author_url": "https://www.pexels.com/@thirdman",
+              "author": "KATRIN  BOLOVTSOVA",
+              "author_url": "https://www.pexels.com/@ekaterina-bolovtsova",
               "license": "Pexels License (Free to use)"
             }
           }
@@ -284,34 +245,35 @@
     },
     {
       "candidate_id": 2,
-      "total_clip_duration_s": 15.607,
-      "original_video_duration_s": 15.067,
-      "broll_duration_s": 0.54,
-      "original_video_percentage": 96.54,
+      "total_clip_duration_s": 24.919,
+      "original_video_duration_s": 24.559,
+      "broll_duration_s": 0.36,
+      "original_video_percentage": 98.56,
       "decision_counts": {
-        "KEEP_ORIGINAL": 1,
+        "KEEP_ORIGINAL": 2,
         "USE_BROLL": 2,
         "ORIGINAL_WITH_OVERLAY": 1
       },
-      "total_decisions": 4,
+      "total_decisions": 5,
       "asset_slot_count": 3,
       "visual_decisions": [
         {
           "decision": "KEEP_ORIGINAL",
           "supported_phrase": "We're harness maxing. No matter what new harness comes out or model, paperclip is a meta harness.",
           "matched_words": [
-            "now."
+            "take",
+            "a"
           ],
-          "purpose": "Establish the speaker's authority and enthusiasm.",
+          "purpose": "Establishing the speaker and the core concept of the product.",
           "authoritative_timing": {
-            "clip_start": 0.18,
-            "clip_end": 0.36,
-            "duration_s": 0.18,
+            "clip_start": 19.848,
+            "clip_end": 19.988,
+            "duration_s": 0.14,
             "timing_source": "WhisperX word alignment"
           },
           "provenance": {
-            "global_start": 107.174,
-            "global_end": 107.354
+            "global_start": 126.842,
+            "global_end": 126.982
           }
         },
         {
@@ -321,7 +283,7 @@
             "to",
             "commit,"
           ],
-          "purpose": "Visualize the concept of integration and compatibility.",
+          "purpose": "Demonstrate the versatility and integration capabilities of the software.",
           "authoritative_timing": {
             "clip_start": 6.823,
             "clip_end": 7.143,
@@ -332,48 +294,68 @@
             "global_start": 113.817,
             "global_end": 114.137
           },
-          "visual_concept": "Abstract digital nodes connecting and merging into a central hub.",
-          "search_query": "digital network connection"
+          "visual_concept": "Abstract digital animation showing multiple modular components snapping into a central hub.",
+          "search_query": "tech integration abstract"
         },
         {
           "decision": "ORIGINAL_WITH_OVERLAY",
           "supported_phrase": "Paperclip is our company, and it's a company that can run the greatest and latest models, and the greatest and latest harnesses, and all the features they come out with.",
           "matched_words": [
-            "you're"
+            "take",
+            "a"
           ],
-          "purpose": "Reinforce brand identity with a graphic overlay.",
+          "purpose": "Reinforce brand identity and feature set with on-screen text callouts.",
           "authoritative_timing": {
-            "clip_start": 0.74,
-            "clip_end": 0.901,
-            "duration_s": 0.161,
+            "clip_start": 19.848,
+            "clip_end": 19.988,
+            "duration_s": 0.14,
             "timing_source": "WhisperX word alignment"
           },
           "provenance": {
-            "global_start": 107.734,
-            "global_end": 107.895
+            "global_start": 126.842,
+            "global_end": 126.982
           },
-          "visual_concept": "Animated logo and text callouts highlighting key features.",
-          "search_query": "tech logo animation"
+          "visual_concept": "Animated text callouts appearing next to the speaker highlighting 'Latest Models', 'New Harnesses', and 'All Features'.",
+          "search_query": "minimal motion graphics"
+        },
+        {
+          "decision": "KEEP_ORIGINAL",
+          "supported_phrase": "Just think about that. Doesn't that make you excited to try this? It does.",
+          "matched_words": [
+            "commit,",
+            "do"
+          ],
+          "purpose": "Maintain personal connection and build rapport with the audience.",
+          "authoritative_timing": {
+            "clip_start": 6.883,
+            "clip_end": 7.463,
+            "duration_s": 0.58,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 113.877,
+            "global_end": 114.457
+          }
         },
         {
           "decision": "USE_BROLL",
-          "supported_phrase": "All AI agents. Network and systems engineers, storage, security, a legit company running on Paperclip.",
+          "supported_phrase": "Coffee break.",
           "matched_words": [
-            "Mac"
+            "a"
           ],
-          "purpose": "Showcase the diverse applications of the platform.",
+          "purpose": "Provide a lighthearted, natural transition to end the clip.",
           "authoritative_timing": {
-            "clip_start": 1.241,
-            "clip_end": 1.461,
-            "duration_s": 0.22,
+            "clip_start": 9.924,
+            "clip_end": 9.964,
+            "duration_s": 0.04,
             "timing_source": "WhisperX word alignment"
           },
           "provenance": {
-            "global_start": 108.235,
-            "global_end": 108.455
+            "global_start": 116.918,
+            "global_end": 116.958
           },
-          "visual_concept": "Fast-paced montage of data centers, AI interfaces, and professional engineering environments.",
-          "search_query": "data center technology"
+          "visual_concept": "Cinematic close-up shot of steam rising from a fresh cup of coffee.",
+          "search_query": "steaming coffee cup"
         }
       ],
       "asset_slots": [
@@ -386,9 +368,9 @@
             "to",
             "commit,"
           ],
-          "visual_concept": "Abstract digital nodes connecting and merging into a central hub.",
-          "search_query": "digital network connection",
-          "purpose": "Visualize the concept of integration and compatibility.",
+          "visual_concept": "Abstract digital animation showing multiple modular components snapping into a central hub.",
+          "search_query": "tech integration abstract",
+          "purpose": "Demonstrate the versatility and integration capabilities of the software.",
           "authoritative_timing": {
             "clip_start": 6.823,
             "clip_end": 7.143,
@@ -402,12 +384,12 @@
           "acquisition": {
             "provider": "pexels",
             "media_type": "video",
-            "source_url": "https://www.pexels.com/video/futuristic-glowing-network-nodes-animation-35002915/",
+            "source_url": "https://www.pexels.com/video/tech-project-management-on-tablet-38901947/",
             "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_2_001.mp4",
             "file_size_bytes": 1033627,
             "attribution": {
-              "author": "Nicola Narracci",
-              "author_url": "https://www.pexels.com/@nicola-narracci-157460431",
+              "author": "Jakub Zerdzicki",
+              "author_url": "https://www.pexels.com/@jakubzerdzicki",
               "license": "Pexels License (Free to use)"
             }
           }
@@ -418,30 +400,31 @@
           "decision_type": "ORIGINAL_WITH_OVERLAY",
           "supported_phrase": "Paperclip is our company, and it's a company that can run the greatest and latest models, and the greatest and latest harnesses, and all the features they come out with.",
           "matched_words": [
-            "you're"
+            "take",
+            "a"
           ],
-          "visual_concept": "Animated logo and text callouts highlighting key features.",
-          "search_query": "tech logo animation",
-          "purpose": "Reinforce brand identity with a graphic overlay.",
+          "visual_concept": "Animated text callouts appearing next to the speaker highlighting 'Latest Models', 'New Harnesses', and 'All Features'.",
+          "search_query": "minimal motion graphics",
+          "purpose": "Reinforce brand identity and feature set with on-screen text callouts.",
           "authoritative_timing": {
-            "clip_start": 0.74,
-            "clip_end": 0.901,
-            "duration_s": 0.161,
+            "clip_start": 19.848,
+            "clip_end": 19.988,
+            "duration_s": 0.14,
             "timing_source": "WhisperX word alignment"
           },
           "provenance": {
-            "global_start": 107.734,
-            "global_end": 107.895
+            "global_start": 126.842,
+            "global_end": 126.982
           },
           "acquisition": {
             "provider": "pexels",
             "media_type": "video",
-            "source_url": "https://www.pexels.com/video/a-3d-animation-of-a-glowing-geometric-design-15440318/",
+            "source_url": "https://www.pexels.com/video/menstrual-cycle-gif-7479265/",
             "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_2_002.mp4",
             "file_size_bytes": 2926520,
             "attribution": {
-              "author": "Pachon in Motion",
-              "author_url": "https://www.pexels.com/@pachon-in-motion-426015731",
+              "author": "Nadezhda Moryak",
+              "author_url": "https://www.pexels.com/@nadezhda-moryak",
               "license": "Pexels License (Free to use)"
             }
           }
@@ -450,32 +433,32 @@
           "slot_id": "asset_slot_cand_2_003",
           "candidate_id": 2,
           "decision_type": "USE_BROLL",
-          "supported_phrase": "All AI agents. Network and systems engineers, storage, security, a legit company running on Paperclip.",
+          "supported_phrase": "Coffee break.",
           "matched_words": [
-            "Mac"
+            "a"
           ],
-          "visual_concept": "Fast-paced montage of data centers, AI interfaces, and professional engineering environments.",
-          "search_query": "data center technology",
-          "purpose": "Showcase the diverse applications of the platform.",
+          "visual_concept": "Cinematic close-up shot of steam rising from a fresh cup of coffee.",
+          "search_query": "steaming coffee cup",
+          "purpose": "Provide a lighthearted, natural transition to end the clip.",
           "authoritative_timing": {
-            "clip_start": 1.241,
-            "clip_end": 1.461,
-            "duration_s": 0.22,
+            "clip_start": 9.924,
+            "clip_end": 9.964,
+            "duration_s": 0.04,
             "timing_source": "WhisperX word alignment"
           },
           "provenance": {
-            "global_start": 108.235,
-            "global_end": 108.455
+            "global_start": 116.918,
+            "global_end": 116.958
           },
           "acquisition": {
             "provider": "pexels",
             "media_type": "video",
-            "source_url": "https://www.pexels.com/video/analyzing-business-growth-on-digital-tablet-38992894/",
+            "source_url": "https://www.pexels.com/video/close-up-video-of-a-hot-mug-7577435/",
             "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_2_003.mp4",
             "file_size_bytes": 825313,
             "attribution": {
-              "author": "Jakub Zerdzicki",
-              "author_url": "https://www.pexels.com/@jakubzerdzicki",
+              "author": "Miriam Alonso",
+              "author_url": "https://www.pexels.com/@miriam-alonso",
               "license": "Pexels License (Free to use)"
             }
           }
@@ -484,114 +467,151 @@
     },
     {
       "candidate_id": 3,
-      "total_clip_duration_s": 15.384,
-      "original_video_duration_s": 15.004,
-      "broll_duration_s": 0.38,
-      "original_video_percentage": 97.53,
+      "total_clip_duration_s": 25.151,
+      "original_video_duration_s": 25.011,
+      "broll_duration_s": 0.14,
+      "original_video_percentage": 99.44,
       "decision_counts": {
-        "KEEP_ORIGINAL": 2,
-        "USE_BROLL": 2,
+        "KEEP_ORIGINAL": 3,
+        "USE_BROLL": 3,
         "ORIGINAL_WITH_OVERLAY": 1
       },
-      "total_decisions": 5,
-      "asset_slot_count": 3,
+      "total_decisions": 7,
+      "asset_slot_count": 4,
       "visual_decisions": [
         {
           "decision": "KEEP_ORIGINAL",
-          "supported_phrase": "We know how breaches happen now. It's not a mystery. Attackers don't hack in. They log in.",
+          "supported_phrase": "Here, what you're about to see is one of the most powerful parts of Paperclip, and it's how we talk with our agents, how we interface with them. And that's through tasks.",
           "matched_words": [
-            "actually"
+            "It's"
           ],
-          "purpose": "Establish speaker authority and set the tone for the problem statement.",
+          "purpose": "Establishing the speaker and the context of the software interface.",
           "authoritative_timing": {
-            "clip_start": 0.14,
-            "clip_end": 0.36,
-            "duration_s": 0.22,
+            "clip_start": 0.0,
+            "clip_end": 0.08,
+            "duration_s": 0.08,
             "timing_source": "WhisperX word alignment"
           },
           "provenance": {
-            "global_start": 170.313,
-            "global_end": 170.533
+            "global_start": 304.938,
+            "global_end": 305.018
           }
         },
         {
           "decision": "USE_BROLL",
-          "supported_phrase": "Infostealer malware grabs everything. Passwords, session cookies, MFA tokens.",
+          "supported_phrase": "Now, we're about to assign our toilet task. But first, I want to just test this and make sure it works.",
           "matched_words": [
-            "a"
+            "It's"
           ],
-          "purpose": "Visualize the abstract concept of data theft and malware activity.",
+          "purpose": "Visualizing the software interface and the specific task creation process.",
           "authoritative_timing": {
-            "clip_start": 5.141,
-            "clip_end": 5.161,
-            "duration_s": 0.02,
+            "clip_start": 0.0,
+            "clip_end": 0.08,
+            "duration_s": 0.08,
             "timing_source": "WhisperX word alignment"
           },
           "provenance": {
-            "global_start": 175.314,
-            "global_end": 175.334
+            "global_start": 304.938,
+            "global_end": 305.018
           },
-          "visual_concept": "Digital animation showing data packets and credentials being extracted from a computer screen.",
-          "search_query": "cyber security data theft"
+          "visual_concept": "Screen recording of the Paperclip software interface showing a task creation menu.",
+          "search_query": "software interface dashboard"
         },
         {
           "decision": "ORIGINAL_WITH_OVERLAY",
-          "supported_phrase": "54% of ransomware victims had their info sitting inside stealer logs way before they ever got hacked.",
+          "supported_phrase": "So, we'll set up a task and assign it to Dumbledore. Just to say, \"Hey, why don't you talk to Ron? Test Ron, make sure he works.\"",
           "matched_words": [
-            "for"
+            "It's"
           ],
-          "purpose": "Highlight the statistic to emphasize the urgency of the threat.",
+          "purpose": "Highlighting the specific agent names and task instructions via on-screen text.",
           "authoritative_timing": {
-            "clip_start": 3.18,
-            "clip_end": 3.281,
-            "duration_s": 0.101,
+            "clip_start": 0.0,
+            "clip_end": 0.08,
+            "duration_s": 0.08,
             "timing_source": "WhisperX word alignment"
           },
           "provenance": {
-            "global_start": 173.353,
-            "global_end": 173.454
+            "global_start": 304.938,
+            "global_end": 305.018
           },
-          "visual_concept": "Large, bold animated text overlay showing '54%' with a background graphic of a data breach report.",
-          "search_query": "data breach statistics"
+          "visual_concept": "Lower third or side graphic showing the agent names Dumbledore and Ron.",
+          "search_query": "digital UI overlay"
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "And within moments, watch what happens here. Boom, Dumbledore assigns a task to Ron.",
+          "matched_words": [
+            "on"
+          ],
+          "purpose": "Showing the real-time automation and interaction between agents in the software.",
+          "authoritative_timing": {
+            "clip_start": 0.1,
+            "clip_end": 0.16,
+            "duration_s": 0.06,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 305.038,
+            "global_end": 305.098
+          },
+          "visual_concept": "Close-up screen capture of the task assignment notification popping up.",
+          "search_query": "task automation notification"
         },
         {
           "decision": "KEEP_ORIGINAL",
-          "supported_phrase": "Attackers only need 48 minutes. But with Flare, you realize things happen within seconds.",
+          "supported_phrase": "And that right there is our first moment where we talk to an agent and then an agent talk to another agent. And they're both working here.",
           "matched_words": [
             "a"
           ],
-          "purpose": "Create a direct contrast between the threat speed and the solution speed.",
+          "purpose": "Speaker explaining the significance of the interaction.",
           "authoritative_timing": {
-            "clip_start": 5.141,
-            "clip_end": 5.161,
-            "duration_s": 0.02,
+            "clip_start": 0.2,
+            "clip_end": 0.24,
+            "duration_s": 0.04,
             "timing_source": "WhisperX word alignment"
           },
           "provenance": {
-            "global_start": 175.314,
-            "global_end": 175.334
+            "global_start": 305.138,
+            "global_end": 305.178
           }
         },
         {
           "decision": "USE_BROLL",
-          "supported_phrase": "They have real-time detection, and actually checks against Entra ID whether an account is actually real and active, and it can kill a session before anyone opens a ticket.",
+          "supported_phrase": "Dumbledore is actually waiting and then when Ron finishes his task, Dumbledore is like, \"Hey, we tested, we're good.\"",
           "matched_words": [
-            "I'll",
-            "actually"
+            "on"
           ],
-          "purpose": "Demonstrate the software interface and the automated protection process.",
+          "purpose": "Visualizing the completion status and the feedback loop between agents.",
           "authoritative_timing": {
-            "clip_start": 0.0,
-            "clip_end": 0.36,
-            "duration_s": 0.36,
+            "clip_start": 0.1,
+            "clip_end": 0.16,
+            "duration_s": 0.06,
             "timing_source": "WhisperX word alignment"
           },
           "provenance": {
-            "global_start": 170.173,
-            "global_end": 170.533
+            "global_start": 305.038,
+            "global_end": 305.098
           },
-          "visual_concept": "Screen recording or motion graphic showing a dashboard interface flagging an active session and blocking it.",
-          "search_query": "cyber security dashboard"
+          "visual_concept": "Screen recording showing a status bar changing from 'waiting' to 'complete'.",
+          "search_query": "task completion status"
+        },
+        {
+          "decision": "KEEP_ORIGINAL",
+          "supported_phrase": "Isn't that sick? Now, some movie magic's about to happen.",
+          "matched_words": [
+            "a"
+          ],
+          "purpose": "Closing the segment with speaker enthusiasm.",
+          "authoritative_timing": {
+            "clip_start": 0.2,
+            "clip_end": 0.24,
+            "duration_s": 0.04,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 305.138,
+            "global_end": 305.178
+          }
         }
       ],
       "asset_slots": [
@@ -599,32 +619,32 @@
           "slot_id": "asset_slot_cand_3_001",
           "candidate_id": 3,
           "decision_type": "USE_BROLL",
-          "supported_phrase": "Infostealer malware grabs everything. Passwords, session cookies, MFA tokens.",
+          "supported_phrase": "Now, we're about to assign our toilet task. But first, I want to just test this and make sure it works.",
           "matched_words": [
-            "a"
+            "It's"
           ],
-          "visual_concept": "Digital animation showing data packets and credentials being extracted from a computer screen.",
-          "search_query": "cyber security data theft",
-          "purpose": "Visualize the abstract concept of data theft and malware activity.",
+          "visual_concept": "Screen recording of the Paperclip software interface showing a task creation menu.",
+          "search_query": "software interface dashboard",
+          "purpose": "Visualizing the software interface and the specific task creation process.",
           "authoritative_timing": {
-            "clip_start": 5.141,
-            "clip_end": 5.161,
-            "duration_s": 0.02,
+            "clip_start": 0.0,
+            "clip_end": 0.08,
+            "duration_s": 0.08,
             "timing_source": "WhisperX word alignment"
           },
           "provenance": {
-            "global_start": 175.314,
-            "global_end": 175.334
+            "global_start": 304.938,
+            "global_end": 305.018
           },
           "acquisition": {
             "provider": "pexels",
             "media_type": "video",
-            "source_url": "https://www.pexels.com/video/man-working-with-cyber-security-6331006/",
+            "source_url": "https://www.pexels.com/video/agile-project-management-on-digital-tablet-38901962/",
             "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_3_001.mp4",
             "file_size_bytes": 143197,
             "attribution": {
-              "author": "Matias Mango",
-              "author_url": "https://www.pexels.com/@mati",
+              "author": "Jakub Zerdzicki",
+              "author_url": "https://www.pexels.com/@jakubzerdzicki",
               "license": "Pexels License (Free to use)"
             }
           }
@@ -633,27 +653,27 @@
           "slot_id": "asset_slot_cand_3_002",
           "candidate_id": 3,
           "decision_type": "ORIGINAL_WITH_OVERLAY",
-          "supported_phrase": "54% of ransomware victims had their info sitting inside stealer logs way before they ever got hacked.",
+          "supported_phrase": "So, we'll set up a task and assign it to Dumbledore. Just to say, \"Hey, why don't you talk to Ron? Test Ron, make sure he works.\"",
           "matched_words": [
-            "for"
+            "It's"
           ],
-          "visual_concept": "Large, bold animated text overlay showing '54%' with a background graphic of a data breach report.",
-          "search_query": "data breach statistics",
-          "purpose": "Highlight the statistic to emphasize the urgency of the threat.",
+          "visual_concept": "Lower third or side graphic showing the agent names Dumbledore and Ron.",
+          "search_query": "digital UI overlay",
+          "purpose": "Highlighting the specific agent names and task instructions via on-screen text.",
           "authoritative_timing": {
-            "clip_start": 3.18,
-            "clip_end": 3.281,
-            "duration_s": 0.101,
+            "clip_start": 0.0,
+            "clip_end": 0.08,
+            "duration_s": 0.08,
             "timing_source": "WhisperX word alignment"
           },
           "provenance": {
-            "global_start": 173.353,
-            "global_end": 173.454
+            "global_start": 304.938,
+            "global_end": 305.018
           },
           "acquisition": {
             "provider": "pexels",
             "media_type": "video",
-            "source_url": "https://www.pexels.com/video/interactive-tablet-data-visualization-in-use-36950917/",
+            "source_url": "https://www.pexels.com/video/interactive-project-management-on-tablet-38899338/",
             "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_3_002.mp4",
             "file_size_bytes": 876919,
             "attribution": {
@@ -667,33 +687,66 @@
           "slot_id": "asset_slot_cand_3_003",
           "candidate_id": 3,
           "decision_type": "USE_BROLL",
-          "supported_phrase": "They have real-time detection, and actually checks against Entra ID whether an account is actually real and active, and it can kill a session before anyone opens a ticket.",
+          "supported_phrase": "And within moments, watch what happens here. Boom, Dumbledore assigns a task to Ron.",
           "matched_words": [
-            "I'll",
-            "actually"
+            "on"
           ],
-          "visual_concept": "Screen recording or motion graphic showing a dashboard interface flagging an active session and blocking it.",
-          "search_query": "cyber security dashboard",
-          "purpose": "Demonstrate the software interface and the automated protection process.",
+          "visual_concept": "Close-up screen capture of the task assignment notification popping up.",
+          "search_query": "task automation notification",
+          "purpose": "Showing the real-time automation and interaction between agents in the software.",
           "authoritative_timing": {
-            "clip_start": 0.0,
-            "clip_end": 0.36,
-            "duration_s": 0.36,
+            "clip_start": 0.1,
+            "clip_end": 0.16,
+            "duration_s": 0.06,
             "timing_source": "WhisperX word alignment"
           },
           "provenance": {
-            "global_start": 170.173,
-            "global_end": 170.533
+            "global_start": 305.038,
+            "global_end": 305.098
           },
           "acquisition": {
             "provider": "pexels",
             "media_type": "video",
-            "source_url": "https://www.pexels.com/video/codes-on-computer-screen-5377697/",
+            "source_url": "https://www.pexels.com/video/a-person-using-a-smart-watch-on-a-table-17808237/",
             "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_3_003.mp4",
             "file_size_bytes": 1327814,
             "attribution": {
-              "author": "Tima Miroshnichenko",
-              "author_url": "https://www.pexels.com/@tima-miroshnichenko",
+              "author": "iam hogir",
+              "author_url": "https://www.pexels.com/@iamhogir",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_3_004",
+          "candidate_id": 3,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "Dumbledore is actually waiting and then when Ron finishes his task, Dumbledore is like, \"Hey, we tested, we're good.\"",
+          "matched_words": [
+            "on"
+          ],
+          "visual_concept": "Screen recording showing a status bar changing from 'waiting' to 'complete'.",
+          "search_query": "task completion status",
+          "purpose": "Visualizing the completion status and the feedback loop between agents.",
+          "authoritative_timing": {
+            "clip_start": 0.1,
+            "clip_end": 0.16,
+            "duration_s": 0.06,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 305.038,
+            "global_end": 305.098
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/interactive-project-management-on-tablet-38899338/",
+            "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_3_004.mp4",
+            "file_size_bytes": 759904,
+            "attribution": {
+              "author": "Jakub Zerdzicki",
+              "author_url": "https://www.pexels.com/@jakubzerdzicki",
               "license": "Pexels License (Free to use)"
             }
           }
@@ -702,75 +755,116 @@
     },
     {
       "candidate_id": 4,
-      "total_clip_duration_s": 17.099,
-      "original_video_duration_s": 16.979,
-      "broll_duration_s": 0.12,
-      "original_video_percentage": 99.3,
+      "total_clip_duration_s": 37.305,
+      "original_video_duration_s": 36.744,
+      "broll_duration_s": 0.561,
+      "original_video_percentage": 98.5,
       "decision_counts": {
-        "KEEP_ORIGINAL": 1,
-        "USE_BROLL": 1,
+        "KEEP_ORIGINAL": 2,
+        "USE_BROLL": 2,
         "ORIGINAL_WITH_OVERLAY": 1
       },
-      "total_decisions": 3,
-      "asset_slot_count": 2,
+      "total_decisions": 5,
+      "asset_slot_count": 3,
       "visual_decisions": [
         {
           "decision": "KEEP_ORIGINAL",
-          "supported_phrase": "Here, what you're about to see is one of the most powerful parts of Paperclip, and it's how we talk with our agents, how we interface with them. And that's through tasks.",
+          "supported_phrase": "Routines are actually pretty sick. Let's create one right now.",
           "matched_words": [
-            "in."
+            "right",
+            "now."
           ],
-          "purpose": "Establishing the speaker and the context of the software platform.",
+          "purpose": "Establish personal connection with the speaker.",
           "authoritative_timing": {
-            "clip_start": 1.041,
-            "clip_end": 1.161,
-            "duration_s": 0.12,
+            "clip_start": 32.716,
+            "clip_end": 33.037,
+            "duration_s": 0.321,
             "timing_source": "WhisperX word alignment"
           },
           "provenance": {
-            "global_start": 306.859,
-            "global_end": 306.979
+            "global_start": 567.035,
+            "global_end": 567.356
           }
         },
         {
           "decision": "USE_BROLL",
-          "supported_phrase": "Now, we're about to assign our toilet task. But first, I want to just test this and make sure it works.",
+          "supported_phrase": "You can think of a routine like a scheduled task, right? It's going to run on a schedule that you set",
           "matched_words": [
-            "in."
+            "Ron",
+            "says"
           ],
-          "purpose": "Visualizing the specific software interface action being described.",
+          "purpose": "Illustrate the concept of automation and scheduling.",
           "authoritative_timing": {
-            "clip_start": 1.041,
-            "clip_end": 1.161,
+            "clip_start": 1.081,
+            "clip_end": 1.522,
+            "duration_s": 0.441,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 535.4,
+            "global_end": 535.841
+          },
+          "visual_concept": "A clean, modern animation of a calendar or clock icon syncing with a digital task list.",
+          "search_query": "digital task schedule"
+        },
+        {
+          "decision": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "Every day, check the storage on the SEF server and check for any health issues.",
+          "matched_words": [
+            "to",
+            "Ron,"
+          ],
+          "purpose": "Show the specific technical parameters being set.",
+          "authoritative_timing": {
+            "clip_start": 36.964,
+            "clip_end": 37.305,
+            "duration_s": 0.341,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 571.283,
+            "global_end": 571.624
+          },
+          "visual_concept": "A UI overlay showing a server health dashboard with storage metrics.",
+          "search_query": "server dashboard ui"
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "It's like every day at 10:00 a.m. Add trigger. Boom. It's active. It's saved.",
+          "matched_words": [
+            "what"
+          ],
+          "purpose": "Show the action of setting a trigger in a software interface.",
+          "authoritative_timing": {
+            "clip_start": 0.921,
+            "clip_end": 1.041,
             "duration_s": 0.12,
             "timing_source": "WhisperX word alignment"
           },
           "provenance": {
-            "global_start": 306.859,
-            "global_end": 306.979
+            "global_start": 535.24,
+            "global_end": 535.36
           },
-          "visual_concept": "Close-up screen recording of a task management dashboard with a 'toilet task' being created.",
-          "search_query": "software dashboard interface"
+          "visual_concept": "Close-up screen recording of a mouse clicking 'Add Trigger' on a software dashboard.",
+          "search_query": "software interface click"
         },
         {
-          "decision": "ORIGINAL_WITH_OVERLAY",
-          "supported_phrase": "Boom, Dumbledore assigns a task to Ron. And that right there is our first moment where we talk to an agent and then an agent talk to another agent. And they're both working here.",
+          "decision": "KEEP_ORIGINAL",
+          "supported_phrase": "If I go to routines, I see it sitting right there. You can also run it at any time. By the way, this is how I run my stand-ups. Run now. Run the routine.",
           "matched_words": [
-            "Attackers"
+            "Now"
           ],
-          "purpose": "Highlighting the specific interaction between agents using a graphic overlay.",
+          "purpose": "Show the speaker demonstrating the final result and manual execution.",
           "authoritative_timing": {
-            "clip_start": 0.0,
-            "clip_end": 0.38,
-            "duration_s": 0.38,
+            "clip_start": 0.641,
+            "clip_end": 0.721,
+            "duration_s": 0.08,
             "timing_source": "WhisperX word alignment"
           },
           "provenance": {
-            "global_start": 305.818,
-            "global_end": 306.198
-          },
-          "visual_concept": "Animated graphic showing a connection line between two agent icons labeled Dumbledore and Ron.",
-          "search_query": "network connection graphic"
+            "global_start": 534.96,
+            "global_end": 535.04
+          }
         }
       ],
       "asset_slots": [
@@ -778,27 +872,28 @@
           "slot_id": "asset_slot_cand_4_001",
           "candidate_id": 4,
           "decision_type": "USE_BROLL",
-          "supported_phrase": "Now, we're about to assign our toilet task. But first, I want to just test this and make sure it works.",
+          "supported_phrase": "You can think of a routine like a scheduled task, right? It's going to run on a schedule that you set",
           "matched_words": [
-            "in."
+            "Ron",
+            "says"
           ],
-          "visual_concept": "Close-up screen recording of a task management dashboard with a 'toilet task' being created.",
-          "search_query": "software dashboard interface",
-          "purpose": "Visualizing the specific software interface action being described.",
+          "visual_concept": "A clean, modern animation of a calendar or clock icon syncing with a digital task list.",
+          "search_query": "digital task schedule",
+          "purpose": "Illustrate the concept of automation and scheduling.",
           "authoritative_timing": {
-            "clip_start": 1.041,
-            "clip_end": 1.161,
-            "duration_s": 0.12,
+            "clip_start": 1.081,
+            "clip_end": 1.522,
+            "duration_s": 0.441,
             "timing_source": "WhisperX word alignment"
           },
           "provenance": {
-            "global_start": 306.859,
-            "global_end": 306.979
+            "global_start": 535.4,
+            "global_end": 535.841
           },
           "acquisition": {
             "provider": "pexels",
             "media_type": "video",
-            "source_url": "https://www.pexels.com/video/agile-project-management-on-digital-tablet-38901962/",
+            "source_url": "https://www.pexels.com/video/efficient-workspace-productivity-checklist-32276633/",
             "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_4_001.mp4",
             "file_size_bytes": 447431,
             "attribution": {
@@ -812,304 +907,67 @@
           "slot_id": "asset_slot_cand_4_002",
           "candidate_id": 4,
           "decision_type": "ORIGINAL_WITH_OVERLAY",
-          "supported_phrase": "Boom, Dumbledore assigns a task to Ron. And that right there is our first moment where we talk to an agent and then an agent talk to another agent. And they're both working here.",
+          "supported_phrase": "Every day, check the storage on the SEF server and check for any health issues.",
           "matched_words": [
-            "Attackers"
+            "to",
+            "Ron,"
           ],
-          "visual_concept": "Animated graphic showing a connection line between two agent icons labeled Dumbledore and Ron.",
-          "search_query": "network connection graphic",
-          "purpose": "Highlighting the specific interaction between agents using a graphic overlay.",
+          "visual_concept": "A UI overlay showing a server health dashboard with storage metrics.",
+          "search_query": "server dashboard ui",
+          "purpose": "Show the specific technical parameters being set.",
           "authoritative_timing": {
-            "clip_start": 0.0,
-            "clip_end": 0.38,
-            "duration_s": 0.38,
+            "clip_start": 36.964,
+            "clip_end": 37.305,
+            "duration_s": 0.341,
             "timing_source": "WhisperX word alignment"
           },
           "provenance": {
-            "global_start": 305.818,
-            "global_end": 306.198
+            "global_start": 571.283,
+            "global_end": 571.624
           },
           "acquisition": {
             "provider": "pexels",
             "media_type": "video",
-            "source_url": "https://www.pexels.com/video/futuristic-glowing-network-nodes-animation-35002915/",
+            "source_url": "https://www.pexels.com/video/interactive-project-management-on-tablet-38899338/",
             "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_4_002.mp4",
             "file_size_bytes": 1033627,
             "attribution": {
-              "author": "Nicola Narracci",
-              "author_url": "https://www.pexels.com/@nicola-narracci-157460431",
+              "author": "Jakub Zerdzicki",
+              "author_url": "https://www.pexels.com/@jakubzerdzicki",
               "license": "Pexels License (Free to use)"
             }
           }
-        }
-      ]
-    },
-    {
-      "candidate_id": 5,
-      "total_clip_duration_s": 10.311,
-      "original_video_duration_s": 10.271,
-      "broll_duration_s": 0.04,
-      "original_video_percentage": 99.61,
-      "decision_counts": {
-        "KEEP_ORIGINAL": 2,
-        "USE_BROLL": 3,
-        "ORIGINAL_WITH_OVERLAY": 1
-      },
-      "total_decisions": 6,
-      "asset_slot_count": 4,
-      "visual_decisions": [
-        {
-          "decision": "KEEP_ORIGINAL",
-          "supported_phrase": "It's not a mystery. Four links on flu powder have been broken for 15 months.",
-          "matched_words": [
-            "a"
-          ],
-          "purpose": "Establish the speaker and the context of the technical problem.",
-          "authoritative_timing": {
-            "clip_start": 0.0,
-            "clip_end": 0.04,
-            "duration_s": 0.04,
-            "timing_source": "WhisperX word alignment"
-          },
-          "provenance": {
-            "global_start": 668.78,
-            "global_end": 668.82
-          }
         },
         {
-          "decision": "USE_BROLL",
-          "supported_phrase": "Flu powder is my MicroTik switch we're talking about.",
-          "matched_words": [
-            "a"
-          ],
-          "purpose": "Show the hardware being discussed to provide visual clarity.",
-          "authoritative_timing": {
-            "clip_start": 0.0,
-            "clip_end": 0.04,
-            "duration_s": 0.04,
-            "timing_source": "WhisperX word alignment"
-          },
-          "provenance": {
-            "global_start": 668.78,
-            "global_end": 668.82
-          },
-          "visual_concept": "Close-up shot of a professional network switch with blinking LED lights in a server rack.",
-          "search_query": "network switch rack"
-        },
-        {
-          "decision": "USE_BROLL",
-          "supported_phrase": "Anything that disturbs the building knocks them over.",
-          "matched_words": [
-            "a"
-          ],
-          "purpose": "Illustrate the sensitivity of the hardware to physical vibrations.",
-          "authoritative_timing": {
-            "clip_start": 0.0,
-            "clip_end": 0.04,
-            "duration_s": 0.04,
-            "timing_source": "WhisperX word alignment"
-          },
-          "provenance": {
-            "global_start": 668.78,
-            "global_end": 668.82
-          },
-          "visual_concept": "Cinematic shot of a busy office environment or a server room being slightly shaken.",
-          "search_query": "server room vibration"
-        },
-        {
-          "decision": "ORIGINAL_WITH_OVERLAY",
-          "supported_phrase": "It comes down to the transceivers. I have these SFPs.",
-          "matched_words": [
-            "a",
-            "paperclip"
-          ],
-          "purpose": "Highlight the specific component causing the failure.",
-          "authoritative_timing": {
-            "clip_start": 3.043,
-            "clip_end": 3.484,
-            "duration_s": 0.441,
-            "timing_source": "WhisperX word alignment"
-          },
-          "provenance": {
-            "global_start": 671.823,
-            "global_end": 672.264
-          },
-          "visual_concept": "A high-quality graphic overlay showing a close-up of an SFP transceiver module.",
-          "search_query": "SFP transceiver module"
-        },
-        {
-          "decision": "USE_BROLL",
-          "supported_phrase": "They are these third-party SFPs I bought off Amazon fairly cheap.",
-          "matched_words": [
-            "a"
-          ],
-          "purpose": "Show generic tech hardware packaging or online shopping interface to emphasize the source.",
-          "authoritative_timing": {
-            "clip_start": 0.0,
-            "clip_end": 0.04,
-            "duration_s": 0.04,
-            "timing_source": "WhisperX word alignment"
-          },
-          "provenance": {
-            "global_start": 668.78,
-            "global_end": 668.82
-          },
-          "visual_concept": "A person browsing an e-commerce site on a laptop screen showing electronic components.",
-          "search_query": "online shopping electronics"
-        },
-        {
-          "decision": "KEEP_ORIGINAL",
-          "supported_phrase": "I bought them in different batches over time as I've added more employees. And apparently the ports are all in one of the batches.",
-          "matched_words": [
-            "a"
-          ],
-          "purpose": "Return to the speaker to conclude the explanation of the root cause.",
-          "authoritative_timing": {
-            "clip_start": 0.0,
-            "clip_end": 0.04,
-            "duration_s": 0.04,
-            "timing_source": "WhisperX word alignment"
-          },
-          "provenance": {
-            "global_start": 668.78,
-            "global_end": 668.82
-          }
-        }
-      ],
-      "asset_slots": [
-        {
-          "slot_id": "asset_slot_cand_5_001",
-          "candidate_id": 5,
+          "slot_id": "asset_slot_cand_4_003",
+          "candidate_id": 4,
           "decision_type": "USE_BROLL",
-          "supported_phrase": "Flu powder is my MicroTik switch we're talking about.",
+          "supported_phrase": "It's like every day at 10:00 a.m. Add trigger. Boom. It's active. It's saved.",
           "matched_words": [
-            "a"
+            "what"
           ],
-          "visual_concept": "Close-up shot of a professional network switch with blinking LED lights in a server rack.",
-          "search_query": "network switch rack",
-          "purpose": "Show the hardware being discussed to provide visual clarity.",
+          "visual_concept": "Close-up screen recording of a mouse clicking 'Add Trigger' on a software dashboard.",
+          "search_query": "software interface click",
+          "purpose": "Show the action of setting a trigger in a software interface.",
           "authoritative_timing": {
-            "clip_start": 0.0,
-            "clip_end": 0.04,
-            "duration_s": 0.04,
+            "clip_start": 0.921,
+            "clip_end": 1.041,
+            "duration_s": 0.12,
             "timing_source": "WhisperX word alignment"
           },
           "provenance": {
-            "global_start": 668.78,
-            "global_end": 668.82
+            "global_start": 535.24,
+            "global_end": 535.36
           },
           "acquisition": {
             "provider": "pexels",
             "media_type": "video",
-            "source_url": "https://www.pexels.com/video/professional-video-production-setup-in-studio-34149136/",
-            "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_5_001.mp4",
-            "file_size_bytes": 927289,
+            "source_url": "https://www.pexels.com/video/blurred-code-on-computer-monitor-display-33315117/",
+            "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_4_003.mp4",
+            "file_size_bytes": 369506,
             "attribution": {
-              "author": "Primecast",
-              "author_url": "https://www.pexels.com/@primecast-2156325016",
-              "license": "Pexels License (Free to use)"
-            }
-          }
-        },
-        {
-          "slot_id": "asset_slot_cand_5_002",
-          "candidate_id": 5,
-          "decision_type": "USE_BROLL",
-          "supported_phrase": "Anything that disturbs the building knocks them over.",
-          "matched_words": [
-            "a"
-          ],
-          "visual_concept": "Cinematic shot of a busy office environment or a server room being slightly shaken.",
-          "search_query": "server room vibration",
-          "purpose": "Illustrate the sensitivity of the hardware to physical vibrations.",
-          "authoritative_timing": {
-            "clip_start": 0.0,
-            "clip_end": 0.04,
-            "duration_s": 0.04,
-            "timing_source": "WhisperX word alignment"
-          },
-          "provenance": {
-            "global_start": 668.78,
-            "global_end": 668.82
-          },
-          "acquisition": {
-            "provider": "pexels",
-            "media_type": "video",
-            "source_url": "https://www.pexels.com/video/close-up-of-vibrant-yellow-speaker-cone-39626072/",
-            "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_5_002.mp4",
-            "file_size_bytes": 1053699,
-            "attribution": {
-              "author": "David Underland",
-              "author_url": "https://www.pexels.com/@david-underland",
-              "license": "Pexels License (Free to use)"
-            }
-          }
-        },
-        {
-          "slot_id": "asset_slot_cand_5_003",
-          "candidate_id": 5,
-          "decision_type": "ORIGINAL_WITH_OVERLAY",
-          "supported_phrase": "It comes down to the transceivers. I have these SFPs.",
-          "matched_words": [
-            "a",
-            "paperclip"
-          ],
-          "visual_concept": "A high-quality graphic overlay showing a close-up of an SFP transceiver module.",
-          "search_query": "SFP transceiver module",
-          "purpose": "Highlight the specific component causing the failure.",
-          "authoritative_timing": {
-            "clip_start": 3.043,
-            "clip_end": 3.484,
-            "duration_s": 0.441,
-            "timing_source": "WhisperX word alignment"
-          },
-          "provenance": {
-            "global_start": 671.823,
-            "global_end": 672.264
-          },
-          "acquisition": {
-            "provider": "pexels",
-            "media_type": "video",
-            "source_url": "https://www.pexels.com/video/vu-meter-knobs-and-buttons-on-audio-equipment-12330934/",
-            "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_5_003.mp4",
-            "file_size_bytes": 711138,
-            "attribution": {
-              "author": "utopia 36",
-              "author_url": "https://www.pexels.com/@utopia36",
-              "license": "Pexels License (Free to use)"
-            }
-          }
-        },
-        {
-          "slot_id": "asset_slot_cand_5_004",
-          "candidate_id": 5,
-          "decision_type": "USE_BROLL",
-          "supported_phrase": "They are these third-party SFPs I bought off Amazon fairly cheap.",
-          "matched_words": [
-            "a"
-          ],
-          "visual_concept": "A person browsing an e-commerce site on a laptop screen showing electronic components.",
-          "search_query": "online shopping electronics",
-          "purpose": "Show generic tech hardware packaging or online shopping interface to emphasize the source.",
-          "authoritative_timing": {
-            "clip_start": 0.0,
-            "clip_end": 0.04,
-            "duration_s": 0.04,
-            "timing_source": "WhisperX word alignment"
-          },
-          "provenance": {
-            "global_start": 668.78,
-            "global_end": 668.82
-          },
-          "acquisition": {
-            "provider": "pexels",
-            "media_type": "video",
-            "source_url": "https://www.pexels.com/video/online-shopping-on-a-laptop-5585988/",
-            "local_path": "media/downloads/7RVf25Rg0Mc/media/broll/asset_slot_cand_5_004.mp4",
-            "file_size_bytes": 443931,
-            "attribution": {
-              "author": "Polina Tankilevitch",
-              "author_url": "https://www.pexels.com/@polina-tankilevitch",
+              "author": "Jakub Zerdzicki",
+              "author_url": "https://www.pexels.com/@jakubzerdzicki",
               "license": "Pexels License (Free to use)"
             }
           }
@@ -1118,9 +976,9 @@
     }
   ],
   "acquisition_summary": {
-    "acquired_asset_count": 15,
+    "acquired_asset_count": 12,
     "provider_counts": {
-      "pexels": 15,
+      "pexels": 12,
       "pixabay": 0,
       "failed": 0
     }

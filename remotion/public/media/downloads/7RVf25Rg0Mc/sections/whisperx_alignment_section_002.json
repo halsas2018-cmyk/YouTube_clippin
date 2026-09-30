@@ -5,31 +5,27 @@
   "file_name": "section_002.mp4",
   "file_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/sections/section_002.mp4",
   "start_offset": 99.08,
-  "end_offset": 134.0,
-  "target_duration_s": 34.92,
-  "probed_duration_s": 34.922,
+  "end_offset": 139.8,
+  "target_duration_s": 40.72,
+  "probed_duration_s": 40.727,
   "original_candidate_ranges": [
     {
       "start": 107.08,
-      "end": 117.8
-    },
-    {
-      "start": 121.44,
-      "end": 126.0
+      "end": 131.8
     }
   ],
   "padded_range": {
     "start": 99.08,
-    "end": 134.0
+    "end": 139.8
   },
-  "combined_text": "We're harness maxing. No matter what new harness comes out or model, paperclip is a meta harness. We can bring any other harness or model to it. Paperclip can use it. Paperclip is our company, and it's a company that can run the greatest and latest models, and the greatest and latest harnesses, and all the features they come out with. [...] All AI agents. Network and systems engineers, storage, security, a legit company running on Paperclip.",
-  "reason": "This highlights the 'meta-harness' concept, which is the most compelling technical selling point for AI enthusiasts.",
+  "combined_text": "We're harness maxing. No matter what new harness comes out or model, paperclip is a meta harness. We can bring any other harness or model to it. Paperclip can use it. Paperclip is our company, and it's a company that can run the greatest and latest models, and the greatest and latest harnesses, and all the features they come out with. Just think about that. Doesn't that make you excited to try this? It does. Coffee break.",
+  "reason": "This segment effectively summarizes the 'meta harness' concept, positioning the tool as a future-proof solution for AI agent management.",
   "alignment": {
     "whisper_model": "base",
     "language": "en",
     "device": "cpu",
     "compute_type": "float32",
-    "total_words": 152,
+    "total_words": 169,
     "timestamp_note": "local_start/local_end are relative to the section MP4 file (0-based seconds). global_start/global_end are authoritative original-video timestamps = local_timestamp + start_offset."
   },
   "words": [
@@ -1446,112 +1442,282 @@
     {
       "word": "Now",
       "local_start": 32.029,
-      "local_end": 32.09,
+      "local_end": 32.109,
       "global_start": 131.109,
-      "global_end": 131.17,
-      "score": 0.001,
+      "global_end": 131.189,
+      "score": 0.088,
       "segment_index": 15,
       "segment_text": "Now here's my absolute favorite part about this."
     },
     {
       "word": "here's",
       "local_start": 32.13,
-      "local_end": 32.272,
+      "local_end": 32.27,
       "global_start": 131.21,
-      "global_end": 131.352,
-      "score": 0.893,
+      "global_end": 131.35,
+      "score": 0.863,
       "segment_index": 15,
       "segment_text": "Now here's my absolute favorite part about this."
     },
     {
       "word": "my",
-      "local_start": 32.292,
-      "local_end": 32.394,
-      "global_start": 131.372,
-      "global_end": 131.474,
-      "score": 0.922,
+      "local_start": 32.29,
+      "local_end": 32.391,
+      "global_start": 131.37,
+      "global_end": 131.471,
+      "score": 0.978,
       "segment_index": 15,
       "segment_text": "Now here's my absolute favorite part about this."
     },
     {
       "word": "absolute",
-      "local_start": 32.515,
-      "local_end": 32.839,
-      "global_start": 131.595,
-      "global_end": 131.919,
-      "score": 0.785,
+      "local_start": 32.511,
+      "local_end": 32.833,
+      "global_start": 131.591,
+      "global_end": 131.913,
+      "score": 0.76,
       "segment_index": 15,
       "segment_text": "Now here's my absolute favorite part about this."
     },
     {
       "word": "favorite",
-      "local_start": 32.94,
-      "local_end": 33.264,
-      "global_start": 132.02,
-      "global_end": 132.344,
-      "score": 0.948,
+      "local_start": 32.933,
+      "local_end": 33.255,
+      "global_start": 132.013,
+      "global_end": 132.335,
+      "score": 0.844,
       "segment_index": 15,
       "segment_text": "Now here's my absolute favorite part about this."
     },
     {
       "word": "part",
-      "local_start": 33.305,
-      "local_end": 33.548,
-      "global_start": 132.385,
-      "global_end": 132.628,
-      "score": 0.838,
+      "local_start": 33.295,
+      "local_end": 33.536,
+      "global_start": 132.375,
+      "global_end": 132.616,
+      "score": 0.877,
       "segment_index": 15,
       "segment_text": "Now here's my absolute favorite part about this."
     },
     {
       "word": "about",
-      "local_start": 33.609,
-      "local_end": 33.831,
-      "global_start": 132.689,
-      "global_end": 132.911,
-      "score": 0.986,
+      "local_start": 33.596,
+      "local_end": 33.817,
+      "global_start": 132.676,
+      "global_end": 132.897,
+      "score": 0.988,
       "segment_index": 15,
       "segment_text": "Now here's my absolute favorite part about this."
     },
     {
       "word": "this.",
-      "local_start": 33.872,
-      "local_end": 34.054,
-      "global_start": 132.952,
-      "global_end": 133.134,
-      "score": 0.931,
+      "local_start": 33.858,
+      "local_end": 34.039,
+      "global_start": 132.938,
+      "global_end": 133.119,
+      "score": 0.921,
       "segment_index": 15,
       "segment_text": "Now here's my absolute favorite part about this."
     },
     {
       "word": "For",
-      "local_start": 34.338,
-      "local_end": 34.439,
-      "global_start": 133.418,
-      "global_end": 133.519,
-      "score": 0.88,
+      "local_start": 34.32,
+      "local_end": 34.42,
+      "global_start": 133.4,
+      "global_end": 133.5,
+      "score": 0.899,
       "segment_index": 16,
-      "segment_text": "For my employees,"
+      "segment_text": "For my employees from IT department, I'm bringing in three Hermes agents."
     },
     {
       "word": "my",
-      "local_start": 34.459,
-      "local_end": 34.54,
-      "global_start": 133.539,
-      "global_end": 133.62,
-      "score": 0.838,
+      "local_start": 34.44,
+      "local_end": 34.501,
+      "global_start": 133.52,
+      "global_end": 133.581,
+      "score": 0.882,
       "segment_index": 16,
-      "segment_text": "For my employees,"
+      "segment_text": "For my employees from IT department, I'm bringing in three Hermes agents."
     },
     {
-      "word": "employees,",
-      "local_start": 34.56,
-      "local_end": 34.925,
-      "global_start": 133.64,
-      "global_end": 134.005,
-      "score": 0.713,
+      "word": "employees",
+      "local_start": 34.541,
+      "local_end": 34.923,
+      "global_start": 133.621,
+      "global_end": 134.003,
+      "score": 0.508,
       "segment_index": 16,
-      "segment_text": "For my employees,"
+      "segment_text": "For my employees from IT department, I'm bringing in three Hermes agents."
+    },
+    {
+      "word": "from",
+      "local_start": 34.943,
+      "local_end": 35.043,
+      "global_start": 134.023,
+      "global_end": 134.123,
+      "score": 0.704,
+      "segment_index": 16,
+      "segment_text": "For my employees from IT department, I'm bringing in three Hermes agents."
+    },
+    {
+      "word": "IT",
+      "local_start": 35.184,
+      "local_end": 35.385,
+      "global_start": 134.264,
+      "global_end": 134.465,
+      "score": 0.712,
+      "segment_index": 16,
+      "segment_text": "For my employees from IT department, I'm bringing in three Hermes agents."
+    },
+    {
+      "word": "department,",
+      "local_start": 35.405,
+      "local_end": 35.726,
+      "global_start": 134.485,
+      "global_end": 134.806,
+      "score": 0.91,
+      "segment_index": 16,
+      "segment_text": "For my employees from IT department, I'm bringing in three Hermes agents."
+    },
+    {
+      "word": "I'm",
+      "local_start": 35.747,
+      "local_end": 35.807,
+      "global_start": 134.827,
+      "global_end": 134.887,
+      "score": 0.2,
+      "segment_index": 16,
+      "segment_text": "For my employees from IT department, I'm bringing in three Hermes agents."
+    },
+    {
+      "word": "bringing",
+      "local_start": 35.827,
+      "local_end": 36.008,
+      "global_start": 134.907,
+      "global_end": 135.088,
+      "score": 0.956,
+      "segment_index": 16,
+      "segment_text": "For my employees from IT department, I'm bringing in three Hermes agents."
+    },
+    {
+      "word": "in",
+      "local_start": 36.068,
+      "local_end": 36.148,
+      "global_start": 135.148,
+      "global_end": 135.228,
+      "score": 0.174,
+      "segment_index": 16,
+      "segment_text": "For my employees from IT department, I'm bringing in three Hermes agents."
+    },
+    {
+      "word": "three",
+      "local_start": 36.329,
+      "local_end": 36.691,
+      "global_start": 135.409,
+      "global_end": 135.771,
+      "score": 0.812,
+      "segment_index": 16,
+      "segment_text": "For my employees from IT department, I'm bringing in three Hermes agents."
+    },
+    {
+      "word": "Hermes",
+      "local_start": 36.992,
+      "local_end": 37.374,
+      "global_start": 136.072,
+      "global_end": 136.454,
+      "score": 0.706,
+      "segment_index": 16,
+      "segment_text": "For my employees from IT department, I'm bringing in three Hermes agents."
+    },
+    {
+      "word": "agents.",
+      "local_start": 37.495,
+      "local_end": 37.776,
+      "global_start": 136.575,
+      "global_end": 136.856,
+      "score": 0.928,
+      "segment_index": 16,
+      "segment_text": "For my employees from IT department, I'm bringing in three Hermes agents."
+    },
+    {
+      "word": "Ron",
+      "local_start": 38.098,
+      "local_end": 38.319,
+      "global_start": 137.178,
+      "global_end": 137.399,
+      "score": 0.723,
+      "segment_index": 17,
+      "segment_text": "Ron the CTO, Fred the network engineer, and"
+    },
+    {
+      "word": "the",
+      "local_start": 38.339,
+      "local_end": 38.399,
+      "global_start": 137.419,
+      "global_end": 137.479,
+      "score": 0.867,
+      "segment_index": 17,
+      "segment_text": "Ron the CTO, Fred the network engineer, and"
+    },
+    {
+      "word": "CTO,",
+      "local_start": 38.439,
+      "local_end": 38.881,
+      "global_start": 137.519,
+      "global_end": 137.961,
+      "score": 0.899,
+      "segment_index": 17,
+      "segment_text": "Ron the CTO, Fred the network engineer, and"
+    },
+    {
+      "word": "Fred",
+      "local_start": 39.223,
+      "local_end": 39.444,
+      "global_start": 138.303,
+      "global_end": 138.524,
+      "score": 0.835,
+      "segment_index": 17,
+      "segment_text": "Ron the CTO, Fred the network engineer, and"
+    },
+    {
+      "word": "the",
+      "local_start": 39.464,
+      "local_end": 39.544,
+      "global_start": 138.544,
+      "global_end": 138.624,
+      "score": 0.831,
+      "segment_index": 17,
+      "segment_text": "Ron the CTO, Fred the network engineer, and"
+    },
+    {
+      "word": "network",
+      "local_start": 39.585,
+      "local_end": 39.826,
+      "global_start": 138.665,
+      "global_end": 138.906,
+      "score": 0.555,
+      "segment_index": 17,
+      "segment_text": "Ron the CTO, Fred the network engineer, and"
+    },
+    {
+      "word": "engineer,",
+      "local_start": 39.846,
+      "local_end": 40.207,
+      "global_start": 138.926,
+      "global_end": 139.287,
+      "score": 0.815,
+      "segment_index": 17,
+      "segment_text": "Ron the CTO, Fred the network engineer, and"
+    },
+    {
+      "word": "and",
+      "local_start": 40.529,
+      "local_end": 40.609,
+      "global_start": 139.609,
+      "global_end": 139.689,
+      "score": 0.736,
+      "segment_index": 17,
+      "segment_text": "Ron the CTO, Fred the network engineer, and"
     }
   ],
   "raw_segments": [
@@ -1562,8 +1728,8 @@
     },
     {
       "start": 32.009,
-      "end": 34.945,
-      "text": "Now here's my absolute favorite part about this. For my employees,"
+      "end": 40.75,
+      "text": "Now here's my absolute favorite part about this. For my employees from IT department, I'm bringing in three Hermes agents. Ron the CTO, Fred the network engineer, and"
     }
   ]
 }

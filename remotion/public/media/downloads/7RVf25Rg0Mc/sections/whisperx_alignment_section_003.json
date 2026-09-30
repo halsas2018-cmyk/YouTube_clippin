@@ -4,1316 +4,1232 @@
   "video_id": "7RVf25Rg0Mc",
   "file_name": "section_003.mp4",
   "file_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/sections/section_003.mp4",
-  "start_offset": 162.16,
-  "end_offset": 195.12,
-  "target_duration_s": 32.96,
-  "probed_duration_s": 32.98,
+  "start_offset": 297.0,
+  "end_offset": 338.0,
+  "target_duration_s": 41.0,
+  "probed_duration_s": 41.013,
   "original_candidate_ranges": [
     {
-      "start": 170.16,
-      "end": 177.92
-    },
-    {
-      "start": 180.12,
-      "end": 187.12
+      "start": 305.0,
+      "end": 330.0
     }
   ],
   "padded_range": {
-    "start": 162.16,
-    "end": 195.12
+    "start": 297.0,
+    "end": 338.0
   },
-  "combined_text": "We know how breaches happen now. It's not a mystery. Attackers don't hack in. They log in. Infostealer malware grabs everything. Passwords, session cookies, MFA tokens. 54% of ransomware victims had their info sitting inside stealer logs way before they ever got hacked. [...] Attackers only need 48 minutes. But with Flare, you realize things happen within seconds. They have real-time detection, and actually checks against Entra ID whether an account is actually real and active, and it can kill a session before anyone opens a ticket.",
-  "reason": "This provides a high-value, punchy security insight that works well as a standalone educational short.",
+  "combined_text": "Here, what you're about to see is one of the most powerful parts of Paperclip, and it's how we talk with our agents, how we interface with them. And that's through tasks. Now, we're about to assign our toilet task. But first, I want to just test this and make sure it works. Cuz so far, we haven't even talked to our agents, and our agents haven't talked to each other. We're going to do both of those right now. So, we'll set up a task and assign it to Dumbledore. Just to say, \"Hey, why don't you talk to Ron? Test Ron, make sure he works.\" So, we'll set up our task and go. And within moments, watch what happens here. Boom, Dumbledore assigns a task to Ron. And that right there is our first moment where we talk to an agent and then an agent talk to another agent. And they're both working here. Dumbledore is actually waiting and then when Ron finishes his task, Dumbledore is like, \"Hey, we tested, we're good.\" Isn't that sick? Now, some movie magic's about to happen.",
+  "reason": "This clip demonstrates the practical, hands-on power of the tool by showing agents delegating tasks to each other, which is the core 'wow' factor of the video.",
   "alignment": {
     "whisper_model": "base",
     "language": "en",
     "device": "cpu",
     "compute_type": "float32",
-    "total_words": 127,
+    "total_words": 119,
     "timestamp_note": "local_start/local_end are relative to the section MP4 file (0-based seconds). global_start/global_end are authoritative original-video timestamps = local_timestamp + start_offset."
   },
   "words": [
     {
-      "word": "The",
-      "local_start": 0.031,
-      "local_end": 0.171,
-      "global_start": 162.191,
-      "global_end": 162.331,
-      "score": 0.333,
+      "word": "Post",
+      "local_start": 0.111,
+      "local_end": 0.311,
+      "global_start": 297.111,
+      "global_end": 297.311,
+      "score": 0.976,
       "segment_index": 0,
-      "segment_text": "The uh, org chart will be like this."
+      "segment_text": "Post it on the dark web, which means you don't need credentials."
     },
     {
-      "word": "uh,",
-      "local_start": 0.271,
-      "local_end": 0.331,
-      "global_start": 162.431,
-      "global_end": 162.491,
-      "score": 0.144,
+      "word": "it",
+      "local_start": 0.371,
+      "local_end": 0.431,
+      "global_start": 297.371,
+      "global_end": 297.431,
+      "score": 0.083,
       "segment_index": 0,
-      "segment_text": "The uh, org chart will be like this."
+      "segment_text": "Post it on the dark web, which means you don't need credentials."
     },
     {
-      "word": "org",
-      "local_start": 0.511,
-      "local_end": 0.771,
-      "global_start": 162.671,
-      "global_end": 162.931,
-      "score": 0.471,
+      "word": "on",
+      "local_start": 0.471,
+      "local_end": 0.511,
+      "global_start": 297.471,
+      "global_end": 297.511,
+      "score": 0.977,
       "segment_index": 0,
-      "segment_text": "The uh, org chart will be like this."
+      "segment_text": "Post it on the dark web, which means you don't need credentials."
     },
     {
-      "word": "chart",
-      "local_start": 0.831,
-      "local_end": 1.051,
-      "global_start": 162.991,
-      "global_end": 163.211,
-      "score": 0.79,
+      "word": "the",
+      "local_start": 0.531,
+      "local_end": 0.591,
+      "global_start": 297.531,
+      "global_end": 297.591,
+      "score": 0.997,
       "segment_index": 0,
-      "segment_text": "The uh, org chart will be like this."
+      "segment_text": "Post it on the dark web, which means you don't need credentials."
     },
     {
-      "word": "will",
-      "local_start": 1.071,
-      "local_end": 1.191,
-      "global_start": 163.231,
-      "global_end": 163.351,
-      "score": 0.936,
+      "word": "dark",
+      "local_start": 0.611,
+      "local_end": 0.792,
+      "global_start": 297.611,
+      "global_end": 297.792,
+      "score": 0.828,
       "segment_index": 0,
-      "segment_text": "The uh, org chart will be like this."
+      "segment_text": "Post it on the dark web, which means you don't need credentials."
     },
     {
-      "word": "be",
-      "local_start": 1.211,
-      "local_end": 1.271,
-      "global_start": 163.371,
-      "global_end": 163.431,
-      "score": 0.774,
+      "word": "web,",
+      "local_start": 0.832,
+      "local_end": 1.012,
+      "global_start": 297.832,
+      "global_end": 298.012,
+      "score": 0.984,
       "segment_index": 0,
-      "segment_text": "The uh, org chart will be like this."
-    },
-    {
-      "word": "like",
-      "local_start": 1.311,
-      "local_end": 1.431,
-      "global_start": 163.471,
-      "global_end": 163.591,
-      "score": 0.834,
-      "segment_index": 0,
-      "segment_text": "The uh, org chart will be like this."
-    },
-    {
-      "word": "this.",
-      "local_start": 1.471,
-      "local_end": 1.691,
-      "global_start": 163.631,
-      "global_end": 163.851,
-      "score": 0.929,
-      "segment_index": 0,
-      "segment_text": "The uh, org chart will be like this."
-    },
-    {
-      "word": "Run",
-      "local_start": 2.031,
-      "local_end": 2.191,
-      "global_start": 164.191,
-      "global_end": 164.351,
-      "score": 0.702,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "to",
-      "local_start": 2.211,
-      "local_end": 2.251,
-      "global_start": 164.371,
-      "global_end": 164.411,
-      "score": 0.402,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "CTO,",
-      "local_start": 2.292,
-      "local_end": 2.772,
-      "global_start": 164.452,
-      "global_end": 164.932,
-      "score": 0.707,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "Fred",
-      "local_start": 2.812,
-      "local_end": 2.992,
-      "global_start": 164.972,
-      "global_end": 165.152,
-      "score": 0.805,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "and",
-      "local_start": 3.012,
-      "local_end": 3.072,
-      "global_start": 165.172,
-      "global_end": 165.232,
-      "score": 0.996,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "George",
-      "local_start": 3.092,
-      "local_end": 3.312,
-      "global_start": 165.252,
-      "global_end": 165.472,
-      "score": 0.823,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "report",
-      "local_start": 3.332,
-      "local_end": 3.612,
-      "global_start": 165.492,
-      "global_end": 165.772,
-      "score": 0.869,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "to",
-      "local_start": 3.632,
-      "local_end": 3.692,
-      "global_start": 165.792,
-      "global_end": 165.852,
-      "score": 0.74,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "him,",
-      "local_start": 3.732,
-      "local_end": 4.012,
-      "global_start": 165.892,
-      "global_end": 166.172,
-      "score": 0.839,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "and",
-      "local_start": 4.292,
-      "local_end": 4.372,
-      "global_start": 166.452,
-      "global_end": 166.532,
-      "score": 0.836,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "then",
-      "local_start": 4.392,
-      "local_end": 4.472,
-      "global_start": 166.552,
-      "global_end": 166.632,
-      "score": 0.804,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "just",
-      "local_start": 4.512,
-      "local_end": 4.652,
-      "global_start": 166.672,
-      "global_end": 166.812,
-      "score": 0.816,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "above",
-      "local_start": 4.712,
-      "local_end": 4.912,
-      "global_start": 166.872,
-      "global_end": 167.072,
-      "score": 0.891,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "run,",
-      "local_start": 4.972,
-      "local_end": 5.252,
-      "global_start": 167.132,
-      "global_end": 167.412,
-      "score": 0.656,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "I'm",
-      "local_start": 5.272,
-      "local_end": 5.332,
-      "global_start": 167.432,
-      "global_end": 167.492,
-      "score": 0.105,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "actually",
-      "local_start": 5.352,
-      "local_end": 5.532,
-      "global_start": 167.512,
-      "global_end": 167.692,
-      "score": 0.26,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "gonna",
-      "local_start": 5.552,
-      "local_end": 5.692,
-      "global_start": 167.712,
-      "global_end": 167.852,
-      "score": 0.275,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "hire",
-      "local_start": 5.752,
-      "local_end": 6.072,
-      "global_start": 167.912,
-      "global_end": 168.232,
-      "score": 0.529,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "a",
-      "local_start": 6.312,
-      "local_end": 6.452,
-      "global_start": 168.472,
-      "global_end": 168.612,
-      "score": 0.862,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "CEO,",
-      "local_start": 6.953,
-      "local_end": 7.553,
-      "global_start": 169.113,
-      "global_end": 169.713,
-      "score": 0.864,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
+      "segment_text": "Post it on the dark web, which means you don't need credentials."
     },
     {
       "word": "which",
-      "local_start": 7.893,
-      "local_end": 7.993,
-      "global_start": 170.053,
-      "global_end": 170.153,
-      "score": 0.308,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "I'll",
-      "local_start": 8.013,
-      "local_end": 8.133,
-      "global_start": 170.173,
-      "global_end": 170.293,
-      "score": 0.384,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "actually",
-      "local_start": 8.153,
-      "local_end": 8.373,
-      "global_start": 170.313,
-      "global_end": 170.533,
-      "score": 0.887,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "have",
-      "local_start": 8.413,
-      "local_end": 8.553,
-      "global_start": 170.573,
-      "global_end": 170.713,
-      "score": 0.619,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "running",
-      "local_start": 8.593,
-      "local_end": 8.813,
-      "global_start": 170.753,
-      "global_end": 170.973,
-      "score": 0.825,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "Claude",
-      "local_start": 8.893,
-      "local_end": 9.153,
-      "global_start": 171.053,
-      "global_end": 171.313,
-      "score": 0.602,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "code,",
-      "local_start": 9.193,
-      "local_end": 9.453,
-      "global_start": 171.353,
-      "global_end": 171.613,
-      "score": 0.688,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "and",
-      "local_start": 9.733,
-      "local_end": 9.833,
-      "global_start": 171.893,
-      "global_end": 171.993,
-      "score": 0.871,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "not",
-      "local_start": 9.933,
-      "local_end": 10.093,
-      "global_start": 172.093,
-      "global_end": 172.253,
-      "score": 0.91,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "Hermes.",
-      "local_start": 10.153,
-      "local_end": 10.533,
-      "global_start": 172.313,
-      "global_end": 172.693,
-      "score": 0.864,
-      "segment_index": 1,
-      "segment_text": "Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes."
-    },
-    {
-      "word": "And",
-      "local_start": 10.973,
-      "local_end": 11.053,
-      "global_start": 173.133,
-      "global_end": 173.213,
-      "score": 0.549,
-      "segment_index": 2,
-      "segment_text": "And just for fun, I'll hire some more employees too."
-    },
-    {
-      "word": "just",
-      "local_start": 11.073,
-      "local_end": 11.173,
-      "global_start": 173.233,
-      "global_end": 173.333,
-      "score": 0.939,
-      "segment_index": 2,
-      "segment_text": "And just for fun, I'll hire some more employees too."
-    },
-    {
-      "word": "for",
-      "local_start": 11.193,
-      "local_end": 11.294,
-      "global_start": 173.353,
-      "global_end": 173.454,
-      "score": 0.946,
-      "segment_index": 2,
-      "segment_text": "And just for fun, I'll hire some more employees too."
-    },
-    {
-      "word": "fun,",
-      "local_start": 11.354,
-      "local_end": 11.534,
-      "global_start": 173.514,
-      "global_end": 173.694,
-      "score": 0.834,
-      "segment_index": 2,
-      "segment_text": "And just for fun, I'll hire some more employees too."
-    },
-    {
-      "word": "I'll",
-      "local_start": 11.554,
-      "local_end": 11.654,
-      "global_start": 173.714,
-      "global_end": 173.814,
-      "score": 0.29,
-      "segment_index": 2,
-      "segment_text": "And just for fun, I'll hire some more employees too."
-    },
-    {
-      "word": "hire",
-      "local_start": 11.674,
-      "local_end": 11.834,
-      "global_start": 173.834,
-      "global_end": 173.994,
-      "score": 0.542,
-      "segment_index": 2,
-      "segment_text": "And just for fun, I'll hire some more employees too."
-    },
-    {
-      "word": "some",
-      "local_start": 11.854,
-      "local_end": 11.934,
-      "global_start": 174.014,
-      "global_end": 174.094,
-      "score": 0.58,
-      "segment_index": 2,
-      "segment_text": "And just for fun, I'll hire some more employees too."
-    },
-    {
-      "word": "more",
-      "local_start": 11.954,
-      "local_end": 12.054,
-      "global_start": 174.114,
-      "global_end": 174.214,
-      "score": 0.831,
-      "segment_index": 2,
-      "segment_text": "And just for fun, I'll hire some more employees too."
-    },
-    {
-      "word": "employees",
-      "local_start": 12.094,
-      "local_end": 12.454,
-      "global_start": 174.254,
-      "global_end": 174.614,
-      "score": 0.804,
-      "segment_index": 2,
-      "segment_text": "And just for fun, I'll hire some more employees too."
-    },
-    {
-      "word": "too.",
-      "local_start": 12.494,
-      "local_end": 12.674,
-      "global_start": 174.654,
-      "global_end": 174.834,
-      "score": 0.762,
-      "segment_index": 2,
-      "segment_text": "And just for fun, I'll hire some more employees too."
-    },
-    {
-      "word": "Probably",
-      "local_start": 12.914,
-      "local_end": 13.134,
-      "global_start": 175.074,
-      "global_end": 175.294,
-      "score": 0.938,
-      "segment_index": 3,
-      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
-    },
-    {
-      "word": "a",
-      "local_start": 13.154,
-      "local_end": 13.174,
-      "global_start": 175.314,
-      "global_end": 175.334,
-      "score": 0.026,
-      "segment_index": 3,
-      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
-    },
-    {
-      "word": "security",
-      "local_start": 13.194,
-      "local_end": 13.594,
-      "global_start": 175.354,
-      "global_end": 175.754,
-      "score": 0.692,
-      "segment_index": 3,
-      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
-    },
-    {
-      "word": "engineer",
-      "local_start": 13.614,
-      "local_end": 13.994,
-      "global_start": 175.774,
-      "global_end": 176.154,
-      "score": 0.852,
-      "segment_index": 3,
-      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
-    },
-    {
-      "word": "running",
-      "local_start": 14.034,
-      "local_end": 14.214,
-      "global_start": 176.194,
-      "global_end": 176.374,
-      "score": 0.938,
-      "segment_index": 3,
-      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
-    },
-    {
-      "word": "codex,",
-      "local_start": 14.254,
-      "local_end": 14.634,
-      "global_start": 176.414,
-      "global_end": 176.794,
-      "score": 0.89,
-      "segment_index": 3,
-      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
-    },
-    {
-      "word": "and",
-      "local_start": 14.954,
-      "local_end": 15.014,
-      "global_start": 177.114,
-      "global_end": 177.174,
-      "score": 0.138,
-      "segment_index": 3,
-      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
-    },
-    {
-      "word": "let's",
-      "local_start": 15.034,
-      "local_end": 15.154,
-      "global_start": 177.194,
-      "global_end": 177.314,
-      "score": 0.546,
-      "segment_index": 3,
-      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
-    },
-    {
-      "word": "say",
-      "local_start": 15.194,
-      "local_end": 15.294,
-      "global_start": 177.354,
-      "global_end": 177.454,
-      "score": 0.827,
-      "segment_index": 3,
-      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
-    },
-    {
-      "word": "I",
-      "local_start": 15.334,
-      "local_end": 15.374,
-      "global_start": 177.494,
-      "global_end": 177.534,
-      "score": 0.145,
-      "segment_index": 3,
-      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
-    },
-    {
-      "word": "helped",
-      "local_start": 15.394,
-      "local_end": 15.534,
-      "global_start": 177.554,
-      "global_end": 177.694,
-      "score": 0.623,
-      "segment_index": 3,
-      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
-    },
-    {
-      "word": "desk",
-      "local_start": 15.554,
-      "local_end": 15.714,
-      "global_start": 177.714,
-      "global_end": 177.874,
-      "score": 0.772,
-      "segment_index": 3,
-      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
-    },
-    {
-      "word": "engineer",
-      "local_start": 15.734,
-      "local_end": 16.095,
-      "global_start": 177.894,
-      "global_end": 178.255,
-      "score": 0.785,
-      "segment_index": 3,
-      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
-    },
-    {
-      "word": "running",
-      "local_start": 16.155,
-      "local_end": 16.335,
-      "global_start": 178.315,
-      "global_end": 178.495,
-      "score": 0.937,
-      "segment_index": 3,
-      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
-    },
-    {
-      "word": "a",
-      "local_start": 16.375,
-      "local_end": 16.435,
-      "global_start": 178.535,
-      "global_end": 178.595,
-      "score": 0.564,
-      "segment_index": 3,
-      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
-    },
-    {
-      "word": "local",
-      "local_start": 16.475,
-      "local_end": 16.695,
-      "global_start": 178.635,
-      "global_end": 178.855,
-      "score": 0.919,
-      "segment_index": 3,
-      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
-    },
-    {
-      "word": "model.",
-      "local_start": 16.735,
-      "local_end": 16.955,
-      "global_start": 178.895,
-      "global_end": 179.115,
-      "score": 0.917,
-      "segment_index": 3,
-      "segment_text": "Probably a security engineer running codex, and let's say I helped desk engineer running a local model."
-    },
-    {
-      "word": "Once",
-      "local_start": 17.295,
-      "local_end": 17.395,
-      "global_start": 179.455,
-      "global_end": 179.555,
-      "score": 0.95,
-      "segment_index": 4,
-      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
-    },
-    {
-      "word": "we've",
-      "local_start": 17.415,
-      "local_end": 17.555,
-      "global_start": 179.575,
-      "global_end": 179.715,
-      "score": 0.815,
-      "segment_index": 4,
-      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
-    },
-    {
-      "word": "hired",
-      "local_start": 17.575,
-      "local_end": 17.775,
-      "global_start": 179.735,
-      "global_end": 179.935,
-      "score": 0.812,
-      "segment_index": 4,
-      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
-    },
-    {
-      "word": "our",
-      "local_start": 17.795,
-      "local_end": 17.895,
-      "global_start": 179.955,
-      "global_end": 180.055,
-      "score": 0.856,
-      "segment_index": 4,
-      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
-    },
-    {
-      "word": "team,",
-      "local_start": 17.915,
-      "local_end": 18.115,
-      "global_start": 180.075,
-      "global_end": 180.275,
-      "score": 0.786,
-      "segment_index": 4,
-      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
-    },
-    {
-      "word": "we",
-      "local_start": 18.135,
-      "local_end": 18.235,
-      "global_start": 180.295,
-      "global_end": 180.395,
-      "score": 0.512,
-      "segment_index": 4,
-      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
-    },
-    {
-      "word": "will",
-      "local_start": 18.255,
-      "local_end": 18.395,
-      "global_start": 180.415,
-      "global_end": 180.555,
-      "score": 0.835,
-      "segment_index": 4,
-      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
-    },
-    {
-      "word": "then",
-      "local_start": 18.415,
-      "local_end": 18.555,
-      "global_start": 180.575,
-      "global_end": 180.715,
-      "score": 0.877,
-      "segment_index": 4,
-      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
-    },
-    {
-      "word": "assign",
-      "local_start": 18.615,
-      "local_end": 18.955,
-      "global_start": 180.775,
-      "global_end": 181.115,
-      "score": 0.913,
-      "segment_index": 4,
-      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
-    },
-    {
-      "word": "a",
-      "local_start": 18.995,
-      "local_end": 19.035,
-      "global_start": 181.155,
-      "global_end": 181.195,
-      "score": 0.554,
-      "segment_index": 4,
-      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
-    },
-    {
-      "word": "task,",
-      "local_start": 19.075,
-      "local_end": 19.415,
-      "global_start": 181.235,
-      "global_end": 181.575,
-      "score": 0.98,
-      "segment_index": 4,
-      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
-    },
-    {
-      "word": "a",
-      "local_start": 19.735,
-      "local_end": 19.775,
-      "global_start": 181.895,
-      "global_end": 181.935,
-      "score": 0.994,
-      "segment_index": 4,
-      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
-    },
-    {
-      "word": "task",
-      "local_start": 19.835,
-      "local_end": 20.175,
-      "global_start": 181.995,
-      "global_end": 182.335,
-      "score": 0.894,
-      "segment_index": 4,
-      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
-    },
-    {
-      "word": "to",
-      "local_start": 20.416,
-      "local_end": 20.516,
-      "global_start": 182.576,
-      "global_end": 182.676,
-      "score": 0.988,
-      "segment_index": 4,
-      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
-    },
-    {
-      "word": "solve",
-      "local_start": 20.616,
-      "local_end": 20.936,
-      "global_start": 182.776,
-      "global_end": 183.096,
-      "score": 0.684,
-      "segment_index": 4,
-      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
-    },
-    {
-      "word": "our",
-      "local_start": 20.976,
-      "local_end": 21.076,
-      "global_start": 183.136,
-      "global_end": 183.236,
-      "score": 0.883,
-      "segment_index": 4,
-      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
-    },
-    {
-      "word": "toilet",
-      "local_start": 21.136,
-      "local_end": 21.456,
-      "global_start": 183.296,
-      "global_end": 183.616,
-      "score": 0.836,
-      "segment_index": 4,
-      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
-    },
-    {
-      "word": "problems,",
-      "local_start": 21.476,
-      "local_end": 21.896,
-      "global_start": 183.636,
-      "global_end": 184.056,
-      "score": 0.786,
-      "segment_index": 4,
-      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
-    },
-    {
-      "word": "and",
-      "local_start": 22.336,
-      "local_end": 22.396,
-      "global_start": 184.496,
-      "global_end": 184.556,
-      "score": 0.988,
-      "segment_index": 4,
-      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
-    },
-    {
-      "word": "we'll",
-      "local_start": 22.416,
-      "local_end": 22.556,
-      "global_start": 184.576,
-      "global_end": 184.716,
-      "score": 0.837,
-      "segment_index": 4,
-      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
-    },
-    {
-      "word": "watch",
-      "local_start": 22.576,
-      "local_end": 22.756,
-      "global_start": 184.736,
-      "global_end": 184.916,
-      "score": 0.768,
-      "segment_index": 4,
-      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
-    },
-    {
-      "word": "them",
-      "local_start": 22.776,
-      "local_end": 22.916,
-      "global_start": 184.936,
-      "global_end": 185.076,
-      "score": 0.715,
-      "segment_index": 4,
-      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
-    },
-    {
-      "word": "go",
-      "local_start": 22.956,
-      "local_end": 23.036,
-      "global_start": 185.116,
-      "global_end": 185.196,
-      "score": 0.718,
-      "segment_index": 4,
-      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
-    },
-    {
-      "word": "to",
-      "local_start": 23.076,
-      "local_end": 23.136,
-      "global_start": 185.236,
-      "global_end": 185.296,
-      "score": 0.851,
-      "segment_index": 4,
-      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
-    },
-    {
-      "word": "work.",
-      "local_start": 23.176,
-      "local_end": 23.376,
-      "global_start": 185.336,
-      "global_end": 185.536,
-      "score": 0.689,
-      "segment_index": 4,
-      "segment_text": "Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work."
-    },
-    {
-      "word": "Now,",
-      "local_start": 23.696,
-      "local_end": 23.836,
-      "global_start": 185.856,
-      "global_end": 185.996,
-      "score": 0.858,
-      "segment_index": 5,
-      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
-    },
-    {
-      "word": "I",
-      "local_start": 23.936,
-      "local_end": 23.996,
-      "global_start": 186.096,
-      "global_end": 186.156,
-      "score": 0.669,
-      "segment_index": 5,
-      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
-    },
-    {
-      "word": "want",
-      "local_start": 24.016,
-      "local_end": 24.096,
-      "global_start": 186.176,
-      "global_end": 186.256,
-      "score": 0.999,
-      "segment_index": 5,
-      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
+      "local_start": 1.032,
+      "local_end": 1.152,
+      "global_start": 298.032,
+      "global_end": 298.152,
+      "score": 0.927,
+      "segment_index": 0,
+      "segment_text": "Post it on the dark web, which means you don't need credentials."
+    },
+    {
+      "word": "means",
+      "local_start": 1.192,
+      "local_end": 1.332,
+      "global_start": 298.192,
+      "global_end": 298.332,
+      "score": 0.904,
+      "segment_index": 0,
+      "segment_text": "Post it on the dark web, which means you don't need credentials."
     },
     {
       "word": "you",
-      "local_start": 24.116,
-      "local_end": 24.196,
-      "global_start": 186.276,
-      "global_end": 186.356,
-      "score": 0.831,
-      "segment_index": 5,
-      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
+      "local_start": 1.352,
+      "local_end": 1.432,
+      "global_start": 298.352,
+      "global_end": 298.432,
+      "score": 0.913,
+      "segment_index": 0,
+      "segment_text": "Post it on the dark web, which means you don't need credentials."
+    },
+    {
+      "word": "don't",
+      "local_start": 1.452,
+      "local_end": 1.572,
+      "global_start": 298.452,
+      "global_end": 298.572,
+      "score": 0.927,
+      "segment_index": 0,
+      "segment_text": "Post it on the dark web, which means you don't need credentials."
+    },
+    {
+      "word": "need",
+      "local_start": 1.612,
+      "local_end": 1.732,
+      "global_start": 298.612,
+      "global_end": 298.732,
+      "score": 0.72,
+      "segment_index": 0,
+      "segment_text": "Post it on the dark web, which means you don't need credentials."
+    },
+    {
+      "word": "credentials.",
+      "local_start": 1.772,
+      "local_end": 2.173,
+      "global_start": 298.772,
+      "global_end": 299.173,
+      "score": 0.797,
+      "segment_index": 0,
+      "segment_text": "Post it on the dark web, which means you don't need credentials."
+    },
+    {
+      "word": "You",
+      "local_start": 2.193,
+      "local_end": 2.253,
+      "global_start": 299.193,
+      "global_end": 299.253,
+      "score": 0.331,
+      "segment_index": 1,
+      "segment_text": "You just use those cookie sessions."
+    },
+    {
+      "word": "just",
+      "local_start": 2.273,
+      "local_end": 2.373,
+      "global_start": 299.273,
+      "global_end": 299.373,
+      "score": 0.21,
+      "segment_index": 1,
+      "segment_text": "You just use those cookie sessions."
+    },
+    {
+      "word": "use",
+      "local_start": 2.433,
+      "local_end": 2.513,
+      "global_start": 299.433,
+      "global_end": 299.513,
+      "score": 0.892,
+      "segment_index": 1,
+      "segment_text": "You just use those cookie sessions."
+    },
+    {
+      "word": "those",
+      "local_start": 2.553,
+      "local_end": 2.693,
+      "global_start": 299.553,
+      "global_end": 299.693,
+      "score": 0.808,
+      "segment_index": 1,
+      "segment_text": "You just use those cookie sessions."
+    },
+    {
+      "word": "cookie",
+      "local_start": 2.713,
+      "local_end": 2.973,
+      "global_start": 299.713,
+      "global_end": 299.973,
+      "score": 0.842,
+      "segment_index": 1,
+      "segment_text": "You just use those cookie sessions."
+    },
+    {
+      "word": "sessions.",
+      "local_start": 2.993,
+      "local_end": 3.334,
+      "global_start": 299.993,
+      "global_end": 300.334,
+      "score": 0.857,
+      "segment_index": 1,
+      "segment_text": "You just use those cookie sessions."
+    },
+    {
+      "word": "Skips",
+      "local_start": 3.714,
+      "local_end": 3.994,
+      "global_start": 300.714,
+      "global_end": 300.994,
+      "score": 0.833,
+      "segment_index": 2,
+      "segment_text": "Skips to factor."
     },
     {
       "word": "to",
-      "local_start": 24.216,
-      "local_end": 24.256,
-      "global_start": 186.376,
-      "global_end": 186.416,
-      "score": 0.999,
-      "segment_index": 5,
-      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
+      "local_start": 4.014,
+      "local_end": 4.194,
+      "global_start": 301.014,
+      "global_end": 301.194,
+      "score": 0.888,
+      "segment_index": 2,
+      "segment_text": "Skips to factor."
     },
     {
-      "word": "pause",
-      "local_start": 24.296,
-      "local_end": 24.496,
-      "global_start": 186.456,
-      "global_end": 186.656,
-      "score": 0.99,
-      "segment_index": 5,
-      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
+      "word": "factor.",
+      "local_start": 4.234,
+      "local_end": 4.635,
+      "global_start": 301.234,
+      "global_end": 301.635,
+      "score": 0.934,
+      "segment_index": 2,
+      "segment_text": "Skips to factor."
     },
     {
-      "word": "here",
-      "local_start": 24.536,
-      "local_end": 24.696,
-      "global_start": 186.696,
-      "global_end": 186.856,
-      "score": 0.728,
-      "segment_index": 5,
-      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
-    },
-    {
-      "word": "for",
-      "local_start": 24.736,
-      "local_end": 24.857,
-      "global_start": 186.896,
-      "global_end": 187.017,
-      "score": 0.786,
-      "segment_index": 5,
-      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
-    },
-    {
-      "word": "a",
-      "local_start": 24.897,
-      "local_end": 24.917,
-      "global_start": 187.057,
-      "global_end": 187.077,
-      "score": 0.998,
-      "segment_index": 5,
-      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
-    },
-    {
-      "word": "moment",
-      "local_start": 24.957,
-      "local_end": 25.217,
-      "global_start": 187.117,
-      "global_end": 187.377,
-      "score": 0.774,
-      "segment_index": 5,
-      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
-    },
-    {
-      "word": "and",
-      "local_start": 25.257,
-      "local_end": 25.317,
-      "global_start": 187.417,
-      "global_end": 187.477,
-      "score": 0.861,
-      "segment_index": 5,
-      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
-    },
-    {
-      "word": "think",
-      "local_start": 25.377,
-      "local_end": 25.517,
-      "global_start": 187.537,
-      "global_end": 187.677,
-      "score": 0.991,
-      "segment_index": 5,
-      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
-    },
-    {
-      "word": "about",
-      "local_start": 25.557,
-      "local_end": 25.717,
-      "global_start": 187.717,
-      "global_end": 187.877,
-      "score": 0.68,
-      "segment_index": 5,
-      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
-    },
-    {
-      "word": "what",
-      "local_start": 25.737,
-      "local_end": 25.837,
-      "global_start": 187.897,
-      "global_end": 187.997,
-      "score": 0.875,
-      "segment_index": 5,
-      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
-    },
-    {
-      "word": "we're",
-      "local_start": 25.877,
-      "local_end": 26.017,
-      "global_start": 188.037,
-      "global_end": 188.177,
-      "score": 0.838,
-      "segment_index": 5,
-      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
-    },
-    {
-      "word": "doing",
-      "local_start": 26.037,
-      "local_end": 26.257,
-      "global_start": 188.197,
-      "global_end": 188.417,
-      "score": 0.729,
-      "segment_index": 5,
-      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
-    },
-    {
-      "word": "here.",
-      "local_start": 26.297,
-      "local_end": 26.437,
-      "global_start": 188.457,
-      "global_end": 188.597,
-      "score": 0.752,
-      "segment_index": 5,
-      "segment_text": "Now, I want you to pause here for a moment and think about what we're doing here."
-    },
-    {
-      "word": "We're",
-      "local_start": 27.097,
-      "local_end": 27.298,
-      "global_start": 189.257,
-      "global_end": 189.458,
-      "score": 0.705,
-      "segment_index": 6,
-      "segment_text": "We're Harness Maxing."
-    },
-    {
-      "word": "Harness",
-      "local_start": 27.338,
-      "local_end": 27.639,
-      "global_start": 189.498,
-      "global_end": 189.799,
-      "score": 0.866,
-      "segment_index": 6,
-      "segment_text": "We're Harness Maxing."
-    },
-    {
-      "word": "Maxing.",
-      "local_start": 27.679,
-      "local_end": 28.059,
-      "global_start": 189.839,
-      "global_end": 190.219,
+      "word": "So",
+      "local_start": 5.516,
+      "local_end": 5.636,
+      "global_start": 302.516,
+      "global_end": 302.636,
       "score": 0.973,
-      "segment_index": 6,
-      "segment_text": "We're Harness Maxing."
+      "segment_index": 3,
+      "segment_text": "So listen up."
     },
     {
-      "word": "No",
-      "local_start": 28.26,
-      "local_end": 28.34,
-      "global_start": 190.42,
-      "global_end": 190.5,
-      "score": 0.772,
-      "segment_index": 7,
-      "segment_text": "No matter what new harness comes out or model, Paperclip is a meta harness."
+      "word": "listen",
+      "local_start": 5.696,
+      "local_end": 5.936,
+      "global_start": 302.696,
+      "global_end": 302.936,
+      "score": 0.871,
+      "segment_index": 3,
+      "segment_text": "So listen up."
     },
     {
-      "word": "matter",
-      "local_start": 28.36,
-      "local_end": 28.581,
-      "global_start": 190.52,
-      "global_end": 190.741,
-      "score": 0.886,
-      "segment_index": 7,
-      "segment_text": "No matter what new harness comes out or model, Paperclip is a meta harness."
-    },
-    {
-      "word": "what",
-      "local_start": 28.661,
-      "local_end": 28.821,
-      "global_start": 190.821,
-      "global_end": 190.981,
-      "score": 0.915,
-      "segment_index": 7,
-      "segment_text": "No matter what new harness comes out or model, Paperclip is a meta harness."
-    },
-    {
-      "word": "new",
-      "local_start": 28.881,
-      "local_end": 28.982,
-      "global_start": 191.041,
-      "global_end": 191.142,
-      "score": 0.998,
-      "segment_index": 7,
-      "segment_text": "No matter what new harness comes out or model, Paperclip is a meta harness."
-    },
-    {
-      "word": "harness",
-      "local_start": 29.022,
-      "local_end": 29.302,
-      "global_start": 191.182,
-      "global_end": 191.462,
-      "score": 0.843,
-      "segment_index": 7,
-      "segment_text": "No matter what new harness comes out or model, Paperclip is a meta harness."
-    },
-    {
-      "word": "comes",
-      "local_start": 29.322,
-      "local_end": 29.503,
-      "global_start": 191.482,
-      "global_end": 191.663,
-      "score": 0.773,
-      "segment_index": 7,
-      "segment_text": "No matter what new harness comes out or model, Paperclip is a meta harness."
-    },
-    {
-      "word": "out",
-      "local_start": 29.583,
-      "local_end": 29.683,
-      "global_start": 191.743,
-      "global_end": 191.843,
-      "score": 0.986,
-      "segment_index": 7,
-      "segment_text": "No matter what new harness comes out or model, Paperclip is a meta harness."
-    },
-    {
-      "word": "or",
-      "local_start": 29.824,
-      "local_end": 29.924,
-      "global_start": 191.984,
-      "global_end": 192.084,
-      "score": 0.659,
-      "segment_index": 7,
-      "segment_text": "No matter what new harness comes out or model, Paperclip is a meta harness."
-    },
-    {
-      "word": "model,",
-      "local_start": 29.984,
-      "local_end": 30.305,
-      "global_start": 192.144,
-      "global_end": 192.465,
-      "score": 0.838,
-      "segment_index": 7,
-      "segment_text": "No matter what new harness comes out or model, Paperclip is a meta harness."
-    },
-    {
-      "word": "Paperclip",
-      "local_start": 30.465,
-      "local_end": 30.986,
-      "global_start": 192.625,
-      "global_end": 193.146,
-      "score": 0.849,
-      "segment_index": 7,
-      "segment_text": "No matter what new harness comes out or model, Paperclip is a meta harness."
-    },
-    {
-      "word": "is",
-      "local_start": 31.107,
-      "local_end": 31.207,
-      "global_start": 193.267,
-      "global_end": 193.367,
-      "score": 0.694,
-      "segment_index": 7,
-      "segment_text": "No matter what new harness comes out or model, Paperclip is a meta harness."
-    },
-    {
-      "word": "a",
-      "local_start": 31.247,
-      "local_end": 31.287,
-      "global_start": 193.407,
-      "global_end": 193.447,
-      "score": 0.718,
-      "segment_index": 7,
-      "segment_text": "No matter what new harness comes out or model, Paperclip is a meta harness."
-    },
-    {
-      "word": "meta",
-      "local_start": 31.367,
-      "local_end": 31.668,
-      "global_start": 193.527,
-      "global_end": 193.828,
-      "score": 0.952,
-      "segment_index": 7,
-      "segment_text": "No matter what new harness comes out or model, Paperclip is a meta harness."
-    },
-    {
-      "word": "harness.",
-      "local_start": 31.728,
-      "local_end": 32.129,
-      "global_start": 193.888,
-      "global_end": 194.289,
-      "score": 0.819,
-      "segment_index": 7,
-      "segment_text": "No matter what new harness comes out or model, Paperclip is a meta harness."
+      "word": "up.",
+      "local_start": 5.996,
+      "local_end": 6.056,
+      "global_start": 302.996,
+      "global_end": 303.056,
+      "score": 0.934,
+      "segment_index": 3,
+      "segment_text": "So listen up."
     },
     {
       "word": "We",
-      "local_start": 32.45,
-      "local_end": 32.55,
-      "global_start": 194.61,
-      "global_end": 194.71,
-      "score": 0.985,
+      "local_start": 6.476,
+      "local_end": 6.576,
+      "global_start": 303.476,
+      "global_end": 303.576,
+      "score": 0.946,
+      "segment_index": 4,
+      "segment_text": "We know how breaches happen now."
+    },
+    {
+      "word": "know",
+      "local_start": 6.616,
+      "local_end": 6.737,
+      "global_start": 303.616,
+      "global_end": 303.737,
+      "score": 0.86,
+      "segment_index": 4,
+      "segment_text": "We know how breaches happen now."
+    },
+    {
+      "word": "how",
+      "local_start": 6.777,
+      "local_end": 6.897,
+      "global_start": 303.777,
+      "global_end": 303.897,
+      "score": 0.805,
+      "segment_index": 4,
+      "segment_text": "We know how breaches happen now."
+    },
+    {
+      "word": "breaches",
+      "local_start": 6.957,
+      "local_end": 7.277,
+      "global_start": 303.957,
+      "global_end": 304.277,
+      "score": 0.646,
+      "segment_index": 4,
+      "segment_text": "We know how breaches happen now."
+    },
+    {
+      "word": "happen",
+      "local_start": 7.317,
+      "local_end": 7.597,
+      "global_start": 304.317,
+      "global_end": 304.597,
+      "score": 0.916,
+      "segment_index": 4,
+      "segment_text": "We know how breaches happen now."
+    },
+    {
+      "word": "now.",
+      "local_start": 7.617,
+      "local_end": 7.757,
+      "global_start": 304.617,
+      "global_end": 304.757,
+      "score": 0.883,
+      "segment_index": 4,
+      "segment_text": "We know how breaches happen now."
+    },
+    {
+      "word": "It's",
+      "local_start": 7.938,
+      "local_end": 8.018,
+      "global_start": 304.938,
+      "global_end": 305.018,
+      "score": 0.022,
+      "segment_index": 5,
+      "segment_text": "It's on a mystery."
+    },
+    {
+      "word": "on",
+      "local_start": 8.038,
+      "local_end": 8.098,
+      "global_start": 305.038,
+      "global_end": 305.098,
+      "score": 0.63,
+      "segment_index": 5,
+      "segment_text": "It's on a mystery."
+    },
+    {
+      "word": "a",
+      "local_start": 8.138,
+      "local_end": 8.178,
+      "global_start": 305.138,
+      "global_end": 305.178,
+      "score": 0.437,
+      "segment_index": 5,
+      "segment_text": "It's on a mystery."
+    },
+    {
+      "word": "mystery.",
+      "local_start": 8.198,
+      "local_end": 8.558,
+      "global_start": 305.198,
+      "global_end": 305.558,
+      "score": 0.747,
+      "segment_index": 5,
+      "segment_text": "It's on a mystery."
+    },
+    {
+      "word": "Attackers",
+      "local_start": 8.818,
+      "local_end": 9.199,
+      "global_start": 305.818,
+      "global_end": 306.199,
+      "score": 0.869,
+      "segment_index": 6,
+      "segment_text": "Attackers don't hack in."
+    },
+    {
+      "word": "don't",
+      "local_start": 9.219,
+      "local_end": 9.399,
+      "global_start": 306.219,
+      "global_end": 306.399,
+      "score": 0.665,
+      "segment_index": 6,
+      "segment_text": "Attackers don't hack in."
+    },
+    {
+      "word": "hack",
+      "local_start": 9.479,
+      "local_end": 9.739,
+      "global_start": 306.479,
+      "global_end": 306.739,
+      "score": 0.97,
+      "segment_index": 6,
+      "segment_text": "Attackers don't hack in."
+    },
+    {
+      "word": "in.",
+      "local_start": 9.859,
+      "local_end": 9.979,
+      "global_start": 306.859,
+      "global_end": 306.979,
+      "score": 0.852,
+      "segment_index": 6,
+      "segment_text": "Attackers don't hack in."
+    },
+    {
+      "word": "They",
+      "local_start": 10.139,
+      "local_end": 10.34,
+      "global_start": 307.139,
+      "global_end": 307.34,
+      "score": 0.782,
+      "segment_index": 7,
+      "segment_text": "They log in."
+    },
+    {
+      "word": "log",
+      "local_start": 10.4,
+      "local_end": 10.66,
+      "global_start": 307.4,
+      "global_end": 307.66,
+      "score": 0.772,
+      "segment_index": 7,
+      "segment_text": "They log in."
+    },
+    {
+      "word": "in.",
+      "local_start": 10.74,
+      "local_end": 10.88,
+      "global_start": 307.74,
+      "global_end": 307.88,
+      "score": 0.784,
+      "segment_index": 7,
+      "segment_text": "They log in."
+    },
+    {
+      "word": "Info",
+      "local_start": 11.26,
+      "local_end": 11.561,
+      "global_start": 308.26,
+      "global_end": 308.561,
+      "score": 0.573,
       "segment_index": 8,
-      "segment_text": "We can breathe."
+      "segment_text": "Info stealer malware grabs everything."
+    },
+    {
+      "word": "stealer",
+      "local_start": 11.581,
+      "local_end": 11.901,
+      "global_start": 308.581,
+      "global_end": 308.901,
+      "score": 0.823,
+      "segment_index": 8,
+      "segment_text": "Info stealer malware grabs everything."
+    },
+    {
+      "word": "malware",
+      "local_start": 11.921,
+      "local_end": 12.341,
+      "global_start": 308.921,
+      "global_end": 309.341,
+      "score": 0.816,
+      "segment_index": 8,
+      "segment_text": "Info stealer malware grabs everything."
+    },
+    {
+      "word": "grabs",
+      "local_start": 12.681,
+      "local_end": 13.042,
+      "global_start": 309.681,
+      "global_end": 310.042,
+      "score": 0.901,
+      "segment_index": 8,
+      "segment_text": "Info stealer malware grabs everything."
+    },
+    {
+      "word": "everything.",
+      "local_start": 13.342,
+      "local_end": 13.782,
+      "global_start": 310.342,
+      "global_end": 310.782,
+      "score": 0.84,
+      "segment_index": 8,
+      "segment_text": "Info stealer malware grabs everything."
+    },
+    {
+      "word": "Password",
+      "local_start": 14.003,
+      "local_end": 14.503,
+      "global_start": 311.003,
+      "global_end": 311.503,
+      "score": 0.871,
+      "segment_index": 9,
+      "segment_text": "Password session cookies."
+    },
+    {
+      "word": "session",
+      "local_start": 14.583,
+      "local_end": 14.923,
+      "global_start": 311.583,
+      "global_end": 311.923,
+      "score": 0.835,
+      "segment_index": 9,
+      "segment_text": "Password session cookies."
+    },
+    {
+      "word": "cookies.",
+      "local_start": 14.943,
+      "local_end": 15.304,
+      "global_start": 311.943,
+      "global_end": 312.304,
+      "score": 0.957,
+      "segment_index": 9,
+      "segment_text": "Password session cookies."
+    },
+    {
+      "word": "MFA",
+      "local_start": 15.784,
+      "local_end": 16.104,
+      "global_start": 312.784,
+      "global_end": 313.104,
+      "score": 0.795,
+      "segment_index": 10,
+      "segment_text": "MFA tokens."
+    },
+    {
+      "word": "tokens.",
+      "local_start": 16.124,
+      "local_end": 17.045,
+      "global_start": 313.124,
+      "global_end": 314.045,
+      "score": 0.812,
+      "segment_index": 10,
+      "segment_text": "MFA tokens."
+    },
+    {
+      "word": "54%",
+      "local_start": 17.205,
+      "local_end": 17.926,
+      "global_start": 314.205,
+      "global_end": 314.926,
+      "score": 0.529,
+      "segment_index": 11,
+      "segment_text": "54% of ransomware victims had their info."
+    },
+    {
+      "word": "of",
+      "local_start": 18.146,
+      "local_end": 18.206,
+      "global_start": 315.146,
+      "global_end": 315.206,
+      "score": 0.685,
+      "segment_index": 11,
+      "segment_text": "54% of ransomware victims had their info."
+    },
+    {
+      "word": "ransomware",
+      "local_start": 18.306,
+      "local_end": 18.827,
+      "global_start": 315.306,
+      "global_end": 315.827,
+      "score": 0.736,
+      "segment_index": 11,
+      "segment_text": "54% of ransomware victims had their info."
+    },
+    {
+      "word": "victims",
+      "local_start": 18.867,
+      "local_end": 19.247,
+      "global_start": 315.867,
+      "global_end": 316.247,
+      "score": 0.841,
+      "segment_index": 11,
+      "segment_text": "54% of ransomware victims had their info."
+    },
+    {
+      "word": "had",
+      "local_start": 19.467,
+      "local_end": 19.687,
+      "global_start": 316.467,
+      "global_end": 316.687,
+      "score": 0.975,
+      "segment_index": 11,
+      "segment_text": "54% of ransomware victims had their info."
+    },
+    {
+      "word": "their",
+      "local_start": 19.767,
+      "local_end": 19.968,
+      "global_start": 316.767,
+      "global_end": 316.968,
+      "score": 0.789,
+      "segment_index": 11,
+      "segment_text": "54% of ransomware victims had their info."
+    },
+    {
+      "word": "info.",
+      "local_start": 20.048,
+      "local_end": 20.448,
+      "global_start": 317.048,
+      "global_end": 317.448,
+      "score": 0.89,
+      "segment_index": 11,
+      "segment_text": "54% of ransomware victims had their info."
+    },
+    {
+      "word": "Sitting",
+      "local_start": 20.808,
+      "local_end": 21.008,
+      "global_start": 317.808,
+      "global_end": 318.008,
+      "score": 0.882,
+      "segment_index": 12,
+      "segment_text": "Sitting inside stealer logs way before they ever got hacked."
+    },
+    {
+      "word": "inside",
+      "local_start": 21.028,
+      "local_end": 21.289,
+      "global_start": 318.028,
+      "global_end": 318.289,
+      "score": 0.946,
+      "segment_index": 12,
+      "segment_text": "Sitting inside stealer logs way before they ever got hacked."
+    },
+    {
+      "word": "stealer",
+      "local_start": 21.349,
+      "local_end": 21.689,
+      "global_start": 318.349,
+      "global_end": 318.689,
+      "score": 0.759,
+      "segment_index": 12,
+      "segment_text": "Sitting inside stealer logs way before they ever got hacked."
+    },
+    {
+      "word": "logs",
+      "local_start": 21.709,
+      "local_end": 22.029,
+      "global_start": 318.709,
+      "global_end": 319.029,
+      "score": 0.852,
+      "segment_index": 12,
+      "segment_text": "Sitting inside stealer logs way before they ever got hacked."
+    },
+    {
+      "word": "way",
+      "local_start": 22.35,
+      "local_end": 22.55,
+      "global_start": 319.35,
+      "global_end": 319.55,
+      "score": 0.883,
+      "segment_index": 12,
+      "segment_text": "Sitting inside stealer logs way before they ever got hacked."
+    },
+    {
+      "word": "before",
+      "local_start": 22.59,
+      "local_end": 22.91,
+      "global_start": 319.59,
+      "global_end": 319.91,
+      "score": 0.904,
+      "segment_index": 12,
+      "segment_text": "Sitting inside stealer logs way before they ever got hacked."
+    },
+    {
+      "word": "they",
+      "local_start": 22.95,
+      "local_end": 23.05,
+      "global_start": 319.95,
+      "global_end": 320.05,
+      "score": 0.944,
+      "segment_index": 12,
+      "segment_text": "Sitting inside stealer logs way before they ever got hacked."
+    },
+    {
+      "word": "ever",
+      "local_start": 23.09,
+      "local_end": 23.21,
+      "global_start": 320.09,
+      "global_end": 320.21,
+      "score": 0.869,
+      "segment_index": 12,
+      "segment_text": "Sitting inside stealer logs way before they ever got hacked."
+    },
+    {
+      "word": "got",
+      "local_start": 23.25,
+      "local_end": 23.39,
+      "global_start": 320.25,
+      "global_end": 320.39,
+      "score": 0.874,
+      "segment_index": 12,
+      "segment_text": "Sitting inside stealer logs way before they ever got hacked."
+    },
+    {
+      "word": "hacked.",
+      "local_start": 23.43,
+      "local_end": 23.711,
+      "global_start": 320.43,
+      "global_end": 320.711,
+      "score": 0.983,
+      "segment_index": 12,
+      "segment_text": "Sitting inside stealer logs way before they ever got hacked."
+    },
+    {
+      "word": "And",
+      "local_start": 23.871,
+      "local_end": 23.931,
+      "global_start": 320.871,
+      "global_end": 320.931,
+      "score": 0.562,
+      "segment_index": 13,
+      "segment_text": "And most companies take 36 hours before they even noticed something has happened."
+    },
+    {
+      "word": "most",
+      "local_start": 23.971,
+      "local_end": 24.131,
+      "global_start": 320.971,
+      "global_end": 321.131,
+      "score": 0.851,
+      "segment_index": 13,
+      "segment_text": "And most companies take 36 hours before they even noticed something has happened."
+    },
+    {
+      "word": "companies",
+      "local_start": 24.211,
+      "local_end": 24.671,
+      "global_start": 321.211,
+      "global_end": 321.671,
+      "score": 0.872,
+      "segment_index": 13,
+      "segment_text": "And most companies take 36 hours before they even noticed something has happened."
+    },
+    {
+      "word": "take",
+      "local_start": 25.132,
+      "local_end": 25.352,
+      "global_start": 322.132,
+      "global_end": 322.352,
+      "score": 0.856,
+      "segment_index": 13,
+      "segment_text": "And most companies take 36 hours before they even noticed something has happened."
+    },
+    {
+      "word": "36",
+      "local_start": 25.532,
+      "local_end": 25.752,
+      "global_start": 322.532,
+      "global_end": 322.752,
+      "score": 0.629,
+      "segment_index": 13,
+      "segment_text": "And most companies take 36 hours before they even noticed something has happened."
+    },
+    {
+      "word": "hours",
+      "local_start": 26.133,
+      "local_end": 26.473,
+      "global_start": 323.133,
+      "global_end": 323.473,
+      "score": 0.773,
+      "segment_index": 13,
+      "segment_text": "And most companies take 36 hours before they even noticed something has happened."
+    },
+    {
+      "word": "before",
+      "local_start": 26.513,
+      "local_end": 26.753,
+      "global_start": 323.513,
+      "global_end": 323.753,
+      "score": 0.69,
+      "segment_index": 13,
+      "segment_text": "And most companies take 36 hours before they even noticed something has happened."
+    },
+    {
+      "word": "they",
+      "local_start": 26.773,
+      "local_end": 26.893,
+      "global_start": 323.773,
+      "global_end": 323.893,
+      "score": 0.803,
+      "segment_index": 13,
+      "segment_text": "And most companies take 36 hours before they even noticed something has happened."
+    },
+    {
+      "word": "even",
+      "local_start": 26.933,
+      "local_end": 27.113,
+      "global_start": 323.933,
+      "global_end": 324.113,
+      "score": 0.798,
+      "segment_index": 13,
+      "segment_text": "And most companies take 36 hours before they even noticed something has happened."
+    },
+    {
+      "word": "noticed",
+      "local_start": 27.254,
+      "local_end": 27.654,
+      "global_start": 324.254,
+      "global_end": 324.654,
+      "score": 0.832,
+      "segment_index": 13,
+      "segment_text": "And most companies take 36 hours before they even noticed something has happened."
+    },
+    {
+      "word": "something",
+      "local_start": 27.954,
+      "local_end": 28.194,
+      "global_start": 324.954,
+      "global_end": 325.194,
+      "score": 0.899,
+      "segment_index": 13,
+      "segment_text": "And most companies take 36 hours before they even noticed something has happened."
+    },
+    {
+      "word": "has",
+      "local_start": 28.234,
+      "local_end": 28.355,
+      "global_start": 325.234,
+      "global_end": 325.355,
+      "score": 0.92,
+      "segment_index": 13,
+      "segment_text": "And most companies take 36 hours before they even noticed something has happened."
+    },
+    {
+      "word": "happened.",
+      "local_start": 28.395,
+      "local_end": 28.735,
+      "global_start": 325.395,
+      "global_end": 325.735,
+      "score": 0.844,
+      "segment_index": 13,
+      "segment_text": "And most companies take 36 hours before they even noticed something has happened."
+    },
+    {
+      "word": "Attackers",
+      "local_start": 29.136,
+      "local_end": 29.517,
+      "global_start": 326.136,
+      "global_end": 326.517,
+      "score": 0.899,
+      "segment_index": 14,
+      "segment_text": "Attackers only need 48 minutes."
+    },
+    {
+      "word": "only",
+      "local_start": 29.557,
+      "local_end": 29.818,
+      "global_start": 326.557,
+      "global_end": 326.818,
+      "score": 0.722,
+      "segment_index": 14,
+      "segment_text": "Attackers only need 48 minutes."
+    },
+    {
+      "word": "need",
+      "local_start": 29.838,
+      "local_end": 30.139,
+      "global_start": 326.838,
+      "global_end": 327.139,
+      "score": 0.447,
+      "segment_index": 14,
+      "segment_text": "Attackers only need 48 minutes."
+    },
+    {
+      "word": "48",
+      "local_start": 30.159,
+      "local_end": 30.3,
+      "global_start": 327.159,
+      "global_end": 327.3,
+      "score": 0.353,
+      "segment_index": 14,
+      "segment_text": "Attackers only need 48 minutes."
+    },
+    {
+      "word": "minutes.",
+      "local_start": 30.32,
+      "local_end": 30.581,
+      "global_start": 327.32,
+      "global_end": 327.581,
+      "score": 0.918,
+      "segment_index": 14,
+      "segment_text": "Attackers only need 48 minutes."
+    },
+    {
+      "word": "Both",
+      "local_start": 30.821,
+      "local_end": 31.002,
+      "global_start": 327.821,
+      "global_end": 328.002,
+      "score": 0.458,
+      "segment_index": 15,
+      "segment_text": "Both Flair, you realize things happen within seconds."
+    },
+    {
+      "word": "Flair,",
+      "local_start": 31.082,
+      "local_end": 31.444,
+      "global_start": 328.082,
+      "global_end": 328.444,
+      "score": 0.577,
+      "segment_index": 15,
+      "segment_text": "Both Flair, you realize things happen within seconds."
+    },
+    {
+      "word": "you",
+      "local_start": 32.046,
+      "local_end": 32.367,
+      "global_start": 329.046,
+      "global_end": 329.367,
+      "score": 0.841,
+      "segment_index": 15,
+      "segment_text": "Both Flair, you realize things happen within seconds."
+    },
+    {
+      "word": "realize",
+      "local_start": 32.427,
+      "local_end": 32.889,
+      "global_start": 329.427,
+      "global_end": 329.889,
+      "score": 0.814,
+      "segment_index": 15,
+      "segment_text": "Both Flair, you realize things happen within seconds."
+    },
+    {
+      "word": "things",
+      "local_start": 32.909,
+      "local_end": 33.089,
+      "global_start": 329.909,
+      "global_end": 330.089,
+      "score": 0.834,
+      "segment_index": 15,
+      "segment_text": "Both Flair, you realize things happen within seconds."
+    },
+    {
+      "word": "happen",
+      "local_start": 33.13,
+      "local_end": 33.41,
+      "global_start": 330.13,
+      "global_end": 330.41,
+      "score": 0.781,
+      "segment_index": 15,
+      "segment_text": "Both Flair, you realize things happen within seconds."
+    },
+    {
+      "word": "within",
+      "local_start": 33.431,
+      "local_end": 33.671,
+      "global_start": 330.431,
+      "global_end": 330.671,
+      "score": 0.844,
+      "segment_index": 15,
+      "segment_text": "Both Flair, you realize things happen within seconds."
+    },
+    {
+      "word": "seconds.",
+      "local_start": 33.732,
+      "local_end": 34.053,
+      "global_start": 330.732,
+      "global_end": 331.053,
+      "score": 0.982,
+      "segment_index": 15,
+      "segment_text": "Both Flair, you realize things happen within seconds."
+    },
+    {
+      "word": "They",
+      "local_start": 34.294,
+      "local_end": 34.394,
+      "global_start": 331.294,
+      "global_end": 331.394,
+      "score": 0.792,
+      "segment_index": 16,
+      "segment_text": "They have real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "have",
+      "local_start": 34.434,
+      "local_end": 34.575,
+      "global_start": 331.434,
+      "global_end": 331.575,
+      "score": 0.566,
+      "segment_index": 16,
+      "segment_text": "They have real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "real",
+      "local_start": 34.635,
+      "local_end": 34.835,
+      "global_start": 331.635,
+      "global_end": 331.835,
+      "score": 0.88,
+      "segment_index": 16,
+      "segment_text": "They have real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "time",
+      "local_start": 34.896,
+      "local_end": 35.096,
+      "global_start": 331.896,
+      "global_end": 332.096,
+      "score": 0.886,
+      "segment_index": 16,
+      "segment_text": "They have real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "detection",
+      "local_start": 35.136,
+      "local_end": 35.598,
+      "global_start": 332.136,
+      "global_end": 332.598,
+      "score": 0.831,
+      "segment_index": 16,
+      "segment_text": "They have real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "and",
+      "local_start": 35.739,
+      "local_end": 35.839,
+      "global_start": 332.739,
+      "global_end": 332.839,
+      "score": 0.808,
+      "segment_index": 16,
+      "segment_text": "They have real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "actually",
+      "local_start": 35.899,
+      "local_end": 36.16,
+      "global_start": 332.899,
+      "global_end": 333.16,
+      "score": 0.928,
+      "segment_index": 16,
+      "segment_text": "They have real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "checks",
+      "local_start": 36.24,
+      "local_end": 36.541,
+      "global_start": 333.24,
+      "global_end": 333.541,
+      "score": 0.777,
+      "segment_index": 16,
+      "segment_text": "They have real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "against",
+      "local_start": 36.662,
+      "local_end": 36.963,
+      "global_start": 333.662,
+      "global_end": 333.963,
+      "score": 0.766,
+      "segment_index": 16,
+      "segment_text": "They have real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "Entra",
+      "local_start": 37.164,
+      "local_end": 37.485,
+      "global_start": 334.164,
+      "global_end": 334.485,
+      "score": 0.808,
+      "segment_index": 16,
+      "segment_text": "They have real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "ID",
+      "local_start": 37.625,
+      "local_end": 37.946,
+      "global_start": 334.625,
+      "global_end": 334.946,
+      "score": 0.865,
+      "segment_index": 16,
+      "segment_text": "They have real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "whether",
+      "local_start": 38.047,
+      "local_end": 38.267,
+      "global_start": 335.047,
+      "global_end": 335.267,
+      "score": 0.919,
+      "segment_index": 16,
+      "segment_text": "They have real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "an",
+      "local_start": 38.308,
+      "local_end": 38.368,
+      "global_start": 335.308,
+      "global_end": 335.368,
+      "score": 0.744,
+      "segment_index": 16,
+      "segment_text": "They have real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "account",
+      "local_start": 38.388,
+      "local_end": 38.709,
+      "global_start": 335.388,
+      "global_end": 335.709,
+      "score": 0.837,
+      "segment_index": 16,
+      "segment_text": "They have real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "is",
+      "local_start": 38.769,
+      "local_end": 38.849,
+      "global_start": 335.769,
+      "global_end": 335.849,
+      "score": 0.688,
+      "segment_index": 16,
+      "segment_text": "They have real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "actually",
+      "local_start": 38.91,
+      "local_end": 39.191,
+      "global_start": 335.91,
+      "global_end": 336.191,
+      "score": 0.846,
+      "segment_index": 16,
+      "segment_text": "They have real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "real.",
+      "local_start": 39.251,
+      "local_end": 39.472,
+      "global_start": 336.251,
+      "global_end": 336.472,
+      "score": 0.854,
+      "segment_index": 16,
+      "segment_text": "They have real time detection and actually checks against Entra ID whether an account is actually real."
+    },
+    {
+      "word": "And",
+      "local_start": 39.773,
+      "local_end": 39.893,
+      "global_start": 336.773,
+      "global_end": 336.893,
+      "score": 0.597,
+      "segment_index": 17,
+      "segment_text": "And active and it can kill us at"
+    },
+    {
+      "word": "active",
+      "local_start": 40.013,
+      "local_end": 40.254,
+      "global_start": 337.013,
+      "global_end": 337.254,
+      "score": 0.923,
+      "segment_index": 17,
+      "segment_text": "And active and it can kill us at"
+    },
+    {
+      "word": "and",
+      "local_start": 40.274,
+      "local_end": 40.335,
+      "global_start": 337.274,
+      "global_end": 337.335,
+      "score": 0.985,
+      "segment_index": 17,
+      "segment_text": "And active and it can kill us at"
+    },
+    {
+      "word": "it",
+      "local_start": 40.375,
+      "local_end": 40.415,
+      "global_start": 337.375,
+      "global_end": 337.415,
+      "score": 0.98,
+      "segment_index": 17,
+      "segment_text": "And active and it can kill us at"
     },
     {
       "word": "can",
-      "local_start": 32.57,
-      "local_end": 32.69,
-      "global_start": 194.73,
-      "global_end": 194.85,
-      "score": 0.989,
-      "segment_index": 8,
-      "segment_text": "We can breathe."
+      "local_start": 40.435,
+      "local_end": 40.555,
+      "global_start": 337.435,
+      "global_end": 337.555,
+      "score": 0.685,
+      "segment_index": 17,
+      "segment_text": "And active and it can kill us at"
     },
     {
-      "word": "breathe.",
-      "local_start": 32.73,
-      "local_end": 32.951,
-      "global_start": 194.89,
-      "global_end": 195.111,
-      "score": 0.8,
-      "segment_index": 8,
-      "segment_text": "We can breathe."
+      "word": "kill",
+      "local_start": 40.616,
+      "local_end": 40.856,
+      "global_start": 337.616,
+      "global_end": 337.856,
+      "score": 0.773,
+      "segment_index": 17,
+      "segment_text": "And active and it can kill us at"
+    },
+    {
+      "word": "us",
+      "local_start": 40.917,
+      "local_end": 40.957,
+      "global_start": 337.917,
+      "global_end": 337.957,
+      "score": 0.96,
+      "segment_index": 17,
+      "segment_text": "And active and it can kill us at"
+    },
+    {
+      "word": "at",
+      "local_start": 40.977,
+      "local_end": 41.017,
+      "global_start": 337.977,
+      "global_end": 338.017,
+      "score": 0.186,
+      "segment_index": 17,
+      "segment_text": "And active and it can kill us at"
     }
   ],
   "raw_segments": [
     {
       "start": 0.031,
-      "end": 26.997,
-      "text": "The uh, org chart will be like this. Run to CTO, Fred and George report to him, and then just above run, I'm actually gonna hire a CEO, which I'll actually have running Claude code, and not Hermes. And just for fun, I'll hire some more employees too. Probably a security engineer running codex, and let's say I helped desk engineer running a local model. Once we've hired our team, we will then assign a task, a task to solve our toilet problems, and we'll watch them go to work. Now, I want you to pause here for a moment and think about what we're doing here."
+      "end": 28.955,
+      "text": "Post it on the dark web, which means you don't need credentials. You just use those cookie sessions. Skips to factor. So listen up. We know how breaches happen now. It's on a mystery. Attackers don't hack in. They log in. Info stealer malware grabs everything. Password session cookies. MFA tokens. 54% of ransomware victims had their info. Sitting inside stealer logs way before they ever got hacked. And most companies take 36 hours before they even noticed something has happened."
     },
     {
-      "start": 26.997,
-      "end": 32.971,
-      "text": "We're Harness Maxing. No matter what new harness comes out or model, Paperclip is a meta harness. We can breathe."
+      "start": 28.955,
+      "end": 41.037,
+      "text": "Attackers only need 48 minutes. Both Flair, you realize things happen within seconds. They have real time detection and actually checks against Entra ID whether an account is actually real. And active and it can kill us at"
     }
   ]
 }
