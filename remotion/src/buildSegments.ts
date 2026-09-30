@@ -43,9 +43,7 @@ export function buildSegments({
       continue;
     }
 
-    const sectionPath = `media/downloads/${videoId}/sections/section_${String(
-      candidateId
-    ).padStart(3, "0")}.mp4`;
+    const sectionPath = `section_${String(candidateId).padStart(3, "0")}.mp4`;
 
     segments.push({
       src: sectionPath,

@@ -1,4 +1,5 @@
 import { Video } from "@remotion/media";
+import { staticFile } from "remotion";
 import type { Segment } from "./buildSegments";
 
 export type VideoSegmentsProps = {
@@ -11,7 +12,7 @@ export const VideoSegments: React.FC<VideoSegmentsProps> = ({ segments }) => {
       {segments.map((seg, idx) => (
         <Video
           key={idx}
-          src={seg.src}
+          src={staticFile(seg.src)}
           trimBefore={seg.trimBefore}
           durationInFrames={seg.durationInFrames}
           from={seg.from}

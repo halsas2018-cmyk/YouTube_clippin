@@ -91,9 +91,7 @@ const FrameInner: React.FC = () => {
     <>
       {/* Audio track */}
       <Audio
-        src={staticFile(
-          `media/downloads/${videoId}/media/audio/mixed_cand${candidateId}.wav`
-        )}
+        src={staticFile(`mixed.m4a`)}
       />
 
       {/* Original video segments */}

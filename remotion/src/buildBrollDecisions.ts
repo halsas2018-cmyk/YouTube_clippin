@@ -52,9 +52,7 @@ export function buildBrollDecisions({
     if (end <= start) continue;
     if (!slot.acquisition?.local_path) continue;
 
-    const brollSrc = `media/downloads/${videoId}/media/broll/${slot.acquisition.local_path
-      .split("/")
-      .pop()}`;
+    const brollSrc = slot.acquisition.local_path.split("/").pop()!;
 
     brollDecisions.push({
       type: slot.decision_type,
