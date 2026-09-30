@@ -1,5 +1,3 @@
-import { staticFile } from "remotion";
-
 export type Segment = {
   src: string;
   trimBefore: number;
@@ -50,7 +48,7 @@ export function buildSegments({
     ).padStart(3, "0")}.mp4`;
 
     segments.push({
-      src: staticFile(sectionPath),
+      src: sectionPath,
       trimBefore: Math.round(localStart * fps),
       durationInFrames: Math.round(duration * fps),
       from: Math.round(accumulatedTime * fps),

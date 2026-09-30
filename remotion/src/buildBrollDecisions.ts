@@ -1,5 +1,3 @@
-import { staticFile } from "remotion";
-
 export type BrollDecision = {
   type: string;
   start: number;
@@ -62,7 +60,7 @@ export function buildBrollDecisions({
       type: slot.decision_type,
       start,
       end,
-      brollSrc: staticFile(brollSrc),
+      brollSrc,
       trimBefore: 0,
       durationInFrames: Math.round((end - start) * fps),
       from: Math.round(start * fps),
