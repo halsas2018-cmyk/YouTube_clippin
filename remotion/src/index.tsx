@@ -214,7 +214,7 @@ const VideoRoot: React.FC = () => {
           end,
           sourceStart: start, // authoritative_timing.clip_start is already clip-relative
           brollSrc,
-          trimBefore: Math.round(start * FPS),
+          trimBefore: 0,
           durationInFrames: Math.round((end - start) * FPS),
           from: Math.round(start * FPS),
         });
@@ -427,7 +427,7 @@ const VideoRoot: React.FC = () => {
             }
 
             return (
-              <div style={{ justifyContent: "center", alignItems: "flex-start", paddingTop: 200 }}>
+              <div style={{ justifyContent: "center", alignItems: "center", paddingTop: 0 }}>
                 <div style={{
                   fontSize: 80,
                   fontWeight: "bold",
