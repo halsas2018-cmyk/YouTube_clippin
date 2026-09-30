@@ -8,27 +8,39 @@ def load_json(path):
         return json.load(f)
 
 def main():
-    if len(sys.argv) != 2:
-        print(f"Usage: {sys.argv[0]} VIDEO_ID")
+    # Parse arguments: VIDEO_ID [--candidate-id N]
+    if len(sys.argv) < 2 or len(sys.argv) > 4:
+        print(f"Usage: {sys.argv[0]} VIDEO_ID [--candidate-id N]")
         sys.exit(1)
     video_id = sys.argv[1]
+    candidate_id = 1  # default for backward compatibility
+    if len(sys.argv) == 4:
+        if sys.argv[2] == '--candidate-id':
+            try:
+                candidate_id = int(sys.argv[3])
+            except ValueError:
+                print(f"Error: --candidate-id must be an integer")
+                sys.exit(1)
+        else:
+            print(f"Usage: {sys.argv[0]} VIDEO_ID [--candidate-id N]")
+            sys.exit(1)
+    elif len(sys.argv) == 3:
+        print(f"Usage: {sys.argv[0]} VIDEO_ID [--candidate-id N]")
+        sys.exit(1)
+
     base_dir = f'/root/youtubr_clipper/media/downloads/{video_id}'
     final_clip_timings = load_json(os.path.join(base_dir, 'final_clip_timings.json'))
     caption_manifest = load_json(os.path.join(base_dir, 'caption_manifest.json'))
     broll_manifest = load_json(os.path.join(base_dir, 'broll_manifest.json'))
 
-    # Determine selected candidate: assume candidate_id 1 is selected as it's first and seems main hook
-    # We could also look for a flag, but not present.
-    selected_candidate_id = 1
-
     # Extract data for selected candidate
     cand_data = None
     for cand in final_clip_timings['candidates']:
-        if cand['candidate_id'] == selected_candidate_id:
+        if cand['candidate_id'] == candidate_id:
             cand_data = cand
             break
     if cand_data is None:
-        raise ValueError(f"Candidate {selected_candidate_id} not found")
+        raise ValueError(f"Candidate {candidate_id} not found")
 
     total_duration = cand_data['total_clip_duration_s']
     clip_relative_ranges = cand_data['clip_relative_ranges']
@@ -37,20 +49,20 @@ def main():
     # Get caption groups for selected candidate
     caption_groups = None
     for cand in caption_manifest['candidates']:
-        if cand['candidate_id'] == selected_candidate_id:
+        if cand['candidate_id'] == candidate_id:
             caption_groups = cand['caption_groups']
             break
     if caption_groups is None:
-        raise ValueError(f"Caption groups for candidate {selected_candidate_id} not found")
+        raise ValueError(f"Caption groups for candidate {candidate_id} not found")
 
     # Get broll visual decisions for selected candidate
     broll_data = None
     for cand in broll_manifest['candidates']:
-        if cand['candidate_id'] == selected_candidate_id:
+        if cand['candidate_id'] == candidate_id:
             broll_data = cand
             break
     if broll_data is None:
-        raise ValueError(f"Broll data for candidate {selected_candidate_id} not found")
+        raise ValueError(f"Broll data for candidate {candidate_id} not found")
     visual_decisions = broll_data['visual_decisions']
 
     # --- Speech regions from caption groups (merge overlapping?) ---
@@ -126,15 +138,15 @@ def main():
     # Build manifest
     manifest = {
         'video_id': final_clip_timings['video_id'],
-        'selected_candidate_id': selected_candidate_id,
+        'selected_candidate_id': candidate_id,
         'total_clip_duration_s': total_duration,
         'background_music': background_music,
         'speech_ducking': speech_ducking,
         'sfx': sfx_events
     }
 
-    # Write manifest to file
-    output_path = os.path.join(base_dir, 'audio_planning_manifest.json')
+    # Write manifest to file (candidate-specific)
+    output_path = os.path.join(base_dir, f'audio_planning_manifest_cand{candidate_id}.json')
     with open(output_path, 'w') as f:
         json.dump(manifest, f, indent=2)
 

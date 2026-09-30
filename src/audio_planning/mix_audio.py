@@ -40,15 +40,29 @@ def save_wav_float(samples_float, file_path, framerate):
         wf.writeframes(struct.pack('<{}h'.format(nframes), *samples_int))
 
 def main():
-    if len(sys.argv) != 2:
-        print(f"Usage: {sys.argv[0]} VIDEO_ID")
+    if len(sys.argv) < 2 or len(sys.argv) > 4:
+        print(f"Usage: {sys.argv[0]} VIDEO_ID [--candidate-id N]")
         sys.exit(1)
     video_id = sys.argv[1]
+    candidate_id = 1  # default for backward compatibility
+    if len(sys.argv) == 4:
+        if sys.argv[2] == '--candidate-id':
+            try:
+                candidate_id = int(sys.argv[3])
+            except ValueError:
+                print(f"Error: --candidate-id must be an integer")
+                sys.exit(1)
+        else:
+            print(f"Usage: {sys.argv[0]} VIDEO_ID [--candidate-id N]")
+            sys.exit(1)
+    elif len(sys.argv) == 3:
+        print(f"Usage: {sys.argv[0]} VIDEO_ID [--candidate-id N]")
+        sys.exit(1)
     base_dir = f'/root/youtubr_clipper/media/downloads/{video_id}'
     audio_dir = os.path.join(base_dir, 'media', 'audio')
 
     # Load manifests
-    planning_path = os.path.join(base_dir, 'audio_planning_manifest.json')
+    planning_path = os.path.join(base_dir, f'audio_planning_manifest_cand{candidate_id}.json')
     acquisition_path = os.path.join(audio_dir, 'acquisition_manifest.json')
 
     with open(planning_path, 'r') as f:
@@ -57,8 +71,8 @@ def main():
         acquisition = json.load(f)
 
     video_id = planning['video_id']
-    total_duration = planning['total_clip_duration_s']  # 17.882
-    print(f"Processing {video_id}, duration {total_duration}s")
+    total_duration = planning['total_clip_duration_s']
+    print(f"Processing {video_id} candidate {candidate_id}, duration {total_duration}s")
 
     # Extract background music info
     bg_info = None
@@ -71,10 +85,10 @@ def main():
     bg_path = bg_info['local_path']
 
     # Extract speech ducking regions from planning
-    speech_ducking = planning['speech_ducking']  # list of dicts with start, end, duck_amount
+    speech_ducking = planning['speech_ducking']
 
     # Extract SFX events
-    sfx_events = planning['sfx']  # list of dicts with time, type, description, volume
+    sfx_events = planning['sfx']
 
     # Load background music
     bg_samples, bg_rate = load_wav_float(bg_path)
@@ -95,7 +109,7 @@ def main():
     for region in speech_ducking:
         start = region['start']
         end = region['end']
-        duck_amount = region['duck_amount']  # 0.7 means reduce by 70%
+        duck_amount = region['duck_amount']
         start_sample = int(start * bg_rate)
         end_sample = int(end * bg_rate)
         # Clamp to bounds
@@ -103,12 +117,12 @@ def main():
             start_sample = 0
         if end_sample > len(output):
             end_sample = len(output)
-        factor = 1.0 - duck_amount  # e.g., 0.3
+        factor = 1.0 - duck_amount
         for i in range(start_sample, end_sample):
             output[i] *= factor
 
     # Prepare SFX assets: load whoosh and click once
-    sfx_audio = {}  # type -> (samples, rate)
+    sfx_audio = {}
     for asset in acquisition['audio_assets']:
         if asset['type'] in ('whoosh', 'click'):
             sfx_samples, sfx_rate = load_wav_float(asset['local_path'])
@@ -119,8 +133,7 @@ def main():
     for event in sfx_events:
         event_time = event['time']
         event_type = event['type']
-        event_volume = event['volume']  # 0.4 for whoosh, 0.3 for click
-        # Map SFX type to asset type
+        event_volume = event['volume']
         if event_type in ('whoosh_in', 'whoosh_out'):
             asset_type = 'whoosh'
         elif event_type == 'click':
@@ -133,11 +146,8 @@ def main():
             continue
         start_sample = int(event_time * bg_rate)
         sfx_samples, sfx_rate = sfx_audio[asset_type]
-        # Ensure rates match (they should)
         if sfx_rate != bg_rate:
             print(f"Warning: SFX rate {sfx_rate} != background rate {bg_rate}; assuming same")
-            # For simplicity, we could resample but skip; assume same.
-        # Place SFX
         for i, sfx_sample in enumerate(sfx_samples):
             out_idx = start_sample + i
             if out_idx < 0 or out_idx >= len(output):
@@ -145,11 +155,10 @@ def main():
             output[out_idx] += sfx_sample * event_volume
 
     # Optional: soft clip to avoid distortion
-    # We'll just clip to [-1, 1]
     output = [max(-1.0, min(1.0, s)) for s in output]
 
-    # Save mixed audio
-    mix_path = os.path.join(audio_dir, 'mixed.wav')
+    # Save mixed audio (candidate-specific)
+    mix_path = os.path.join(audio_dir, f'mixed_cand{candidate_id}.wav')
     save_wav_float(output, mix_path, bg_rate)
     print(f"Saved mixed audio to {mix_path}")
     print(f"  Duration: {len(output)/bg_rate:.3f}s")
@@ -157,7 +166,6 @@ def main():
 
     # Validate
     print("\n--- Validation ---")
-    # 1. Duration
     dur = len(output) / bg_rate
     if abs(dur - total_duration) < 0.01:
         print(f"✓ Duration correct: {dur:.3f}s (expected {total_duration:.3f}s)")
@@ -173,9 +181,8 @@ def main():
     else:
         print(f"✗ Audio too quiet: RMS = {rms:.6f}")
 
-    # 3. Check ducking: compute average power in speech regions vs non-speech regions
+    # 3. Check ducking
     if speech_ducking:
-        # Collect all speech region samples
         speech_power_sum = 0.0
         speech_sample_count = 0
         for region in speech_ducking:
@@ -185,16 +192,13 @@ def main():
                 for i in range(start_s, end_s):
                     speech_power_sum += output[i] * output[i]
                 speech_sample_count += (end_s - start_s)
-        # Compute non-speech power as the rest of the audio
-        # Create a mask of speech regions for efficiency (could be large but okay for this duration)
-        # We'll instead compute total power and subtract speech power
         total_power_sum = sum(s*s for s in output)
         non_speech_power_sum = total_power_sum - speech_power_sum
         non_speech_sample_count = len(output) - speech_sample_count
         if speech_sample_count > 0 and non_speech_sample_count > 0:
             power_speech = speech_power_sum / speech_sample_count
             power_nonspeech = non_speech_power_sum / non_speech_sample_count
-            if power_speech < power_nonspeech * 0.5:  # expect significant reduction due to ducking
+            if power_speech < power_nonspeech * 0.5:
                 print(f"✓ Ducking detected: speech power {power_speech:.6f} < non-speech {power_nonspeech:.6f}")
             else:
                 print(f"⚠ Ducking weak: speech power {power_speech:.6f}, non-speech {power_nonspeech:.6f} (reduction factor {power_speech/power_nonspeech if power_nonspeech>0 else 0:.2f})")
@@ -203,13 +207,12 @@ def main():
     else:
         print("⚠ No speech ducking regions to validate")
 
-    # 4. Check SFX presence: we can do a simple check by looking at energy around SFX times (optional)
-    # We'll just count events and assume they added something
     print(f"✓ Mixed {len(sfx_events)} SFX events")
 
-    # Save concise mix manifest
+    # Save concise mix manifest (candidate-specific)
     mix_manifest = {
         'video_id': video_id,
+        'selected_candidate_id': candidate_id,
         'source_manifests': {
             'audio_planning': planning_path,
             'acquisition': acquisition_path
@@ -226,7 +229,7 @@ def main():
             'ducking_verified': 'checked' if speech_ducking else 'none'
         }
     }
-    mix_manifest_path = os.path.join(audio_dir, 'mix_manifest.json')
+    mix_manifest_path = os.path.join(audio_dir, f'mix_manifest_cand{candidate_id}.json')
     with open(mix_manifest_path, 'w') as f:
         json.dump(mix_manifest, f, indent=2)
     print(f"\nMix manifest saved to {mix_manifest_path}")

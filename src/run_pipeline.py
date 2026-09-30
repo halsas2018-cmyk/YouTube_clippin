@@ -93,7 +93,7 @@ def copy_remotion_assets(video_id: str, project_root: Path) -> dict:
         shutil.copytree(src_broll, dst_broll)
         print(f"  Copied B-roll assets")
 
-    # Copy audio assets (mixed.wav)
+    # Copy audio assets (all mixed_cand*.wav and shared assets)
     src_audio = src_base / "media" / "audio"
     dst_audio = dst_base / "media" / "audio"
     if src_audio.exists():
@@ -102,7 +102,7 @@ def copy_remotion_assets(video_id: str, project_root: Path) -> dict:
         shutil.copytree(src_audio, dst_audio)
         print(f"  Copied audio assets")
 
-    # Copy other media files that might be in the source (like section_001.mp4 at root level)
+    # Copy other media files that might be in the source
     for file_name in ["section_001.mp4", "mixed.m4a", "mixed.wav"]:
         src_file = src_base / file_name
         if src_file.exists():
@@ -143,7 +143,7 @@ def main():
     print(f"Project root: {project_root}")
     print(f"=" * 60)
 
-    # Define all 12 stages
+    # Define all 12 stages (stages 1-9 are per-video, 10-12 are per-candidate)
     stages = [
         (1, ["python3", "-m", "src.youtube_ingestion", args.url]),
         (2, ["python3", "-m", "src.transcript_discovery", video_id]),
@@ -154,14 +154,11 @@ def main():
         (7, ["python3", "-m", "src.emoji_planning.emoji_planner", video_id]),
         (8, ["python3", "-m", "src.broll_planning.broll_planner", f"media/downloads/{video_id}"]),
         (9, ["python3", "-m", "src.broll_planning.broll_acquirer", f"media/downloads/{video_id}"]),
-        (10, ["python3", "-m", "src.audio_planning.audio_planning", video_id]),
-        (11, ["python3", "-m", "src.audio_planning.audio_acquisition_final", video_id, "--force"]),
-        (12, ["python3", "-m", "src.audio_planning.mix_audio", video_id]),
     ]
 
     total_stages = len(stages)
 
-    # Run all stages
+    # Run all stages 1-9
     for stage_num, cmd in stages:
         if stage_num < args.from_stage:
             print(f"\n[{stage_num}/{total_stages}] [SKIP] {' '.join(cmd)}")
@@ -171,6 +168,56 @@ def main():
         except subprocess.CalledProcessError as e:
             print(f"\n[{stage_num}/{total_stages}] ✗ FAILED with exit code {e.returncode}")
             sys.exit(1)
+
+    # Stage 10: Audio acquisition (once per video)
+    # This creates shared assets: background_music.wav, whoosh.wav, click.wav
+    acquisition_cmd = ["python3", "-m", "src.audio_planning.audio_acquisition_final", video_id, "--force"]
+    stage_num = 10
+    if stage_num < args.from_stage:
+        print(f"\n[{stage_num}/{total_stages}] [SKIP] {' '.join(acquisition_cmd)}")
+    else:
+        try:
+            run_stage(stage_num, total_stages, acquisition_cmd, project_root)
+        except subprocess.CalledProcessError as e:
+            print(f"\n[{stage_num}/{total_stages}] ✗ FAILED with exit code {e.returncode}")
+            sys.exit(1)
+
+    # Discover candidate IDs from final_clip_timings.json
+    timings_path = project_root / "media" / "downloads" / video_id / "final_clip_timings.json"
+    candidate_ids = []
+    if timings_path.exists():
+        with open(timings_path, "r") as f:
+            timings = json.load(f)
+        for cand in timings.get("candidates", []):
+            candidate_ids.append(cand.get("candidate_id"))
+
+    print(f"\nDiscovered candidate IDs: {candidate_ids}")
+
+    # Stages 11-12: Audio planning + mixing per candidate
+    for cand_id in candidate_ids:
+        # Stage 11: Audio planning for this candidate
+        planning_cmd = ["python3", "-m", "src.audio_planning.audio_planning", video_id, "--candidate-id", str(cand_id)]
+        stage_num = 11
+        if stage_num < args.from_stage:
+            print(f"\n[{stage_num}/{total_stages}] [SKIP] {' '.join(planning_cmd)}")
+        else:
+            try:
+                run_stage(stage_num, total_stages, planning_cmd, project_root)
+            except subprocess.CalledProcessError as e:
+                print(f"\n[{stage_num}/{total_stages}] ✗ FAILED with exit code {e.returncode}")
+                sys.exit(1)
+
+        # Stage 12: Audio mixing for this candidate
+        mix_cmd = ["python3", "-m", "src.audio_planning.mix_audio", video_id, "--candidate-id", str(cand_id)]
+        stage_num = 12
+        if stage_num < args.from_stage:
+            print(f"\n[{stage_num}/{total_stages}] [SKIP] {' '.join(mix_cmd)}")
+        else:
+            try:
+                run_stage(stage_num, total_stages, mix_cmd, project_root)
+            except subprocess.CalledProcessError as e:
+                print(f"\n[{stage_num}/{total_stages}] ✗ FAILED with exit code {e.returncode}")
+                sys.exit(1)
 
     # Stage 13: Prepare Remotion render package
     print(f"\n[{total_stages + 1}/{total_stages + 1}] Staging Remotion render package...")

@@ -157,7 +157,7 @@ const VideoRoot: React.FC = () => {
         continue;
       }
 
-      const sectionPath = `media/downloads/${videoId}/sections/section_${String(paddedIndex + 1).padStart(3, '0')}.mp4`;
+      const sectionPath = `media/downloads/${videoId}/sections/section_${String(candidateId).padStart(3, '0')}.mp4`;
       const src = staticFile(sectionPath);
 
       segments.push({
@@ -276,7 +276,7 @@ const VideoRoot: React.FC = () => {
       <>
         {/* Audio track - spans full composition */}
         <Audio
-          src={staticFile(`media/downloads/${videoId}/media/audio/mixed.wav`)}
+          src={staticFile(`media/downloads/${videoId}/media/audio/mixed_cand${candidateId}.wav`)}
         />
 
         {/* Original video segments */}
