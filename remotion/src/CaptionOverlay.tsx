@@ -13,7 +13,7 @@ const HIGHLIGHT_COLOR = "#39E508";
 const SWITCH_CAPTIONS_EVERY_MS = 1200;
 
 // ---------------------------------------------------------------------------
-// CaptionPage — renders one TikTok-style page inside its own <Sequence>
+// CaptionPage — renders a single word in the center of the screen
 // ---------------------------------------------------------------------------
 
 const CaptionPage: React.FC<{
@@ -40,40 +40,30 @@ const CaptionPage: React.FC<{
     }
   }
 
+  const token = page.tokens[0];
+  if (!token) return null;
+
   return (
     <AbsoluteFill style={{ justifyContent: "center", alignItems: "center" }}>
       <div
         style={{
           fontSize: 80,
           fontWeight: "bold",
-          whiteSpace: "pre-wrap",
+          whiteSpace: "nowrap",
           textAlign: "center",
-          color: "white",
-          padding: "0 60px",
-          width: "100%",
+          color: HIGHLIGHT_COLOR,
+          padding: "0 40px",
         }}
       >
-        {page.tokens.map((token, tokenIndex) => {
-          const isActive =
-            token.fromMs <= absoluteTimeMs && token.toMs > absoluteTimeMs;
-          return (
-            <span
-              key={`${token.fromMs}-${tokenIndex}`}
-              style={{ color: isActive ? HIGHLIGHT_COLOR : "white" }}
-            >
-              {token.text}
-            </span>
-          );
-        })}
-        {emoji}
+        {token.text.trim()}
+        {emoji ? ` ${emoji}` : ""}
       </div>
     </AbsoluteFill>
   );
 };
 
 // ---------------------------------------------------------------------------
-// CaptionOverlay — converts the custom caption_manifest format to Caption[],
-// groups into TikTok-style pages, and renders each page in a <Sequence>
+// CaptionOverlay — renders one word at a time as its own sequence
 // ---------------------------------------------------------------------------
 
 export const CaptionOverlay: React.FC<{
@@ -83,21 +73,19 @@ export const CaptionOverlay: React.FC<{
   const { fps } = useVideoConfig();
 
   // Convert custom word-level format → Caption[] for @remotion/captions
+  // Setting pageBreakAfter on every word ensures exactly one word per page
   const captions: Caption[] = useMemo(() => {
     if (!captionCandidate) return [];
     const result: Caption[] = [];
     for (const group of captionCandidate.caption_groups ?? []) {
-      const words = group.words ?? [];
-      for (let i = 0; i < words.length; i++) {
-        const word = words[i];
-        const isFirst = result.length === 0;
+      for (const word of group.words ?? []) {
         result.push({
-          text: isFirst ? word.word : ` ${word.word}`,
+          text: word.word,
           startMs: word.clip_start * 1000,
           endMs: word.clip_end * 1000,
           timestampMs: word.clip_start * 1000,
           confidence: null,
-          pageBreakAfter: i === words.length - 1,
+          pageBreakAfter: true,
         });
       }
     }
@@ -108,7 +96,7 @@ export const CaptionOverlay: React.FC<{
     () =>
       createTikTokStyleCaptions({
         captions,
-        combineTokensWithinMilliseconds: SWITCH_CAPTIONS_EVERY_MS,
+        combineTokensWithinMilliseconds: 0,
       }),
     [captions]
   );
@@ -117,10 +105,14 @@ export const CaptionOverlay: React.FC<{
     <AbsoluteFill>
       {pages.map((page, index) => {
         const nextPage = pages[index + 1] ?? null;
+        const token = page.tokens[0];
+        const nextStartMs = nextPage ? nextPage.startMs : page.startMs + page.durationMs;
+        const wordEndMs = token ? token.toMs : page.startMs + page.durationMs;
+        // Hold word while spoken + up to 150ms of trailing pause, or until next word starts
+        const endMs = Math.min(nextStartMs, Math.max(wordEndMs, page.startMs + 100) + 150);
+
         const startFrame = (page.startMs / 1000) * fps;
-        const endFrame = nextPage
-          ? (nextPage.startMs / 1000) * fps
-          : startFrame + (page.durationMs / 1000) * fps;
+        const endFrame = (endMs / 1000) * fps;
         const durationInFrames = Math.max(1, Math.round(endFrame - startFrame));
 
         if (durationInFrames <= 0) return null;

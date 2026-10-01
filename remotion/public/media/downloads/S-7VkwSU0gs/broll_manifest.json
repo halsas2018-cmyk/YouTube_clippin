@@ -1,0 +1,1146 @@
+{
+  "video_id": "S-7VkwSU0gs",
+  "llm_config": {
+    "provider": "google",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "decision_counts": {
+    "KEEP_ORIGINAL": 8,
+    "USE_BROLL": 9,
+    "ORIGINAL_WITH_OVERLAY": 7,
+    "total_decisions": 24
+  },
+  "total_asset_slots": 16,
+  "candidates": [
+    {
+      "candidate_id": 1,
+      "total_clip_duration_s": 37.416,
+      "original_video_duration_s": 37.015,
+      "broll_duration_s": 0.401,
+      "original_video_percentage": 98.93,
+      "decision_counts": {
+        "KEEP_ORIGINAL": 2,
+        "USE_BROLL": 2,
+        "ORIGINAL_WITH_OVERLAY": 1
+      },
+      "total_decisions": 5,
+      "asset_slot_count": 3,
+      "visual_decisions": [
+        {
+          "decision": "KEEP_ORIGINAL",
+          "supported_phrase": "Now, the last thing worth calling out, it's very easy to start narrow with the category fandom and expand into mainstream.",
+          "matched_words": [
+            "brand",
+            "and"
+          ],
+          "purpose": "Establishing the core concept with the speaker's direct address.",
+          "authoritative_timing": {
+            "clip_start": 6.105,
+            "clip_end": 6.645,
+            "duration_s": 0.54,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 113.122,
+            "global_end": 113.662
+          }
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom.",
+          "matched_words": [
+            "of",
+            "the"
+          ],
+          "purpose": "Visualizing the contrast between niche and mainstream growth.",
+          "authoritative_timing": {
+            "clip_start": 7.065,
+            "clip_end": 7.246,
+            "duration_s": 0.181,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 114.082,
+            "global_end": 114.263
+          },
+          "visual_concept": "An animated graphic showing a small circle expanding into a large circle, then attempting to shrink back down.",
+          "search_query": "growth chart animation"
+        },
+        {
+          "decision": "KEEP_ORIGINAL",
+          "supported_phrase": "That's why I call this out. So for you, as I describe the two games, you probably already have in your head which one you'd like to play. Just keep that in mind as we go through the rest of this framework.",
+          "matched_words": [
+            "through",
+            "the"
+          ],
+          "purpose": "Maintaining personal connection with the audience.",
+          "authoritative_timing": {
+            "clip_start": 0.0,
+            "clip_end": 0.38,
+            "duration_s": 0.38,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 107.017,
+            "global_end": 107.397
+          }
+        },
+        {
+          "decision": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "Now, positioning question number two is who is my target audience? It is very critical to align on this.",
+          "matched_words": [
+            "number",
+            "two",
+            "is"
+          ],
+          "purpose": "Highlighting the second key question of the framework.",
+          "authoritative_timing": {
+            "clip_start": 17.194,
+            "clip_end": 17.954,
+            "duration_s": 0.76,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 124.211,
+            "global_end": 124.971
+          },
+          "visual_concept": "A clean text overlay appearing on screen that reads 'Question 2: Who is my target audience?'",
+          "search_query": "minimal text overlay"
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "Who is the ideal viewer that I want to attract? And this will most likely map back to the game you just chose in question one.",
+          "matched_words": [
+            "is",
+            "the"
+          ],
+          "purpose": "Illustrating the concept of a target viewer profile.",
+          "authoritative_timing": {
+            "clip_start": 2.742,
+            "clip_end": 2.962,
+            "duration_s": 0.22,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 109.759,
+            "global_end": 109.979
+          },
+          "visual_concept": "A diverse group of people watching content on various devices, representing a target audience.",
+          "search_query": "diverse audience watching"
+        }
+      ],
+      "asset_slots": [
+        {
+          "slot_id": "asset_slot_cand_1_001",
+          "candidate_id": 1,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom.",
+          "matched_words": [
+            "of",
+            "the"
+          ],
+          "visual_concept": "An animated graphic showing a small circle expanding into a large circle, then attempting to shrink back down.",
+          "search_query": "growth chart animation",
+          "purpose": "Visualizing the contrast between niche and mainstream growth.",
+          "authoritative_timing": {
+            "clip_start": 7.065,
+            "clip_end": 7.246,
+            "duration_s": 0.181,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 114.082,
+            "global_end": 114.263
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/analyzing-business-growth-on-digital-tablet-38992894/",
+            "local_path": "media/downloads/S-7VkwSU0gs/media/broll/asset_slot_cand_1_001.mp4",
+            "file_size_bytes": 825313,
+            "attribution": {
+              "author": "Jakub Zerdzicki",
+              "author_url": "https://www.pexels.com/@jakubzerdzicki",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_1_002",
+          "candidate_id": 1,
+          "decision_type": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "Now, positioning question number two is who is my target audience? It is very critical to align on this.",
+          "matched_words": [
+            "number",
+            "two",
+            "is"
+          ],
+          "visual_concept": "A clean text overlay appearing on screen that reads 'Question 2: Who is my target audience?'",
+          "search_query": "minimal text overlay",
+          "purpose": "Highlighting the second key question of the framework.",
+          "authoritative_timing": {
+            "clip_start": 17.194,
+            "clip_end": 17.954,
+            "duration_s": 0.76,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 124.211,
+            "global_end": 124.971
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/green-scrabble-tiles-forming-words-5981845/",
+            "local_path": "media/downloads/S-7VkwSU0gs/media/broll/asset_slot_cand_1_002.mp4",
+            "file_size_bytes": 464175,
+            "attribution": {
+              "author": "Thirdman",
+              "author_url": "https://www.pexels.com/@thirdman",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_1_003",
+          "candidate_id": 1,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "Who is the ideal viewer that I want to attract? And this will most likely map back to the game you just chose in question one.",
+          "matched_words": [
+            "is",
+            "the"
+          ],
+          "visual_concept": "A diverse group of people watching content on various devices, representing a target audience.",
+          "search_query": "diverse audience watching",
+          "purpose": "Illustrating the concept of a target viewer profile.",
+          "authoritative_timing": {
+            "clip_start": 2.742,
+            "clip_end": 2.962,
+            "duration_s": 0.22,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 109.759,
+            "global_end": 109.979
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/people-watching-movie-in-a-cinema-7989387/",
+            "local_path": "media/downloads/S-7VkwSU0gs/media/broll/asset_slot_cand_1_003.mp4",
+            "file_size_bytes": 1206498,
+            "attribution": {
+              "author": "Tima Miroshnichenko",
+              "author_url": "https://www.pexels.com/@tima-miroshnichenko",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "candidate_id": 2,
+      "total_clip_duration_s": 52.921,
+      "original_video_duration_s": 52.361,
+      "broll_duration_s": 0.56,
+      "original_video_percentage": 98.94,
+      "decision_counts": {
+        "KEEP_ORIGINAL": 2,
+        "USE_BROLL": 2,
+        "ORIGINAL_WITH_OVERLAY": 2
+      },
+      "total_decisions": 6,
+      "asset_slot_count": 4,
+      "visual_decisions": [
+        {
+          "decision": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "Personal brand pillars. There are four pillars that make up the foundation of every personal brand.",
+          "matched_words": [
+            "and",
+            "I"
+          ],
+          "purpose": "Introduce the core concept with a visual list.",
+          "authoritative_timing": {
+            "clip_start": 41.338,
+            "clip_end": 41.458,
+            "duration_s": 0.12,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 242.134,
+            "global_end": 242.254
+          },
+          "visual_concept": "A clean, minimalist graphic appearing next to the speaker listing the four pillars as bullet points.",
+          "search_query": "minimalist infographic design"
+        },
+        {
+          "decision": "KEEP_ORIGINAL",
+          "supported_phrase": "Every single person that you look up to that has a personal brand you want to emulate has a definitive point of view on each of these pillars.",
+          "matched_words": [
+            "align",
+            "on"
+          ],
+          "purpose": "Maintain speaker connection for the persuasive argument.",
+          "authoritative_timing": {
+            "clip_start": 32.847,
+            "clip_end": 33.127,
+            "duration_s": 0.28,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 233.643,
+            "global_end": 233.923
+          }
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "And I'm telling you, it is extremely helpful to map these out before you start making content so they can act as guard rails for you.",
+          "matched_words": [
+            "for",
+            "you,"
+          ],
+          "purpose": "Illustrate the concept of planning and guard rails.",
+          "authoritative_timing": {
+            "clip_start": 20.814,
+            "clip_end": 21.094,
+            "duration_s": 0.28,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 221.61,
+            "global_end": 221.89
+          },
+          "visual_concept": "A top-down shot of a person sketching a content strategy map on a whiteboard.",
+          "search_query": "content strategy whiteboard"
+        },
+        {
+          "decision": "KEEP_ORIGINAL",
+          "supported_phrase": "And you're probably starting to sense a theme here. Winning in personal branding is not about adding stuff. It's about subtracting.",
+          "matched_words": [
+            "you",
+            "probably"
+          ],
+          "purpose": "Emphasize the speaker's direct advice.",
+          "authoritative_timing": {
+            "clip_start": 22.456,
+            "clip_end": 22.856,
+            "duration_s": 0.4,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 223.252,
+            "global_end": 223.652
+          }
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "When you're starting out making content or trying to build a personal brand, you can talk about anything to anyone in any way on any platform. Literally, the whole world is your ocean.",
+          "matched_words": [
+            "align",
+            "on"
+          ],
+          "purpose": "Visual metaphor for the overwhelming nature of infinite choices.",
+          "authoritative_timing": {
+            "clip_start": 32.847,
+            "clip_end": 33.127,
+            "duration_s": 0.28,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 233.643,
+            "global_end": 233.923
+          },
+          "visual_concept": "Cinematic drone footage of a vast, calm ocean.",
+          "search_query": "vast ocean drone"
+        },
+        {
+          "decision": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "Simply put, the art of personal branding is just putting guard rails around you to help define what you talk about, to whom, in what way, on what platforms.",
+          "matched_words": [
+            "in",
+            "this"
+          ],
+          "purpose": "Summarize the final takeaway with on-screen text.",
+          "authoritative_timing": {
+            "clip_start": 5.644,
+            "clip_end": 5.824,
+            "duration_s": 0.18,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 206.44,
+            "global_end": 206.62
+          },
+          "visual_concept": "Animated text overlay summarizing the four pillars: What, Who, How, Where.",
+          "search_query": "modern text animation"
+        }
+      ],
+      "asset_slots": [
+        {
+          "slot_id": "asset_slot_cand_2_001",
+          "candidate_id": 2,
+          "decision_type": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "Personal brand pillars. There are four pillars that make up the foundation of every personal brand.",
+          "matched_words": [
+            "and",
+            "I"
+          ],
+          "visual_concept": "A clean, minimalist graphic appearing next to the speaker listing the four pillars as bullet points.",
+          "search_query": "minimalist infographic design",
+          "purpose": "Introduce the core concept with a visual list.",
+          "authoritative_timing": {
+            "clip_start": 41.338,
+            "clip_end": 41.458,
+            "duration_s": 0.12,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 242.134,
+            "global_end": 242.254
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/animation-of-risk-6282326/",
+            "local_path": "media/downloads/S-7VkwSU0gs/media/broll/asset_slot_cand_2_001.mp4",
+            "file_size_bytes": 1002612,
+            "attribution": {
+              "author": "Monstera Production",
+              "author_url": "https://www.pexels.com/@gabby-k",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_2_002",
+          "candidate_id": 2,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "And I'm telling you, it is extremely helpful to map these out before you start making content so they can act as guard rails for you.",
+          "matched_words": [
+            "for",
+            "you,"
+          ],
+          "visual_concept": "A top-down shot of a person sketching a content strategy map on a whiteboard.",
+          "search_query": "content strategy whiteboard",
+          "purpose": "Illustrate the concept of planning and guard rails.",
+          "authoritative_timing": {
+            "clip_start": 20.814,
+            "clip_end": 21.094,
+            "duration_s": 0.28,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 221.61,
+            "global_end": 221.89
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/man-presenting-his-work-in-a-whiteboard-6324554/",
+            "local_path": "media/downloads/S-7VkwSU0gs/media/broll/asset_slot_cand_2_002.mp4",
+            "file_size_bytes": 787790,
+            "attribution": {
+              "author": "Vanessa Garcia",
+              "author_url": "https://www.pexels.com/@vanessa-garcia",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_2_003",
+          "candidate_id": 2,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "When you're starting out making content or trying to build a personal brand, you can talk about anything to anyone in any way on any platform. Literally, the whole world is your ocean.",
+          "matched_words": [
+            "align",
+            "on"
+          ],
+          "visual_concept": "Cinematic drone footage of a vast, calm ocean.",
+          "search_query": "vast ocean drone",
+          "purpose": "Visual metaphor for the overwhelming nature of infinite choices.",
+          "authoritative_timing": {
+            "clip_start": 32.847,
+            "clip_end": 33.127,
+            "duration_s": 0.28,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 233.643,
+            "global_end": 233.923
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/a-photo-of-a-wave-crashing-into-the-ocean-19302784/",
+            "local_path": "media/downloads/S-7VkwSU0gs/media/broll/asset_slot_cand_2_003.mp4",
+            "file_size_bytes": 3833670,
+            "attribution": {
+              "author": "Ahmet Kurt",
+              "author_url": "https://www.pexels.com/@ahmetkurt",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_2_004",
+          "candidate_id": 2,
+          "decision_type": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "Simply put, the art of personal branding is just putting guard rails around you to help define what you talk about, to whom, in what way, on what platforms.",
+          "matched_words": [
+            "in",
+            "this"
+          ],
+          "visual_concept": "Animated text overlay summarizing the four pillars: What, Who, How, Where.",
+          "search_query": "modern text animation",
+          "purpose": "Summarize the final takeaway with on-screen text.",
+          "authoritative_timing": {
+            "clip_start": 5.644,
+            "clip_end": 5.824,
+            "duration_s": 0.18,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 206.44,
+            "global_end": 206.62
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/text-animation-on-black-background-5981924/",
+            "local_path": "media/downloads/S-7VkwSU0gs/media/broll/asset_slot_cand_2_004.mp4",
+            "file_size_bytes": 1024258,
+            "attribution": {
+              "author": "Thirdman",
+              "author_url": "https://www.pexels.com/@thirdman",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "candidate_id": 3,
+      "total_clip_duration_s": 44.77,
+      "original_video_duration_s": 44.37,
+      "broll_duration_s": 0.4,
+      "original_video_percentage": 99.11,
+      "decision_counts": {
+        "KEEP_ORIGINAL": 2,
+        "USE_BROLL": 3,
+        "ORIGINAL_WITH_OVERLAY": 2
+      },
+      "total_decisions": 7,
+      "asset_slot_count": 5,
+      "visual_decisions": [
+        {
+          "decision": "KEEP_ORIGINAL",
+          "supported_phrase": "Now, the second personal brand pillar that's very important to map is your contrarian beliefs.",
+          "matched_words": [
+            "very",
+            "important",
+            "to"
+          ],
+          "purpose": "Establishing the topic with the speaker.",
+          "authoritative_timing": {
+            "clip_start": 28.678,
+            "clip_end": 29.438,
+            "duration_s": 0.76,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 365.035,
+            "global_end": 365.795
+          }
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now.",
+          "matched_words": [
+            "is",
+            "a"
+          ],
+          "purpose": "Visualizing the passage of time and consistency.",
+          "authoritative_timing": {
+            "clip_start": 26.337,
+            "clip_end": 26.477,
+            "duration_s": 0.14,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 362.694,
+            "global_end": 362.834
+          },
+          "visual_concept": "A montage of social media feeds scrolling quickly or a calendar flipping through years.",
+          "search_query": "social media timeline"
+        },
+        {
+          "decision": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is.",
+          "matched_words": [
+            "in"
+          ],
+          "purpose": "Highlighting the core strategy of differentiation.",
+          "authoritative_timing": {
+            "clip_start": 0.901,
+            "clip_end": 0.981,
+            "duration_s": 0.08,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 337.258,
+            "global_end": 337.338
+          },
+          "visual_concept": "An animated graphic showing a single arrow moving in a different direction from a group of arrows.",
+          "search_query": "different direction arrow"
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "If your opinions are the same as everyone else, you are just a derivative that is smaller than the main person. You'll always lose.",
+          "matched_words": [
+            "is",
+            "a"
+          ],
+          "purpose": "Illustrating the concept of being lost in a crowd.",
+          "authoritative_timing": {
+            "clip_start": 26.337,
+            "clip_end": 26.477,
+            "duration_s": 0.14,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 362.694,
+            "global_end": 362.834
+          },
+          "visual_concept": "A sea of identical people walking in a crowd, with one person standing still.",
+          "search_query": "crowded city street"
+        },
+        {
+          "decision": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically hasn't seen.",
+          "matched_words": [
+            "this",
+            "is"
+          ],
+          "purpose": "Listing the key elements for success.",
+          "authoritative_timing": {
+            "clip_start": 26.217,
+            "clip_end": 26.397,
+            "duration_s": 0.18,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 362.574,
+            "global_end": 362.754
+          },
+          "visual_concept": "Text callouts appearing on screen for 'Novel Frames', 'New Insights', and 'New Mechanisms'.",
+          "search_query": "minimalist text overlay"
+        },
+        {
+          "decision": "KEEP_ORIGINAL",
+          "supported_phrase": "Now, I will say it is a bit difficult to one-time brain dump all of the contrarian takes you've ever had in a single session.",
+          "matched_words": [
+            "as",
+            "it"
+          ],
+          "purpose": "Speaker addressing the difficulty of the task.",
+          "authoritative_timing": {
+            "clip_start": 1.722,
+            "clip_end": 1.922,
+            "duration_s": 0.2,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 338.079,
+            "global_end": 338.279
+          }
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "But that's why you want to build out this contrarian take vault. And this is simply just a document or a note that captures any perspective you have that's contrarian when it comes up in your mind.",
+          "matched_words": [
+            "in",
+            "your"
+          ],
+          "purpose": "Showing the practical application of the vault.",
+          "authoritative_timing": {
+            "clip_start": 0.901,
+            "clip_end": 1.161,
+            "duration_s": 0.26,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 337.258,
+            "global_end": 337.518
+          },
+          "visual_concept": "Close up of someone typing ideas into a digital note-taking app on a laptop.",
+          "search_query": "typing digital notes"
+        }
+      ],
+      "asset_slots": [
+        {
+          "slot_id": "asset_slot_cand_3_001",
+          "candidate_id": 3,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now.",
+          "matched_words": [
+            "is",
+            "a"
+          ],
+          "visual_concept": "A montage of social media feeds scrolling quickly or a calendar flipping through years.",
+          "search_query": "social media timeline",
+          "purpose": "Visualizing the passage of time and consistency.",
+          "authoritative_timing": {
+            "clip_start": 26.337,
+            "clip_end": 26.477,
+            "duration_s": 0.14,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 362.694,
+            "global_end": 362.834
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/interactive-project-management-on-tablet-38899338/",
+            "local_path": "media/downloads/S-7VkwSU0gs/media/broll/asset_slot_cand_3_001.mp4",
+            "file_size_bytes": 759904,
+            "attribution": {
+              "author": "Jakub Zerdzicki",
+              "author_url": "https://www.pexels.com/@jakubzerdzicki",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_3_002",
+          "candidate_id": 3,
+          "decision_type": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is.",
+          "matched_words": [
+            "in"
+          ],
+          "visual_concept": "An animated graphic showing a single arrow moving in a different direction from a group of arrows.",
+          "search_query": "different direction arrow",
+          "purpose": "Highlighting the core strategy of differentiation.",
+          "authoritative_timing": {
+            "clip_start": 0.901,
+            "clip_end": 0.981,
+            "duration_s": 0.08,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 337.258,
+            "global_end": 337.338
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/a-shadow-over-various-gemstones-7947685/",
+            "local_path": "media/downloads/S-7VkwSU0gs/media/broll/asset_slot_cand_3_002.mp4",
+            "file_size_bytes": 540877,
+            "attribution": {
+              "author": "Los Muertos Crew",
+              "author_url": "https://www.pexels.com/@cristian-rojas",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_3_003",
+          "candidate_id": 3,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "If your opinions are the same as everyone else, you are just a derivative that is smaller than the main person. You'll always lose.",
+          "matched_words": [
+            "is",
+            "a"
+          ],
+          "visual_concept": "A sea of identical people walking in a crowd, with one person standing still.",
+          "search_query": "crowded city street",
+          "purpose": "Illustrating the concept of being lost in a crowd.",
+          "authoritative_timing": {
+            "clip_start": 26.337,
+            "clip_end": 26.477,
+            "duration_s": 0.14,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 362.694,
+            "global_end": 362.834
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/busy-city-street-with-pedestrians-39569280/",
+            "local_path": "media/downloads/S-7VkwSU0gs/media/broll/asset_slot_cand_3_003.mp4",
+            "file_size_bytes": 3137054,
+            "attribution": {
+              "author": "Arief Hendriawan",
+              "author_url": "https://www.pexels.com/@arief-hendriawan-2159489818",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_3_004",
+          "candidate_id": 3,
+          "decision_type": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically hasn't seen.",
+          "matched_words": [
+            "this",
+            "is"
+          ],
+          "visual_concept": "Text callouts appearing on screen for 'Novel Frames', 'New Insights', and 'New Mechanisms'.",
+          "search_query": "minimalist text overlay",
+          "purpose": "Listing the key elements for success.",
+          "authoritative_timing": {
+            "clip_start": 26.217,
+            "clip_end": 26.397,
+            "duration_s": 0.18,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 362.574,
+            "global_end": 362.754
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/an-animation-of-the-word-help-on-a-yellow-background-5961492/",
+            "local_path": "media/downloads/S-7VkwSU0gs/media/broll/asset_slot_cand_3_004.mp4",
+            "file_size_bytes": 855265,
+            "attribution": {
+              "author": "Thirdman",
+              "author_url": "https://www.pexels.com/@thirdman",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_3_005",
+          "candidate_id": 3,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "But that's why you want to build out this contrarian take vault. And this is simply just a document or a note that captures any perspective you have that's contrarian when it comes up in your mind.",
+          "matched_words": [
+            "in",
+            "your"
+          ],
+          "visual_concept": "Close up of someone typing ideas into a digital note-taking app on a laptop.",
+          "search_query": "typing digital notes",
+          "purpose": "Showing the practical application of the vault.",
+          "authoritative_timing": {
+            "clip_start": 0.901,
+            "clip_end": 1.161,
+            "duration_s": 0.26,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 337.258,
+            "global_end": 337.518
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/efficient-workspace-with-notepad-and-keyboard-33194104/",
+            "local_path": "media/downloads/S-7VkwSU0gs/media/broll/asset_slot_cand_3_005.mp4",
+            "file_size_bytes": 627394,
+            "attribution": {
+              "author": "Jakub Zerdzicki",
+              "author_url": "https://www.pexels.com/@jakubzerdzicki",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "candidate_id": 4,
+      "total_clip_duration_s": 62.184,
+      "original_video_duration_s": 61.503,
+      "broll_duration_s": 0.681,
+      "original_video_percentage": 98.9,
+      "decision_counts": {
+        "KEEP_ORIGINAL": 2,
+        "USE_BROLL": 2,
+        "ORIGINAL_WITH_OVERLAY": 2
+      },
+      "total_decisions": 6,
+      "asset_slot_count": 4,
+      "visual_decisions": [
+        {
+          "decision": "KEEP_ORIGINAL",
+          "supported_phrase": "I mean the following. A content formula equals a topic plus a format plus a visual layout.",
+          "matched_words": [
+            "content",
+            "for",
+            "a"
+          ],
+          "purpose": "Establish the speaker's authority and introduce the core concept.",
+          "authoritative_timing": {
+            "clip_start": 40.335,
+            "clip_end": 40.776,
+            "duration_s": 0.441,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 663.633,
+            "global_end": 664.074
+          }
+        },
+        {
+          "decision": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "So, for example, if I was working with someone trying to build a personal brand in the barbecue space, like they're a barbecue chef, one of their content formulas might be something like this.",
+          "matched_words": [
+            "of",
+            "their",
+            "content"
+          ],
+          "purpose": "Display the formula components as a text graphic to reinforce the concept.",
+          "authoritative_timing": {
+            "clip_start": 2.302,
+            "clip_end": 2.902,
+            "duration_s": 0.6,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 625.6,
+            "global_end": 626.2
+          },
+          "visual_concept": "A clean, modern text overlay showing the equation: Topic + Format + Visual Layout.",
+          "search_query": "minimalist text overlay"
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "The topic is barbecue techniques, the format is a live demo or tutorial, and the visual layout is shot in world standing at the grill.",
+          "matched_words": [
+            "something"
+          ],
+          "purpose": "Provide visual context for the barbecue example.",
+          "authoritative_timing": {
+            "clip_start": 0.38,
+            "clip_end": 0.66,
+            "duration_s": 0.28,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 623.678,
+            "global_end": 623.958
+          },
+          "visual_concept": "A chef expertly grilling meat on a professional outdoor barbecue grill.",
+          "search_query": "chef grilling meat"
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "The topic is barbecue equipment and tools. The format is a listical. The visual format would be in the kitchen holding up the products, cutting back and forth between full screen, A-roll, and B-roll.",
+          "matched_words": [
+            "also",
+            "a"
+          ],
+          "purpose": "Show a different visual style to illustrate the variety of content formats.",
+          "authoritative_timing": {
+            "clip_start": 1.721,
+            "clip_end": 2.122,
+            "duration_s": 0.401,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 625.019,
+            "global_end": 625.42
+          },
+          "visual_concept": "A person in a kitchen holding up various high-end kitchen knives and tools.",
+          "search_query": "kitchen tools review"
+        },
+        {
+          "decision": "KEEP_ORIGINAL",
+          "supported_phrase": "These would be two different examples of content formulas used for the same personal brand.",
+          "matched_words": [
+            "personal",
+            "brand,"
+          ],
+          "purpose": "Speaker summarizes the previous examples.",
+          "authoritative_timing": {
+            "clip_start": 14.03,
+            "clip_end": 14.751,
+            "duration_s": 0.721,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 637.328,
+            "global_end": 638.049
+          }
+        },
+        {
+          "decision": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "Now, for most personal brands, they want to end up getting to three to four core topics, one to three core formats, and one to three core visual layouts. And this creates several different combinations or content formulas.",
+          "matched_words": [
+            "personal",
+            "brand,"
+          ],
+          "purpose": "Visualize the final strategy framework for the viewer.",
+          "authoritative_timing": {
+            "clip_start": 14.03,
+            "clip_end": 14.751,
+            "duration_s": 0.721,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 637.328,
+            "global_end": 638.049
+          },
+          "visual_concept": "An animated graphic showing a matrix of topics, formats, and layouts combining into multiple formulas.",
+          "search_query": "infographic animation"
+        }
+      ],
+      "asset_slots": [
+        {
+          "slot_id": "asset_slot_cand_4_001",
+          "candidate_id": 4,
+          "decision_type": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "So, for example, if I was working with someone trying to build a personal brand in the barbecue space, like they're a barbecue chef, one of their content formulas might be something like this.",
+          "matched_words": [
+            "of",
+            "their",
+            "content"
+          ],
+          "visual_concept": "A clean, modern text overlay showing the equation: Topic + Format + Visual Layout.",
+          "search_query": "minimalist text overlay",
+          "purpose": "Display the formula components as a text graphic to reinforce the concept.",
+          "authoritative_timing": {
+            "clip_start": 2.302,
+            "clip_end": 2.902,
+            "duration_s": 0.6,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 625.6,
+            "global_end": 626.2
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/an-animation-of-the-word-help-on-a-yellow-background-5961492/",
+            "local_path": "media/downloads/S-7VkwSU0gs/media/broll/asset_slot_cand_4_001.mp4",
+            "file_size_bytes": 855265,
+            "attribution": {
+              "author": "Thirdman",
+              "author_url": "https://www.pexels.com/@thirdman",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_4_002",
+          "candidate_id": 4,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "The topic is barbecue techniques, the format is a live demo or tutorial, and the visual layout is shot in world standing at the grill.",
+          "matched_words": [
+            "something"
+          ],
+          "visual_concept": "A chef expertly grilling meat on a professional outdoor barbecue grill.",
+          "search_query": "chef grilling meat",
+          "purpose": "Provide visual context for the barbecue example.",
+          "authoritative_timing": {
+            "clip_start": 0.38,
+            "clip_end": 0.66,
+            "duration_s": 0.28,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 623.678,
+            "global_end": 623.958
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/grilled-chicken-preparation-on-indoor-grill-28951981/",
+            "local_path": "media/downloads/S-7VkwSU0gs/media/broll/asset_slot_cand_4_002.mp4",
+            "file_size_bytes": 1495829,
+            "attribution": {
+              "author": "Ammad Rasool",
+              "author_url": "https://www.pexels.com/@ammad-rasool-56680900",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_4_003",
+          "candidate_id": 4,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "The topic is barbecue equipment and tools. The format is a listical. The visual format would be in the kitchen holding up the products, cutting back and forth between full screen, A-roll, and B-roll.",
+          "matched_words": [
+            "also",
+            "a"
+          ],
+          "visual_concept": "A person in a kitchen holding up various high-end kitchen knives and tools.",
+          "search_query": "kitchen tools review",
+          "purpose": "Show a different visual style to illustrate the variety of content formats.",
+          "authoritative_timing": {
+            "clip_start": 1.721,
+            "clip_end": 2.122,
+            "duration_s": 0.401,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 625.019,
+            "global_end": 625.42
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/a-woman-reviewing-a-recipe-6942757/",
+            "local_path": "media/downloads/S-7VkwSU0gs/media/broll/asset_slot_cand_4_003.mp4",
+            "file_size_bytes": 986013,
+            "attribution": {
+              "author": "Pavel Danilyuk",
+              "author_url": "https://www.pexels.com/@pavel-danilyuk",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_4_004",
+          "candidate_id": 4,
+          "decision_type": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "Now, for most personal brands, they want to end up getting to three to four core topics, one to three core formats, and one to three core visual layouts. And this creates several different combinations or content formulas.",
+          "matched_words": [
+            "personal",
+            "brand,"
+          ],
+          "visual_concept": "An animated graphic showing a matrix of topics, formats, and layouts combining into multiple formulas.",
+          "search_query": "infographic animation",
+          "purpose": "Visualize the final strategy framework for the viewer.",
+          "authoritative_timing": {
+            "clip_start": 14.03,
+            "clip_end": 14.751,
+            "duration_s": 0.721,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 637.328,
+            "global_end": 638.049
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/transaction-illustration-6282371/",
+            "local_path": "media/downloads/S-7VkwSU0gs/media/broll/asset_slot_cand_4_004.mp4",
+            "file_size_bytes": 479540,
+            "attribution": {
+              "author": "Monstera Production",
+              "author_url": "https://www.pexels.com/@gabby-k",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "acquisition_summary": {
+    "acquired_asset_count": 16,
+    "provider_counts": {
+      "pexels": 16,
+      "pixabay": 0,
+      "failed": 0
+    }
+  }
+}

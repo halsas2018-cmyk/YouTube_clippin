@@ -1,0 +1,37 @@
+{
+  "section_id": "section_003",
+  "candidate_id": 3,
+  "video_id": "S-7VkwSU0gs",
+  "file_name": "section_003.mp4",
+  "file_path": "/root/youtubr_clipper/media/downloads/S-7VkwSU0gs/sections/section_003.mp4",
+  "start_offset": 328.88,
+  "end_offset": 389.12,
+  "target_duration_s": 60.24,
+  "probed_duration_s": 69.1,
+  "original_candidate_ranges": [
+    {
+      "start": 336.88,
+      "end": 381.12
+    }
+  ],
+  "padded_range": {
+    "start": 328.88,
+    "end": 389.12
+  },
+  "streams": [
+    {
+      "index": 0,
+      "codec_name": "vp9",
+      "codec_type": "video",
+      "duration": "69.100000"
+    },
+    {
+      "index": 1,
+      "codec_name": "opus",
+      "codec_type": "audio",
+      "duration": null
+    }
+  ],
+  "combined_text": "Now, the second personal brand pillar that's very important to map is your contrarian beliefs. And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now. And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is. If your opinions are the same as everyone else, you are just a derivative that is smaller than the main person. You'll always lose. This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically hasn't seen. Now, I will say it is a bit difficult to one-time brain dump all of the contrarian takes you've ever had in a single session. But that's why you want to build out this contrarian take vault. And this is simply just a document or a note that captures any perspective you have that's contrarian when it comes up in your mind.",
+  "reason": "This clip explains the necessity of contrarian beliefs for standing out in a crowded market and provides a practical, actionable tip (the 'contrarian take vault') for implementing this strategy."
+}

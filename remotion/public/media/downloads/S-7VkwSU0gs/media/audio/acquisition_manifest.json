@@ -1,0 +1,55 @@
+{
+  "video_id": "S-7VkwSU0gs",
+  "total_clip_duration_s": 30.0,
+  "audio_assets": [
+    {
+      "asset_id": "audio_background_music_001",
+      "type": "background_music",
+      "local_path": "/root/youtubr_clipper/media/downloads/S-7VkwSU0gs/media/audio/background_music.mp3",
+      "source_url": "https://cdn.freesound.org/previews/750/750507_14640845-hq.mp3",
+      "provider": "freesound",
+      "license": "CC \u2014 see Freesound for details",
+      "freesound_id": 750507,
+      "freesound_name": "Upbeat Corporate - Medium2",
+      "query": "upbeat corporate background",
+      "timing": {
+        "start": 0.0,
+        "end": 30.0
+      }
+    },
+    {
+      "asset_id": "audio_whoosh_001",
+      "type": "whoosh",
+      "local_path": "/root/youtubr_clipper/media/downloads/S-7VkwSU0gs/media/audio/whoosh.mp3",
+      "source_url": "https://cdn.freesound.org/previews/854/854083_9051306-hq.mp3",
+      "provider": "freesound",
+      "license": "CC \u2014 see Freesound for details",
+      "freesound_id": 854083,
+      "freesound_name": "Swoosh 3",
+      "query": "whoosh swoosh transition",
+      "timing": {
+        "start": null,
+        "end": null
+      }
+    },
+    {
+      "asset_id": "audio_click_001",
+      "type": "click",
+      "local_path": "/root/youtubr_clipper/media/downloads/S-7VkwSU0gs/media/audio/click.wav",
+      "source_url": "placeholder://click",
+      "provider": "placeholder",
+      "license": "placeholder (sine tone)",
+      "query": "ui click button",
+      "timing": {
+        "start": null,
+        "end": null
+      }
+    }
+  ],
+  "acquisition_summary": {
+    "acquired": 3,
+    "failed": 0,
+    "skipped": 0,
+    "total_attempted": 3
+  }
+}

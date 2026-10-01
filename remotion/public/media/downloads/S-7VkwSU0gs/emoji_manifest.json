@@ -1,0 +1,68 @@
+{
+  "video_id": "S-7VkwSU0gs",
+  "llm_provider": "google",
+  "llm_model": "gemini-3.1-flash-lite",
+  "candidates": [
+    {
+      "candidate_id": 1,
+      "total_clip_duration_s": 37.416,
+      "emoji_selections": [
+        {
+          "text": "personal brand",
+          "emoji": "\ud83d\ude80",
+          "reason": "The core subject of the video, representing growth and identity.",
+          "group_id": "cand_1_cap_005",
+          "clip_start": 5.724,
+          "clip_end": 6.065,
+          "start_time": 4.744,
+          "end_time": 6.065,
+          "matched_text": "personal brand"
+        },
+        {
+          "text": "mass awareness",
+          "emoji": "\ud83c\udf0d",
+          "reason": "Represents the scale and reach of the first objective.",
+          "group_id": "cand_1_cap_013",
+          "clip_start": 15.432,
+          "clip_end": 15.772,
+          "start_time": 14.491,
+          "end_time": 15.772,
+          "matched_text": "mass awareness"
+        },
+        {
+          "text": "efficient conversion",
+          "emoji": "\ud83d\udcb0",
+          "reason": "Highlights the business-focused goal of the second objective.",
+          "group_id": "cand_1_cap_016",
+          "clip_start": 19.255,
+          "clip_end": 19.696,
+          "start_time": 18.074,
+          "end_time": 19.696,
+          "matched_text": "efficient conversion."
+        },
+        {
+          "text": "mainstream",
+          "emoji": "\ud83d\udcfa",
+          "reason": "Represents broad, cultural fame.",
+          "group_id": "cand_1_cap_025",
+          "clip_start": 25.621,
+          "clip_end": 26.362,
+          "start_time": 25.341,
+          "end_time": 27.443,
+          "matched_text": "mainstream"
+        },
+        {
+          "text": "category famous",
+          "emoji": "\ud83c\udfc6",
+          "reason": "Represents niche authority and expertise.",
+          "group_id": "cand_1_cap_027",
+          "clip_start": 28.824,
+          "clip_end": 29.484,
+          "start_time": 28.484,
+          "end_time": 29.845,
+          "matched_text": "category famous?"
+        }
+      ]
+    }
+  ]
+}

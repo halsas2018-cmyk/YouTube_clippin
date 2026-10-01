@@ -89,10 +89,10 @@ const FrameInner: React.FC = () => {
   // ---------------------------------------------------------------------------
   return (
     <>
-      {/* Audio track */}
+      {/* Audio track — mixed_cand{N}.mp3 (real assets) or .wav (placeholder fallback) */}
       <Audio
         src={staticFile(
-          `media/downloads/${videoId}/media/audio/mixed_cand${candidateId}.wav`
+          `media/downloads/${videoId}/media/audio/mixed_cand${candidateId}.mp3`
         )}
       />
 

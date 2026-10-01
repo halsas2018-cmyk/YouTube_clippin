@@ -1,0 +1,2660 @@
+{
+  "section_id": "section_002",
+  "candidate_id": 2,
+  "video_id": "S-7VkwSU0gs",
+  "file_name": "section_002.mp4",
+  "file_path": "/root/youtubr_clipper/media/downloads/S-7VkwSU0gs/sections/section_002.mp4",
+  "start_offset": 192.88,
+  "end_offset": 261.6,
+  "target_duration_s": 68.72,
+  "probed_duration_s": 71.58,
+  "original_candidate_ranges": [
+    {
+      "start": 200.88,
+      "end": 253.6
+    }
+  ],
+  "padded_range": {
+    "start": 192.88,
+    "end": 261.6
+  },
+  "combined_text": "Personal brand pillars. There are four pillars that make up the foundation of every personal brand. Every single person that you look up to that has a personal brand you want to emulate has a definitive point of view on each of these pillars. And I'm telling you, it is extremely helpful to map these out before you start making content so they can act as guard rails for you. And you're probably starting to sense a theme here. Winning in personal branding is not about adding stuff. It's about subtracting. When you're starting out making content or trying to build a personal brand, you can talk about anything to anyone in any way on any platform. Literally, the whole world is your ocean. Simply put, the art of personal branding is just putting guard rails around you to help define what you talk about, to whom, in what way, on what platforms.",
+  "reason": "This segment introduces the core philosophy of personal branding as a process of subtraction and setting guardrails, which is a highly valuable and counterintuitive insight for creators.",
+  "alignment": {
+    "whisper_model": "base",
+    "language": "en",
+    "device": "cpu",
+    "compute_type": "float32",
+    "total_words": 261,
+    "timestamp_note": "local_start/local_end are relative to the section MP4 file (0-based seconds). global_start/global_end are authoritative original-video timestamps = local_timestamp + start_offset."
+  },
+  "words": [
+    {
+      "word": "and",
+      "local_start": 0.251,
+      "local_end": 0.331,
+      "global_start": 193.131,
+      "global_end": 193.211,
+      "score": 0.834,
+      "segment_index": 0,
+      "segment_text": "and you don't get the benefits that come with mainstream fame."
+    },
+    {
+      "word": "you",
+      "local_start": 0.371,
+      "local_end": 0.491,
+      "global_start": 193.251,
+      "global_end": 193.371,
+      "score": 0.889,
+      "segment_index": 0,
+      "segment_text": "and you don't get the benefits that come with mainstream fame."
+    },
+    {
+      "word": "don't",
+      "local_start": 0.551,
+      "local_end": 0.731,
+      "global_start": 193.431,
+      "global_end": 193.611,
+      "score": 0.89,
+      "segment_index": 0,
+      "segment_text": "and you don't get the benefits that come with mainstream fame."
+    },
+    {
+      "word": "get",
+      "local_start": 0.771,
+      "local_end": 0.892,
+      "global_start": 193.651,
+      "global_end": 193.772,
+      "score": 0.832,
+      "segment_index": 0,
+      "segment_text": "and you don't get the benefits that come with mainstream fame."
+    },
+    {
+      "word": "the",
+      "local_start": 0.932,
+      "local_end": 1.012,
+      "global_start": 193.812,
+      "global_end": 193.892,
+      "score": 0.876,
+      "segment_index": 0,
+      "segment_text": "and you don't get the benefits that come with mainstream fame."
+    },
+    {
+      "word": "benefits",
+      "local_start": 1.072,
+      "local_end": 1.492,
+      "global_start": 193.952,
+      "global_end": 194.372,
+      "score": 0.711,
+      "segment_index": 0,
+      "segment_text": "and you don't get the benefits that come with mainstream fame."
+    },
+    {
+      "word": "that",
+      "local_start": 1.532,
+      "local_end": 1.672,
+      "global_start": 194.412,
+      "global_end": 194.552,
+      "score": 0.736,
+      "segment_index": 0,
+      "segment_text": "and you don't get the benefits that come with mainstream fame."
+    },
+    {
+      "word": "come",
+      "local_start": 1.732,
+      "local_end": 1.912,
+      "global_start": 194.612,
+      "global_end": 194.792,
+      "score": 0.827,
+      "segment_index": 0,
+      "segment_text": "and you don't get the benefits that come with mainstream fame."
+    },
+    {
+      "word": "with",
+      "local_start": 1.952,
+      "local_end": 2.132,
+      "global_start": 194.832,
+      "global_end": 195.012,
+      "score": 0.759,
+      "segment_index": 0,
+      "segment_text": "and you don't get the benefits that come with mainstream fame."
+    },
+    {
+      "word": "mainstream",
+      "local_start": 2.272,
+      "local_end": 2.773,
+      "global_start": 195.152,
+      "global_end": 195.653,
+      "score": 0.843,
+      "segment_index": 0,
+      "segment_text": "and you don't get the benefits that come with mainstream fame."
+    },
+    {
+      "word": "fame.",
+      "local_start": 2.813,
+      "local_end": 3.073,
+      "global_start": 195.693,
+      "global_end": 195.953,
+      "score": 0.899,
+      "segment_index": 0,
+      "segment_text": "and you don't get the benefits that come with mainstream fame."
+    },
+    {
+      "word": "Now",
+      "local_start": 3.253,
+      "local_end": 3.373,
+      "global_start": 196.133,
+      "global_end": 196.253,
+      "score": 0.833,
+      "segment_index": 1,
+      "segment_text": "Now like anything, both of the games can work extremely well."
+    },
+    {
+      "word": "like",
+      "local_start": 3.413,
+      "local_end": 3.553,
+      "global_start": 196.293,
+      "global_end": 196.433,
+      "score": 0.851,
+      "segment_index": 1,
+      "segment_text": "Now like anything, both of the games can work extremely well."
+    },
+    {
+      "word": "anything,",
+      "local_start": 3.613,
+      "local_end": 3.934,
+      "global_start": 196.493,
+      "global_end": 196.814,
+      "score": 0.802,
+      "segment_index": 1,
+      "segment_text": "Now like anything, both of the games can work extremely well."
+    },
+    {
+      "word": "both",
+      "local_start": 4.174,
+      "local_end": 4.414,
+      "global_start": 197.054,
+      "global_end": 197.294,
+      "score": 0.833,
+      "segment_index": 1,
+      "segment_text": "Now like anything, both of the games can work extremely well."
+    },
+    {
+      "word": "of",
+      "local_start": 4.454,
+      "local_end": 4.494,
+      "global_start": 197.334,
+      "global_end": 197.374,
+      "score": 0.846,
+      "segment_index": 1,
+      "segment_text": "Now like anything, both of the games can work extremely well."
+    },
+    {
+      "word": "the",
+      "local_start": 4.554,
+      "local_end": 4.634,
+      "global_start": 197.434,
+      "global_end": 197.514,
+      "score": 0.833,
+      "segment_index": 1,
+      "segment_text": "Now like anything, both of the games can work extremely well."
+    },
+    {
+      "word": "games",
+      "local_start": 4.674,
+      "local_end": 4.934,
+      "global_start": 197.554,
+      "global_end": 197.814,
+      "score": 0.885,
+      "segment_index": 1,
+      "segment_text": "Now like anything, both of the games can work extremely well."
+    },
+    {
+      "word": "can",
+      "local_start": 4.974,
+      "local_end": 5.114,
+      "global_start": 197.854,
+      "global_end": 197.994,
+      "score": 0.884,
+      "segment_index": 1,
+      "segment_text": "Now like anything, both of the games can work extremely well."
+    },
+    {
+      "word": "work",
+      "local_start": 5.174,
+      "local_end": 5.355,
+      "global_start": 198.054,
+      "global_end": 198.235,
+      "score": 0.833,
+      "segment_index": 1,
+      "segment_text": "Now like anything, both of the games can work extremely well."
+    },
+    {
+      "word": "extremely",
+      "local_start": 5.455,
+      "local_end": 5.935,
+      "global_start": 198.335,
+      "global_end": 198.815,
+      "score": 0.79,
+      "segment_index": 1,
+      "segment_text": "Now like anything, both of the games can work extremely well."
+    },
+    {
+      "word": "well.",
+      "local_start": 5.975,
+      "local_end": 6.195,
+      "global_start": 198.855,
+      "global_end": 199.075,
+      "score": 0.858,
+      "segment_index": 1,
+      "segment_text": "Now like anything, both of the games can work extremely well."
+    },
+    {
+      "word": "You",
+      "local_start": 6.255,
+      "local_end": 6.335,
+      "global_start": 199.135,
+      "global_end": 199.215,
+      "score": 0.877,
+      "segment_index": 2,
+      "segment_text": "You can grow huge businesses in both, but they do require very different content strategies."
+    },
+    {
+      "word": "can",
+      "local_start": 6.355,
+      "local_end": 6.495,
+      "global_start": 199.235,
+      "global_end": 199.375,
+      "score": 0.689,
+      "segment_index": 2,
+      "segment_text": "You can grow huge businesses in both, but they do require very different content strategies."
+    },
+    {
+      "word": "grow",
+      "local_start": 6.535,
+      "local_end": 6.735,
+      "global_start": 199.415,
+      "global_end": 199.615,
+      "score": 0.856,
+      "segment_index": 2,
+      "segment_text": "You can grow huge businesses in both, but they do require very different content strategies."
+    },
+    {
+      "word": "huge",
+      "local_start": 6.856,
+      "local_end": 7.116,
+      "global_start": 199.736,
+      "global_end": 199.996,
+      "score": 0.817,
+      "segment_index": 2,
+      "segment_text": "You can grow huge businesses in both, but they do require very different content strategies."
+    },
+    {
+      "word": "businesses",
+      "local_start": 7.176,
+      "local_end": 7.616,
+      "global_start": 200.056,
+      "global_end": 200.496,
+      "score": 0.838,
+      "segment_index": 2,
+      "segment_text": "You can grow huge businesses in both, but they do require very different content strategies."
+    },
+    {
+      "word": "in",
+      "local_start": 7.756,
+      "local_end": 7.836,
+      "global_start": 200.636,
+      "global_end": 200.716,
+      "score": 0.905,
+      "segment_index": 2,
+      "segment_text": "You can grow huge businesses in both, but they do require very different content strategies."
+    },
+    {
+      "word": "both,",
+      "local_start": 7.916,
+      "local_end": 8.156,
+      "global_start": 200.796,
+      "global_end": 201.036,
+      "score": 0.9,
+      "segment_index": 2,
+      "segment_text": "You can grow huge businesses in both, but they do require very different content strategies."
+    },
+    {
+      "word": "but",
+      "local_start": 8.377,
+      "local_end": 8.477,
+      "global_start": 201.257,
+      "global_end": 201.357,
+      "score": 0.833,
+      "segment_index": 2,
+      "segment_text": "You can grow huge businesses in both, but they do require very different content strategies."
+    },
+    {
+      "word": "they",
+      "local_start": 8.497,
+      "local_end": 8.597,
+      "global_start": 201.377,
+      "global_end": 201.477,
+      "score": 0.876,
+      "segment_index": 2,
+      "segment_text": "You can grow huge businesses in both, but they do require very different content strategies."
+    },
+    {
+      "word": "do",
+      "local_start": 8.617,
+      "local_end": 8.737,
+      "global_start": 201.497,
+      "global_end": 201.617,
+      "score": 0.867,
+      "segment_index": 2,
+      "segment_text": "You can grow huge businesses in both, but they do require very different content strategies."
+    },
+    {
+      "word": "require",
+      "local_start": 8.777,
+      "local_end": 9.197,
+      "global_start": 201.657,
+      "global_end": 202.077,
+      "score": 0.838,
+      "segment_index": 2,
+      "segment_text": "You can grow huge businesses in both, but they do require very different content strategies."
+    },
+    {
+      "word": "very",
+      "local_start": 9.317,
+      "local_end": 9.577,
+      "global_start": 202.197,
+      "global_end": 202.457,
+      "score": 0.794,
+      "segment_index": 2,
+      "segment_text": "You can grow huge businesses in both, but they do require very different content strategies."
+    },
+    {
+      "word": "different",
+      "local_start": 9.657,
+      "local_end": 9.978,
+      "global_start": 202.537,
+      "global_end": 202.858,
+      "score": 0.844,
+      "segment_index": 2,
+      "segment_text": "You can grow huge businesses in both, but they do require very different content strategies."
+    },
+    {
+      "word": "content",
+      "local_start": 10.058,
+      "local_end": 10.518,
+      "global_start": 202.938,
+      "global_end": 203.398,
+      "score": 0.991,
+      "segment_index": 2,
+      "segment_text": "You can grow huge businesses in both, but they do require very different content strategies."
+    },
+    {
+      "word": "strategies.",
+      "local_start": 10.578,
+      "local_end": 11.118,
+      "global_start": 203.458,
+      "global_end": 203.998,
+      "score": 0.932,
+      "segment_index": 2,
+      "segment_text": "You can grow huge businesses in both, but they do require very different content strategies."
+    },
+    {
+      "word": "And",
+      "local_start": 11.319,
+      "local_end": 11.379,
+      "global_start": 204.199,
+      "global_end": 204.259,
+      "score": 0.97,
+      "segment_index": 3,
+      "segment_text": "And we'll circle back to the content strategy piece a bit later in this video."
+    },
+    {
+      "word": "we'll",
+      "local_start": 11.399,
+      "local_end": 11.539,
+      "global_start": 204.279,
+      "global_end": 204.419,
+      "score": 0.778,
+      "segment_index": 3,
+      "segment_text": "And we'll circle back to the content strategy piece a bit later in this video."
+    },
+    {
+      "word": "circle",
+      "local_start": 11.559,
+      "local_end": 11.759,
+      "global_start": 204.439,
+      "global_end": 204.639,
+      "score": 0.845,
+      "segment_index": 3,
+      "segment_text": "And we'll circle back to the content strategy piece a bit later in this video."
+    },
+    {
+      "word": "back",
+      "local_start": 11.799,
+      "local_end": 11.919,
+      "global_start": 204.679,
+      "global_end": 204.799,
+      "score": 0.876,
+      "segment_index": 3,
+      "segment_text": "And we'll circle back to the content strategy piece a bit later in this video."
+    },
+    {
+      "word": "to",
+      "local_start": 11.939,
+      "local_end": 12.019,
+      "global_start": 204.819,
+      "global_end": 204.899,
+      "score": 0.643,
+      "segment_index": 3,
+      "segment_text": "And we'll circle back to the content strategy piece a bit later in this video."
+    },
+    {
+      "word": "the",
+      "local_start": 12.059,
+      "local_end": 12.119,
+      "global_start": 204.939,
+      "global_end": 204.999,
+      "score": 0.997,
+      "segment_index": 3,
+      "segment_text": "And we'll circle back to the content strategy piece a bit later in this video."
+    },
+    {
+      "word": "content",
+      "local_start": 12.159,
+      "local_end": 12.419,
+      "global_start": 205.039,
+      "global_end": 205.299,
+      "score": 0.582,
+      "segment_index": 3,
+      "segment_text": "And we'll circle back to the content strategy piece a bit later in this video."
+    },
+    {
+      "word": "strategy",
+      "local_start": 12.439,
+      "local_end": 12.759,
+      "global_start": 205.319,
+      "global_end": 205.639,
+      "score": 0.526,
+      "segment_index": 3,
+      "segment_text": "And we'll circle back to the content strategy piece a bit later in this video."
+    },
+    {
+      "word": "piece",
+      "local_start": 12.779,
+      "local_end": 13.02,
+      "global_start": 205.659,
+      "global_end": 205.9,
+      "score": 0.811,
+      "segment_index": 3,
+      "segment_text": "And we'll circle back to the content strategy piece a bit later in this video."
+    },
+    {
+      "word": "a",
+      "local_start": 13.12,
+      "local_end": 13.16,
+      "global_start": 206.0,
+      "global_end": 206.04,
+      "score": 0.883,
+      "segment_index": 3,
+      "segment_text": "And we'll circle back to the content strategy piece a bit later in this video."
+    },
+    {
+      "word": "bit",
+      "local_start": 13.18,
+      "local_end": 13.32,
+      "global_start": 206.06,
+      "global_end": 206.2,
+      "score": 0.795,
+      "segment_index": 3,
+      "segment_text": "And we'll circle back to the content strategy piece a bit later in this video."
+    },
+    {
+      "word": "later",
+      "local_start": 13.34,
+      "local_end": 13.54,
+      "global_start": 206.22,
+      "global_end": 206.42,
+      "score": 0.784,
+      "segment_index": 3,
+      "segment_text": "And we'll circle back to the content strategy piece a bit later in this video."
+    },
+    {
+      "word": "in",
+      "local_start": 13.56,
+      "local_end": 13.6,
+      "global_start": 206.44,
+      "global_end": 206.48,
+      "score": 0.988,
+      "segment_index": 3,
+      "segment_text": "And we'll circle back to the content strategy piece a bit later in this video."
+    },
+    {
+      "word": "this",
+      "local_start": 13.64,
+      "local_end": 13.74,
+      "global_start": 206.52,
+      "global_end": 206.62,
+      "score": 0.633,
+      "segment_index": 3,
+      "segment_text": "And we'll circle back to the content strategy piece a bit later in this video."
+    },
+    {
+      "word": "video.",
+      "local_start": 13.76,
+      "local_end": 14.04,
+      "global_start": 206.64,
+      "global_end": 206.92,
+      "score": 0.746,
+      "segment_index": 3,
+      "segment_text": "And we'll circle back to the content strategy piece a bit later in this video."
+    },
+    {
+      "word": "Now",
+      "local_start": 14.22,
+      "local_end": 14.28,
+      "global_start": 207.1,
+      "global_end": 207.16,
+      "score": 0.996,
+      "segment_index": 4,
+      "segment_text": "Now the last thing worth calling out, it's very easy to start narrow with the category fandom and expand into mainstream."
+    },
+    {
+      "word": "the",
+      "local_start": 14.301,
+      "local_end": 14.381,
+      "global_start": 207.181,
+      "global_end": 207.261,
+      "score": 0.714,
+      "segment_index": 4,
+      "segment_text": "Now the last thing worth calling out, it's very easy to start narrow with the category fandom and expand into mainstream."
+    },
+    {
+      "word": "last",
+      "local_start": 14.421,
+      "local_end": 14.561,
+      "global_start": 207.301,
+      "global_end": 207.441,
+      "score": 0.874,
+      "segment_index": 4,
+      "segment_text": "Now the last thing worth calling out, it's very easy to start narrow with the category fandom and expand into mainstream."
+    },
+    {
+      "word": "thing",
+      "local_start": 14.581,
+      "local_end": 14.721,
+      "global_start": 207.461,
+      "global_end": 207.601,
+      "score": 0.806,
+      "segment_index": 4,
+      "segment_text": "Now the last thing worth calling out, it's very easy to start narrow with the category fandom and expand into mainstream."
+    },
+    {
+      "word": "worth",
+      "local_start": 14.741,
+      "local_end": 14.901,
+      "global_start": 207.621,
+      "global_end": 207.781,
+      "score": 0.772,
+      "segment_index": 4,
+      "segment_text": "Now the last thing worth calling out, it's very easy to start narrow with the category fandom and expand into mainstream."
+    },
+    {
+      "word": "calling",
+      "local_start": 14.941,
+      "local_end": 15.181,
+      "global_start": 207.821,
+      "global_end": 208.061,
+      "score": 0.922,
+      "segment_index": 4,
+      "segment_text": "Now the last thing worth calling out, it's very easy to start narrow with the category fandom and expand into mainstream."
+    },
+    {
+      "word": "out,",
+      "local_start": 15.241,
+      "local_end": 15.341,
+      "global_start": 208.121,
+      "global_end": 208.221,
+      "score": 0.999,
+      "segment_index": 4,
+      "segment_text": "Now the last thing worth calling out, it's very easy to start narrow with the category fandom and expand into mainstream."
+    },
+    {
+      "word": "it's",
+      "local_start": 15.501,
+      "local_end": 15.601,
+      "global_start": 208.381,
+      "global_end": 208.481,
+      "score": 0.931,
+      "segment_index": 4,
+      "segment_text": "Now the last thing worth calling out, it's very easy to start narrow with the category fandom and expand into mainstream."
+    },
+    {
+      "word": "very",
+      "local_start": 15.661,
+      "local_end": 15.902,
+      "global_start": 208.541,
+      "global_end": 208.782,
+      "score": 0.635,
+      "segment_index": 4,
+      "segment_text": "Now the last thing worth calling out, it's very easy to start narrow with the category fandom and expand into mainstream."
+    },
+    {
+      "word": "easy",
+      "local_start": 16.022,
+      "local_end": 16.242,
+      "global_start": 208.902,
+      "global_end": 209.122,
+      "score": 0.792,
+      "segment_index": 4,
+      "segment_text": "Now the last thing worth calling out, it's very easy to start narrow with the category fandom and expand into mainstream."
+    },
+    {
+      "word": "to",
+      "local_start": 16.302,
+      "local_end": 16.422,
+      "global_start": 209.182,
+      "global_end": 209.302,
+      "score": 0.804,
+      "segment_index": 4,
+      "segment_text": "Now the last thing worth calling out, it's very easy to start narrow with the category fandom and expand into mainstream."
+    },
+    {
+      "word": "start",
+      "local_start": 16.562,
+      "local_end": 16.902,
+      "global_start": 209.442,
+      "global_end": 209.782,
+      "score": 0.783,
+      "segment_index": 4,
+      "segment_text": "Now the last thing worth calling out, it's very easy to start narrow with the category fandom and expand into mainstream."
+    },
+    {
+      "word": "narrow",
+      "local_start": 17.162,
+      "local_end": 17.563,
+      "global_start": 210.042,
+      "global_end": 210.443,
+      "score": 0.859,
+      "segment_index": 4,
+      "segment_text": "Now the last thing worth calling out, it's very easy to start narrow with the category fandom and expand into mainstream."
+    },
+    {
+      "word": "with",
+      "local_start": 17.603,
+      "local_end": 17.743,
+      "global_start": 210.483,
+      "global_end": 210.623,
+      "score": 0.84,
+      "segment_index": 4,
+      "segment_text": "Now the last thing worth calling out, it's very easy to start narrow with the category fandom and expand into mainstream."
+    },
+    {
+      "word": "the",
+      "local_start": 17.763,
+      "local_end": 17.823,
+      "global_start": 210.643,
+      "global_end": 210.703,
+      "score": 0.977,
+      "segment_index": 4,
+      "segment_text": "Now the last thing worth calling out, it's very easy to start narrow with the category fandom and expand into mainstream."
+    },
+    {
+      "word": "category",
+      "local_start": 17.883,
+      "local_end": 18.363,
+      "global_start": 210.763,
+      "global_end": 211.243,
+      "score": 0.87,
+      "segment_index": 4,
+      "segment_text": "Now the last thing worth calling out, it's very easy to start narrow with the category fandom and expand into mainstream."
+    },
+    {
+      "word": "fandom",
+      "local_start": 18.403,
+      "local_end": 18.723,
+      "global_start": 211.283,
+      "global_end": 211.603,
+      "score": 0.832,
+      "segment_index": 4,
+      "segment_text": "Now the last thing worth calling out, it's very easy to start narrow with the category fandom and expand into mainstream."
+    },
+    {
+      "word": "and",
+      "local_start": 18.804,
+      "local_end": 18.884,
+      "global_start": 211.684,
+      "global_end": 211.764,
+      "score": 0.837,
+      "segment_index": 4,
+      "segment_text": "Now the last thing worth calling out, it's very easy to start narrow with the category fandom and expand into mainstream."
+    },
+    {
+      "word": "expand",
+      "local_start": 18.944,
+      "local_end": 19.604,
+      "global_start": 211.824,
+      "global_end": 212.484,
+      "score": 0.881,
+      "segment_index": 4,
+      "segment_text": "Now the last thing worth calling out, it's very easy to start narrow with the category fandom and expand into mainstream."
+    },
+    {
+      "word": "into",
+      "local_start": 19.724,
+      "local_end": 19.924,
+      "global_start": 212.604,
+      "global_end": 212.804,
+      "score": 0.832,
+      "segment_index": 4,
+      "segment_text": "Now the last thing worth calling out, it's very easy to start narrow with the category fandom and expand into mainstream."
+    },
+    {
+      "word": "mainstream.",
+      "local_start": 19.964,
+      "local_end": 20.465,
+      "global_start": 212.844,
+      "global_end": 213.345,
+      "score": 0.826,
+      "segment_index": 4,
+      "segment_text": "Now the last thing worth calling out, it's very easy to start narrow with the category fandom and expand into mainstream."
+    },
+    {
+      "word": "That's",
+      "local_start": 20.485,
+      "local_end": 20.605,
+      "global_start": 213.365,
+      "global_end": 213.485,
+      "score": 0.985,
+      "segment_index": 5,
+      "segment_text": "That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom."
+    },
+    {
+      "word": "what",
+      "local_start": 20.625,
+      "local_end": 20.705,
+      "global_start": 213.505,
+      "global_end": 213.585,
+      "score": 0.993,
+      "segment_index": 5,
+      "segment_text": "That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom."
+    },
+    {
+      "word": "you",
+      "local_start": 20.725,
+      "local_end": 20.825,
+      "global_start": 213.605,
+      "global_end": 213.705,
+      "score": 0.889,
+      "segment_index": 5,
+      "segment_text": "That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom."
+    },
+    {
+      "word": "typically",
+      "local_start": 20.865,
+      "local_end": 21.205,
+      "global_start": 213.745,
+      "global_end": 214.085,
+      "score": 0.779,
+      "segment_index": 5,
+      "segment_text": "That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom."
+    },
+    {
+      "word": "see",
+      "local_start": 21.245,
+      "local_end": 21.365,
+      "global_start": 214.125,
+      "global_end": 214.245,
+      "score": 0.816,
+      "segment_index": 5,
+      "segment_text": "That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom."
+    },
+    {
+      "word": "with",
+      "local_start": 21.385,
+      "local_end": 21.485,
+      "global_start": 214.265,
+      "global_end": 214.365,
+      "score": 0.898,
+      "segment_index": 5,
+      "segment_text": "That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom."
+    },
+    {
+      "word": "a",
+      "local_start": 21.505,
+      "local_end": 21.525,
+      "global_start": 214.385,
+      "global_end": 214.405,
+      "score": 0.022,
+      "segment_index": 5,
+      "segment_text": "That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom."
+    },
+    {
+      "word": "lot",
+      "local_start": 21.565,
+      "local_end": 21.685,
+      "global_start": 214.445,
+      "global_end": 214.565,
+      "score": 0.866,
+      "segment_index": 5,
+      "segment_text": "That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom."
+    },
+    {
+      "word": "of",
+      "local_start": 21.705,
+      "local_end": 21.745,
+      "global_start": 214.585,
+      "global_end": 214.625,
+      "score": 0.974,
+      "segment_index": 5,
+      "segment_text": "That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom."
+    },
+    {
+      "word": "these",
+      "local_start": 21.765,
+      "local_end": 21.926,
+      "global_start": 214.645,
+      "global_end": 214.806,
+      "score": 0.646,
+      "segment_index": 5,
+      "segment_text": "That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom."
+    },
+    {
+      "word": "big",
+      "local_start": 21.966,
+      "local_end": 22.146,
+      "global_start": 214.846,
+      "global_end": 215.026,
+      "score": 0.847,
+      "segment_index": 5,
+      "segment_text": "That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom."
+    },
+    {
+      "word": "guys,",
+      "local_start": 22.166,
+      "local_end": 22.446,
+      "global_start": 215.046,
+      "global_end": 215.326,
+      "score": 0.737,
+      "segment_index": 5,
+      "segment_text": "That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom."
+    },
+    {
+      "word": "but",
+      "local_start": 22.566,
+      "local_end": 22.646,
+      "global_start": 215.446,
+      "global_end": 215.526,
+      "score": 0.357,
+      "segment_index": 5,
+      "segment_text": "That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom."
+    },
+    {
+      "word": "it's",
+      "local_start": 22.666,
+      "local_end": 22.766,
+      "global_start": 215.546,
+      "global_end": 215.646,
+      "score": 0.846,
+      "segment_index": 5,
+      "segment_text": "That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom."
+    },
+    {
+      "word": "very",
+      "local_start": 22.846,
+      "local_end": 23.086,
+      "global_start": 215.726,
+      "global_end": 215.966,
+      "score": 0.739,
+      "segment_index": 5,
+      "segment_text": "That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom."
+    },
+    {
+      "word": "difficult",
+      "local_start": 23.166,
+      "local_end": 23.567,
+      "global_start": 216.046,
+      "global_end": 216.447,
+      "score": 0.717,
+      "segment_index": 5,
+      "segment_text": "That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom."
+    },
+    {
+      "word": "to",
+      "local_start": 23.607,
+      "local_end": 23.687,
+      "global_start": 216.487,
+      "global_end": 216.567,
+      "score": 0.764,
+      "segment_index": 5,
+      "segment_text": "That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom."
+    },
+    {
+      "word": "start",
+      "local_start": 23.787,
+      "local_end": 24.067,
+      "global_start": 216.667,
+      "global_end": 216.947,
+      "score": 0.802,
+      "segment_index": 5,
+      "segment_text": "That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom."
+    },
+    {
+      "word": "mainstream",
+      "local_start": 24.127,
+      "local_end": 24.647,
+      "global_start": 217.007,
+      "global_end": 217.527,
+      "score": 0.786,
+      "segment_index": 5,
+      "segment_text": "That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom."
+    },
+    {
+      "word": "and",
+      "local_start": 24.727,
+      "local_end": 24.808,
+      "global_start": 217.607,
+      "global_end": 217.688,
+      "score": 0.849,
+      "segment_index": 5,
+      "segment_text": "That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom."
+    },
+    {
+      "word": "go",
+      "local_start": 24.848,
+      "local_end": 25.008,
+      "global_start": 217.728,
+      "global_end": 217.888,
+      "score": 0.678,
+      "segment_index": 5,
+      "segment_text": "That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom."
+    },
+    {
+      "word": "back",
+      "local_start": 25.148,
+      "local_end": 25.408,
+      "global_start": 218.028,
+      "global_end": 218.288,
+      "score": 0.88,
+      "segment_index": 5,
+      "segment_text": "That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom."
+    },
+    {
+      "word": "down",
+      "local_start": 25.488,
+      "local_end": 25.768,
+      "global_start": 218.368,
+      "global_end": 218.648,
+      "score": 0.914,
+      "segment_index": 5,
+      "segment_text": "That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom."
+    },
+    {
+      "word": "into",
+      "local_start": 25.888,
+      "local_end": 26.128,
+      "global_start": 218.768,
+      "global_end": 219.008,
+      "score": 0.746,
+      "segment_index": 5,
+      "segment_text": "That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom."
+    },
+    {
+      "word": "category",
+      "local_start": 26.188,
+      "local_end": 26.709,
+      "global_start": 219.068,
+      "global_end": 219.589,
+      "score": 0.873,
+      "segment_index": 5,
+      "segment_text": "That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom."
+    },
+    {
+      "word": "fandom.",
+      "local_start": 26.769,
+      "local_end": 27.089,
+      "global_start": 219.649,
+      "global_end": 219.969,
+      "score": 0.696,
+      "segment_index": 5,
+      "segment_text": "That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom."
+    },
+    {
+      "word": "That's",
+      "local_start": 27.369,
+      "local_end": 27.529,
+      "global_start": 220.249,
+      "global_end": 220.409,
+      "score": 0.912,
+      "segment_index": 6,
+      "segment_text": "That's why I call this out."
+    },
+    {
+      "word": "why",
+      "local_start": 27.569,
+      "local_end": 27.709,
+      "global_start": 220.449,
+      "global_end": 220.589,
+      "score": 0.895,
+      "segment_index": 6,
+      "segment_text": "That's why I call this out."
+    },
+    {
+      "word": "I",
+      "local_start": 27.769,
+      "local_end": 27.83,
+      "global_start": 220.649,
+      "global_end": 220.71,
+      "score": 0.738,
+      "segment_index": 6,
+      "segment_text": "That's why I call this out."
+    },
+    {
+      "word": "call",
+      "local_start": 27.87,
+      "local_end": 28.03,
+      "global_start": 220.75,
+      "global_end": 220.91,
+      "score": 0.877,
+      "segment_index": 6,
+      "segment_text": "That's why I call this out."
+    },
+    {
+      "word": "this",
+      "local_start": 28.07,
+      "local_end": 28.21,
+      "global_start": 220.95,
+      "global_end": 221.09,
+      "score": 0.75,
+      "segment_index": 6,
+      "segment_text": "That's why I call this out."
+    },
+    {
+      "word": "out.",
+      "local_start": 28.31,
+      "local_end": 28.41,
+      "global_start": 221.19,
+      "global_end": 221.29,
+      "score": 0.919,
+      "segment_index": 6,
+      "segment_text": "That's why I call this out."
+    },
+    {
+      "word": "So",
+      "local_start": 28.61,
+      "local_end": 28.71,
+      "global_start": 221.49,
+      "global_end": 221.59,
+      "score": 0.924,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "for",
+      "local_start": 28.73,
+      "local_end": 28.83,
+      "global_start": 221.61,
+      "global_end": 221.71,
+      "score": 0.792,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "you,",
+      "local_start": 28.87,
+      "local_end": 29.01,
+      "global_start": 221.75,
+      "global_end": 221.89,
+      "score": 1.0,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "as",
+      "local_start": 29.151,
+      "local_end": 29.251,
+      "global_start": 222.031,
+      "global_end": 222.131,
+      "score": 0.825,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "I",
+      "local_start": 29.291,
+      "local_end": 29.371,
+      "global_start": 222.171,
+      "global_end": 222.251,
+      "score": 0.756,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "describe",
+      "local_start": 29.411,
+      "local_end": 29.811,
+      "global_start": 222.291,
+      "global_end": 222.691,
+      "score": 0.792,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "the",
+      "local_start": 29.831,
+      "local_end": 29.911,
+      "global_start": 222.711,
+      "global_end": 222.791,
+      "score": 0.833,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "two",
+      "local_start": 29.931,
+      "local_end": 30.072,
+      "global_start": 222.811,
+      "global_end": 222.952,
+      "score": 0.83,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "games,",
+      "local_start": 30.112,
+      "local_end": 30.352,
+      "global_start": 222.992,
+      "global_end": 223.232,
+      "score": 0.901,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "you",
+      "local_start": 30.372,
+      "local_end": 30.492,
+      "global_start": 223.252,
+      "global_end": 223.372,
+      "score": 0.833,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "probably",
+      "local_start": 30.512,
+      "local_end": 30.772,
+      "global_start": 223.392,
+      "global_end": 223.652,
+      "score": 0.85,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "already",
+      "local_start": 30.832,
+      "local_end": 31.073,
+      "global_start": 223.712,
+      "global_end": 223.953,
+      "score": 0.715,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "have",
+      "local_start": 31.113,
+      "local_end": 31.213,
+      "global_start": 223.993,
+      "global_end": 224.093,
+      "score": 0.836,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "in",
+      "local_start": 31.233,
+      "local_end": 31.293,
+      "global_start": 224.113,
+      "global_end": 224.173,
+      "score": 0.75,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "your",
+      "local_start": 31.313,
+      "local_end": 31.433,
+      "global_start": 224.193,
+      "global_end": 224.313,
+      "score": 0.759,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "head",
+      "local_start": 31.453,
+      "local_end": 31.593,
+      "global_start": 224.333,
+      "global_end": 224.473,
+      "score": 0.792,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "which",
+      "local_start": 31.653,
+      "local_end": 31.853,
+      "global_start": 224.533,
+      "global_end": 224.733,
+      "score": 0.835,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "one",
+      "local_start": 31.934,
+      "local_end": 32.014,
+      "global_start": 224.814,
+      "global_end": 224.894,
+      "score": 0.839,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "you'd",
+      "local_start": 32.054,
+      "local_end": 32.194,
+      "global_start": 224.934,
+      "global_end": 225.074,
+      "score": 0.862,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "like",
+      "local_start": 32.214,
+      "local_end": 32.354,
+      "global_start": 225.094,
+      "global_end": 225.234,
+      "score": 0.676,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "to",
+      "local_start": 32.394,
+      "local_end": 32.454,
+      "global_start": 225.274,
+      "global_end": 225.334,
+      "score": 0.753,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "play,",
+      "local_start": 32.494,
+      "local_end": 32.734,
+      "global_start": 225.374,
+      "global_end": 225.614,
+      "score": 0.864,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "just",
+      "local_start": 32.935,
+      "local_end": 33.095,
+      "global_start": 225.815,
+      "global_end": 225.975,
+      "score": 0.756,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "keep",
+      "local_start": 33.115,
+      "local_end": 33.275,
+      "global_start": 225.995,
+      "global_end": 226.155,
+      "score": 0.997,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "that",
+      "local_start": 33.315,
+      "local_end": 33.435,
+      "global_start": 226.195,
+      "global_end": 226.315,
+      "score": 0.935,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "in",
+      "local_start": 33.475,
+      "local_end": 33.535,
+      "global_start": 226.355,
+      "global_end": 226.415,
+      "score": 0.748,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "mind",
+      "local_start": 33.575,
+      "local_end": 33.836,
+      "global_start": 226.455,
+      "global_end": 226.716,
+      "score": 0.839,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "as",
+      "local_start": 33.996,
+      "local_end": 34.076,
+      "global_start": 226.876,
+      "global_end": 226.956,
+      "score": 0.9,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "we",
+      "local_start": 34.116,
+      "local_end": 34.236,
+      "global_start": 226.996,
+      "global_end": 227.116,
+      "score": 0.536,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "go",
+      "local_start": 34.256,
+      "local_end": 34.376,
+      "global_start": 227.136,
+      "global_end": 227.256,
+      "score": 0.68,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "through",
+      "local_start": 34.396,
+      "local_end": 34.576,
+      "global_start": 227.276,
+      "global_end": 227.456,
+      "score": 0.86,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "the",
+      "local_start": 34.596,
+      "local_end": 34.656,
+      "global_start": 227.476,
+      "global_end": 227.536,
+      "score": 1.0,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "rest",
+      "local_start": 34.697,
+      "local_end": 34.837,
+      "global_start": 227.577,
+      "global_end": 227.717,
+      "score": 0.786,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "of",
+      "local_start": 34.857,
+      "local_end": 34.897,
+      "global_start": 227.737,
+      "global_end": 227.777,
+      "score": 0.998,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "this",
+      "local_start": 34.937,
+      "local_end": 35.057,
+      "global_start": 227.817,
+      "global_end": 227.937,
+      "score": 0.76,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "framework.",
+      "local_start": 35.097,
+      "local_end": 35.457,
+      "global_start": 227.977,
+      "global_end": 228.337,
+      "score": 0.896,
+      "segment_index": 7,
+      "segment_text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework."
+    },
+    {
+      "word": "Now,",
+      "local_start": 35.718,
+      "local_end": 35.818,
+      "global_start": 228.598,
+      "global_end": 228.698,
+      "score": 0.958,
+      "segment_index": 8,
+      "segment_text": "Now, positioning question number two is, who is my target audience?"
+    },
+    {
+      "word": "positioning",
+      "local_start": 35.838,
+      "local_end": 36.238,
+      "global_start": 228.718,
+      "global_end": 229.118,
+      "score": 0.804,
+      "segment_index": 8,
+      "segment_text": "Now, positioning question number two is, who is my target audience?"
+    },
+    {
+      "word": "question",
+      "local_start": 36.278,
+      "local_end": 36.538,
+      "global_start": 229.158,
+      "global_end": 229.418,
+      "score": 0.902,
+      "segment_index": 8,
+      "segment_text": "Now, positioning question number two is, who is my target audience?"
+    },
+    {
+      "word": "number",
+      "local_start": 36.578,
+      "local_end": 36.779,
+      "global_start": 229.458,
+      "global_end": 229.659,
+      "score": 0.968,
+      "segment_index": 8,
+      "segment_text": "Now, positioning question number two is, who is my target audience?"
+    },
+    {
+      "word": "two",
+      "local_start": 36.839,
+      "local_end": 37.099,
+      "global_start": 229.719,
+      "global_end": 229.979,
+      "score": 0.83,
+      "segment_index": 8,
+      "segment_text": "Now, positioning question number two is, who is my target audience?"
+    },
+    {
+      "word": "is,",
+      "local_start": 37.359,
+      "local_end": 37.479,
+      "global_start": 230.239,
+      "global_end": 230.359,
+      "score": 0.781,
+      "segment_index": 8,
+      "segment_text": "Now, positioning question number two is, who is my target audience?"
+    },
+    {
+      "word": "who",
+      "local_start": 37.76,
+      "local_end": 37.92,
+      "global_start": 230.64,
+      "global_end": 230.8,
+      "score": 0.885,
+      "segment_index": 8,
+      "segment_text": "Now, positioning question number two is, who is my target audience?"
+    },
+    {
+      "word": "is",
+      "local_start": 38.06,
+      "local_end": 38.14,
+      "global_start": 230.94,
+      "global_end": 231.02,
+      "score": 0.673,
+      "segment_index": 8,
+      "segment_text": "Now, positioning question number two is, who is my target audience?"
+    },
+    {
+      "word": "my",
+      "local_start": 38.2,
+      "local_end": 38.36,
+      "global_start": 231.08,
+      "global_end": 231.24,
+      "score": 0.844,
+      "segment_index": 8,
+      "segment_text": "Now, positioning question number two is, who is my target audience?"
+    },
+    {
+      "word": "target",
+      "local_start": 38.46,
+      "local_end": 38.881,
+      "global_start": 231.34,
+      "global_end": 231.761,
+      "score": 0.925,
+      "segment_index": 8,
+      "segment_text": "Now, positioning question number two is, who is my target audience?"
+    },
+    {
+      "word": "audience?",
+      "local_start": 39.081,
+      "local_end": 39.442,
+      "global_start": 231.961,
+      "global_end": 232.322,
+      "score": 0.94,
+      "segment_index": 8,
+      "segment_text": "Now, positioning question number two is, who is my target audience?"
+    },
+    {
+      "word": "It",
+      "local_start": 39.802,
+      "local_end": 39.862,
+      "global_start": 232.682,
+      "global_end": 232.742,
+      "score": 0.75,
+      "segment_index": 9,
+      "segment_text": "It is very critical to align on this."
+    },
+    {
+      "word": "is",
+      "local_start": 39.902,
+      "local_end": 39.982,
+      "global_start": 232.782,
+      "global_end": 232.862,
+      "score": 0.636,
+      "segment_index": 9,
+      "segment_text": "It is very critical to align on this."
+    },
+    {
+      "word": "very",
+      "local_start": 40.062,
+      "local_end": 40.262,
+      "global_start": 232.942,
+      "global_end": 233.142,
+      "score": 0.803,
+      "segment_index": 9,
+      "segment_text": "It is very critical to align on this."
+    },
+    {
+      "word": "critical",
+      "local_start": 40.322,
+      "local_end": 40.603,
+      "global_start": 233.202,
+      "global_end": 233.483,
+      "score": 0.889,
+      "segment_index": 9,
+      "segment_text": "It is very critical to align on this."
+    },
+    {
+      "word": "to",
+      "local_start": 40.643,
+      "local_end": 40.723,
+      "global_start": 233.523,
+      "global_end": 233.603,
+      "score": 0.752,
+      "segment_index": 9,
+      "segment_text": "It is very critical to align on this."
+    },
+    {
+      "word": "align",
+      "local_start": 40.763,
+      "local_end": 40.983,
+      "global_start": 233.643,
+      "global_end": 233.863,
+      "score": 0.636,
+      "segment_index": 9,
+      "segment_text": "It is very critical to align on this."
+    },
+    {
+      "word": "on",
+      "local_start": 41.003,
+      "local_end": 41.043,
+      "global_start": 233.883,
+      "global_end": 233.923,
+      "score": 0.993,
+      "segment_index": 9,
+      "segment_text": "It is very critical to align on this."
+    },
+    {
+      "word": "this.",
+      "local_start": 41.083,
+      "local_end": 41.223,
+      "global_start": 233.963,
+      "global_end": 234.103,
+      "score": 0.9,
+      "segment_index": 9,
+      "segment_text": "It is very critical to align on this."
+    },
+    {
+      "word": "Who",
+      "local_start": 41.324,
+      "local_end": 41.444,
+      "global_start": 234.204,
+      "global_end": 234.324,
+      "score": 0.872,
+      "segment_index": 10,
+      "segment_text": "Who is the ideal viewer that I want to attract?"
+    },
+    {
+      "word": "is",
+      "local_start": 41.484,
+      "local_end": 41.564,
+      "global_start": 234.364,
+      "global_end": 234.444,
+      "score": 0.585,
+      "segment_index": 10,
+      "segment_text": "Who is the ideal viewer that I want to attract?"
+    },
+    {
+      "word": "the",
+      "local_start": 41.604,
+      "local_end": 41.704,
+      "global_start": 234.484,
+      "global_end": 234.584,
+      "score": 0.853,
+      "segment_index": 10,
+      "segment_text": "Who is the ideal viewer that I want to attract?"
+    },
+    {
+      "word": "ideal",
+      "local_start": 42.004,
+      "local_end": 42.345,
+      "global_start": 234.884,
+      "global_end": 235.225,
+      "score": 0.839,
+      "segment_index": 10,
+      "segment_text": "Who is the ideal viewer that I want to attract?"
+    },
+    {
+      "word": "viewer",
+      "local_start": 42.445,
+      "local_end": 42.825,
+      "global_start": 235.325,
+      "global_end": 235.705,
+      "score": 0.772,
+      "segment_index": 10,
+      "segment_text": "Who is the ideal viewer that I want to attract?"
+    },
+    {
+      "word": "that",
+      "local_start": 42.925,
+      "local_end": 43.045,
+      "global_start": 235.805,
+      "global_end": 235.925,
+      "score": 0.816,
+      "segment_index": 10,
+      "segment_text": "Who is the ideal viewer that I want to attract?"
+    },
+    {
+      "word": "I",
+      "local_start": 43.085,
+      "local_end": 43.145,
+      "global_start": 235.965,
+      "global_end": 236.025,
+      "score": 0.675,
+      "segment_index": 10,
+      "segment_text": "Who is the ideal viewer that I want to attract?"
+    },
+    {
+      "word": "want",
+      "local_start": 43.206,
+      "local_end": 43.386,
+      "global_start": 236.086,
+      "global_end": 236.266,
+      "score": 0.699,
+      "segment_index": 10,
+      "segment_text": "Who is the ideal viewer that I want to attract?"
+    },
+    {
+      "word": "to",
+      "local_start": 43.406,
+      "local_end": 43.506,
+      "global_start": 236.286,
+      "global_end": 236.386,
+      "score": 0.572,
+      "segment_index": 10,
+      "segment_text": "Who is the ideal viewer that I want to attract?"
+    },
+    {
+      "word": "attract?",
+      "local_start": 43.546,
+      "local_end": 43.966,
+      "global_start": 236.426,
+      "global_end": 236.846,
+      "score": 0.869,
+      "segment_index": 10,
+      "segment_text": "Who is the ideal viewer that I want to attract?"
+    },
+    {
+      "word": "And",
+      "local_start": 44.106,
+      "local_end": 44.167,
+      "global_start": 236.986,
+      "global_end": 237.047,
+      "score": 0.983,
+      "segment_index": 11,
+      "segment_text": "And this will most likely map back to the game you just chose in question one."
+    },
+    {
+      "word": "this",
+      "local_start": 44.187,
+      "local_end": 44.267,
+      "global_start": 237.067,
+      "global_end": 237.147,
+      "score": 0.976,
+      "segment_index": 11,
+      "segment_text": "And this will most likely map back to the game you just chose in question one."
+    },
+    {
+      "word": "will",
+      "local_start": 44.287,
+      "local_end": 44.387,
+      "global_start": 237.167,
+      "global_end": 237.267,
+      "score": 0.948,
+      "segment_index": 11,
+      "segment_text": "And this will most likely map back to the game you just chose in question one."
+    },
+    {
+      "word": "most",
+      "local_start": 44.427,
+      "local_end": 44.547,
+      "global_start": 237.307,
+      "global_end": 237.427,
+      "score": 0.75,
+      "segment_index": 11,
+      "segment_text": "And this will most likely map back to the game you just chose in question one."
+    },
+    {
+      "word": "likely",
+      "local_start": 44.587,
+      "local_end": 44.807,
+      "global_start": 237.467,
+      "global_end": 237.687,
+      "score": 0.916,
+      "segment_index": 11,
+      "segment_text": "And this will most likely map back to the game you just chose in question one."
+    },
+    {
+      "word": "map",
+      "local_start": 44.847,
+      "local_end": 45.007,
+      "global_start": 237.727,
+      "global_end": 237.887,
+      "score": 0.838,
+      "segment_index": 11,
+      "segment_text": "And this will most likely map back to the game you just chose in question one."
+    },
+    {
+      "word": "back",
+      "local_start": 45.047,
+      "local_end": 45.248,
+      "global_start": 237.927,
+      "global_end": 238.128,
+      "score": 0.917,
+      "segment_index": 11,
+      "segment_text": "And this will most likely map back to the game you just chose in question one."
+    },
+    {
+      "word": "to",
+      "local_start": 45.268,
+      "local_end": 45.368,
+      "global_start": 238.148,
+      "global_end": 238.248,
+      "score": 0.688,
+      "segment_index": 11,
+      "segment_text": "And this will most likely map back to the game you just chose in question one."
+    },
+    {
+      "word": "the",
+      "local_start": 45.388,
+      "local_end": 45.468,
+      "global_start": 238.268,
+      "global_end": 238.348,
+      "score": 0.833,
+      "segment_index": 11,
+      "segment_text": "And this will most likely map back to the game you just chose in question one."
+    },
+    {
+      "word": "game",
+      "local_start": 45.508,
+      "local_end": 45.768,
+      "global_start": 238.388,
+      "global_end": 238.648,
+      "score": 0.782,
+      "segment_index": 11,
+      "segment_text": "And this will most likely map back to the game you just chose in question one."
+    },
+    {
+      "word": "you",
+      "local_start": 45.808,
+      "local_end": 45.948,
+      "global_start": 238.688,
+      "global_end": 238.828,
+      "score": 0.885,
+      "segment_index": 11,
+      "segment_text": "And this will most likely map back to the game you just chose in question one."
+    },
+    {
+      "word": "just",
+      "local_start": 45.988,
+      "local_end": 46.169,
+      "global_start": 238.868,
+      "global_end": 239.049,
+      "score": 0.833,
+      "segment_index": 11,
+      "segment_text": "And this will most likely map back to the game you just chose in question one."
+    },
+    {
+      "word": "chose",
+      "local_start": 46.249,
+      "local_end": 46.529,
+      "global_start": 239.129,
+      "global_end": 239.409,
+      "score": 0.814,
+      "segment_index": 11,
+      "segment_text": "And this will most likely map back to the game you just chose in question one."
+    },
+    {
+      "word": "in",
+      "local_start": 46.549,
+      "local_end": 46.629,
+      "global_start": 239.429,
+      "global_end": 239.509,
+      "score": 0.708,
+      "segment_index": 11,
+      "segment_text": "And this will most likely map back to the game you just chose in question one."
+    },
+    {
+      "word": "question",
+      "local_start": 46.689,
+      "local_end": 47.03,
+      "global_start": 239.569,
+      "global_end": 239.91,
+      "score": 0.889,
+      "segment_index": 11,
+      "segment_text": "And this will most likely map back to the game you just chose in question one."
+    },
+    {
+      "word": "one.",
+      "local_start": 47.21,
+      "local_end": 47.33,
+      "global_start": 240.09,
+      "global_end": 240.21,
+      "score": 0.968,
+      "segment_index": 11,
+      "segment_text": "And this will most likely map back to the game you just chose in question one."
+    },
+    {
+      "word": "For",
+      "local_start": 47.51,
+      "local_end": 47.61,
+      "global_start": 240.39,
+      "global_end": 240.49,
+      "score": 0.838,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "example,",
+      "local_start": 47.63,
+      "local_end": 47.931,
+      "global_start": 240.51,
+      "global_end": 240.811,
+      "score": 0.847,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "someone",
+      "local_start": 47.971,
+      "local_end": 48.191,
+      "global_start": 240.851,
+      "global_end": 241.071,
+      "score": 0.874,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "like",
+      "local_start": 48.212,
+      "local_end": 48.332,
+      "global_start": 241.092,
+      "global_end": 241.212,
+      "score": 0.876,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "Greg",
+      "local_start": 48.412,
+      "local_end": 48.692,
+      "global_start": 241.292,
+      "global_end": 241.572,
+      "score": 0.9,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "Lav,",
+      "local_start": 48.753,
+      "local_end": 49.093,
+      "global_start": 241.633,
+      "global_end": 241.973,
+      "score": 0.859,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "and",
+      "local_start": 49.254,
+      "local_end": 49.334,
+      "global_start": 242.134,
+      "global_end": 242.214,
+      "score": 0.832,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "I",
+      "local_start": 49.354,
+      "local_end": 49.374,
+      "global_start": 242.234,
+      "global_end": 242.254,
+      "score": 0.978,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "haven't",
+      "local_start": 49.394,
+      "local_end": 49.574,
+      "global_start": 242.274,
+      "global_end": 242.454,
+      "score": 0.636,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "talked",
+      "local_start": 49.594,
+      "local_end": 49.815,
+      "global_start": 242.474,
+      "global_end": 242.695,
+      "score": 0.734,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "to",
+      "local_start": 49.835,
+      "local_end": 49.895,
+      "global_start": 242.715,
+      "global_end": 242.775,
+      "score": 0.748,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "him,",
+      "local_start": 49.935,
+      "local_end": 50.055,
+      "global_start": 242.815,
+      "global_end": 242.935,
+      "score": 0.992,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "but",
+      "local_start": 50.336,
+      "local_end": 50.416,
+      "global_start": 243.216,
+      "global_end": 243.296,
+      "score": 0.999,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "I",
+      "local_start": 50.436,
+      "local_end": 50.456,
+      "global_start": 243.316,
+      "global_end": 243.336,
+      "score": 0.946,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "would",
+      "local_start": 50.476,
+      "local_end": 50.576,
+      "global_start": 243.356,
+      "global_end": 243.456,
+      "score": 0.992,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "imagine",
+      "local_start": 50.596,
+      "local_end": 50.917,
+      "global_start": 243.476,
+      "global_end": 243.797,
+      "score": 0.885,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "his",
+      "local_start": 50.957,
+      "local_end": 51.057,
+      "global_start": 243.837,
+      "global_end": 243.937,
+      "score": 0.846,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "secondary",
+      "local_start": 51.177,
+      "local_end": 51.638,
+      "global_start": 244.057,
+      "global_end": 244.518,
+      "score": 0.881,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "objective",
+      "local_start": 51.698,
+      "local_end": 52.179,
+      "global_start": 244.578,
+      "global_end": 245.059,
+      "score": 0.827,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "is",
+      "local_start": 52.36,
+      "local_end": 52.44,
+      "global_start": 245.24,
+      "global_end": 245.32,
+      "score": 0.636,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "to",
+      "local_start": 52.48,
+      "local_end": 52.62,
+      "global_start": 245.36,
+      "global_end": 245.5,
+      "score": 0.882,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "use",
+      "local_start": 52.921,
+      "local_end": 53.061,
+      "global_start": 245.801,
+      "global_end": 245.941,
+      "score": 0.716,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "his",
+      "local_start": 53.121,
+      "local_end": 53.221,
+      "global_start": 246.001,
+      "global_end": 246.101,
+      "score": 0.835,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "personal",
+      "local_start": 53.282,
+      "local_end": 53.602,
+      "global_start": 246.162,
+      "global_end": 246.482,
+      "score": 0.906,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "brand",
+      "local_start": 53.642,
+      "local_end": 53.943,
+      "global_start": 246.522,
+      "global_end": 246.823,
+      "score": 0.89,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "to",
+      "local_start": 54.203,
+      "local_end": 54.324,
+      "global_start": 247.083,
+      "global_end": 247.204,
+      "score": 0.832,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "grow",
+      "local_start": 54.364,
+      "local_end": 54.604,
+      "global_start": 247.244,
+      "global_end": 247.484,
+      "score": 0.938,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "sales",
+      "local_start": 54.644,
+      "local_end": 54.925,
+      "global_start": 247.524,
+      "global_end": 247.805,
+      "score": 0.696,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "of",
+      "local_start": 54.965,
+      "local_end": 55.025,
+      "global_start": 247.845,
+      "global_end": 247.905,
+      "score": 0.752,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "Bloom.",
+      "local_start": 55.065,
+      "local_end": 55.326,
+      "global_start": 247.945,
+      "global_end": 248.206,
+      "score": 0.803,
+      "segment_index": 12,
+      "segment_text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom."
+    },
+    {
+      "word": "His",
+      "local_start": 55.626,
+      "local_end": 55.746,
+      "global_start": 248.506,
+      "global_end": 248.626,
+      "score": 0.687,
+      "segment_index": 13,
+      "segment_text": "His primary objective, as he stated, is to help educate the next generation of entrepreneurs."
+    },
+    {
+      "word": "primary",
+      "local_start": 55.867,
+      "local_end": 56.308,
+      "global_start": 248.747,
+      "global_end": 249.188,
+      "score": 0.807,
+      "segment_index": 13,
+      "segment_text": "His primary objective, as he stated, is to help educate the next generation of entrepreneurs."
+    },
+    {
+      "word": "objective,",
+      "local_start": 56.348,
+      "local_end": 56.809,
+      "global_start": 249.228,
+      "global_end": 249.689,
+      "score": 0.868,
+      "segment_index": 13,
+      "segment_text": "His primary objective, as he stated, is to help educate the next generation of entrepreneurs."
+    },
+    {
+      "word": "as",
+      "local_start": 57.029,
+      "local_end": 57.149,
+      "global_start": 249.909,
+      "global_end": 250.029,
+      "score": 0.722,
+      "segment_index": 13,
+      "segment_text": "His primary objective, as he stated, is to help educate the next generation of entrepreneurs."
+    },
+    {
+      "word": "he",
+      "local_start": 57.209,
+      "local_end": 57.35,
+      "global_start": 250.089,
+      "global_end": 250.23,
+      "score": 0.818,
+      "segment_index": 13,
+      "segment_text": "His primary objective, as he stated, is to help educate the next generation of entrepreneurs."
+    },
+    {
+      "word": "stated,",
+      "local_start": 57.41,
+      "local_end": 57.791,
+      "global_start": 250.29,
+      "global_end": 250.671,
+      "score": 0.859,
+      "segment_index": 13,
+      "segment_text": "His primary objective, as he stated, is to help educate the next generation of entrepreneurs."
+    },
+    {
+      "word": "is",
+      "local_start": 58.151,
+      "local_end": 58.231,
+      "global_start": 251.031,
+      "global_end": 251.111,
+      "score": 0.544,
+      "segment_index": 13,
+      "segment_text": "His primary objective, as he stated, is to help educate the next generation of entrepreneurs."
+    },
+    {
+      "word": "to",
+      "local_start": 58.251,
+      "local_end": 58.372,
+      "global_start": 251.131,
+      "global_end": 251.252,
+      "score": 0.667,
+      "segment_index": 13,
+      "segment_text": "His primary objective, as he stated, is to help educate the next generation of entrepreneurs."
+    },
+    {
+      "word": "help",
+      "local_start": 58.492,
+      "local_end": 58.692,
+      "global_start": 251.372,
+      "global_end": 251.572,
+      "score": 0.866,
+      "segment_index": 13,
+      "segment_text": "His primary objective, as he stated, is to help educate the next generation of entrepreneurs."
+    },
+    {
+      "word": "educate",
+      "local_start": 58.933,
+      "local_end": 59.354,
+      "global_start": 251.813,
+      "global_end": 252.234,
+      "score": 0.884,
+      "segment_index": 13,
+      "segment_text": "His primary objective, as he stated, is to help educate the next generation of entrepreneurs."
+    },
+    {
+      "word": "the",
+      "local_start": 59.574,
+      "local_end": 59.674,
+      "global_start": 252.454,
+      "global_end": 252.554,
+      "score": 0.992,
+      "segment_index": 13,
+      "segment_text": "His primary objective, as he stated, is to help educate the next generation of entrepreneurs."
+    },
+    {
+      "word": "next",
+      "local_start": 59.795,
+      "local_end": 60.075,
+      "global_start": 252.675,
+      "global_end": 252.955,
+      "score": 0.816,
+      "segment_index": 13,
+      "segment_text": "His primary objective, as he stated, is to help educate the next generation of entrepreneurs."
+    },
+    {
+      "word": "generation",
+      "local_start": 60.215,
+      "local_end": 60.837,
+      "global_start": 253.095,
+      "global_end": 253.717,
+      "score": 0.837,
+      "segment_index": 13,
+      "segment_text": "His primary objective, as he stated, is to help educate the next generation of entrepreneurs."
+    },
+    {
+      "word": "of",
+      "local_start": 61.217,
+      "local_end": 61.277,
+      "global_start": 254.097,
+      "global_end": 254.157,
+      "score": 0.764,
+      "segment_index": 13,
+      "segment_text": "His primary objective, as he stated, is to help educate the next generation of entrepreneurs."
+    },
+    {
+      "word": "entrepreneurs.",
+      "local_start": 61.298,
+      "local_end": 62.059,
+      "global_start": 254.178,
+      "global_end": 254.939,
+      "score": 0.529,
+      "segment_index": 13,
+      "segment_text": "His primary objective, as he stated, is to help educate the next generation of entrepreneurs."
+    },
+    {
+      "word": "And",
+      "local_start": 62.44,
+      "local_end": 62.5,
+      "global_start": 255.32,
+      "global_end": 255.38,
+      "score": 0.999,
+      "segment_index": 14,
+      "segment_text": "And knowing this is very helpful because it means he can frame his content both visually and informationally to attract exactly that type of ideal viewer."
+    },
+    {
+      "word": "knowing",
+      "local_start": 62.54,
+      "local_end": 62.74,
+      "global_start": 255.42,
+      "global_end": 255.62,
+      "score": 0.94,
+      "segment_index": 14,
+      "segment_text": "And knowing this is very helpful because it means he can frame his content both visually and informationally to attract exactly that type of ideal viewer."
+    },
+    {
+      "word": "this",
+      "local_start": 62.76,
+      "local_end": 62.901,
+      "global_start": 255.64,
+      "global_end": 255.781,
+      "score": 0.894,
+      "segment_index": 14,
+      "segment_text": "And knowing this is very helpful because it means he can frame his content both visually and informationally to attract exactly that type of ideal viewer."
+    },
+    {
+      "word": "is",
+      "local_start": 62.941,
+      "local_end": 63.001,
+      "global_start": 255.821,
+      "global_end": 255.881,
+      "score": 0.834,
+      "segment_index": 14,
+      "segment_text": "And knowing this is very helpful because it means he can frame his content both visually and informationally to attract exactly that type of ideal viewer."
+    },
+    {
+      "word": "very",
+      "local_start": 63.041,
+      "local_end": 63.221,
+      "global_start": 255.921,
+      "global_end": 256.101,
+      "score": 0.706,
+      "segment_index": 14,
+      "segment_text": "And knowing this is very helpful because it means he can frame his content both visually and informationally to attract exactly that type of ideal viewer."
+    },
+    {
+      "word": "helpful",
+      "local_start": 63.281,
+      "local_end": 63.582,
+      "global_start": 256.161,
+      "global_end": 256.462,
+      "score": 0.835,
+      "segment_index": 14,
+      "segment_text": "And knowing this is very helpful because it means he can frame his content both visually and informationally to attract exactly that type of ideal viewer."
+    },
+    {
+      "word": "because",
+      "local_start": 63.622,
+      "local_end": 63.803,
+      "global_start": 256.502,
+      "global_end": 256.683,
+      "score": 0.89,
+      "segment_index": 14,
+      "segment_text": "And knowing this is very helpful because it means he can frame his content both visually and informationally to attract exactly that type of ideal viewer."
+    },
+    {
+      "word": "it",
+      "local_start": 63.823,
+      "local_end": 63.883,
+      "global_start": 256.703,
+      "global_end": 256.763,
+      "score": 0.749,
+      "segment_index": 14,
+      "segment_text": "And knowing this is very helpful because it means he can frame his content both visually and informationally to attract exactly that type of ideal viewer."
+    },
+    {
+      "word": "means",
+      "local_start": 63.923,
+      "local_end": 64.123,
+      "global_start": 256.803,
+      "global_end": 257.003,
+      "score": 0.832,
+      "segment_index": 14,
+      "segment_text": "And knowing this is very helpful because it means he can frame his content both visually and informationally to attract exactly that type of ideal viewer."
+    },
+    {
+      "word": "he",
+      "local_start": 64.143,
+      "local_end": 64.223,
+      "global_start": 257.023,
+      "global_end": 257.103,
+      "score": 0.573,
+      "segment_index": 14,
+      "segment_text": "And knowing this is very helpful because it means he can frame his content both visually and informationally to attract exactly that type of ideal viewer."
+    },
+    {
+      "word": "can",
+      "local_start": 64.243,
+      "local_end": 64.384,
+      "global_start": 257.123,
+      "global_end": 257.264,
+      "score": 0.798,
+      "segment_index": 14,
+      "segment_text": "And knowing this is very helpful because it means he can frame his content both visually and informationally to attract exactly that type of ideal viewer."
+    },
+    {
+      "word": "frame",
+      "local_start": 64.504,
+      "local_end": 64.804,
+      "global_start": 257.384,
+      "global_end": 257.684,
+      "score": 0.786,
+      "segment_index": 14,
+      "segment_text": "And knowing this is very helpful because it means he can frame his content both visually and informationally to attract exactly that type of ideal viewer."
+    },
+    {
+      "word": "his",
+      "local_start": 64.865,
+      "local_end": 64.985,
+      "global_start": 257.745,
+      "global_end": 257.865,
+      "score": 0.776,
+      "segment_index": 14,
+      "segment_text": "And knowing this is very helpful because it means he can frame his content both visually and informationally to attract exactly that type of ideal viewer."
+    },
+    {
+      "word": "content",
+      "local_start": 65.065,
+      "local_end": 65.526,
+      "global_start": 257.945,
+      "global_end": 258.406,
+      "score": 0.897,
+      "segment_index": 14,
+      "segment_text": "And knowing this is very helpful because it means he can frame his content both visually and informationally to attract exactly that type of ideal viewer."
+    },
+    {
+      "word": "both",
+      "local_start": 65.626,
+      "local_end": 65.847,
+      "global_start": 258.506,
+      "global_end": 258.727,
+      "score": 0.675,
+      "segment_index": 14,
+      "segment_text": "And knowing this is very helpful because it means he can frame his content both visually and informationally to attract exactly that type of ideal viewer."
+    },
+    {
+      "word": "visually",
+      "local_start": 65.967,
+      "local_end": 66.448,
+      "global_start": 258.847,
+      "global_end": 259.328,
+      "score": 0.876,
+      "segment_index": 14,
+      "segment_text": "And knowing this is very helpful because it means he can frame his content both visually and informationally to attract exactly that type of ideal viewer."
+    },
+    {
+      "word": "and",
+      "local_start": 66.528,
+      "local_end": 66.628,
+      "global_start": 259.408,
+      "global_end": 259.508,
+      "score": 0.767,
+      "segment_index": 14,
+      "segment_text": "And knowing this is very helpful because it means he can frame his content both visually and informationally to attract exactly that type of ideal viewer."
+    },
+    {
+      "word": "informationally",
+      "local_start": 66.688,
+      "local_end": 67.35,
+      "global_start": 259.568,
+      "global_end": 260.23,
+      "score": 0.859,
+      "segment_index": 14,
+      "segment_text": "And knowing this is very helpful because it means he can frame his content both visually and informationally to attract exactly that type of ideal viewer."
+    },
+    {
+      "word": "to",
+      "local_start": 67.67,
+      "local_end": 67.79,
+      "global_start": 260.55,
+      "global_end": 260.67,
+      "score": 0.833,
+      "segment_index": 14,
+      "segment_text": "And knowing this is very helpful because it means he can frame his content both visually and informationally to attract exactly that type of ideal viewer."
+    },
+    {
+      "word": "attract",
+      "local_start": 67.851,
+      "local_end": 68.311,
+      "global_start": 260.731,
+      "global_end": 261.191,
+      "score": 0.958,
+      "segment_index": 14,
+      "segment_text": "And knowing this is very helpful because it means he can frame his content both visually and informationally to attract exactly that type of ideal viewer."
+    },
+    {
+      "word": "exactly",
+      "local_start": 68.532,
+      "local_end": 69.133,
+      "global_start": 261.412,
+      "global_end": 262.013,
+      "score": 0.82,
+      "segment_index": 14,
+      "segment_text": "And knowing this is very helpful because it means he can frame his content both visually and informationally to attract exactly that type of ideal viewer."
+    },
+    {
+      "word": "that",
+      "local_start": 69.193,
+      "local_end": 69.354,
+      "global_start": 262.073,
+      "global_end": 262.234,
+      "score": 0.961,
+      "segment_index": 14,
+      "segment_text": "And knowing this is very helpful because it means he can frame his content both visually and informationally to attract exactly that type of ideal viewer."
+    },
+    {
+      "word": "type",
+      "local_start": 69.414,
+      "local_end": 69.634,
+      "global_start": 262.294,
+      "global_end": 262.514,
+      "score": 0.87,
+      "segment_index": 14,
+      "segment_text": "And knowing this is very helpful because it means he can frame his content both visually and informationally to attract exactly that type of ideal viewer."
+    },
+    {
+      "word": "of",
+      "local_start": 69.654,
+      "local_end": 69.734,
+      "global_start": 262.534,
+      "global_end": 262.614,
+      "score": 0.5,
+      "segment_index": 14,
+      "segment_text": "And knowing this is very helpful because it means he can frame his content both visually and informationally to attract exactly that type of ideal viewer."
+    },
+    {
+      "word": "ideal",
+      "local_start": 69.895,
+      "local_end": 70.155,
+      "global_start": 262.775,
+      "global_end": 263.035,
+      "score": 0.865,
+      "segment_index": 14,
+      "segment_text": "And knowing this is very helpful because it means he can frame his content both visually and informationally to attract exactly that type of ideal viewer."
+    },
+    {
+      "word": "viewer.",
+      "local_start": 70.195,
+      "local_end": 70.476,
+      "global_start": 263.075,
+      "global_end": 263.356,
+      "score": 0.915,
+      "segment_index": 14,
+      "segment_text": "And knowing this is very helpful because it means he can frame his content both visually and informationally to attract exactly that type of ideal viewer."
+    },
+    {
+      "word": "For",
+      "local_start": 70.736,
+      "local_end": 70.857,
+      "global_start": 263.616,
+      "global_end": 263.737,
+      "score": 0.869,
+      "segment_index": 15,
+      "segment_text": "For me, as another"
+    },
+    {
+      "word": "me,",
+      "local_start": 70.897,
+      "local_end": 71.097,
+      "global_start": 263.777,
+      "global_end": 263.977,
+      "score": 0.928,
+      "segment_index": 15,
+      "segment_text": "For me, as another"
+    },
+    {
+      "word": "as",
+      "local_start": 71.257,
+      "local_end": 71.337,
+      "global_start": 264.137,
+      "global_end": 264.217,
+      "score": 0.507,
+      "segment_index": 15,
+      "segment_text": "For me, as another"
+    },
+    {
+      "word": "another",
+      "local_start": 71.378,
+      "local_end": 71.558,
+      "global_start": 264.258,
+      "global_end": 264.438,
+      "score": 0.929,
+      "segment_index": 15,
+      "segment_text": "For me, as another"
+    }
+  ],
+  "raw_segments": [
+    {
+      "start": 0.031,
+      "end": 28.55,
+      "text": "and you don't get the benefits that come with mainstream fame. Now like anything, both of the games can work extremely well. You can grow huge businesses in both, but they do require very different content strategies. And we'll circle back to the content strategy piece a bit later in this video. Now the last thing worth calling out, it's very easy to start narrow with the category fandom and expand into mainstream. That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom. That's why I call this out."
+    },
+    {
+      "start": 28.55,
+      "end": 47.45,
+      "text": "So for you, as I describe the two games, you probably already have in your head which one you'd like to play, just keep that in mind as we go through the rest of this framework. Now, positioning question number two is, who is my target audience? It is very critical to align on this. Who is the ideal viewer that I want to attract? And this will most likely map back to the game you just chose in question one."
+    },
+    {
+      "start": 47.45,
+      "end": 71.598,
+      "text": "For example, someone like Greg Lav, and I haven't talked to him, but I would imagine his secondary objective is to use his personal brand to grow sales of Bloom. His primary objective, as he stated, is to help educate the next generation of entrepreneurs. And knowing this is very helpful because it means he can frame his content both visually and informationally to attract exactly that type of ideal viewer. For me, as another"
+    }
+  ]
+}

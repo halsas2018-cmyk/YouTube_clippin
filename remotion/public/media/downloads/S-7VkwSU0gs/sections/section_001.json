@@ -1,0 +1,37 @@
+{
+  "section_id": "section_001",
+  "candidate_id": 1,
+  "video_id": "S-7VkwSU0gs",
+  "file_name": "section_001.mp4",
+  "file_path": "/root/youtubr_clipper/media/downloads/S-7VkwSU0gs/sections/section_001.mp4",
+  "start_offset": 98.88,
+  "end_offset": 152.32,
+  "target_duration_s": 53.44,
+  "probed_duration_s": 62.3,
+  "original_candidate_ranges": [
+    {
+      "start": 106.88,
+      "end": 144.32
+    }
+  ],
+  "padded_range": {
+    "start": 98.88,
+    "end": 152.32
+  },
+  "streams": [
+    {
+      "index": 0,
+      "codec_name": "vp9",
+      "codec_type": "video",
+      "duration": "62.300000"
+    },
+    {
+      "index": 1,
+      "codec_name": "opus",
+      "codec_type": "audio",
+      "duration": null
+    }
+  ],
+  "combined_text": "Now, the last thing worth calling out, it's very easy to start narrow with the category fandom and expand into mainstream. That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom. That's why I call this out. So for you, as I describe the two games, you probably already have in your head which one you'd like to play. Just keep that in mind as we go through the rest of this framework. Now, positioning question number two is who is my target audience? It is very critical to align on this. Who is the ideal viewer that I want to attract? And this will most likely map back to the game you just chose in question one.",
+  "reason": "This clip provides a clear, actionable framework for choosing a personal brand strategy (mainstream vs. category-specific) and emphasizes the importance of defining a target audience to avoid 'viewer drift'."
+}

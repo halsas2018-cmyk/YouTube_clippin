@@ -1,0 +1,2080 @@
+{
+  "section_id": "section_001",
+  "candidate_id": 1,
+  "video_id": "S-7VkwSU0gs",
+  "file_name": "section_001.mp4",
+  "file_path": "/root/youtubr_clipper/media/downloads/S-7VkwSU0gs/sections/section_001.mp4",
+  "start_offset": 98.88,
+  "end_offset": 152.32,
+  "target_duration_s": 53.44,
+  "probed_duration_s": 62.3,
+  "original_candidate_ranges": [
+    {
+      "start": 106.88,
+      "end": 144.32
+    }
+  ],
+  "padded_range": {
+    "start": 98.88,
+    "end": 152.32
+  },
+  "combined_text": "Now, the last thing worth calling out, it's very easy to start narrow with the category fandom and expand into mainstream. That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom. That's why I call this out. So for you, as I describe the two games, you probably already have in your head which one you'd like to play. Just keep that in mind as we go through the rest of this framework. Now, positioning question number two is who is my target audience? It is very critical to align on this. Who is the ideal viewer that I want to attract? And this will most likely map back to the game you just chose in question one.",
+  "reason": "This clip provides a clear, actionable framework for choosing a personal brand strategy (mainstream vs. category-specific) and emphasizes the importance of defining a target audience to avoid 'viewer drift'.",
+  "alignment": {
+    "whisper_model": "base",
+    "language": "en",
+    "device": "cpu",
+    "compute_type": "float32",
+    "total_words": 203,
+    "timestamp_note": "local_start/local_end are relative to the section MP4 file (0-based seconds). global_start/global_end are authoritative original-video timestamps = local_timestamp + start_offset."
+  },
+  "words": [
+    {
+      "word": "For",
+      "local_start": 0.211,
+      "local_end": 0.291,
+      "global_start": 99.091,
+      "global_end": 99.171,
+      "score": 0.99,
+      "segment_index": 0,
+      "segment_text": "For the first few days in this 90 day window, I would focus exclusively on solving this."
+    },
+    {
+      "word": "the",
+      "local_start": 0.311,
+      "local_end": 0.411,
+      "global_start": 99.191,
+      "global_end": 99.291,
+      "score": 0.667,
+      "segment_index": 0,
+      "segment_text": "For the first few days in this 90 day window, I would focus exclusively on solving this."
+    },
+    {
+      "word": "first",
+      "local_start": 0.431,
+      "local_end": 0.631,
+      "global_start": 99.311,
+      "global_end": 99.511,
+      "score": 0.634,
+      "segment_index": 0,
+      "segment_text": "For the first few days in this 90 day window, I would focus exclusively on solving this."
+    },
+    {
+      "word": "few",
+      "local_start": 0.671,
+      "local_end": 0.812,
+      "global_start": 99.551,
+      "global_end": 99.692,
+      "score": 0.881,
+      "segment_index": 0,
+      "segment_text": "For the first few days in this 90 day window, I would focus exclusively on solving this."
+    },
+    {
+      "word": "days",
+      "local_start": 0.852,
+      "local_end": 1.052,
+      "global_start": 99.732,
+      "global_end": 99.932,
+      "score": 0.764,
+      "segment_index": 0,
+      "segment_text": "For the first few days in this 90 day window, I would focus exclusively on solving this."
+    },
+    {
+      "word": "in",
+      "local_start": 1.192,
+      "local_end": 1.252,
+      "global_start": 100.072,
+      "global_end": 100.132,
+      "score": 0.994,
+      "segment_index": 0,
+      "segment_text": "For the first few days in this 90 day window, I would focus exclusively on solving this."
+    },
+    {
+      "word": "this",
+      "local_start": 1.292,
+      "local_end": 1.452,
+      "global_start": 100.172,
+      "global_end": 100.332,
+      "score": 0.759,
+      "segment_index": 0,
+      "segment_text": "For the first few days in this 90 day window, I would focus exclusively on solving this."
+    },
+    {
+      "word": "90",
+      "local_start": 1.572,
+      "local_end": 1.852,
+      "global_start": 100.452,
+      "global_end": 100.732,
+      "score": 0.748,
+      "segment_index": 0,
+      "segment_text": "For the first few days in this 90 day window, I would focus exclusively on solving this."
+    },
+    {
+      "word": "day",
+      "local_start": 1.892,
+      "local_end": 2.012,
+      "global_start": 100.772,
+      "global_end": 100.892,
+      "score": 0.849,
+      "segment_index": 0,
+      "segment_text": "For the first few days in this 90 day window, I would focus exclusively on solving this."
+    },
+    {
+      "word": "window,",
+      "local_start": 2.053,
+      "local_end": 2.373,
+      "global_start": 100.933,
+      "global_end": 101.253,
+      "score": 0.924,
+      "segment_index": 0,
+      "segment_text": "For the first few days in this 90 day window, I would focus exclusively on solving this."
+    },
+    {
+      "word": "I",
+      "local_start": 2.493,
+      "local_end": 2.533,
+      "global_start": 101.373,
+      "global_end": 101.413,
+      "score": 1.0,
+      "segment_index": 0,
+      "segment_text": "For the first few days in this 90 day window, I would focus exclusively on solving this."
+    },
+    {
+      "word": "would",
+      "local_start": 2.553,
+      "local_end": 2.713,
+      "global_start": 101.433,
+      "global_end": 101.593,
+      "score": 0.906,
+      "segment_index": 0,
+      "segment_text": "For the first few days in this 90 day window, I would focus exclusively on solving this."
+    },
+    {
+      "word": "focus",
+      "local_start": 2.773,
+      "local_end": 3.133,
+      "global_start": 101.653,
+      "global_end": 102.013,
+      "score": 0.818,
+      "segment_index": 0,
+      "segment_text": "For the first few days in this 90 day window, I would focus exclusively on solving this."
+    },
+    {
+      "word": "exclusively",
+      "local_start": 3.253,
+      "local_end": 4.014,
+      "global_start": 102.133,
+      "global_end": 102.894,
+      "score": 0.813,
+      "segment_index": 0,
+      "segment_text": "For the first few days in this 90 day window, I would focus exclusively on solving this."
+    },
+    {
+      "word": "on",
+      "local_start": 4.174,
+      "local_end": 4.254,
+      "global_start": 103.054,
+      "global_end": 103.134,
+      "score": 0.954,
+      "segment_index": 0,
+      "segment_text": "For the first few days in this 90 day window, I would focus exclusively on solving this."
+    },
+    {
+      "word": "solving",
+      "local_start": 4.354,
+      "local_end": 4.735,
+      "global_start": 103.234,
+      "global_end": 103.615,
+      "score": 0.862,
+      "segment_index": 0,
+      "segment_text": "For the first few days in this 90 day window, I would focus exclusively on solving this."
+    },
+    {
+      "word": "this.",
+      "local_start": 4.795,
+      "local_end": 5.015,
+      "global_start": 103.675,
+      "global_end": 103.895,
+      "score": 0.884,
+      "segment_index": 0,
+      "segment_text": "For the first few days in this 90 day window, I would focus exclusively on solving this."
+    },
+    {
+      "word": "Now",
+      "local_start": 5.335,
+      "local_end": 5.415,
+      "global_start": 104.215,
+      "global_end": 104.295,
+      "score": 0.841,
+      "segment_index": 1,
+      "segment_text": "Now your personal brand positioning and strategy can be answered through the following three questions."
+    },
+    {
+      "word": "your",
+      "local_start": 5.435,
+      "local_end": 5.575,
+      "global_start": 104.315,
+      "global_end": 104.455,
+      "score": 0.867,
+      "segment_index": 1,
+      "segment_text": "Now your personal brand positioning and strategy can be answered through the following three questions."
+    },
+    {
+      "word": "personal",
+      "local_start": 5.595,
+      "local_end": 5.895,
+      "global_start": 104.475,
+      "global_end": 104.775,
+      "score": 0.828,
+      "segment_index": 1,
+      "segment_text": "Now your personal brand positioning and strategy can be answered through the following three questions."
+    },
+    {
+      "word": "brand",
+      "local_start": 5.915,
+      "local_end": 6.136,
+      "global_start": 104.795,
+      "global_end": 105.016,
+      "score": 0.763,
+      "segment_index": 1,
+      "segment_text": "Now your personal brand positioning and strategy can be answered through the following three questions."
+    },
+    {
+      "word": "positioning",
+      "local_start": 6.156,
+      "local_end": 6.556,
+      "global_start": 105.036,
+      "global_end": 105.436,
+      "score": 0.931,
+      "segment_index": 1,
+      "segment_text": "Now your personal brand positioning and strategy can be answered through the following three questions."
+    },
+    {
+      "word": "and",
+      "local_start": 6.576,
+      "local_end": 6.656,
+      "global_start": 105.456,
+      "global_end": 105.536,
+      "score": 0.506,
+      "segment_index": 1,
+      "segment_text": "Now your personal brand positioning and strategy can be answered through the following three questions."
+    },
+    {
+      "word": "strategy",
+      "local_start": 6.696,
+      "local_end": 7.136,
+      "global_start": 105.576,
+      "global_end": 106.016,
+      "score": 0.924,
+      "segment_index": 1,
+      "segment_text": "Now your personal brand positioning and strategy can be answered through the following three questions."
+    },
+    {
+      "word": "can",
+      "local_start": 7.196,
+      "local_end": 7.357,
+      "global_start": 106.076,
+      "global_end": 106.237,
+      "score": 0.895,
+      "segment_index": 1,
+      "segment_text": "Now your personal brand positioning and strategy can be answered through the following three questions."
+    },
+    {
+      "word": "be",
+      "local_start": 7.377,
+      "local_end": 7.477,
+      "global_start": 106.257,
+      "global_end": 106.357,
+      "score": 0.821,
+      "segment_index": 1,
+      "segment_text": "Now your personal brand positioning and strategy can be answered through the following three questions."
+    },
+    {
+      "word": "answered",
+      "local_start": 7.637,
+      "local_end": 7.997,
+      "global_start": 106.517,
+      "global_end": 106.877,
+      "score": 0.661,
+      "segment_index": 1,
+      "segment_text": "Now your personal brand positioning and strategy can be answered through the following three questions."
+    },
+    {
+      "word": "through",
+      "local_start": 8.137,
+      "local_end": 8.417,
+      "global_start": 107.017,
+      "global_end": 107.297,
+      "score": 0.728,
+      "segment_index": 1,
+      "segment_text": "Now your personal brand positioning and strategy can be answered through the following three questions."
+    },
+    {
+      "word": "the",
+      "local_start": 8.437,
+      "local_end": 8.517,
+      "global_start": 107.317,
+      "global_end": 107.397,
+      "score": 0.831,
+      "segment_index": 1,
+      "segment_text": "Now your personal brand positioning and strategy can be answered through the following three questions."
+    },
+    {
+      "word": "following",
+      "local_start": 8.597,
+      "local_end": 9.038,
+      "global_start": 107.477,
+      "global_end": 107.918,
+      "score": 0.773,
+      "segment_index": 1,
+      "segment_text": "Now your personal brand positioning and strategy can be answered through the following three questions."
+    },
+    {
+      "word": "three",
+      "local_start": 9.198,
+      "local_end": 9.438,
+      "global_start": 108.078,
+      "global_end": 108.318,
+      "score": 0.736,
+      "segment_index": 1,
+      "segment_text": "Now your personal brand positioning and strategy can be answered through the following three questions."
+    },
+    {
+      "word": "questions.",
+      "local_start": 9.478,
+      "local_end": 9.938,
+      "global_start": 108.358,
+      "global_end": 108.818,
+      "score": 0.825,
+      "segment_index": 1,
+      "segment_text": "Now your personal brand positioning and strategy can be answered through the following three questions."
+    },
+    {
+      "word": "The",
+      "local_start": 10.199,
+      "local_end": 10.299,
+      "global_start": 109.079,
+      "global_end": 109.179,
+      "score": 0.715,
+      "segment_index": 2,
+      "segment_text": "The first one is the objective."
+    },
+    {
+      "word": "first",
+      "local_start": 10.319,
+      "local_end": 10.519,
+      "global_start": 109.199,
+      "global_end": 109.399,
+      "score": 0.675,
+      "segment_index": 2,
+      "segment_text": "The first one is the objective."
+    },
+    {
+      "word": "one",
+      "local_start": 10.619,
+      "local_end": 10.739,
+      "global_start": 109.499,
+      "global_end": 109.619,
+      "score": 0.727,
+      "segment_index": 2,
+      "segment_text": "The first one is the objective."
+    },
+    {
+      "word": "is",
+      "local_start": 10.879,
+      "local_end": 10.959,
+      "global_start": 109.759,
+      "global_end": 109.839,
+      "score": 0.661,
+      "segment_index": 2,
+      "segment_text": "The first one is the objective."
+    },
+    {
+      "word": "the",
+      "local_start": 11.019,
+      "local_end": 11.099,
+      "global_start": 109.899,
+      "global_end": 109.979,
+      "score": 0.84,
+      "segment_index": 2,
+      "segment_text": "The first one is the objective."
+    },
+    {
+      "word": "objective.",
+      "local_start": 11.159,
+      "local_end": 11.66,
+      "global_start": 110.039,
+      "global_end": 110.54,
+      "score": 0.841,
+      "segment_index": 2,
+      "segment_text": "The first one is the objective."
+    },
+    {
+      "word": "What",
+      "local_start": 11.98,
+      "local_end": 12.12,
+      "global_start": 110.86,
+      "global_end": 111.0,
+      "score": 0.763,
+      "segment_index": 3,
+      "segment_text": "What is my core objective with this personal brand and which of the personal brand games am I trying to play?"
+    },
+    {
+      "word": "is",
+      "local_start": 12.16,
+      "local_end": 12.24,
+      "global_start": 111.04,
+      "global_end": 111.12,
+      "score": 0.505,
+      "segment_index": 3,
+      "segment_text": "What is my core objective with this personal brand and which of the personal brand games am I trying to play?"
+    },
+    {
+      "word": "my",
+      "local_start": 12.28,
+      "local_end": 12.42,
+      "global_start": 111.16,
+      "global_end": 111.3,
+      "score": 0.855,
+      "segment_index": 3,
+      "segment_text": "What is my core objective with this personal brand and which of the personal brand games am I trying to play?"
+    },
+    {
+      "word": "core",
+      "local_start": 12.5,
+      "local_end": 12.801,
+      "global_start": 111.38,
+      "global_end": 111.681,
+      "score": 0.557,
+      "segment_index": 3,
+      "segment_text": "What is my core objective with this personal brand and which of the personal brand games am I trying to play?"
+    },
+    {
+      "word": "objective",
+      "local_start": 12.881,
+      "local_end": 13.421,
+      "global_start": 111.761,
+      "global_end": 112.301,
+      "score": 0.734,
+      "segment_index": 3,
+      "segment_text": "What is my core objective with this personal brand and which of the personal brand games am I trying to play?"
+    },
+    {
+      "word": "with",
+      "local_start": 13.481,
+      "local_end": 13.621,
+      "global_start": 112.361,
+      "global_end": 112.501,
+      "score": 0.904,
+      "segment_index": 3,
+      "segment_text": "What is my core objective with this personal brand and which of the personal brand games am I trying to play?"
+    },
+    {
+      "word": "this",
+      "local_start": 13.661,
+      "local_end": 13.801,
+      "global_start": 112.541,
+      "global_end": 112.681,
+      "score": 0.748,
+      "segment_index": 3,
+      "segment_text": "What is my core objective with this personal brand and which of the personal brand games am I trying to play?"
+    },
+    {
+      "word": "personal",
+      "local_start": 13.861,
+      "local_end": 14.202,
+      "global_start": 112.741,
+      "global_end": 113.082,
+      "score": 0.711,
+      "segment_index": 3,
+      "segment_text": "What is my core objective with this personal brand and which of the personal brand games am I trying to play?"
+    },
+    {
+      "word": "brand",
+      "local_start": 14.242,
+      "local_end": 14.542,
+      "global_start": 113.122,
+      "global_end": 113.422,
+      "score": 0.889,
+      "segment_index": 3,
+      "segment_text": "What is my core objective with this personal brand and which of the personal brand games am I trying to play?"
+    },
+    {
+      "word": "and",
+      "local_start": 14.682,
+      "local_end": 14.782,
+      "global_start": 113.562,
+      "global_end": 113.662,
+      "score": 0.819,
+      "segment_index": 3,
+      "segment_text": "What is my core objective with this personal brand and which of the personal brand games am I trying to play?"
+    },
+    {
+      "word": "which",
+      "local_start": 14.882,
+      "local_end": 15.082,
+      "global_start": 113.762,
+      "global_end": 113.962,
+      "score": 0.864,
+      "segment_index": 3,
+      "segment_text": "What is my core objective with this personal brand and which of the personal brand games am I trying to play?"
+    },
+    {
+      "word": "of",
+      "local_start": 15.202,
+      "local_end": 15.283,
+      "global_start": 114.082,
+      "global_end": 114.163,
+      "score": 0.761,
+      "segment_index": 3,
+      "segment_text": "What is my core objective with this personal brand and which of the personal brand games am I trying to play?"
+    },
+    {
+      "word": "the",
+      "local_start": 15.303,
+      "local_end": 15.383,
+      "global_start": 114.183,
+      "global_end": 114.263,
+      "score": 0.831,
+      "segment_index": 3,
+      "segment_text": "What is my core objective with this personal brand and which of the personal brand games am I trying to play?"
+    },
+    {
+      "word": "personal",
+      "local_start": 15.463,
+      "local_end": 15.883,
+      "global_start": 114.343,
+      "global_end": 114.763,
+      "score": 0.697,
+      "segment_index": 3,
+      "segment_text": "What is my core objective with this personal brand and which of the personal brand games am I trying to play?"
+    },
+    {
+      "word": "brand",
+      "local_start": 15.923,
+      "local_end": 16.243,
+      "global_start": 114.803,
+      "global_end": 115.123,
+      "score": 0.87,
+      "segment_index": 3,
+      "segment_text": "What is my core objective with this personal brand and which of the personal brand games am I trying to play?"
+    },
+    {
+      "word": "games",
+      "local_start": 16.343,
+      "local_end": 16.764,
+      "global_start": 115.223,
+      "global_end": 115.644,
+      "score": 0.833,
+      "segment_index": 3,
+      "segment_text": "What is my core objective with this personal brand and which of the personal brand games am I trying to play?"
+    },
+    {
+      "word": "am",
+      "local_start": 16.984,
+      "local_end": 17.064,
+      "global_start": 115.864,
+      "global_end": 115.944,
+      "score": 0.78,
+      "segment_index": 3,
+      "segment_text": "What is my core objective with this personal brand and which of the personal brand games am I trying to play?"
+    },
+    {
+      "word": "I",
+      "local_start": 17.144,
+      "local_end": 17.204,
+      "global_start": 116.024,
+      "global_end": 116.084,
+      "score": 0.593,
+      "segment_index": 3,
+      "segment_text": "What is my core objective with this personal brand and which of the personal brand games am I trying to play?"
+    },
+    {
+      "word": "trying",
+      "local_start": 17.264,
+      "local_end": 17.524,
+      "global_start": 116.144,
+      "global_end": 116.404,
+      "score": 0.819,
+      "segment_index": 3,
+      "segment_text": "What is my core objective with this personal brand and which of the personal brand games am I trying to play?"
+    },
+    {
+      "word": "to",
+      "local_start": 17.564,
+      "local_end": 17.644,
+      "global_start": 116.444,
+      "global_end": 116.524,
+      "score": 0.785,
+      "segment_index": 3,
+      "segment_text": "What is my core objective with this personal brand and which of the personal brand games am I trying to play?"
+    },
+    {
+      "word": "play?",
+      "local_start": 17.704,
+      "local_end": 17.965,
+      "global_start": 116.584,
+      "global_end": 116.845,
+      "score": 0.871,
+      "segment_index": 3,
+      "segment_text": "What is my core objective with this personal brand and which of the personal brand games am I trying to play?"
+    },
+    {
+      "word": "There",
+      "local_start": 18.265,
+      "local_end": 18.385,
+      "global_start": 117.145,
+      "global_end": 117.265,
+      "score": 0.899,
+      "segment_index": 4,
+      "segment_text": "There are two main tracks or games when it comes to personal brand objectives."
+    },
+    {
+      "word": "are",
+      "local_start": 18.405,
+      "local_end": 18.505,
+      "global_start": 117.285,
+      "global_end": 117.385,
+      "score": 0.668,
+      "segment_index": 4,
+      "segment_text": "There are two main tracks or games when it comes to personal brand objectives."
+    },
+    {
+      "word": "two",
+      "local_start": 18.525,
+      "local_end": 18.685,
+      "global_start": 117.405,
+      "global_end": 117.565,
+      "score": 0.974,
+      "segment_index": 4,
+      "segment_text": "There are two main tracks or games when it comes to personal brand objectives."
+    },
+    {
+      "word": "main",
+      "local_start": 18.725,
+      "local_end": 18.985,
+      "global_start": 117.605,
+      "global_end": 117.865,
+      "score": 0.863,
+      "segment_index": 4,
+      "segment_text": "There are two main tracks or games when it comes to personal brand objectives."
+    },
+    {
+      "word": "tracks",
+      "local_start": 19.145,
+      "local_end": 19.586,
+      "global_start": 118.025,
+      "global_end": 118.466,
+      "score": 0.792,
+      "segment_index": 4,
+      "segment_text": "There are two main tracks or games when it comes to personal brand objectives."
+    },
+    {
+      "word": "or",
+      "local_start": 19.746,
+      "local_end": 19.886,
+      "global_start": 118.626,
+      "global_end": 118.766,
+      "score": 0.617,
+      "segment_index": 4,
+      "segment_text": "There are two main tracks or games when it comes to personal brand objectives."
+    },
+    {
+      "word": "games",
+      "local_start": 19.986,
+      "local_end": 20.326,
+      "global_start": 118.866,
+      "global_end": 119.206,
+      "score": 0.784,
+      "segment_index": 4,
+      "segment_text": "There are two main tracks or games when it comes to personal brand objectives."
+    },
+    {
+      "word": "when",
+      "local_start": 20.386,
+      "local_end": 20.506,
+      "global_start": 119.266,
+      "global_end": 119.386,
+      "score": 0.836,
+      "segment_index": 4,
+      "segment_text": "There are two main tracks or games when it comes to personal brand objectives."
+    },
+    {
+      "word": "it",
+      "local_start": 20.547,
+      "local_end": 20.587,
+      "global_start": 119.427,
+      "global_end": 119.467,
+      "score": 0.999,
+      "segment_index": 4,
+      "segment_text": "There are two main tracks or games when it comes to personal brand objectives."
+    },
+    {
+      "word": "comes",
+      "local_start": 20.627,
+      "local_end": 20.827,
+      "global_start": 119.507,
+      "global_end": 119.707,
+      "score": 0.821,
+      "segment_index": 4,
+      "segment_text": "There are two main tracks or games when it comes to personal brand objectives."
+    },
+    {
+      "word": "to",
+      "local_start": 20.867,
+      "local_end": 21.027,
+      "global_start": 119.747,
+      "global_end": 119.907,
+      "score": 0.746,
+      "segment_index": 4,
+      "segment_text": "There are two main tracks or games when it comes to personal brand objectives."
+    },
+    {
+      "word": "personal",
+      "local_start": 21.147,
+      "local_end": 21.507,
+      "global_start": 120.027,
+      "global_end": 120.387,
+      "score": 0.672,
+      "segment_index": 4,
+      "segment_text": "There are two main tracks or games when it comes to personal brand objectives."
+    },
+    {
+      "word": "brand",
+      "local_start": 21.527,
+      "local_end": 21.807,
+      "global_start": 120.407,
+      "global_end": 120.687,
+      "score": 0.793,
+      "segment_index": 4,
+      "segment_text": "There are two main tracks or games when it comes to personal brand objectives."
+    },
+    {
+      "word": "objectives.",
+      "local_start": 21.848,
+      "local_end": 22.348,
+      "global_start": 120.728,
+      "global_end": 121.228,
+      "score": 0.877,
+      "segment_index": 4,
+      "segment_text": "There are two main tracks or games when it comes to personal brand objectives."
+    },
+    {
+      "word": "Number",
+      "local_start": 22.628,
+      "local_end": 22.868,
+      "global_start": 121.508,
+      "global_end": 121.748,
+      "score": 0.876,
+      "segment_index": 5,
+      "segment_text": "Number one is mass awareness and reach, and number two is targeted awareness and efficient conversion."
+    },
+    {
+      "word": "one",
+      "local_start": 23.008,
+      "local_end": 23.129,
+      "global_start": 121.888,
+      "global_end": 122.009,
+      "score": 0.708,
+      "segment_index": 5,
+      "segment_text": "Number one is mass awareness and reach, and number two is targeted awareness and efficient conversion."
+    },
+    {
+      "word": "is",
+      "local_start": 23.329,
+      "local_end": 23.429,
+      "global_start": 122.209,
+      "global_end": 122.309,
+      "score": 0.675,
+      "segment_index": 5,
+      "segment_text": "Number one is mass awareness and reach, and number two is targeted awareness and efficient conversion."
+    },
+    {
+      "word": "mass",
+      "local_start": 23.569,
+      "local_end": 23.909,
+      "global_start": 122.449,
+      "global_end": 122.789,
+      "score": 0.94,
+      "segment_index": 5,
+      "segment_text": "Number one is mass awareness and reach, and number two is targeted awareness and efficient conversion."
+    },
+    {
+      "word": "awareness",
+      "local_start": 24.009,
+      "local_end": 24.43,
+      "global_start": 122.889,
+      "global_end": 123.31,
+      "score": 0.878,
+      "segment_index": 5,
+      "segment_text": "Number one is mass awareness and reach, and number two is targeted awareness and efficient conversion."
+    },
+    {
+      "word": "and",
+      "local_start": 24.51,
+      "local_end": 24.59,
+      "global_start": 123.39,
+      "global_end": 123.47,
+      "score": 0.884,
+      "segment_index": 5,
+      "segment_text": "Number one is mass awareness and reach, and number two is targeted awareness and efficient conversion."
+    },
+    {
+      "word": "reach,",
+      "local_start": 24.65,
+      "local_end": 24.91,
+      "global_start": 123.53,
+      "global_end": 123.79,
+      "score": 0.979,
+      "segment_index": 5,
+      "segment_text": "Number one is mass awareness and reach, and number two is targeted awareness and efficient conversion."
+    },
+    {
+      "word": "and",
+      "local_start": 25.21,
+      "local_end": 25.29,
+      "global_start": 124.09,
+      "global_end": 124.17,
+      "score": 0.846,
+      "segment_index": 5,
+      "segment_text": "Number one is mass awareness and reach, and number two is targeted awareness and efficient conversion."
+    },
+    {
+      "word": "number",
+      "local_start": 25.331,
+      "local_end": 25.531,
+      "global_start": 124.211,
+      "global_end": 124.411,
+      "score": 0.989,
+      "segment_index": 5,
+      "segment_text": "Number one is mass awareness and reach, and number two is targeted awareness and efficient conversion."
+    },
+    {
+      "word": "two",
+      "local_start": 25.591,
+      "local_end": 25.831,
+      "global_start": 124.471,
+      "global_end": 124.711,
+      "score": 0.864,
+      "segment_index": 5,
+      "segment_text": "Number one is mass awareness and reach, and number two is targeted awareness and efficient conversion."
+    },
+    {
+      "word": "is",
+      "local_start": 25.991,
+      "local_end": 26.091,
+      "global_start": 124.871,
+      "global_end": 124.971,
+      "score": 0.74,
+      "segment_index": 5,
+      "segment_text": "Number one is mass awareness and reach, and number two is targeted awareness and efficient conversion."
+    },
+    {
+      "word": "targeted",
+      "local_start": 26.211,
+      "local_end": 26.692,
+      "global_start": 125.091,
+      "global_end": 125.572,
+      "score": 0.921,
+      "segment_index": 5,
+      "segment_text": "Number one is mass awareness and reach, and number two is targeted awareness and efficient conversion."
+    },
+    {
+      "word": "awareness",
+      "local_start": 26.712,
+      "local_end": 27.112,
+      "global_start": 125.592,
+      "global_end": 125.992,
+      "score": 0.956,
+      "segment_index": 5,
+      "segment_text": "Number one is mass awareness and reach, and number two is targeted awareness and efficient conversion."
+    },
+    {
+      "word": "and",
+      "local_start": 27.252,
+      "local_end": 27.332,
+      "global_start": 126.132,
+      "global_end": 126.212,
+      "score": 0.971,
+      "segment_index": 5,
+      "segment_text": "Number one is mass awareness and reach, and number two is targeted awareness and efficient conversion."
+    },
+    {
+      "word": "efficient",
+      "local_start": 27.392,
+      "local_end": 27.833,
+      "global_start": 126.272,
+      "global_end": 126.713,
+      "score": 0.947,
+      "segment_index": 5,
+      "segment_text": "Number one is mass awareness and reach, and number two is targeted awareness and efficient conversion."
+    },
+    {
+      "word": "conversion.",
+      "local_start": 27.893,
+      "local_end": 28.393,
+      "global_start": 126.773,
+      "global_end": 127.273,
+      "score": 0.944,
+      "segment_index": 5,
+      "segment_text": "Number one is mass awareness and reach, and number two is targeted awareness and efficient conversion."
+    },
+    {
+      "word": "Now",
+      "local_start": 28.553,
+      "local_end": 28.613,
+      "global_start": 127.433,
+      "global_end": 127.493,
+      "score": 0.006,
+      "segment_index": 6,
+      "segment_text": "Now obviously everyone will hear that and be like, I want both, but the frame is differently, think of it this way."
+    },
+    {
+      "word": "obviously",
+      "local_start": 28.633,
+      "local_end": 28.954,
+      "global_start": 127.513,
+      "global_end": 127.834,
+      "score": 0.687,
+      "segment_index": 6,
+      "segment_text": "Now obviously everyone will hear that and be like, I want both, but the frame is differently, think of it this way."
+    },
+    {
+      "word": "everyone",
+      "local_start": 29.074,
+      "local_end": 29.374,
+      "global_start": 127.954,
+      "global_end": 128.254,
+      "score": 0.832,
+      "segment_index": 6,
+      "segment_text": "Now obviously everyone will hear that and be like, I want both, but the frame is differently, think of it this way."
+    },
+    {
+      "word": "will",
+      "local_start": 29.394,
+      "local_end": 29.514,
+      "global_start": 128.274,
+      "global_end": 128.394,
+      "score": 0.875,
+      "segment_index": 6,
+      "segment_text": "Now obviously everyone will hear that and be like, I want both, but the frame is differently, think of it this way."
+    },
+    {
+      "word": "hear",
+      "local_start": 29.554,
+      "local_end": 29.714,
+      "global_start": 128.434,
+      "global_end": 128.594,
+      "score": 0.829,
+      "segment_index": 6,
+      "segment_text": "Now obviously everyone will hear that and be like, I want both, but the frame is differently, think of it this way."
+    },
+    {
+      "word": "that",
+      "local_start": 29.754,
+      "local_end": 29.915,
+      "global_start": 128.634,
+      "global_end": 128.795,
+      "score": 0.879,
+      "segment_index": 6,
+      "segment_text": "Now obviously everyone will hear that and be like, I want both, but the frame is differently, think of it this way."
+    },
+    {
+      "word": "and",
+      "local_start": 29.975,
+      "local_end": 30.035,
+      "global_start": 128.855,
+      "global_end": 128.915,
+      "score": 0.999,
+      "segment_index": 6,
+      "segment_text": "Now obviously everyone will hear that and be like, I want both, but the frame is differently, think of it this way."
+    },
+    {
+      "word": "be",
+      "local_start": 30.075,
+      "local_end": 30.155,
+      "global_start": 128.955,
+      "global_end": 129.035,
+      "score": 0.88,
+      "segment_index": 6,
+      "segment_text": "Now obviously everyone will hear that and be like, I want both, but the frame is differently, think of it this way."
+    },
+    {
+      "word": "like,",
+      "local_start": 30.195,
+      "local_end": 30.355,
+      "global_start": 129.075,
+      "global_end": 129.235,
+      "score": 0.806,
+      "segment_index": 6,
+      "segment_text": "Now obviously everyone will hear that and be like, I want both, but the frame is differently, think of it this way."
+    },
+    {
+      "word": "I",
+      "local_start": 30.475,
+      "local_end": 30.535,
+      "global_start": 129.355,
+      "global_end": 129.415,
+      "score": 0.695,
+      "segment_index": 6,
+      "segment_text": "Now obviously everyone will hear that and be like, I want both, but the frame is differently, think of it this way."
+    },
+    {
+      "word": "want",
+      "local_start": 30.575,
+      "local_end": 30.715,
+      "global_start": 129.455,
+      "global_end": 129.595,
+      "score": 0.754,
+      "segment_index": 6,
+      "segment_text": "Now obviously everyone will hear that and be like, I want both, but the frame is differently, think of it this way."
+    },
+    {
+      "word": "both,",
+      "local_start": 30.775,
+      "local_end": 31.016,
+      "global_start": 129.655,
+      "global_end": 129.896,
+      "score": 0.972,
+      "segment_index": 6,
+      "segment_text": "Now obviously everyone will hear that and be like, I want both, but the frame is differently, think of it this way."
+    },
+    {
+      "word": "but",
+      "local_start": 31.136,
+      "local_end": 31.216,
+      "global_start": 130.016,
+      "global_end": 130.096,
+      "score": 0.998,
+      "segment_index": 6,
+      "segment_text": "Now obviously everyone will hear that and be like, I want both, but the frame is differently, think of it this way."
+    },
+    {
+      "word": "the",
+      "local_start": 31.236,
+      "local_end": 31.316,
+      "global_start": 130.116,
+      "global_end": 130.196,
+      "score": 0.87,
+      "segment_index": 6,
+      "segment_text": "Now obviously everyone will hear that and be like, I want both, but the frame is differently, think of it this way."
+    },
+    {
+      "word": "frame",
+      "local_start": 31.336,
+      "local_end": 31.496,
+      "global_start": 130.216,
+      "global_end": 130.376,
+      "score": 0.76,
+      "segment_index": 6,
+      "segment_text": "Now obviously everyone will hear that and be like, I want both, but the frame is differently, think of it this way."
+    },
+    {
+      "word": "is",
+      "local_start": 31.516,
+      "local_end": 31.596,
+      "global_start": 130.396,
+      "global_end": 130.476,
+      "score": 0.322,
+      "segment_index": 6,
+      "segment_text": "Now obviously everyone will hear that and be like, I want both, but the frame is differently, think of it this way."
+    },
+    {
+      "word": "differently,",
+      "local_start": 31.636,
+      "local_end": 32.036,
+      "global_start": 130.516,
+      "global_end": 130.916,
+      "score": 0.872,
+      "segment_index": 6,
+      "segment_text": "Now obviously everyone will hear that and be like, I want both, but the frame is differently, think of it this way."
+    },
+    {
+      "word": "think",
+      "local_start": 32.137,
+      "local_end": 32.257,
+      "global_start": 131.017,
+      "global_end": 131.137,
+      "score": 0.912,
+      "segment_index": 6,
+      "segment_text": "Now obviously everyone will hear that and be like, I want both, but the frame is differently, think of it this way."
+    },
+    {
+      "word": "of",
+      "local_start": 32.277,
+      "local_end": 32.317,
+      "global_start": 131.157,
+      "global_end": 131.197,
+      "score": 0.968,
+      "segment_index": 6,
+      "segment_text": "Now obviously everyone will hear that and be like, I want both, but the frame is differently, think of it this way."
+    },
+    {
+      "word": "it",
+      "local_start": 32.337,
+      "local_end": 32.377,
+      "global_start": 131.217,
+      "global_end": 131.257,
+      "score": 0.931,
+      "segment_index": 6,
+      "segment_text": "Now obviously everyone will hear that and be like, I want both, but the frame is differently, think of it this way."
+    },
+    {
+      "word": "this",
+      "local_start": 32.397,
+      "local_end": 32.537,
+      "global_start": 131.277,
+      "global_end": 131.417,
+      "score": 0.648,
+      "segment_index": 6,
+      "segment_text": "Now obviously everyone will hear that and be like, I want both, but the frame is differently, think of it this way."
+    },
+    {
+      "word": "way.",
+      "local_start": 32.577,
+      "local_end": 32.717,
+      "global_start": 131.457,
+      "global_end": 131.597,
+      "score": 0.852,
+      "segment_index": 6,
+      "segment_text": "Now obviously everyone will hear that and be like, I want both, but the frame is differently, think of it this way."
+    },
+    {
+      "word": "Do",
+      "local_start": 32.997,
+      "local_end": 33.117,
+      "global_start": 131.877,
+      "global_end": 131.997,
+      "score": 0.94,
+      "segment_index": 7,
+      "segment_text": "Do you want to be mainstream culturally famous, or do you want to be category famous?"
+    },
+    {
+      "word": "you",
+      "local_start": 33.157,
+      "local_end": 33.258,
+      "global_start": 132.037,
+      "global_end": 132.138,
+      "score": 0.839,
+      "segment_index": 7,
+      "segment_text": "Do you want to be mainstream culturally famous, or do you want to be category famous?"
+    },
+    {
+      "word": "want",
+      "local_start": 33.278,
+      "local_end": 33.378,
+      "global_start": 132.158,
+      "global_end": 132.258,
+      "score": 0.895,
+      "segment_index": 7,
+      "segment_text": "Do you want to be mainstream culturally famous, or do you want to be category famous?"
+    },
+    {
+      "word": "to",
+      "local_start": 33.398,
+      "local_end": 33.458,
+      "global_start": 132.278,
+      "global_end": 132.338,
+      "score": 0.756,
+      "segment_index": 7,
+      "segment_text": "Do you want to be mainstream culturally famous, or do you want to be category famous?"
+    },
+    {
+      "word": "be",
+      "local_start": 33.478,
+      "local_end": 33.598,
+      "global_start": 132.358,
+      "global_end": 132.478,
+      "score": 0.65,
+      "segment_index": 7,
+      "segment_text": "Do you want to be mainstream culturally famous, or do you want to be category famous?"
+    },
+    {
+      "word": "mainstream",
+      "local_start": 33.758,
+      "local_end": 34.499,
+      "global_start": 132.638,
+      "global_end": 133.379,
+      "score": 0.844,
+      "segment_index": 7,
+      "segment_text": "Do you want to be mainstream culturally famous, or do you want to be category famous?"
+    },
+    {
+      "word": "culturally",
+      "local_start": 34.619,
+      "local_end": 35.099,
+      "global_start": 133.499,
+      "global_end": 133.979,
+      "score": 0.874,
+      "segment_index": 7,
+      "segment_text": "Do you want to be mainstream culturally famous, or do you want to be category famous?"
+    },
+    {
+      "word": "famous,",
+      "local_start": 35.179,
+      "local_end": 35.58,
+      "global_start": 134.059,
+      "global_end": 134.46,
+      "score": 0.831,
+      "segment_index": 7,
+      "segment_text": "Do you want to be mainstream culturally famous, or do you want to be category famous?"
+    },
+    {
+      "word": "or",
+      "local_start": 35.98,
+      "local_end": 36.1,
+      "global_start": 134.86,
+      "global_end": 134.98,
+      "score": 0.53,
+      "segment_index": 7,
+      "segment_text": "Do you want to be mainstream culturally famous, or do you want to be category famous?"
+    },
+    {
+      "word": "do",
+      "local_start": 36.24,
+      "local_end": 36.32,
+      "global_start": 135.12,
+      "global_end": 135.2,
+      "score": 0.998,
+      "segment_index": 7,
+      "segment_text": "Do you want to be mainstream culturally famous, or do you want to be category famous?"
+    },
+    {
+      "word": "you",
+      "local_start": 36.36,
+      "local_end": 36.46,
+      "global_start": 135.24,
+      "global_end": 135.34,
+      "score": 0.935,
+      "segment_index": 7,
+      "segment_text": "Do you want to be mainstream culturally famous, or do you want to be category famous?"
+    },
+    {
+      "word": "want",
+      "local_start": 36.48,
+      "local_end": 36.601,
+      "global_start": 135.36,
+      "global_end": 135.481,
+      "score": 0.746,
+      "segment_index": 7,
+      "segment_text": "Do you want to be mainstream culturally famous, or do you want to be category famous?"
+    },
+    {
+      "word": "to",
+      "local_start": 36.621,
+      "local_end": 36.681,
+      "global_start": 135.501,
+      "global_end": 135.561,
+      "score": 0.79,
+      "segment_index": 7,
+      "segment_text": "Do you want to be mainstream culturally famous, or do you want to be category famous?"
+    },
+    {
+      "word": "be",
+      "local_start": 36.721,
+      "local_end": 36.821,
+      "global_start": 135.601,
+      "global_end": 135.701,
+      "score": 0.832,
+      "segment_index": 7,
+      "segment_text": "Do you want to be mainstream culturally famous, or do you want to be category famous?"
+    },
+    {
+      "word": "category",
+      "local_start": 36.961,
+      "local_end": 37.621,
+      "global_start": 135.841,
+      "global_end": 136.501,
+      "score": 0.922,
+      "segment_index": 7,
+      "segment_text": "Do you want to be mainstream culturally famous, or do you want to be category famous?"
+    },
+    {
+      "word": "famous?",
+      "local_start": 37.662,
+      "local_end": 37.982,
+      "global_start": 136.542,
+      "global_end": 136.862,
+      "score": 0.93,
+      "segment_index": 7,
+      "segment_text": "Do you want to be mainstream culturally famous, or do you want to be category famous?"
+    },
+    {
+      "word": "and",
+      "local_start": 38.262,
+      "local_end": 38.322,
+      "global_start": 137.142,
+      "global_end": 137.202,
+      "score": 0.979,
+      "segment_index": 8,
+      "segment_text": "and there are pros and cons of each game."
+    },
+    {
+      "word": "there",
+      "local_start": 38.342,
+      "local_end": 38.442,
+      "global_start": 137.222,
+      "global_end": 137.322,
+      "score": 0.958,
+      "segment_index": 8,
+      "segment_text": "and there are pros and cons of each game."
+    },
+    {
+      "word": "are",
+      "local_start": 38.462,
+      "local_end": 38.522,
+      "global_start": 137.342,
+      "global_end": 137.402,
+      "score": 0.989,
+      "segment_index": 8,
+      "segment_text": "and there are pros and cons of each game."
+    },
+    {
+      "word": "pros",
+      "local_start": 38.563,
+      "local_end": 38.803,
+      "global_start": 137.443,
+      "global_end": 137.683,
+      "score": 0.808,
+      "segment_index": 8,
+      "segment_text": "and there are pros and cons of each game."
+    },
+    {
+      "word": "and",
+      "local_start": 38.843,
+      "local_end": 38.923,
+      "global_start": 137.723,
+      "global_end": 137.803,
+      "score": 0.894,
+      "segment_index": 8,
+      "segment_text": "and there are pros and cons of each game."
+    },
+    {
+      "word": "cons",
+      "local_start": 38.943,
+      "local_end": 39.223,
+      "global_start": 137.823,
+      "global_end": 138.103,
+      "score": 0.773,
+      "segment_index": 8,
+      "segment_text": "and there are pros and cons of each game."
+    },
+    {
+      "word": "of",
+      "local_start": 39.264,
+      "local_end": 39.304,
+      "global_start": 138.144,
+      "global_end": 138.184,
+      "score": 0.998,
+      "segment_index": 8,
+      "segment_text": "and there are pros and cons of each game."
+    },
+    {
+      "word": "each",
+      "local_start": 39.384,
+      "local_end": 39.524,
+      "global_start": 138.264,
+      "global_end": 138.404,
+      "score": 0.849,
+      "segment_index": 8,
+      "segment_text": "and there are pros and cons of each game."
+    },
+    {
+      "word": "game.",
+      "local_start": 39.564,
+      "local_end": 39.804,
+      "global_start": 138.444,
+      "global_end": 138.684,
+      "score": 0.948,
+      "segment_index": 8,
+      "segment_text": "and there are pros and cons of each game."
+    },
+    {
+      "word": "Mass",
+      "local_start": 40.105,
+      "local_end": 40.385,
+      "global_start": 138.985,
+      "global_end": 139.265,
+      "score": 0.78,
+      "segment_index": 9,
+      "segment_text": "Mass awareness and reach would be people like Greg Lav, Hormosi or Cody Sanchez."
+    },
+    {
+      "word": "awareness",
+      "local_start": 40.425,
+      "local_end": 40.806,
+      "global_start": 139.305,
+      "global_end": 139.686,
+      "score": 0.913,
+      "segment_index": 9,
+      "segment_text": "Mass awareness and reach would be people like Greg Lav, Hormosi or Cody Sanchez."
+    },
+    {
+      "word": "and",
+      "local_start": 40.906,
+      "local_end": 40.986,
+      "global_start": 139.786,
+      "global_end": 139.866,
+      "score": 0.868,
+      "segment_index": 9,
+      "segment_text": "Mass awareness and reach would be people like Greg Lav, Hormosi or Cody Sanchez."
+    },
+    {
+      "word": "reach",
+      "local_start": 41.066,
+      "local_end": 41.327,
+      "global_start": 139.946,
+      "global_end": 140.207,
+      "score": 0.792,
+      "segment_index": 9,
+      "segment_text": "Mass awareness and reach would be people like Greg Lav, Hormosi or Cody Sanchez."
+    },
+    {
+      "word": "would",
+      "local_start": 41.427,
+      "local_end": 41.567,
+      "global_start": 140.307,
+      "global_end": 140.447,
+      "score": 0.974,
+      "segment_index": 9,
+      "segment_text": "Mass awareness and reach would be people like Greg Lav, Hormosi or Cody Sanchez."
+    },
+    {
+      "word": "be",
+      "local_start": 41.587,
+      "local_end": 41.667,
+      "global_start": 140.467,
+      "global_end": 140.547,
+      "score": 0.84,
+      "segment_index": 9,
+      "segment_text": "Mass awareness and reach would be people like Greg Lav, Hormosi or Cody Sanchez."
+    },
+    {
+      "word": "people",
+      "local_start": 41.707,
+      "local_end": 41.947,
+      "global_start": 140.587,
+      "global_end": 140.827,
+      "score": 0.876,
+      "segment_index": 9,
+      "segment_text": "Mass awareness and reach would be people like Greg Lav, Hormosi or Cody Sanchez."
+    },
+    {
+      "word": "like",
+      "local_start": 41.987,
+      "local_end": 42.148,
+      "global_start": 140.867,
+      "global_end": 141.028,
+      "score": 0.762,
+      "segment_index": 9,
+      "segment_text": "Mass awareness and reach would be people like Greg Lav, Hormosi or Cody Sanchez."
+    },
+    {
+      "word": "Greg",
+      "local_start": 42.408,
+      "local_end": 42.709,
+      "global_start": 141.288,
+      "global_end": 141.589,
+      "score": 0.926,
+      "segment_index": 9,
+      "segment_text": "Mass awareness and reach would be people like Greg Lav, Hormosi or Cody Sanchez."
+    },
+    {
+      "word": "Lav,",
+      "local_start": 42.769,
+      "local_end": 43.189,
+      "global_start": 141.649,
+      "global_end": 142.069,
+      "score": 0.867,
+      "segment_index": 9,
+      "segment_text": "Mass awareness and reach would be people like Greg Lav, Hormosi or Cody Sanchez."
+    },
+    {
+      "word": "Hormosi",
+      "local_start": 43.289,
+      "local_end": 43.95,
+      "global_start": 142.169,
+      "global_end": 142.83,
+      "score": 0.852,
+      "segment_index": 9,
+      "segment_text": "Mass awareness and reach would be people like Greg Lav, Hormosi or Cody Sanchez."
+    },
+    {
+      "word": "or",
+      "local_start": 44.111,
+      "local_end": 44.231,
+      "global_start": 142.991,
+      "global_end": 143.111,
+      "score": 0.714,
+      "segment_index": 9,
+      "segment_text": "Mass awareness and reach would be people like Greg Lav, Hormosi or Cody Sanchez."
+    },
+    {
+      "word": "Cody",
+      "local_start": 44.331,
+      "local_end": 44.611,
+      "global_start": 143.211,
+      "global_end": 143.491,
+      "score": 0.849,
+      "segment_index": 9,
+      "segment_text": "Mass awareness and reach would be people like Greg Lav, Hormosi or Cody Sanchez."
+    },
+    {
+      "word": "Sanchez.",
+      "local_start": 44.651,
+      "local_end": 45.112,
+      "global_start": 143.531,
+      "global_end": 143.992,
+      "score": 0.742,
+      "segment_index": 9,
+      "segment_text": "Mass awareness and reach would be people like Greg Lav, Hormosi or Cody Sanchez."
+    },
+    {
+      "word": "These",
+      "local_start": 45.412,
+      "local_end": 45.553,
+      "global_start": 144.292,
+      "global_end": 144.433,
+      "score": 0.863,
+      "segment_index": 10,
+      "segment_text": "These people are essentially trying to amass insane reach horizontally across culture."
+    },
+    {
+      "word": "people",
+      "local_start": 45.573,
+      "local_end": 45.773,
+      "global_start": 144.453,
+      "global_end": 144.653,
+      "score": 0.833,
+      "segment_index": 10,
+      "segment_text": "These people are essentially trying to amass insane reach horizontally across culture."
+    },
+    {
+      "word": "are",
+      "local_start": 45.793,
+      "local_end": 45.853,
+      "global_start": 144.673,
+      "global_end": 144.733,
+      "score": 0.996,
+      "segment_index": 10,
+      "segment_text": "These people are essentially trying to amass insane reach horizontally across culture."
+    },
+    {
+      "word": "essentially",
+      "local_start": 45.873,
+      "local_end": 46.234,
+      "global_start": 144.753,
+      "global_end": 145.114,
+      "score": 0.911,
+      "segment_index": 10,
+      "segment_text": "These people are essentially trying to amass insane reach horizontally across culture."
+    },
+    {
+      "word": "trying",
+      "local_start": 46.274,
+      "local_end": 46.474,
+      "global_start": 145.154,
+      "global_end": 145.354,
+      "score": 0.803,
+      "segment_index": 10,
+      "segment_text": "These people are essentially trying to amass insane reach horizontally across culture."
+    },
+    {
+      "word": "to",
+      "local_start": 46.494,
+      "local_end": 46.594,
+      "global_start": 145.374,
+      "global_end": 145.474,
+      "score": 0.814,
+      "segment_index": 10,
+      "segment_text": "These people are essentially trying to amass insane reach horizontally across culture."
+    },
+    {
+      "word": "amass",
+      "local_start": 46.654,
+      "local_end": 47.075,
+      "global_start": 145.534,
+      "global_end": 145.955,
+      "score": 0.895,
+      "segment_index": 10,
+      "segment_text": "These people are essentially trying to amass insane reach horizontally across culture."
+    },
+    {
+      "word": "insane",
+      "local_start": 47.255,
+      "local_end": 47.696,
+      "global_start": 146.135,
+      "global_end": 146.576,
+      "score": 0.918,
+      "segment_index": 10,
+      "segment_text": "These people are essentially trying to amass insane reach horizontally across culture."
+    },
+    {
+      "word": "reach",
+      "local_start": 47.776,
+      "local_end": 48.016,
+      "global_start": 146.656,
+      "global_end": 146.896,
+      "score": 0.86,
+      "segment_index": 10,
+      "segment_text": "These people are essentially trying to amass insane reach horizontally across culture."
+    },
+    {
+      "word": "horizontally",
+      "local_start": 48.257,
+      "local_end": 49.118,
+      "global_start": 147.137,
+      "global_end": 147.998,
+      "score": 0.844,
+      "segment_index": 10,
+      "segment_text": "These people are essentially trying to amass insane reach horizontally across culture."
+    },
+    {
+      "word": "across",
+      "local_start": 49.298,
+      "local_end": 49.819,
+      "global_start": 148.178,
+      "global_end": 148.699,
+      "score": 0.752,
+      "segment_index": 10,
+      "segment_text": "These people are essentially trying to amass insane reach horizontally across culture."
+    },
+    {
+      "word": "culture.",
+      "local_start": 49.999,
+      "local_end": 50.42,
+      "global_start": 148.879,
+      "global_end": 149.3,
+      "score": 0.878,
+      "segment_index": 10,
+      "segment_text": "These people are essentially trying to amass insane reach horizontally across culture."
+    },
+    {
+      "word": "And",
+      "local_start": 50.66,
+      "local_end": 50.72,
+      "global_start": 149.54,
+      "global_end": 149.6,
+      "score": 0.354,
+      "segment_index": 11,
+      "segment_text": "And there are obviously bigger cultural plays like Mr."
+    },
+    {
+      "word": "there",
+      "local_start": 50.74,
+      "local_end": 50.84,
+      "global_start": 149.62,
+      "global_end": 149.72,
+      "score": 0.63,
+      "segment_index": 11,
+      "segment_text": "And there are obviously bigger cultural plays like Mr."
+    },
+    {
+      "word": "are",
+      "local_start": 50.86,
+      "local_end": 50.92,
+      "global_start": 149.74,
+      "global_end": 149.8,
+      "score": 0.933,
+      "segment_index": 11,
+      "segment_text": "And there are obviously bigger cultural plays like Mr."
+    },
+    {
+      "word": "obviously",
+      "local_start": 50.94,
+      "local_end": 51.261,
+      "global_start": 149.82,
+      "global_end": 150.141,
+      "score": 0.835,
+      "segment_index": 11,
+      "segment_text": "And there are obviously bigger cultural plays like Mr."
+    },
+    {
+      "word": "bigger",
+      "local_start": 51.381,
+      "local_end": 51.662,
+      "global_start": 150.261,
+      "global_end": 150.542,
+      "score": 0.778,
+      "segment_index": 11,
+      "segment_text": "And there are obviously bigger cultural plays like Mr."
+    },
+    {
+      "word": "cultural",
+      "local_start": 51.722,
+      "local_end": 52.062,
+      "global_start": 150.602,
+      "global_end": 150.942,
+      "score": 0.812,
+      "segment_index": 11,
+      "segment_text": "And there are obviously bigger cultural plays like Mr."
+    },
+    {
+      "word": "plays",
+      "local_start": 52.122,
+      "local_end": 52.363,
+      "global_start": 151.002,
+      "global_end": 151.243,
+      "score": 0.896,
+      "segment_index": 11,
+      "segment_text": "And there are obviously bigger cultural plays like Mr."
+    },
+    {
+      "word": "like",
+      "local_start": 52.403,
+      "local_end": 52.523,
+      "global_start": 151.283,
+      "global_end": 151.403,
+      "score": 0.878,
+      "segment_index": 11,
+      "segment_text": "And there are obviously bigger cultural plays like Mr."
+    },
+    {
+      "word": "Mr.",
+      "local_start": 52.603,
+      "local_end": 52.883,
+      "global_start": 151.483,
+      "global_end": 151.763,
+      "score": 0.823,
+      "segment_index": 11,
+      "segment_text": "And there are obviously bigger cultural plays like Mr."
+    },
+    {
+      "word": "Beast",
+      "local_start": 52.923,
+      "local_end": 53.184,
+      "global_start": 151.803,
+      "global_end": 152.064,
+      "score": 0.837,
+      "segment_index": 12,
+      "segment_text": "Beast or Logan Paul, but relatively speaking in the business world, these guys are going for mass adoption and awareness."
+    },
+    {
+      "word": "or",
+      "local_start": 53.244,
+      "local_end": 53.324,
+      "global_start": 152.124,
+      "global_end": 152.204,
+      "score": 0.671,
+      "segment_index": 12,
+      "segment_text": "Beast or Logan Paul, but relatively speaking in the business world, these guys are going for mass adoption and awareness."
+    },
+    {
+      "word": "Logan",
+      "local_start": 53.364,
+      "local_end": 53.644,
+      "global_start": 152.244,
+      "global_end": 152.524,
+      "score": 0.95,
+      "segment_index": 12,
+      "segment_text": "Beast or Logan Paul, but relatively speaking in the business world, these guys are going for mass adoption and awareness."
+    },
+    {
+      "word": "Paul,",
+      "local_start": 53.684,
+      "local_end": 53.945,
+      "global_start": 152.564,
+      "global_end": 152.825,
+      "score": 0.901,
+      "segment_index": 12,
+      "segment_text": "Beast or Logan Paul, but relatively speaking in the business world, these guys are going for mass adoption and awareness."
+    },
+    {
+      "word": "but",
+      "local_start": 54.225,
+      "local_end": 54.345,
+      "global_start": 153.105,
+      "global_end": 153.225,
+      "score": 0.842,
+      "segment_index": 12,
+      "segment_text": "Beast or Logan Paul, but relatively speaking in the business world, these guys are going for mass adoption and awareness."
+    },
+    {
+      "word": "relatively",
+      "local_start": 54.406,
+      "local_end": 54.846,
+      "global_start": 153.286,
+      "global_end": 153.726,
+      "score": 0.842,
+      "segment_index": 12,
+      "segment_text": "Beast or Logan Paul, but relatively speaking in the business world, these guys are going for mass adoption and awareness."
+    },
+    {
+      "word": "speaking",
+      "local_start": 54.906,
+      "local_end": 55.227,
+      "global_start": 153.786,
+      "global_end": 154.107,
+      "score": 0.859,
+      "segment_index": 12,
+      "segment_text": "Beast or Logan Paul, but relatively speaking in the business world, these guys are going for mass adoption and awareness."
+    },
+    {
+      "word": "in",
+      "local_start": 55.267,
+      "local_end": 55.327,
+      "global_start": 154.147,
+      "global_end": 154.207,
+      "score": 0.75,
+      "segment_index": 12,
+      "segment_text": "Beast or Logan Paul, but relatively speaking in the business world, these guys are going for mass adoption and awareness."
+    },
+    {
+      "word": "the",
+      "local_start": 55.347,
+      "local_end": 55.427,
+      "global_start": 154.227,
+      "global_end": 154.307,
+      "score": 0.824,
+      "segment_index": 12,
+      "segment_text": "Beast or Logan Paul, but relatively speaking in the business world, these guys are going for mass adoption and awareness."
+    },
+    {
+      "word": "business",
+      "local_start": 55.467,
+      "local_end": 55.767,
+      "global_start": 154.347,
+      "global_end": 154.647,
+      "score": 0.888,
+      "segment_index": 12,
+      "segment_text": "Beast or Logan Paul, but relatively speaking in the business world, these guys are going for mass adoption and awareness."
+    },
+    {
+      "word": "world,",
+      "local_start": 55.808,
+      "local_end": 56.068,
+      "global_start": 154.688,
+      "global_end": 154.948,
+      "score": 0.867,
+      "segment_index": 12,
+      "segment_text": "Beast or Logan Paul, but relatively speaking in the business world, these guys are going for mass adoption and awareness."
+    },
+    {
+      "word": "these",
+      "local_start": 56.308,
+      "local_end": 56.489,
+      "global_start": 155.188,
+      "global_end": 155.369,
+      "score": 0.801,
+      "segment_index": 12,
+      "segment_text": "Beast or Logan Paul, but relatively speaking in the business world, these guys are going for mass adoption and awareness."
+    },
+    {
+      "word": "guys",
+      "local_start": 56.529,
+      "local_end": 56.709,
+      "global_start": 155.409,
+      "global_end": 155.589,
+      "score": 0.699,
+      "segment_index": 12,
+      "segment_text": "Beast or Logan Paul, but relatively speaking in the business world, these guys are going for mass adoption and awareness."
+    },
+    {
+      "word": "are",
+      "local_start": 56.749,
+      "local_end": 56.829,
+      "global_start": 155.629,
+      "global_end": 155.709,
+      "score": 0.92,
+      "segment_index": 12,
+      "segment_text": "Beast or Logan Paul, but relatively speaking in the business world, these guys are going for mass adoption and awareness."
+    },
+    {
+      "word": "going",
+      "local_start": 56.869,
+      "local_end": 57.049,
+      "global_start": 155.749,
+      "global_end": 155.929,
+      "score": 0.803,
+      "segment_index": 12,
+      "segment_text": "Beast or Logan Paul, but relatively speaking in the business world, these guys are going for mass adoption and awareness."
+    },
+    {
+      "word": "for",
+      "local_start": 57.109,
+      "local_end": 57.31,
+      "global_start": 155.989,
+      "global_end": 156.19,
+      "score": 0.743,
+      "segment_index": 12,
+      "segment_text": "Beast or Logan Paul, but relatively speaking in the business world, these guys are going for mass adoption and awareness."
+    },
+    {
+      "word": "mass",
+      "local_start": 57.45,
+      "local_end": 57.851,
+      "global_start": 156.33,
+      "global_end": 156.731,
+      "score": 0.769,
+      "segment_index": 12,
+      "segment_text": "Beast or Logan Paul, but relatively speaking in the business world, these guys are going for mass adoption and awareness."
+    },
+    {
+      "word": "adoption",
+      "local_start": 58.011,
+      "local_end": 58.592,
+      "global_start": 156.891,
+      "global_end": 157.472,
+      "score": 0.885,
+      "segment_index": 12,
+      "segment_text": "Beast or Logan Paul, but relatively speaking in the business world, these guys are going for mass adoption and awareness."
+    },
+    {
+      "word": "and",
+      "local_start": 58.732,
+      "local_end": 58.812,
+      "global_start": 157.612,
+      "global_end": 157.692,
+      "score": 0.837,
+      "segment_index": 12,
+      "segment_text": "Beast or Logan Paul, but relatively speaking in the business world, these guys are going for mass adoption and awareness."
+    },
+    {
+      "word": "awareness.",
+      "local_start": 58.872,
+      "local_end": 59.273,
+      "global_start": 157.752,
+      "global_end": 158.153,
+      "score": 0.957,
+      "segment_index": 12,
+      "segment_text": "Beast or Logan Paul, but relatively speaking in the business world, these guys are going for mass adoption and awareness."
+    },
+    {
+      "word": "Now",
+      "local_start": 59.513,
+      "local_end": 59.613,
+      "global_start": 158.393,
+      "global_end": 158.493,
+      "score": 0.875,
+      "segment_index": 13,
+      "segment_text": "Now in this game, you'll make way more money in total because"
+    },
+    {
+      "word": "in",
+      "local_start": 59.713,
+      "local_end": 59.793,
+      "global_start": 158.593,
+      "global_end": 158.673,
+      "score": 0.86,
+      "segment_index": 13,
+      "segment_text": "Now in this game, you'll make way more money in total because"
+    },
+    {
+      "word": "this",
+      "local_start": 59.833,
+      "local_end": 60.014,
+      "global_start": 158.713,
+      "global_end": 158.894,
+      "score": 0.722,
+      "segment_index": 13,
+      "segment_text": "Now in this game, you'll make way more money in total because"
+    },
+    {
+      "word": "game,",
+      "local_start": 60.074,
+      "local_end": 60.394,
+      "global_start": 158.954,
+      "global_end": 159.274,
+      "score": 0.849,
+      "segment_index": 13,
+      "segment_text": "Now in this game, you'll make way more money in total because"
+    },
+    {
+      "word": "you'll",
+      "local_start": 60.474,
+      "local_end": 60.695,
+      "global_start": 159.354,
+      "global_end": 159.575,
+      "score": 0.769,
+      "segment_index": 13,
+      "segment_text": "Now in this game, you'll make way more money in total because"
+    },
+    {
+      "word": "make",
+      "local_start": 60.735,
+      "local_end": 60.855,
+      "global_start": 159.615,
+      "global_end": 159.735,
+      "score": 0.87,
+      "segment_index": 13,
+      "segment_text": "Now in this game, you'll make way more money in total because"
+    },
+    {
+      "word": "way",
+      "local_start": 60.975,
+      "local_end": 61.155,
+      "global_start": 159.855,
+      "global_end": 160.035,
+      "score": 0.991,
+      "segment_index": 13,
+      "segment_text": "Now in this game, you'll make way more money in total because"
+    },
+    {
+      "word": "more",
+      "local_start": 61.195,
+      "local_end": 61.356,
+      "global_start": 160.075,
+      "global_end": 160.236,
+      "score": 0.837,
+      "segment_index": 13,
+      "segment_text": "Now in this game, you'll make way more money in total because"
+    },
+    {
+      "word": "money",
+      "local_start": 61.396,
+      "local_end": 61.616,
+      "global_start": 160.276,
+      "global_end": 160.496,
+      "score": 0.878,
+      "segment_index": 13,
+      "segment_text": "Now in this game, you'll make way more money in total because"
+    },
+    {
+      "word": "in",
+      "local_start": 61.736,
+      "local_end": 61.816,
+      "global_start": 160.616,
+      "global_end": 160.696,
+      "score": 0.998,
+      "segment_index": 13,
+      "segment_text": "Now in this game, you'll make way more money in total because"
+    },
+    {
+      "word": "total",
+      "local_start": 61.896,
+      "local_end": 62.157,
+      "global_start": 160.776,
+      "global_end": 161.037,
+      "score": 0.522,
+      "segment_index": 13,
+      "segment_text": "Now in this game, you'll make way more money in total because"
+    },
+    {
+      "word": "because",
+      "local_start": 62.177,
+      "local_end": 62.317,
+      "global_start": 161.057,
+      "global_end": 161.197,
+      "score": 0.0,
+      "segment_index": 13,
+      "segment_text": "Now in this game, you'll make way more money in total because"
+    }
+  ],
+  "raw_segments": [
+    {
+      "start": 0.031,
+      "end": 22.508,
+      "text": "For the first few days in this 90 day window, I would focus exclusively on solving this. Now your personal brand positioning and strategy can be answered through the following three questions. The first one is the objective. What is my core objective with this personal brand and which of the personal brand games am I trying to play? There are two main tracks or games when it comes to personal brand objectives."
+    },
+    {
+      "start": 22.508,
+      "end": 38.202,
+      "text": "Number one is mass awareness and reach, and number two is targeted awareness and efficient conversion. Now obviously everyone will hear that and be like, I want both, but the frame is differently, think of it this way. Do you want to be mainstream culturally famous, or do you want to be category famous?"
+    },
+    {
+      "start": 38.202,
+      "end": 62.317,
+      "text": "and there are pros and cons of each game. Mass awareness and reach would be people like Greg Lav, Hormosi or Cody Sanchez. These people are essentially trying to amass insane reach horizontally across culture. And there are obviously bigger cultural plays like Mr. Beast or Logan Paul, but relatively speaking in the business world, these guys are going for mass adoption and awareness. Now in this game, you'll make way more money in total because"
+    }
+  ]
+}

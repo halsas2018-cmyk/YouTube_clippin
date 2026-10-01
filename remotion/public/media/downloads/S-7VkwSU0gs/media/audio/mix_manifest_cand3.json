@@ -1,0 +1,18 @@
+{
+  "video_id": "S-7VkwSU0gs",
+  "selected_candidate_id": 3,
+  "source_manifests": {
+    "audio_planning": "/root/youtubr_clipper/media/downloads/S-7VkwSU0gs/audio_planning_manifest_cand3.json",
+    "acquisition": "/root/youtubr_clipper/media/downloads/S-7VkwSU0gs/media/audio/acquisition_manifest.json"
+  },
+  "output_path": "/root/youtubr_clipper/media/downloads/S-7VkwSU0gs/media/audio/mixed_cand3.mp3",
+  "output_format": "mp3",
+  "duration_s": 44.8,
+  "background_music_volume_base": 0.25,
+  "speech_ducking_applied": 42,
+  "sfx_events_count": 10,
+  "validation": {
+    "duration_ok": true,
+    "file_size_bytes": 1115506
+  }
+}

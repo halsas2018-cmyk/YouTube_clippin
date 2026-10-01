@@ -1,0 +1,3035 @@
+{
+  "section_id": "section_004",
+  "candidate_id": 4,
+  "video_id": "S-7VkwSU0gs",
+  "file_name": "section_004.mp4",
+  "file_path": "/root/youtubr_clipper/media/downloads/S-7VkwSU0gs/sections/section_004.mp4",
+  "start_offset": 615.36,
+  "end_offset": 693.52,
+  "target_duration_s": 78.16,
+  "probed_duration_s": 83.5,
+  "original_candidate_ranges": [
+    {
+      "start": 623.36,
+      "end": 685.52
+    }
+  ],
+  "padded_range": {
+    "start": 615.36,
+    "end": 693.52
+  },
+  "combined_text": "I mean the following. A content formula equals a topic plus a format plus a visual layout. So, for example, if I was working with someone trying to build a personal brand in the barbecue space, like they're a barbecue chef, one of their content formulas might be something like this. The topic is barbecue techniques, the format is a live demo or tutorial, and the visual layout is shot in world standing at the grill. Now, they might have another content formula that's something like this. The topic is barbecue equipment and tools. The format is a listical. The visual format would be in the kitchen holding up the products, cutting back and forth between full screen, A-roll, and B-roll. These would be two different examples of content formulas used for the same personal brand. Now, for most personal brands, they want to end up getting to three to four core topics, one to three core formats, and one to three core visual layouts. And this creates several different combinations or content formulas.",
+  "reason": "This clip breaks down the 'content formula' concept into a simple, repeatable equation (topic + format + visual layout), which is highly practical for any creator looking to build a system.",
+  "alignment": {
+    "whisper_model": "base",
+    "language": "en",
+    "device": "cpu",
+    "compute_type": "float32",
+    "total_words": 298,
+    "timestamp_note": "local_start/local_end are relative to the section MP4 file (0-based seconds). global_start/global_end are authoritative original-video timestamps = local_timestamp + start_offset."
+  },
+  "words": [
+    {
+      "word": "you",
+      "local_start": 0.531,
+      "local_end": 0.611,
+      "global_start": 615.891,
+      "global_end": 615.971,
+      "score": 0.835,
+      "segment_index": 0,
+      "segment_text": "you can tell that focusing on my content will give you more value more often because that's all I talk about."
+    },
+    {
+      "word": "can",
+      "local_start": 0.652,
+      "local_end": 0.772,
+      "global_start": 616.012,
+      "global_end": 616.132,
+      "score": 0.887,
+      "segment_index": 0,
+      "segment_text": "you can tell that focusing on my content will give you more value more often because that's all I talk about."
+    },
+    {
+      "word": "tell",
+      "local_start": 0.792,
+      "local_end": 0.992,
+      "global_start": 616.152,
+      "global_end": 616.352,
+      "score": 0.833,
+      "segment_index": 0,
+      "segment_text": "you can tell that focusing on my content will give you more value more often because that's all I talk about."
+    },
+    {
+      "word": "that",
+      "local_start": 1.052,
+      "local_end": 1.192,
+      "global_start": 616.412,
+      "global_end": 616.552,
+      "score": 0.819,
+      "segment_index": 0,
+      "segment_text": "you can tell that focusing on my content will give you more value more often because that's all I talk about."
+    },
+    {
+      "word": "focusing",
+      "local_start": 1.472,
+      "local_end": 1.893,
+      "global_start": 616.832,
+      "global_end": 617.253,
+      "score": 0.833,
+      "segment_index": 0,
+      "segment_text": "you can tell that focusing on my content will give you more value more often because that's all I talk about."
+    },
+    {
+      "word": "on",
+      "local_start": 1.933,
+      "local_end": 2.013,
+      "global_start": 617.293,
+      "global_end": 617.373,
+      "score": 0.777,
+      "segment_index": 0,
+      "segment_text": "you can tell that focusing on my content will give you more value more often because that's all I talk about."
+    },
+    {
+      "word": "my",
+      "local_start": 2.073,
+      "local_end": 2.253,
+      "global_start": 617.433,
+      "global_end": 617.613,
+      "score": 0.875,
+      "segment_index": 0,
+      "segment_text": "you can tell that focusing on my content will give you more value more often because that's all I talk about."
+    },
+    {
+      "word": "content",
+      "local_start": 2.313,
+      "local_end": 2.713,
+      "global_start": 617.673,
+      "global_end": 618.073,
+      "score": 0.882,
+      "segment_index": 0,
+      "segment_text": "you can tell that focusing on my content will give you more value more often because that's all I talk about."
+    },
+    {
+      "word": "will",
+      "local_start": 2.733,
+      "local_end": 2.873,
+      "global_start": 618.093,
+      "global_end": 618.233,
+      "score": 0.999,
+      "segment_index": 0,
+      "segment_text": "you can tell that focusing on my content will give you more value more often because that's all I talk about."
+    },
+    {
+      "word": "give",
+      "local_start": 2.913,
+      "local_end": 3.034,
+      "global_start": 618.273,
+      "global_end": 618.394,
+      "score": 0.874,
+      "segment_index": 0,
+      "segment_text": "you can tell that focusing on my content will give you more value more often because that's all I talk about."
+    },
+    {
+      "word": "you",
+      "local_start": 3.054,
+      "local_end": 3.194,
+      "global_start": 618.414,
+      "global_end": 618.554,
+      "score": 0.744,
+      "segment_index": 0,
+      "segment_text": "you can tell that focusing on my content will give you more value more often because that's all I talk about."
+    },
+    {
+      "word": "more",
+      "local_start": 3.574,
+      "local_end": 3.834,
+      "global_start": 618.934,
+      "global_end": 619.194,
+      "score": 0.662,
+      "segment_index": 0,
+      "segment_text": "you can tell that focusing on my content will give you more value more often because that's all I talk about."
+    },
+    {
+      "word": "value",
+      "local_start": 3.934,
+      "local_end": 4.395,
+      "global_start": 619.294,
+      "global_end": 619.755,
+      "score": 0.745,
+      "segment_index": 0,
+      "segment_text": "you can tell that focusing on my content will give you more value more often because that's all I talk about."
+    },
+    {
+      "word": "more",
+      "local_start": 4.455,
+      "local_end": 4.655,
+      "global_start": 619.815,
+      "global_end": 620.015,
+      "score": 0.702,
+      "segment_index": 0,
+      "segment_text": "you can tell that focusing on my content will give you more value more often because that's all I talk about."
+    },
+    {
+      "word": "often",
+      "local_start": 4.775,
+      "local_end": 5.015,
+      "global_start": 620.135,
+      "global_end": 620.375,
+      "score": 0.915,
+      "segment_index": 0,
+      "segment_text": "you can tell that focusing on my content will give you more value more often because that's all I talk about."
+    },
+    {
+      "word": "because",
+      "local_start": 5.055,
+      "local_end": 5.296,
+      "global_start": 620.415,
+      "global_end": 620.656,
+      "score": 0.739,
+      "segment_index": 0,
+      "segment_text": "you can tell that focusing on my content will give you more value more often because that's all I talk about."
+    },
+    {
+      "word": "that's",
+      "local_start": 5.336,
+      "local_end": 5.516,
+      "global_start": 620.696,
+      "global_end": 620.876,
+      "score": 0.827,
+      "segment_index": 0,
+      "segment_text": "you can tell that focusing on my content will give you more value more often because that's all I talk about."
+    },
+    {
+      "word": "all",
+      "local_start": 5.616,
+      "local_end": 5.756,
+      "global_start": 620.976,
+      "global_end": 621.116,
+      "score": 0.836,
+      "segment_index": 0,
+      "segment_text": "you can tell that focusing on my content will give you more value more often because that's all I talk about."
+    },
+    {
+      "word": "I",
+      "local_start": 5.816,
+      "local_end": 5.896,
+      "global_start": 621.176,
+      "global_end": 621.256,
+      "score": 0.75,
+      "segment_index": 0,
+      "segment_text": "you can tell that focusing on my content will give you more value more often because that's all I talk about."
+    },
+    {
+      "word": "talk",
+      "local_start": 5.916,
+      "local_end": 6.116,
+      "global_start": 621.276,
+      "global_end": 621.476,
+      "score": 0.9,
+      "segment_index": 0,
+      "segment_text": "you can tell that focusing on my content will give you more value more often because that's all I talk about."
+    },
+    {
+      "word": "about.",
+      "local_start": 6.156,
+      "local_end": 6.316,
+      "global_start": 621.516,
+      "global_end": 621.676,
+      "score": 0.894,
+      "segment_index": 0,
+      "segment_text": "you can tell that focusing on my content will give you more value more often because that's all I talk about."
+    },
+    {
+      "word": "The",
+      "local_start": 6.416,
+      "local_end": 6.517,
+      "global_start": 621.776,
+      "global_end": 621.877,
+      "score": 0.994,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "broader",
+      "local_start": 6.577,
+      "local_end": 6.937,
+      "global_start": 621.937,
+      "global_end": 622.297,
+      "score": 0.906,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "you",
+      "local_start": 6.977,
+      "local_end": 7.097,
+      "global_start": 622.337,
+      "global_end": 622.457,
+      "score": 0.885,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "go",
+      "local_start": 7.137,
+      "local_end": 7.257,
+      "global_start": 622.497,
+      "global_end": 622.617,
+      "score": 0.768,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "out,",
+      "local_start": 7.357,
+      "local_end": 7.477,
+      "global_start": 622.717,
+      "global_end": 622.837,
+      "score": 0.894,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "you",
+      "local_start": 7.778,
+      "local_end": 7.878,
+      "global_start": 623.138,
+      "global_end": 623.238,
+      "score": 0.883,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "might",
+      "local_start": 7.938,
+      "local_end": 8.098,
+      "global_start": 623.298,
+      "global_end": 623.458,
+      "score": 0.995,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "get",
+      "local_start": 8.138,
+      "local_end": 8.278,
+      "global_start": 623.498,
+      "global_end": 623.638,
+      "score": 0.839,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "something",
+      "local_start": 8.318,
+      "local_end": 8.598,
+      "global_start": 623.678,
+      "global_end": 623.958,
+      "score": 0.849,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "from",
+      "local_start": 8.638,
+      "local_end": 8.738,
+      "global_start": 623.998,
+      "global_end": 624.098,
+      "score": 0.875,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "those",
+      "local_start": 8.779,
+      "local_end": 8.939,
+      "global_start": 624.139,
+      "global_end": 624.299,
+      "score": 0.988,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "people,",
+      "local_start": 8.979,
+      "local_end": 9.259,
+      "global_start": 624.339,
+      "global_end": 624.619,
+      "score": 0.835,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "but",
+      "local_start": 9.519,
+      "local_end": 9.599,
+      "global_start": 624.879,
+      "global_end": 624.959,
+      "score": 1.0,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "also",
+      "local_start": 9.659,
+      "local_end": 9.94,
+      "global_start": 625.019,
+      "global_end": 625.3,
+      "score": 0.786,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "a",
+      "local_start": 10.04,
+      "local_end": 10.06,
+      "global_start": 625.4,
+      "global_end": 625.42,
+      "score": 0.996,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "lot",
+      "local_start": 10.12,
+      "local_end": 10.22,
+      "global_start": 625.48,
+      "global_end": 625.58,
+      "score": 0.907,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "of",
+      "local_start": 10.24,
+      "local_end": 10.28,
+      "global_start": 625.6,
+      "global_end": 625.64,
+      "score": 0.973,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "their",
+      "local_start": 10.3,
+      "local_end": 10.44,
+      "global_start": 625.66,
+      "global_end": 625.8,
+      "score": 0.82,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "content",
+      "local_start": 10.48,
+      "local_end": 10.84,
+      "global_start": 625.84,
+      "global_end": 626.2,
+      "score": 0.868,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "won't",
+      "local_start": 10.88,
+      "local_end": 11.08,
+      "global_start": 626.24,
+      "global_end": 626.44,
+      "score": 0.761,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "serve",
+      "local_start": 11.161,
+      "local_end": 11.381,
+      "global_start": 626.521,
+      "global_end": 626.741,
+      "score": 0.965,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "you",
+      "local_start": 11.421,
+      "local_end": 11.521,
+      "global_start": 626.781,
+      "global_end": 626.881,
+      "score": 0.705,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "because",
+      "local_start": 11.561,
+      "local_end": 11.721,
+      "global_start": 626.921,
+      "global_end": 627.081,
+      "score": 0.673,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "they're",
+      "local_start": 11.741,
+      "local_end": 11.921,
+      "global_start": 627.101,
+      "global_end": 627.281,
+      "score": 0.756,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "covering",
+      "local_start": 11.941,
+      "local_end": 12.302,
+      "global_start": 627.301,
+      "global_end": 627.662,
+      "score": 0.741,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "lots",
+      "local_start": 12.362,
+      "local_end": 12.582,
+      "global_start": 627.722,
+      "global_end": 627.942,
+      "score": 0.72,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "of",
+      "local_start": 12.622,
+      "local_end": 12.682,
+      "global_start": 627.982,
+      "global_end": 628.042,
+      "score": 0.752,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "topics",
+      "local_start": 12.722,
+      "local_end": 13.142,
+      "global_start": 628.082,
+      "global_end": 628.502,
+      "score": 0.885,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "that",
+      "local_start": 13.182,
+      "local_end": 13.322,
+      "global_start": 628.542,
+      "global_end": 628.682,
+      "score": 0.946,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "don't",
+      "local_start": 13.362,
+      "local_end": 13.583,
+      "global_start": 628.722,
+      "global_end": 628.943,
+      "score": 0.608,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "matter.",
+      "local_start": 13.623,
+      "local_end": 13.903,
+      "global_start": 628.983,
+      "global_end": 629.263,
+      "score": 0.947,
+      "segment_index": 1,
+      "segment_text": "The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter."
+    },
+    {
+      "word": "Typically,",
+      "local_start": 14.123,
+      "local_end": 14.604,
+      "global_start": 629.483,
+      "global_end": 629.964,
+      "score": 0.923,
+      "segment_index": 2,
+      "segment_text": "Typically, as a viewer, the more narrow you go in a particular niche, the faster you get your problem solved."
+    },
+    {
+      "word": "as",
+      "local_start": 14.744,
+      "local_end": 14.844,
+      "global_start": 630.104,
+      "global_end": 630.204,
+      "score": 0.617,
+      "segment_index": 2,
+      "segment_text": "Typically, as a viewer, the more narrow you go in a particular niche, the faster you get your problem solved."
+    },
+    {
+      "word": "a",
+      "local_start": 14.924,
+      "local_end": 14.984,
+      "global_start": 630.284,
+      "global_end": 630.344,
+      "score": 0.762,
+      "segment_index": 2,
+      "segment_text": "Typically, as a viewer, the more narrow you go in a particular niche, the faster you get your problem solved."
+    },
+    {
+      "word": "viewer,",
+      "local_start": 15.044,
+      "local_end": 15.404,
+      "global_start": 630.404,
+      "global_end": 630.764,
+      "score": 0.818,
+      "segment_index": 2,
+      "segment_text": "Typically, as a viewer, the more narrow you go in a particular niche, the faster you get your problem solved."
+    },
+    {
+      "word": "the",
+      "local_start": 15.524,
+      "local_end": 15.624,
+      "global_start": 630.884,
+      "global_end": 630.984,
+      "score": 0.975,
+      "segment_index": 2,
+      "segment_text": "Typically, as a viewer, the more narrow you go in a particular niche, the faster you get your problem solved."
+    },
+    {
+      "word": "more",
+      "local_start": 15.664,
+      "local_end": 15.845,
+      "global_start": 631.024,
+      "global_end": 631.205,
+      "score": 0.756,
+      "segment_index": 2,
+      "segment_text": "Typically, as a viewer, the more narrow you go in a particular niche, the faster you get your problem solved."
+    },
+    {
+      "word": "narrow",
+      "local_start": 15.985,
+      "local_end": 16.345,
+      "global_start": 631.345,
+      "global_end": 631.705,
+      "score": 0.892,
+      "segment_index": 2,
+      "segment_text": "Typically, as a viewer, the more narrow you go in a particular niche, the faster you get your problem solved."
+    },
+    {
+      "word": "you",
+      "local_start": 16.385,
+      "local_end": 16.525,
+      "global_start": 631.745,
+      "global_end": 631.885,
+      "score": 0.9,
+      "segment_index": 2,
+      "segment_text": "Typically, as a viewer, the more narrow you go in a particular niche, the faster you get your problem solved."
+    },
+    {
+      "word": "go",
+      "local_start": 16.565,
+      "local_end": 16.825,
+      "global_start": 631.925,
+      "global_end": 632.185,
+      "score": 0.898,
+      "segment_index": 2,
+      "segment_text": "Typically, as a viewer, the more narrow you go in a particular niche, the faster you get your problem solved."
+    },
+    {
+      "word": "in",
+      "local_start": 16.986,
+      "local_end": 17.066,
+      "global_start": 632.346,
+      "global_end": 632.426,
+      "score": 0.918,
+      "segment_index": 2,
+      "segment_text": "Typically, as a viewer, the more narrow you go in a particular niche, the faster you get your problem solved."
+    },
+    {
+      "word": "a",
+      "local_start": 17.086,
+      "local_end": 17.146,
+      "global_start": 632.446,
+      "global_end": 632.506,
+      "score": 0.34,
+      "segment_index": 2,
+      "segment_text": "Typically, as a viewer, the more narrow you go in a particular niche, the faster you get your problem solved."
+    },
+    {
+      "word": "particular",
+      "local_start": 17.186,
+      "local_end": 17.606,
+      "global_start": 632.546,
+      "global_end": 632.966,
+      "score": 0.864,
+      "segment_index": 2,
+      "segment_text": "Typically, as a viewer, the more narrow you go in a particular niche, the faster you get your problem solved."
+    },
+    {
+      "word": "niche,",
+      "local_start": 17.666,
+      "local_end": 17.926,
+      "global_start": 633.026,
+      "global_end": 633.286,
+      "score": 0.918,
+      "segment_index": 2,
+      "segment_text": "Typically, as a viewer, the more narrow you go in a particular niche, the faster you get your problem solved."
+    },
+    {
+      "word": "the",
+      "local_start": 18.026,
+      "local_end": 18.147,
+      "global_start": 633.386,
+      "global_end": 633.507,
+      "score": 0.651,
+      "segment_index": 2,
+      "segment_text": "Typically, as a viewer, the more narrow you go in a particular niche, the faster you get your problem solved."
+    },
+    {
+      "word": "faster",
+      "local_start": 18.187,
+      "local_end": 18.527,
+      "global_start": 633.547,
+      "global_end": 633.887,
+      "score": 0.759,
+      "segment_index": 2,
+      "segment_text": "Typically, as a viewer, the more narrow you go in a particular niche, the faster you get your problem solved."
+    },
+    {
+      "word": "you",
+      "local_start": 18.567,
+      "local_end": 18.667,
+      "global_start": 633.927,
+      "global_end": 634.027,
+      "score": 0.891,
+      "segment_index": 2,
+      "segment_text": "Typically, as a viewer, the more narrow you go in a particular niche, the faster you get your problem solved."
+    },
+    {
+      "word": "get",
+      "local_start": 18.707,
+      "local_end": 18.787,
+      "global_start": 634.067,
+      "global_end": 634.147,
+      "score": 0.838,
+      "segment_index": 2,
+      "segment_text": "Typically, as a viewer, the more narrow you go in a particular niche, the faster you get your problem solved."
+    },
+    {
+      "word": "your",
+      "local_start": 18.827,
+      "local_end": 18.947,
+      "global_start": 634.187,
+      "global_end": 634.307,
+      "score": 0.758,
+      "segment_index": 2,
+      "segment_text": "Typically, as a viewer, the more narrow you go in a particular niche, the faster you get your problem solved."
+    },
+    {
+      "word": "problem",
+      "local_start": 18.967,
+      "local_end": 19.328,
+      "global_start": 634.327,
+      "global_end": 634.688,
+      "score": 0.794,
+      "segment_index": 2,
+      "segment_text": "Typically, as a viewer, the more narrow you go in a particular niche, the faster you get your problem solved."
+    },
+    {
+      "word": "solved.",
+      "local_start": 19.368,
+      "local_end": 19.688,
+      "global_start": 634.728,
+      "global_end": 635.048,
+      "score": 0.904,
+      "segment_index": 2,
+      "segment_text": "Typically, as a viewer, the more narrow you go in a particular niche, the faster you get your problem solved."
+    },
+    {
+      "word": "And",
+      "local_start": 19.808,
+      "local_end": 19.888,
+      "global_start": 635.168,
+      "global_end": 635.248,
+      "score": 0.846,
+      "segment_index": 3,
+      "segment_text": "And so for you, as someone who's trying to build out their personal brand, it's no shade to anyone else."
+    },
+    {
+      "word": "so",
+      "local_start": 19.908,
+      "local_end": 20.048,
+      "global_start": 635.268,
+      "global_end": 635.408,
+      "score": 0.743,
+      "segment_index": 3,
+      "segment_text": "And so for you, as someone who's trying to build out their personal brand, it's no shade to anyone else."
+    },
+    {
+      "word": "for",
+      "local_start": 20.088,
+      "local_end": 20.228,
+      "global_start": 635.448,
+      "global_end": 635.588,
+      "score": 0.782,
+      "segment_index": 3,
+      "segment_text": "And so for you, as someone who's trying to build out their personal brand, it's no shade to anyone else."
+    },
+    {
+      "word": "you,",
+      "local_start": 20.268,
+      "local_end": 20.468,
+      "global_start": 635.628,
+      "global_end": 635.828,
+      "score": 0.942,
+      "segment_index": 3,
+      "segment_text": "And so for you, as someone who's trying to build out their personal brand, it's no shade to anyone else."
+    },
+    {
+      "word": "as",
+      "local_start": 20.548,
+      "local_end": 20.608,
+      "global_start": 635.908,
+      "global_end": 635.968,
+      "score": 0.994,
+      "segment_index": 3,
+      "segment_text": "And so for you, as someone who's trying to build out their personal brand, it's no shade to anyone else."
+    },
+    {
+      "word": "someone",
+      "local_start": 20.648,
+      "local_end": 20.848,
+      "global_start": 636.008,
+      "global_end": 636.208,
+      "score": 0.875,
+      "segment_index": 3,
+      "segment_text": "And so for you, as someone who's trying to build out their personal brand, it's no shade to anyone else."
+    },
+    {
+      "word": "who's",
+      "local_start": 20.868,
+      "local_end": 21.048,
+      "global_start": 636.228,
+      "global_end": 636.408,
+      "score": 0.769,
+      "segment_index": 3,
+      "segment_text": "And so for you, as someone who's trying to build out their personal brand, it's no shade to anyone else."
+    },
+    {
+      "word": "trying",
+      "local_start": 21.088,
+      "local_end": 21.348,
+      "global_start": 636.448,
+      "global_end": 636.708,
+      "score": 0.837,
+      "segment_index": 3,
+      "segment_text": "And so for you, as someone who's trying to build out their personal brand, it's no shade to anyone else."
+    },
+    {
+      "word": "to",
+      "local_start": 21.388,
+      "local_end": 21.428,
+      "global_start": 636.748,
+      "global_end": 636.788,
+      "score": 1.0,
+      "segment_index": 3,
+      "segment_text": "And so for you, as someone who's trying to build out their personal brand, it's no shade to anyone else."
+    },
+    {
+      "word": "build",
+      "local_start": 21.468,
+      "local_end": 21.628,
+      "global_start": 636.828,
+      "global_end": 636.988,
+      "score": 0.862,
+      "segment_index": 3,
+      "segment_text": "And so for you, as someone who's trying to build out their personal brand, it's no shade to anyone else."
+    },
+    {
+      "word": "out",
+      "local_start": 21.668,
+      "local_end": 21.748,
+      "global_start": 637.028,
+      "global_end": 637.108,
+      "score": 0.999,
+      "segment_index": 3,
+      "segment_text": "And so for you, as someone who's trying to build out their personal brand, it's no shade to anyone else."
+    },
+    {
+      "word": "their",
+      "local_start": 21.788,
+      "local_end": 21.928,
+      "global_start": 637.148,
+      "global_end": 637.288,
+      "score": 0.864,
+      "segment_index": 3,
+      "segment_text": "And so for you, as someone who's trying to build out their personal brand, it's no shade to anyone else."
+    },
+    {
+      "word": "personal",
+      "local_start": 21.968,
+      "local_end": 22.328,
+      "global_start": 637.328,
+      "global_end": 637.688,
+      "score": 0.782,
+      "segment_index": 3,
+      "segment_text": "And so for you, as someone who's trying to build out their personal brand, it's no shade to anyone else."
+    },
+    {
+      "word": "brand,",
+      "local_start": 22.348,
+      "local_end": 22.689,
+      "global_start": 637.708,
+      "global_end": 638.049,
+      "score": 0.981,
+      "segment_index": 3,
+      "segment_text": "And so for you, as someone who's trying to build out their personal brand, it's no shade to anyone else."
+    },
+    {
+      "word": "it's",
+      "local_start": 22.929,
+      "local_end": 23.049,
+      "global_start": 638.289,
+      "global_end": 638.409,
+      "score": 0.838,
+      "segment_index": 3,
+      "segment_text": "And so for you, as someone who's trying to build out their personal brand, it's no shade to anyone else."
+    },
+    {
+      "word": "no",
+      "local_start": 23.109,
+      "local_end": 23.249,
+      "global_start": 638.469,
+      "global_end": 638.609,
+      "score": 0.885,
+      "segment_index": 3,
+      "segment_text": "And so for you, as someone who's trying to build out their personal brand, it's no shade to anyone else."
+    },
+    {
+      "word": "shade",
+      "local_start": 23.289,
+      "local_end": 23.509,
+      "global_start": 638.649,
+      "global_end": 638.869,
+      "score": 0.806,
+      "segment_index": 3,
+      "segment_text": "And so for you, as someone who's trying to build out their personal brand, it's no shade to anyone else."
+    },
+    {
+      "word": "to",
+      "local_start": 23.529,
+      "local_end": 23.589,
+      "global_start": 638.889,
+      "global_end": 638.949,
+      "score": 0.75,
+      "segment_index": 3,
+      "segment_text": "And so for you, as someone who's trying to build out their personal brand, it's no shade to anyone else."
+    },
+    {
+      "word": "anyone",
+      "local_start": 23.629,
+      "local_end": 23.909,
+      "global_start": 638.989,
+      "global_end": 639.269,
+      "score": 0.844,
+      "segment_index": 3,
+      "segment_text": "And so for you, as someone who's trying to build out their personal brand, it's no shade to anyone else."
+    },
+    {
+      "word": "else.",
+      "local_start": 23.949,
+      "local_end": 24.129,
+      "global_start": 639.309,
+      "global_end": 639.489,
+      "score": 0.903,
+      "segment_index": 3,
+      "segment_text": "And so for you, as someone who's trying to build out their personal brand, it's no shade to anyone else."
+    },
+    {
+      "word": "It's",
+      "local_start": 24.309,
+      "local_end": 24.389,
+      "global_start": 639.669,
+      "global_end": 639.749,
+      "score": 0.5,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "just",
+      "local_start": 24.409,
+      "local_end": 24.569,
+      "global_start": 639.769,
+      "global_end": 639.929,
+      "score": 0.458,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "super",
+      "local_start": 24.649,
+      "local_end": 24.949,
+      "global_start": 640.009,
+      "global_end": 640.309,
+      "score": 0.871,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "helpful",
+      "local_start": 24.989,
+      "local_end": 25.309,
+      "global_start": 640.349,
+      "global_end": 640.669,
+      "score": 0.828,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "for",
+      "local_start": 25.349,
+      "local_end": 25.489,
+      "global_start": 640.709,
+      "global_end": 640.849,
+      "score": 0.778,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "you",
+      "local_start": 25.529,
+      "local_end": 25.669,
+      "global_start": 640.889,
+      "global_end": 641.029,
+      "score": 0.946,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "to",
+      "local_start": 25.749,
+      "local_end": 25.909,
+      "global_start": 641.109,
+      "global_end": 641.269,
+      "score": 0.865,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "niche",
+      "local_start": 26.069,
+      "local_end": 26.329,
+      "global_start": 641.429,
+      "global_end": 641.689,
+      "score": 0.887,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "down",
+      "local_start": 26.409,
+      "local_end": 26.749,
+      "global_start": 641.769,
+      "global_end": 642.109,
+      "score": 0.863,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "using",
+      "local_start": 27.209,
+      "local_end": 27.449,
+      "global_start": 642.569,
+      "global_end": 642.809,
+      "score": 0.861,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "this",
+      "local_start": 27.489,
+      "local_end": 27.649,
+      "global_start": 642.849,
+      "global_end": 643.009,
+      "score": 0.729,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "niche",
+      "local_start": 27.769,
+      "local_end": 27.989,
+      "global_start": 643.129,
+      "global_end": 643.349,
+      "score": 0.76,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "builder",
+      "local_start": 28.049,
+      "local_end": 28.41,
+      "global_start": 643.409,
+      "global_end": 643.77,
+      "score": 0.757,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "because",
+      "local_start": 28.67,
+      "local_end": 28.87,
+      "global_start": 644.03,
+      "global_end": 644.23,
+      "score": 0.876,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "you",
+      "local_start": 28.89,
+      "local_end": 29.01,
+      "global_start": 644.25,
+      "global_end": 644.37,
+      "score": 0.74,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "want",
+      "local_start": 29.03,
+      "local_end": 29.15,
+      "global_start": 644.39,
+      "global_end": 644.51,
+      "score": 0.972,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "to",
+      "local_start": 29.19,
+      "local_end": 29.27,
+      "global_start": 644.55,
+      "global_end": 644.63,
+      "score": 0.691,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "serve",
+      "local_start": 29.37,
+      "local_end": 29.73,
+      "global_start": 644.73,
+      "global_end": 645.09,
+      "score": 0.843,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "100%",
+      "local_start": 30.27,
+      "local_end": 30.85,
+      "global_start": 645.63,
+      "global_end": 646.21,
+      "score": 0.685,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "coverage",
+      "local_start": 30.91,
+      "local_end": 31.35,
+      "global_start": 646.27,
+      "global_end": 646.71,
+      "score": 0.753,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "on",
+      "local_start": 31.43,
+      "local_end": 31.49,
+      "global_start": 646.79,
+      "global_end": 646.85,
+      "score": 0.997,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "the",
+      "local_start": 31.53,
+      "local_end": 31.63,
+      "global_start": 646.89,
+      "global_end": 646.99,
+      "score": 0.69,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "exact",
+      "local_start": 31.69,
+      "local_end": 32.17,
+      "global_start": 647.05,
+      "global_end": 647.53,
+      "score": 0.738,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "target",
+      "local_start": 32.25,
+      "local_end": 32.57,
+      "global_start": 647.61,
+      "global_end": 647.93,
+      "score": 0.914,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "buyer",
+      "local_start": 32.61,
+      "local_end": 32.89,
+      "global_start": 647.97,
+      "global_end": 648.25,
+      "score": 0.829,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "that",
+      "local_start": 32.93,
+      "local_end": 33.01,
+      "global_start": 648.29,
+      "global_end": 648.37,
+      "score": 0.992,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "you're",
+      "local_start": 33.03,
+      "local_end": 33.19,
+      "global_start": 648.39,
+      "global_end": 648.55,
+      "score": 0.803,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "going",
+      "local_start": 33.23,
+      "local_end": 33.45,
+      "global_start": 648.59,
+      "global_end": 648.81,
+      "score": 0.85,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "for.",
+      "local_start": 33.49,
+      "local_end": 33.651,
+      "global_start": 648.85,
+      "global_end": 649.011,
+      "score": 0.848,
+      "segment_index": 4,
+      "segment_text": "It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for."
+    },
+    {
+      "word": "Again,",
+      "local_start": 33.891,
+      "local_end": 34.131,
+      "global_start": 649.251,
+      "global_end": 649.491,
+      "score": 0.912,
+      "segment_index": 5,
+      "segment_text": "Again, this exercise is very helpful for you to filter your topic selection, your messaging, the pain point targeting, and signaling overall on the internet."
+    },
+    {
+      "word": "this",
+      "local_start": 34.211,
+      "local_end": 34.371,
+      "global_start": 649.571,
+      "global_end": 649.731,
+      "score": 0.626,
+      "segment_index": 5,
+      "segment_text": "Again, this exercise is very helpful for you to filter your topic selection, your messaging, the pain point targeting, and signaling overall on the internet."
+    },
+    {
+      "word": "exercise",
+      "local_start": 34.431,
+      "local_end": 34.831,
+      "global_start": 649.791,
+      "global_end": 650.191,
+      "score": 0.873,
+      "segment_index": 5,
+      "segment_text": "Again, this exercise is very helpful for you to filter your topic selection, your messaging, the pain point targeting, and signaling overall on the internet."
+    },
+    {
+      "word": "is",
+      "local_start": 34.871,
+      "local_end": 34.951,
+      "global_start": 650.231,
+      "global_end": 650.311,
+      "score": 0.498,
+      "segment_index": 5,
+      "segment_text": "Again, this exercise is very helpful for you to filter your topic selection, your messaging, the pain point targeting, and signaling overall on the internet."
+    },
+    {
+      "word": "very",
+      "local_start": 35.031,
+      "local_end": 35.291,
+      "global_start": 650.391,
+      "global_end": 650.651,
+      "score": 0.616,
+      "segment_index": 5,
+      "segment_text": "Again, this exercise is very helpful for you to filter your topic selection, your messaging, the pain point targeting, and signaling overall on the internet."
+    },
+    {
+      "word": "helpful",
+      "local_start": 35.351,
+      "local_end": 35.691,
+      "global_start": 650.711,
+      "global_end": 651.051,
+      "score": 0.809,
+      "segment_index": 5,
+      "segment_text": "Again, this exercise is very helpful for you to filter your topic selection, your messaging, the pain point targeting, and signaling overall on the internet."
+    },
+    {
+      "word": "for",
+      "local_start": 35.751,
+      "local_end": 35.871,
+      "global_start": 651.111,
+      "global_end": 651.231,
+      "score": 0.672,
+      "segment_index": 5,
+      "segment_text": "Again, this exercise is very helpful for you to filter your topic selection, your messaging, the pain point targeting, and signaling overall on the internet."
+    },
+    {
+      "word": "you",
+      "local_start": 35.911,
+      "local_end": 36.011,
+      "global_start": 651.271,
+      "global_end": 651.371,
+      "score": 0.848,
+      "segment_index": 5,
+      "segment_text": "Again, this exercise is very helpful for you to filter your topic selection, your messaging, the pain point targeting, and signaling overall on the internet."
+    },
+    {
+      "word": "to",
+      "local_start": 36.051,
+      "local_end": 36.131,
+      "global_start": 651.411,
+      "global_end": 651.491,
+      "score": 0.747,
+      "segment_index": 5,
+      "segment_text": "Again, this exercise is very helpful for you to filter your topic selection, your messaging, the pain point targeting, and signaling overall on the internet."
+    },
+    {
+      "word": "filter",
+      "local_start": 36.231,
+      "local_end": 36.671,
+      "global_start": 651.591,
+      "global_end": 652.031,
+      "score": 0.862,
+      "segment_index": 5,
+      "segment_text": "Again, this exercise is very helpful for you to filter your topic selection, your messaging, the pain point targeting, and signaling overall on the internet."
+    },
+    {
+      "word": "your",
+      "local_start": 36.951,
+      "local_end": 37.091,
+      "global_start": 652.311,
+      "global_end": 652.451,
+      "score": 0.717,
+      "segment_index": 5,
+      "segment_text": "Again, this exercise is very helpful for you to filter your topic selection, your messaging, the pain point targeting, and signaling overall on the internet."
+    },
+    {
+      "word": "topic",
+      "local_start": 37.131,
+      "local_end": 37.511,
+      "global_start": 652.491,
+      "global_end": 652.871,
+      "score": 0.886,
+      "segment_index": 5,
+      "segment_text": "Again, this exercise is very helpful for you to filter your topic selection, your messaging, the pain point targeting, and signaling overall on the internet."
+    },
+    {
+      "word": "selection,",
+      "local_start": 37.531,
+      "local_end": 38.111,
+      "global_start": 652.891,
+      "global_end": 653.471,
+      "score": 0.819,
+      "segment_index": 5,
+      "segment_text": "Again, this exercise is very helpful for you to filter your topic selection, your messaging, the pain point targeting, and signaling overall on the internet."
+    },
+    {
+      "word": "your",
+      "local_start": 38.151,
+      "local_end": 38.311,
+      "global_start": 653.511,
+      "global_end": 653.671,
+      "score": 0.734,
+      "segment_index": 5,
+      "segment_text": "Again, this exercise is very helpful for you to filter your topic selection, your messaging, the pain point targeting, and signaling overall on the internet."
+    },
+    {
+      "word": "messaging,",
+      "local_start": 38.371,
+      "local_end": 38.951,
+      "global_start": 653.731,
+      "global_end": 654.311,
+      "score": 0.822,
+      "segment_index": 5,
+      "segment_text": "Again, this exercise is very helpful for you to filter your topic selection, your messaging, the pain point targeting, and signaling overall on the internet."
+    },
+    {
+      "word": "the",
+      "local_start": 39.011,
+      "local_end": 39.091,
+      "global_start": 654.371,
+      "global_end": 654.451,
+      "score": 0.989,
+      "segment_index": 5,
+      "segment_text": "Again, this exercise is very helpful for you to filter your topic selection, your messaging, the pain point targeting, and signaling overall on the internet."
+    },
+    {
+      "word": "pain",
+      "local_start": 39.152,
+      "local_end": 39.392,
+      "global_start": 654.512,
+      "global_end": 654.752,
+      "score": 0.834,
+      "segment_index": 5,
+      "segment_text": "Again, this exercise is very helpful for you to filter your topic selection, your messaging, the pain point targeting, and signaling overall on the internet."
+    },
+    {
+      "word": "point",
+      "local_start": 39.432,
+      "local_end": 39.652,
+      "global_start": 654.792,
+      "global_end": 655.012,
+      "score": 0.838,
+      "segment_index": 5,
+      "segment_text": "Again, this exercise is very helpful for you to filter your topic selection, your messaging, the pain point targeting, and signaling overall on the internet."
+    },
+    {
+      "word": "targeting,",
+      "local_start": 39.692,
+      "local_end": 40.212,
+      "global_start": 655.052,
+      "global_end": 655.572,
+      "score": 0.882,
+      "segment_index": 5,
+      "segment_text": "Again, this exercise is very helpful for you to filter your topic selection, your messaging, the pain point targeting, and signaling overall on the internet."
+    },
+    {
+      "word": "and",
+      "local_start": 40.612,
+      "local_end": 40.752,
+      "global_start": 655.972,
+      "global_end": 656.112,
+      "score": 0.818,
+      "segment_index": 5,
+      "segment_text": "Again, this exercise is very helpful for you to filter your topic selection, your messaging, the pain point targeting, and signaling overall on the internet."
+    },
+    {
+      "word": "signaling",
+      "local_start": 40.872,
+      "local_end": 41.332,
+      "global_start": 656.232,
+      "global_end": 656.692,
+      "score": 0.764,
+      "segment_index": 5,
+      "segment_text": "Again, this exercise is very helpful for you to filter your topic selection, your messaging, the pain point targeting, and signaling overall on the internet."
+    },
+    {
+      "word": "overall",
+      "local_start": 41.472,
+      "local_end": 41.912,
+      "global_start": 656.832,
+      "global_end": 657.272,
+      "score": 0.905,
+      "segment_index": 5,
+      "segment_text": "Again, this exercise is very helpful for you to filter your topic selection, your messaging, the pain point targeting, and signaling overall on the internet."
+    },
+    {
+      "word": "on",
+      "local_start": 42.072,
+      "local_end": 42.132,
+      "global_start": 657.432,
+      "global_end": 657.492,
+      "score": 0.996,
+      "segment_index": 5,
+      "segment_text": "Again, this exercise is very helpful for you to filter your topic selection, your messaging, the pain point targeting, and signaling overall on the internet."
+    },
+    {
+      "word": "the",
+      "local_start": 42.172,
+      "local_end": 42.252,
+      "global_start": 657.532,
+      "global_end": 657.612,
+      "score": 0.908,
+      "segment_index": 5,
+      "segment_text": "Again, this exercise is very helpful for you to filter your topic selection, your messaging, the pain point targeting, and signaling overall on the internet."
+    },
+    {
+      "word": "internet.",
+      "local_start": 42.292,
+      "local_end": 42.572,
+      "global_start": 657.652,
+      "global_end": 657.932,
+      "score": 0.856,
+      "segment_index": 5,
+      "segment_text": "Again, this exercise is very helpful for you to filter your topic selection, your messaging, the pain point targeting, and signaling overall on the internet."
+    },
+    {
+      "word": "Now,",
+      "local_start": 42.832,
+      "local_end": 42.992,
+      "global_start": 658.192,
+      "global_end": 658.352,
+      "score": 0.901,
+      "segment_index": 6,
+      "segment_text": "Now, the second personal brand pillar that's very important to map is your contrarian beliefs."
+    },
+    {
+      "word": "the",
+      "local_start": 43.052,
+      "local_end": 43.172,
+      "global_start": 658.412,
+      "global_end": 658.532,
+      "score": 0.892,
+      "segment_index": 6,
+      "segment_text": "Now, the second personal brand pillar that's very important to map is your contrarian beliefs."
+    },
+    {
+      "word": "second",
+      "local_start": 43.232,
+      "local_end": 43.552,
+      "global_start": 658.592,
+      "global_end": 658.912,
+      "score": 0.764,
+      "segment_index": 6,
+      "segment_text": "Now, the second personal brand pillar that's very important to map is your contrarian beliefs."
+    },
+    {
+      "word": "personal",
+      "local_start": 43.592,
+      "local_end": 43.892,
+      "global_start": 658.952,
+      "global_end": 659.252,
+      "score": 0.747,
+      "segment_index": 6,
+      "segment_text": "Now, the second personal brand pillar that's very important to map is your contrarian beliefs."
+    },
+    {
+      "word": "brand",
+      "local_start": 43.912,
+      "local_end": 44.112,
+      "global_start": 659.272,
+      "global_end": 659.472,
+      "score": 0.912,
+      "segment_index": 6,
+      "segment_text": "Now, the second personal brand pillar that's very important to map is your contrarian beliefs."
+    },
+    {
+      "word": "pillar",
+      "local_start": 44.132,
+      "local_end": 44.352,
+      "global_start": 659.492,
+      "global_end": 659.712,
+      "score": 0.768,
+      "segment_index": 6,
+      "segment_text": "Now, the second personal brand pillar that's very important to map is your contrarian beliefs."
+    },
+    {
+      "word": "that's",
+      "local_start": 44.392,
+      "local_end": 44.552,
+      "global_start": 659.752,
+      "global_end": 659.912,
+      "score": 0.753,
+      "segment_index": 6,
+      "segment_text": "Now, the second personal brand pillar that's very important to map is your contrarian beliefs."
+    },
+    {
+      "word": "very",
+      "local_start": 44.592,
+      "local_end": 44.773,
+      "global_start": 659.952,
+      "global_end": 660.133,
+      "score": 0.752,
+      "segment_index": 6,
+      "segment_text": "Now, the second personal brand pillar that's very important to map is your contrarian beliefs."
+    },
+    {
+      "word": "important",
+      "local_start": 44.813,
+      "local_end": 45.133,
+      "global_start": 660.173,
+      "global_end": 660.493,
+      "score": 0.807,
+      "segment_index": 6,
+      "segment_text": "Now, the second personal brand pillar that's very important to map is your contrarian beliefs."
+    },
+    {
+      "word": "to",
+      "local_start": 45.153,
+      "local_end": 45.233,
+      "global_start": 660.513,
+      "global_end": 660.593,
+      "score": 0.686,
+      "segment_index": 6,
+      "segment_text": "Now, the second personal brand pillar that's very important to map is your contrarian beliefs."
+    },
+    {
+      "word": "map",
+      "local_start": 45.273,
+      "local_end": 45.513,
+      "global_start": 660.633,
+      "global_end": 660.873,
+      "score": 0.907,
+      "segment_index": 6,
+      "segment_text": "Now, the second personal brand pillar that's very important to map is your contrarian beliefs."
+    },
+    {
+      "word": "is",
+      "local_start": 45.673,
+      "local_end": 45.753,
+      "global_start": 661.033,
+      "global_end": 661.113,
+      "score": 0.669,
+      "segment_index": 6,
+      "segment_text": "Now, the second personal brand pillar that's very important to map is your contrarian beliefs."
+    },
+    {
+      "word": "your",
+      "local_start": 45.793,
+      "local_end": 45.973,
+      "global_start": 661.153,
+      "global_end": 661.333,
+      "score": 0.8,
+      "segment_index": 6,
+      "segment_text": "Now, the second personal brand pillar that's very important to map is your contrarian beliefs."
+    },
+    {
+      "word": "contrarian",
+      "local_start": 46.053,
+      "local_end": 46.733,
+      "global_start": 661.413,
+      "global_end": 662.093,
+      "score": 0.833,
+      "segment_index": 6,
+      "segment_text": "Now, the second personal brand pillar that's very important to map is your contrarian beliefs."
+    },
+    {
+      "word": "beliefs.",
+      "local_start": 46.773,
+      "local_end": 47.153,
+      "global_start": 662.133,
+      "global_end": 662.513,
+      "score": 0.94,
+      "segment_index": 6,
+      "segment_text": "Now, the second personal brand pillar that's very important to map is your contrarian beliefs."
+    },
+    {
+      "word": "And",
+      "local_start": 47.473,
+      "local_end": 47.533,
+      "global_start": 662.833,
+      "global_end": 662.893,
+      "score": 0.957,
+      "segment_index": 7,
+      "segment_text": "And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now."
+    },
+    {
+      "word": "if",
+      "local_start": 47.553,
+      "local_end": 47.593,
+      "global_start": 662.913,
+      "global_end": 662.953,
+      "score": 1.0,
+      "segment_index": 7,
+      "segment_text": "And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now."
+    },
+    {
+      "word": "you've",
+      "local_start": 47.613,
+      "local_end": 47.733,
+      "global_start": 662.973,
+      "global_end": 663.093,
+      "score": 0.621,
+      "segment_index": 7,
+      "segment_text": "And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now."
+    },
+    {
+      "word": "been",
+      "local_start": 47.753,
+      "local_end": 47.833,
+      "global_start": 663.113,
+      "global_end": 663.193,
+      "score": 0.504,
+      "segment_index": 7,
+      "segment_text": "And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now."
+    },
+    {
+      "word": "watching",
+      "local_start": 47.873,
+      "local_end": 48.113,
+      "global_start": 663.233,
+      "global_end": 663.473,
+      "score": 0.853,
+      "segment_index": 7,
+      "segment_text": "And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now."
+    },
+    {
+      "word": "my",
+      "local_start": 48.153,
+      "local_end": 48.253,
+      "global_start": 663.513,
+      "global_end": 663.613,
+      "score": 0.836,
+      "segment_index": 7,
+      "segment_text": "And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now."
+    },
+    {
+      "word": "content",
+      "local_start": 48.273,
+      "local_end": 48.553,
+      "global_start": 663.633,
+      "global_end": 663.913,
+      "score": 0.959,
+      "segment_index": 7,
+      "segment_text": "And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now."
+    },
+    {
+      "word": "for",
+      "local_start": 48.573,
+      "local_end": 48.673,
+      "global_start": 663.933,
+      "global_end": 664.033,
+      "score": 0.627,
+      "segment_index": 7,
+      "segment_text": "And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now."
+    },
+    {
+      "word": "a",
+      "local_start": 48.693,
+      "local_end": 48.714,
+      "global_start": 664.053,
+      "global_end": 664.074,
+      "score": 0.999,
+      "segment_index": 7,
+      "segment_text": "And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now."
+    },
+    {
+      "word": "while,",
+      "local_start": 48.754,
+      "local_end": 48.954,
+      "global_start": 664.114,
+      "global_end": 664.314,
+      "score": 0.836,
+      "segment_index": 7,
+      "segment_text": "And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now."
+    },
+    {
+      "word": "you'll",
+      "local_start": 48.974,
+      "local_end": 49.154,
+      "global_start": 664.334,
+      "global_end": 664.514,
+      "score": 0.911,
+      "segment_index": 7,
+      "segment_text": "And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now."
+    },
+    {
+      "word": "know",
+      "local_start": 49.174,
+      "local_end": 49.314,
+      "global_start": 664.534,
+      "global_end": 664.674,
+      "score": 0.669,
+      "segment_index": 7,
+      "segment_text": "And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now."
+    },
+    {
+      "word": "I've",
+      "local_start": 49.334,
+      "local_end": 49.514,
+      "global_start": 664.694,
+      "global_end": 664.874,
+      "score": 0.673,
+      "segment_index": 7,
+      "segment_text": "And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now."
+    },
+    {
+      "word": "been",
+      "local_start": 49.534,
+      "local_end": 49.654,
+      "global_start": 664.894,
+      "global_end": 665.014,
+      "score": 0.892,
+      "segment_index": 7,
+      "segment_text": "And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now."
+    },
+    {
+      "word": "hammering",
+      "local_start": 49.714,
+      "local_end": 50.094,
+      "global_start": 665.074,
+      "global_end": 665.454,
+      "score": 0.84,
+      "segment_index": 7,
+      "segment_text": "And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now."
+    },
+    {
+      "word": "this",
+      "local_start": 50.114,
+      "local_end": 50.254,
+      "global_start": 665.474,
+      "global_end": 665.614,
+      "score": 0.7,
+      "segment_index": 7,
+      "segment_text": "And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now."
+    },
+    {
+      "word": "idea",
+      "local_start": 50.314,
+      "local_end": 50.534,
+      "global_start": 665.674,
+      "global_end": 665.894,
+      "score": 0.759,
+      "segment_index": 7,
+      "segment_text": "And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now."
+    },
+    {
+      "word": "of",
+      "local_start": 50.574,
+      "local_end": 50.634,
+      "global_start": 665.934,
+      "global_end": 665.994,
+      "score": 0.75,
+      "segment_index": 7,
+      "segment_text": "And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now."
+    },
+    {
+      "word": "contrarian",
+      "local_start": 50.674,
+      "local_end": 51.154,
+      "global_start": 666.034,
+      "global_end": 666.514,
+      "score": 0.851,
+      "segment_index": 7,
+      "segment_text": "And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now."
+    },
+    {
+      "word": "beliefs",
+      "local_start": 51.174,
+      "local_end": 51.535,
+      "global_start": 666.534,
+      "global_end": 666.895,
+      "score": 0.857,
+      "segment_index": 7,
+      "segment_text": "And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now."
+    },
+    {
+      "word": "for",
+      "local_start": 51.575,
+      "local_end": 51.755,
+      "global_start": 666.935,
+      "global_end": 667.115,
+      "score": 0.701,
+      "segment_index": 7,
+      "segment_text": "And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now."
+    },
+    {
+      "word": "several",
+      "local_start": 51.875,
+      "local_end": 52.195,
+      "global_start": 667.235,
+      "global_end": 667.555,
+      "score": 0.78,
+      "segment_index": 7,
+      "segment_text": "And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now."
+    },
+    {
+      "word": "years",
+      "local_start": 52.235,
+      "local_end": 52.475,
+      "global_start": 667.595,
+      "global_end": 667.835,
+      "score": 0.797,
+      "segment_index": 7,
+      "segment_text": "And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now."
+    },
+    {
+      "word": "now.",
+      "local_start": 52.535,
+      "local_end": 52.655,
+      "global_start": 667.895,
+      "global_end": 668.015,
+      "score": 0.98,
+      "segment_index": 7,
+      "segment_text": "And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now."
+    },
+    {
+      "word": "And",
+      "local_start": 52.815,
+      "local_end": 52.895,
+      "global_start": 668.175,
+      "global_end": 668.255,
+      "score": 0.84,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "the",
+      "local_start": 52.915,
+      "local_end": 52.975,
+      "global_start": 668.275,
+      "global_end": 668.335,
+      "score": 1.0,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "reason",
+      "local_start": 53.015,
+      "local_end": 53.195,
+      "global_start": 668.375,
+      "global_end": 668.555,
+      "score": 0.769,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "is",
+      "local_start": 53.235,
+      "local_end": 53.295,
+      "global_start": 668.595,
+      "global_end": 668.655,
+      "score": 0.755,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "that",
+      "local_start": 53.315,
+      "local_end": 53.415,
+      "global_start": 668.675,
+      "global_end": 668.775,
+      "score": 0.89,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "the",
+      "local_start": 53.435,
+      "local_end": 53.535,
+      "global_start": 668.795,
+      "global_end": 668.895,
+      "score": 0.671,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "easiest",
+      "local_start": 53.675,
+      "local_end": 53.976,
+      "global_start": 669.035,
+      "global_end": 669.336,
+      "score": 0.763,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "way",
+      "local_start": 54.016,
+      "local_end": 54.116,
+      "global_start": 669.376,
+      "global_end": 669.476,
+      "score": 0.836,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "to",
+      "local_start": 54.156,
+      "local_end": 54.276,
+      "global_start": 669.516,
+      "global_end": 669.636,
+      "score": 0.86,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "cut",
+      "local_start": 54.376,
+      "local_end": 54.596,
+      "global_start": 669.736,
+      "global_end": 669.956,
+      "score": 0.736,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "through",
+      "local_start": 54.636,
+      "local_end": 54.836,
+      "global_start": 669.996,
+      "global_end": 670.196,
+      "score": 0.842,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "a",
+      "local_start": 54.856,
+      "local_end": 54.896,
+      "global_start": 670.216,
+      "global_end": 670.256,
+      "score": 0.497,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "crowded",
+      "local_start": 54.956,
+      "local_end": 55.276,
+      "global_start": 670.316,
+      "global_end": 670.636,
+      "score": 0.874,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "category",
+      "local_start": 55.316,
+      "local_end": 55.776,
+      "global_start": 670.676,
+      "global_end": 671.136,
+      "score": 0.88,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "is",
+      "local_start": 55.896,
+      "local_end": 55.976,
+      "global_start": 671.256,
+      "global_end": 671.336,
+      "score": 0.528,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "to",
+      "local_start": 56.016,
+      "local_end": 56.136,
+      "global_start": 671.376,
+      "global_end": 671.496,
+      "score": 0.833,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "say",
+      "local_start": 56.276,
+      "local_end": 56.477,
+      "global_start": 671.636,
+      "global_end": 671.837,
+      "score": 0.89,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "things",
+      "local_start": 56.537,
+      "local_end": 56.797,
+      "global_start": 671.897,
+      "global_end": 672.157,
+      "score": 0.657,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "that",
+      "local_start": 56.817,
+      "local_end": 56.937,
+      "global_start": 672.177,
+      "global_end": 672.297,
+      "score": 0.764,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "are",
+      "local_start": 56.977,
+      "local_end": 57.057,
+      "global_start": 672.337,
+      "global_end": 672.417,
+      "score": 0.833,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "uncommon",
+      "local_start": 57.237,
+      "local_end": 57.817,
+      "global_start": 672.597,
+      "global_end": 673.177,
+      "score": 0.89,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "or",
+      "local_start": 57.877,
+      "local_end": 57.977,
+      "global_start": 673.237,
+      "global_end": 673.337,
+      "score": 0.545,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "different",
+      "local_start": 58.077,
+      "local_end": 58.457,
+      "global_start": 673.437,
+      "global_end": 673.817,
+      "score": 0.795,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "from",
+      "local_start": 58.677,
+      "local_end": 58.797,
+      "global_start": 674.037,
+      "global_end": 674.157,
+      "score": 0.752,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "what",
+      "local_start": 58.817,
+      "local_end": 58.938,
+      "global_start": 674.177,
+      "global_end": 674.298,
+      "score": 0.75,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "the",
+      "local_start": 58.958,
+      "local_end": 59.038,
+      "global_start": 674.318,
+      "global_end": 674.398,
+      "score": 0.833,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "conventional",
+      "local_start": 59.078,
+      "local_end": 59.578,
+      "global_start": 674.438,
+      "global_end": 674.938,
+      "score": 0.833,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "wisdom",
+      "local_start": 59.618,
+      "local_end": 59.918,
+      "global_start": 674.978,
+      "global_end": 675.278,
+      "score": 0.798,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "typically",
+      "local_start": 59.978,
+      "local_end": 60.338,
+      "global_start": 675.338,
+      "global_end": 675.698,
+      "score": 0.888,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "is.",
+      "local_start": 60.438,
+      "local_end": 60.578,
+      "global_start": 675.798,
+      "global_end": 675.938,
+      "score": 0.812,
+      "segment_index": 8,
+      "segment_text": "And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is."
+    },
+    {
+      "word": "If",
+      "local_start": 60.898,
+      "local_end": 60.958,
+      "global_start": 676.258,
+      "global_end": 676.318,
+      "score": 0.751,
+      "segment_index": 9,
+      "segment_text": "If your opinions are the same as everyone else, you are just a derivative that is smaller than the main person."
+    },
+    {
+      "word": "your",
+      "local_start": 60.978,
+      "local_end": 61.138,
+      "global_start": 676.338,
+      "global_end": 676.498,
+      "score": 0.602,
+      "segment_index": 9,
+      "segment_text": "If your opinions are the same as everyone else, you are just a derivative that is smaller than the main person."
+    },
+    {
+      "word": "opinions",
+      "local_start": 61.178,
+      "local_end": 61.599,
+      "global_start": 676.538,
+      "global_end": 676.959,
+      "score": 0.717,
+      "segment_index": 9,
+      "segment_text": "If your opinions are the same as everyone else, you are just a derivative that is smaller than the main person."
+    },
+    {
+      "word": "are",
+      "local_start": 61.619,
+      "local_end": 61.719,
+      "global_start": 676.979,
+      "global_end": 677.079,
+      "score": 0.681,
+      "segment_index": 9,
+      "segment_text": "If your opinions are the same as everyone else, you are just a derivative that is smaller than the main person."
+    },
+    {
+      "word": "the",
+      "local_start": 61.739,
+      "local_end": 61.839,
+      "global_start": 677.099,
+      "global_end": 677.199,
+      "score": 0.673,
+      "segment_index": 9,
+      "segment_text": "If your opinions are the same as everyone else, you are just a derivative that is smaller than the main person."
+    },
+    {
+      "word": "same",
+      "local_start": 61.879,
+      "local_end": 62.079,
+      "global_start": 677.239,
+      "global_end": 677.439,
+      "score": 0.858,
+      "segment_index": 9,
+      "segment_text": "If your opinions are the same as everyone else, you are just a derivative that is smaller than the main person."
+    },
+    {
+      "word": "as",
+      "local_start": 62.139,
+      "local_end": 62.199,
+      "global_start": 677.499,
+      "global_end": 677.559,
+      "score": 0.949,
+      "segment_index": 9,
+      "segment_text": "If your opinions are the same as everyone else, you are just a derivative that is smaller than the main person."
+    },
+    {
+      "word": "everyone",
+      "local_start": 62.259,
+      "local_end": 62.559,
+      "global_start": 677.619,
+      "global_end": 677.919,
+      "score": 0.744,
+      "segment_index": 9,
+      "segment_text": "If your opinions are the same as everyone else, you are just a derivative that is smaller than the main person."
+    },
+    {
+      "word": "else,",
+      "local_start": 62.619,
+      "local_end": 62.779,
+      "global_start": 677.979,
+      "global_end": 678.139,
+      "score": 0.9,
+      "segment_index": 9,
+      "segment_text": "If your opinions are the same as everyone else, you are just a derivative that is smaller than the main person."
+    },
+    {
+      "word": "you",
+      "local_start": 62.939,
+      "local_end": 63.059,
+      "global_start": 678.299,
+      "global_end": 678.419,
+      "score": 0.612,
+      "segment_index": 9,
+      "segment_text": "If your opinions are the same as everyone else, you are just a derivative that is smaller than the main person."
+    },
+    {
+      "word": "are",
+      "local_start": 63.119,
+      "local_end": 63.199,
+      "global_start": 678.479,
+      "global_end": 678.559,
+      "score": 0.83,
+      "segment_index": 9,
+      "segment_text": "If your opinions are the same as everyone else, you are just a derivative that is smaller than the main person."
+    },
+    {
+      "word": "just",
+      "local_start": 63.259,
+      "local_end": 63.439,
+      "global_start": 678.619,
+      "global_end": 678.799,
+      "score": 0.711,
+      "segment_index": 9,
+      "segment_text": "If your opinions are the same as everyone else, you are just a derivative that is smaller than the main person."
+    },
+    {
+      "word": "a",
+      "local_start": 63.579,
+      "local_end": 63.639,
+      "global_start": 678.939,
+      "global_end": 678.999,
+      "score": 0.69,
+      "segment_index": 9,
+      "segment_text": "If your opinions are the same as everyone else, you are just a derivative that is smaller than the main person."
+    },
+    {
+      "word": "derivative",
+      "local_start": 63.719,
+      "local_end": 64.38,
+      "global_start": 679.079,
+      "global_end": 679.74,
+      "score": 0.891,
+      "segment_index": 9,
+      "segment_text": "If your opinions are the same as everyone else, you are just a derivative that is smaller than the main person."
+    },
+    {
+      "word": "that",
+      "local_start": 64.52,
+      "local_end": 64.64,
+      "global_start": 679.88,
+      "global_end": 680.0,
+      "score": 0.955,
+      "segment_index": 9,
+      "segment_text": "If your opinions are the same as everyone else, you are just a derivative that is smaller than the main person."
+    },
+    {
+      "word": "is",
+      "local_start": 64.7,
+      "local_end": 64.76,
+      "global_start": 680.06,
+      "global_end": 680.12,
+      "score": 0.91,
+      "segment_index": 9,
+      "segment_text": "If your opinions are the same as everyone else, you are just a derivative that is smaller than the main person."
+    },
+    {
+      "word": "smaller",
+      "local_start": 64.88,
+      "local_end": 65.36,
+      "global_start": 680.24,
+      "global_end": 680.72,
+      "score": 0.702,
+      "segment_index": 9,
+      "segment_text": "If your opinions are the same as everyone else, you are just a derivative that is smaller than the main person."
+    },
+    {
+      "word": "than",
+      "local_start": 65.5,
+      "local_end": 65.64,
+      "global_start": 680.86,
+      "global_end": 681.0,
+      "score": 0.757,
+      "segment_index": 9,
+      "segment_text": "If your opinions are the same as everyone else, you are just a derivative that is smaller than the main person."
+    },
+    {
+      "word": "the",
+      "local_start": 65.68,
+      "local_end": 65.76,
+      "global_start": 681.04,
+      "global_end": 681.12,
+      "score": 0.909,
+      "segment_index": 9,
+      "segment_text": "If your opinions are the same as everyone else, you are just a derivative that is smaller than the main person."
+    },
+    {
+      "word": "main",
+      "local_start": 65.8,
+      "local_end": 66.0,
+      "global_start": 681.16,
+      "global_end": 681.36,
+      "score": 0.905,
+      "segment_index": 9,
+      "segment_text": "If your opinions are the same as everyone else, you are just a derivative that is smaller than the main person."
+    },
+    {
+      "word": "person.",
+      "local_start": 66.08,
+      "local_end": 66.4,
+      "global_start": 681.44,
+      "global_end": 681.76,
+      "score": 0.756,
+      "segment_index": 9,
+      "segment_text": "If your opinions are the same as everyone else, you are just a derivative that is smaller than the main person."
+    },
+    {
+      "word": "You'll",
+      "local_start": 66.661,
+      "local_end": 66.841,
+      "global_start": 682.021,
+      "global_end": 682.201,
+      "score": 0.991,
+      "segment_index": 10,
+      "segment_text": "You'll always lose."
+    },
+    {
+      "word": "always",
+      "local_start": 66.961,
+      "local_end": 67.241,
+      "global_start": 682.321,
+      "global_end": 682.601,
+      "score": 0.728,
+      "segment_index": 10,
+      "segment_text": "You'll always lose."
+    },
+    {
+      "word": "lose.",
+      "local_start": 67.301,
+      "local_end": 67.561,
+      "global_start": 682.661,
+      "global_end": 682.921,
+      "score": 0.881,
+      "segment_index": 10,
+      "segment_text": "You'll always lose."
+    },
+    {
+      "word": "This",
+      "local_start": 67.861,
+      "local_end": 67.981,
+      "global_start": 683.221,
+      "global_end": 683.341,
+      "score": 0.93,
+      "segment_index": 11,
+      "segment_text": "This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically has in scene."
+    },
+    {
+      "word": "is",
+      "local_start": 68.021,
+      "local_end": 68.081,
+      "global_start": 683.381,
+      "global_end": 683.441,
+      "score": 0.768,
+      "segment_index": 11,
+      "segment_text": "This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically has in scene."
+    },
+    {
+      "word": "why",
+      "local_start": 68.121,
+      "local_end": 68.321,
+      "global_start": 683.481,
+      "global_end": 683.681,
+      "score": 0.826,
+      "segment_index": 11,
+      "segment_text": "This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically has in scene."
+    },
+    {
+      "word": "you",
+      "local_start": 68.381,
+      "local_end": 68.501,
+      "global_start": 683.741,
+      "global_end": 683.861,
+      "score": 0.807,
+      "segment_index": 11,
+      "segment_text": "This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically has in scene."
+    },
+    {
+      "word": "need",
+      "local_start": 68.541,
+      "local_end": 68.701,
+      "global_start": 683.901,
+      "global_end": 684.061,
+      "score": 0.894,
+      "segment_index": 11,
+      "segment_text": "This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically has in scene."
+    },
+    {
+      "word": "novel",
+      "local_start": 68.801,
+      "local_end": 69.122,
+      "global_start": 684.161,
+      "global_end": 684.482,
+      "score": 0.772,
+      "segment_index": 11,
+      "segment_text": "This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically has in scene."
+    },
+    {
+      "word": "frames,",
+      "local_start": 69.182,
+      "local_end": 69.602,
+      "global_start": 684.542,
+      "global_end": 684.962,
+      "score": 0.785,
+      "segment_index": 11,
+      "segment_text": "This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically has in scene."
+    },
+    {
+      "word": "novel",
+      "local_start": 69.822,
+      "local_end": 70.122,
+      "global_start": 685.182,
+      "global_end": 685.482,
+      "score": 0.711,
+      "segment_index": 11,
+      "segment_text": "This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically has in scene."
+    },
+    {
+      "word": "insights,",
+      "local_start": 70.202,
+      "local_end": 70.662,
+      "global_start": 685.562,
+      "global_end": 686.022,
+      "score": 0.912,
+      "segment_index": 11,
+      "segment_text": "This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically has in scene."
+    },
+    {
+      "word": "new",
+      "local_start": 70.862,
+      "local_end": 71.042,
+      "global_start": 686.222,
+      "global_end": 686.402,
+      "score": 0.727,
+      "segment_index": 11,
+      "segment_text": "This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically has in scene."
+    },
+    {
+      "word": "mechanisms,",
+      "local_start": 71.102,
+      "local_end": 71.743,
+      "global_start": 686.462,
+      "global_end": 687.103,
+      "score": 0.865,
+      "segment_index": 11,
+      "segment_text": "This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically has in scene."
+    },
+    {
+      "word": "or",
+      "local_start": 71.903,
+      "local_end": 71.983,
+      "global_start": 687.263,
+      "global_end": 687.343,
+      "score": 0.712,
+      "segment_index": 11,
+      "segment_text": "This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically has in scene."
+    },
+    {
+      "word": "new",
+      "local_start": 72.123,
+      "local_end": 72.283,
+      "global_start": 687.483,
+      "global_end": 687.643,
+      "score": 0.892,
+      "segment_index": 11,
+      "segment_text": "This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically has in scene."
+    },
+    {
+      "word": "ways",
+      "local_start": 72.323,
+      "local_end": 72.523,
+      "global_start": 687.683,
+      "global_end": 687.883,
+      "score": 0.825,
+      "segment_index": 11,
+      "segment_text": "This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically has in scene."
+    },
+    {
+      "word": "of",
+      "local_start": 72.583,
+      "local_end": 72.643,
+      "global_start": 687.943,
+      "global_end": 688.003,
+      "score": 0.75,
+      "segment_index": 11,
+      "segment_text": "This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically has in scene."
+    },
+    {
+      "word": "doing",
+      "local_start": 72.703,
+      "local_end": 72.943,
+      "global_start": 688.063,
+      "global_end": 688.303,
+      "score": 0.809,
+      "segment_index": 11,
+      "segment_text": "This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically has in scene."
+    },
+    {
+      "word": "things",
+      "local_start": 72.983,
+      "local_end": 73.223,
+      "global_start": 688.343,
+      "global_end": 688.583,
+      "score": 0.807,
+      "segment_index": 11,
+      "segment_text": "This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically has in scene."
+    },
+    {
+      "word": "that",
+      "local_start": 73.523,
+      "local_end": 73.643,
+      "global_start": 688.883,
+      "global_end": 689.003,
+      "score": 0.751,
+      "segment_index": 11,
+      "segment_text": "This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically has in scene."
+    },
+    {
+      "word": "the",
+      "local_start": 73.683,
+      "local_end": 73.763,
+      "global_start": 689.043,
+      "global_end": 689.123,
+      "score": 0.952,
+      "segment_index": 11,
+      "segment_text": "This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically has in scene."
+    },
+    {
+      "word": "market",
+      "local_start": 73.823,
+      "local_end": 74.204,
+      "global_start": 689.183,
+      "global_end": 689.564,
+      "score": 0.894,
+      "segment_index": 11,
+      "segment_text": "This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically has in scene."
+    },
+    {
+      "word": "typically",
+      "local_start": 74.264,
+      "local_end": 74.644,
+      "global_start": 689.624,
+      "global_end": 690.004,
+      "score": 0.911,
+      "segment_index": 11,
+      "segment_text": "This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically has in scene."
+    },
+    {
+      "word": "has",
+      "local_start": 74.684,
+      "local_end": 74.884,
+      "global_start": 690.044,
+      "global_end": 690.244,
+      "score": 0.882,
+      "segment_index": 11,
+      "segment_text": "This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically has in scene."
+    },
+    {
+      "word": "in",
+      "local_start": 74.904,
+      "local_end": 75.004,
+      "global_start": 690.264,
+      "global_end": 690.364,
+      "score": 0.225,
+      "segment_index": 11,
+      "segment_text": "This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically has in scene."
+    },
+    {
+      "word": "scene.",
+      "local_start": 75.064,
+      "local_end": 75.304,
+      "global_start": 690.424,
+      "global_end": 690.664,
+      "score": 0.718,
+      "segment_index": 11,
+      "segment_text": "This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically has in scene."
+    },
+    {
+      "word": "Now",
+      "local_start": 75.424,
+      "local_end": 75.504,
+      "global_start": 690.784,
+      "global_end": 690.864,
+      "score": 0.177,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "I",
+      "local_start": 75.524,
+      "local_end": 75.544,
+      "global_start": 690.884,
+      "global_end": 690.904,
+      "score": 0.001,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "will",
+      "local_start": 75.564,
+      "local_end": 75.705,
+      "global_start": 690.924,
+      "global_end": 691.065,
+      "score": 0.79,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "say",
+      "local_start": 75.745,
+      "local_end": 75.845,
+      "global_start": 691.105,
+      "global_end": 691.205,
+      "score": 0.855,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "it",
+      "local_start": 75.865,
+      "local_end": 75.905,
+      "global_start": 691.225,
+      "global_end": 691.265,
+      "score": 0.998,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "is",
+      "local_start": 75.945,
+      "local_end": 76.045,
+      "global_start": 691.305,
+      "global_end": 691.405,
+      "score": 0.666,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "a",
+      "local_start": 76.065,
+      "local_end": 76.105,
+      "global_start": 691.425,
+      "global_end": 691.465,
+      "score": 0.5,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "bit",
+      "local_start": 76.125,
+      "local_end": 76.286,
+      "global_start": 691.485,
+      "global_end": 691.646,
+      "score": 0.803,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "difficult",
+      "local_start": 76.326,
+      "local_end": 76.726,
+      "global_start": 691.686,
+      "global_end": 692.086,
+      "score": 0.745,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "to",
+      "local_start": 76.766,
+      "local_end": 76.927,
+      "global_start": 692.126,
+      "global_end": 692.287,
+      "score": 0.845,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "one",
+      "local_start": 77.147,
+      "local_end": 77.287,
+      "global_start": 692.507,
+      "global_end": 692.647,
+      "score": 0.613,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "time",
+      "local_start": 77.347,
+      "local_end": 77.668,
+      "global_start": 692.707,
+      "global_end": 693.028,
+      "score": 0.848,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "brain",
+      "local_start": 77.768,
+      "local_end": 78.109,
+      "global_start": 693.128,
+      "global_end": 693.469,
+      "score": 0.806,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "dump",
+      "local_start": 78.129,
+      "local_end": 78.349,
+      "global_start": 693.489,
+      "global_end": 693.709,
+      "score": 0.997,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "all",
+      "local_start": 78.63,
+      "local_end": 78.81,
+      "global_start": 693.99,
+      "global_end": 694.17,
+      "score": 0.743,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "of",
+      "local_start": 78.83,
+      "local_end": 78.89,
+      "global_start": 694.19,
+      "global_end": 694.25,
+      "score": 0.548,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "the",
+      "local_start": 78.97,
+      "local_end": 79.05,
+      "global_start": 694.33,
+      "global_end": 694.41,
+      "score": 0.858,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "contrarian",
+      "local_start": 79.07,
+      "local_end": 79.671,
+      "global_start": 694.43,
+      "global_end": 695.031,
+      "score": 0.848,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "takes",
+      "local_start": 79.712,
+      "local_end": 79.952,
+      "global_start": 695.072,
+      "global_end": 695.312,
+      "score": 0.866,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "you've",
+      "local_start": 79.972,
+      "local_end": 80.132,
+      "global_start": 695.332,
+      "global_end": 695.492,
+      "score": 0.976,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "ever",
+      "local_start": 80.172,
+      "local_end": 80.313,
+      "global_start": 695.532,
+      "global_end": 695.673,
+      "score": 0.836,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "had",
+      "local_start": 80.373,
+      "local_end": 80.613,
+      "global_start": 695.733,
+      "global_end": 695.973,
+      "score": 0.66,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "in",
+      "local_start": 80.753,
+      "local_end": 80.833,
+      "global_start": 696.113,
+      "global_end": 696.193,
+      "score": 0.97,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "a",
+      "local_start": 80.874,
+      "local_end": 80.914,
+      "global_start": 696.234,
+      "global_end": 696.274,
+      "score": 0.496,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "single",
+      "local_start": 80.974,
+      "local_end": 81.254,
+      "global_start": 696.334,
+      "global_end": 696.614,
+      "score": 0.856,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "session,",
+      "local_start": 81.294,
+      "local_end": 81.655,
+      "global_start": 696.654,
+      "global_end": 697.015,
+      "score": 0.874,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "but",
+      "local_start": 81.935,
+      "local_end": 82.015,
+      "global_start": 697.295,
+      "global_end": 697.375,
+      "score": 0.933,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "that's",
+      "local_start": 82.036,
+      "local_end": 82.176,
+      "global_start": 697.396,
+      "global_end": 697.536,
+      "score": 0.838,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "why",
+      "local_start": 82.196,
+      "local_end": 82.316,
+      "global_start": 697.556,
+      "global_end": 697.676,
+      "score": 0.825,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "you",
+      "local_start": 82.336,
+      "local_end": 82.416,
+      "global_start": 697.696,
+      "global_end": 697.776,
+      "score": 0.881,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "want",
+      "local_start": 82.436,
+      "local_end": 82.536,
+      "global_start": 697.796,
+      "global_end": 697.896,
+      "score": 0.879,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "to",
+      "local_start": 82.556,
+      "local_end": 82.617,
+      "global_start": 697.916,
+      "global_end": 697.977,
+      "score": 0.729,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "build",
+      "local_start": 82.637,
+      "local_end": 82.837,
+      "global_start": 697.997,
+      "global_end": 698.197,
+      "score": 0.744,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "out",
+      "local_start": 82.937,
+      "local_end": 83.057,
+      "global_start": 698.297,
+      "global_end": 698.417,
+      "score": 0.794,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    },
+    {
+      "word": "this",
+      "local_start": 83.117,
+      "local_end": 83.238,
+      "global_start": 698.477,
+      "global_end": 698.598,
+      "score": 0.996,
+      "segment_index": 12,
+      "segment_text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    }
+  ],
+  "raw_segments": [
+    {
+      "start": 0.031,
+      "end": 19.808,
+      "text": "you can tell that focusing on my content will give you more value more often because that's all I talk about. The broader you go out, you might get something from those people, but also a lot of their content won't serve you because they're covering lots of topics that don't matter. Typically, as a viewer, the more narrow you go in a particular niche, the faster you get your problem solved."
+    },
+    {
+      "start": 19.808,
+      "end": 47.433,
+      "text": "And so for you, as someone who's trying to build out their personal brand, it's no shade to anyone else. It's just super helpful for you to niche down using this niche builder because you want to serve 100% coverage on the exact target buyer that you're going for. Again, this exercise is very helpful for you to filter your topic selection, your messaging, the pain point targeting, and signaling overall on the internet. Now, the second personal brand pillar that's very important to map is your contrarian beliefs."
+    },
+    {
+      "start": 47.433,
+      "end": 75.344,
+      "text": "And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now. And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is. If your opinions are the same as everyone else, you are just a derivative that is smaller than the main person. You'll always lose. This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically has in scene."
+    },
+    {
+      "start": 75.344,
+      "end": 83.478,
+      "text": "Now I will say it is a bit difficult to one time brain dump all of the contrarian takes you've ever had in a single session, but that's why you want to build out this"
+    }
+  ]
+}

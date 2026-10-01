@@ -1,0 +1,155 @@
+{
+  "video_id": "S-7VkwSU0gs",
+  "video_url": "https://www.youtube.com/watch?v=S-7VkwSU0gs",
+  "total_sections": 4,
+  "sections": [
+    {
+      "section_id": "section_001",
+      "candidate_id": 1,
+      "video_id": "S-7VkwSU0gs",
+      "file_name": "section_001.mp4",
+      "file_path": "/root/youtubr_clipper/media/downloads/S-7VkwSU0gs/sections/section_001.mp4",
+      "start_offset": 98.88,
+      "end_offset": 152.32,
+      "target_duration_s": 53.44,
+      "probed_duration_s": 62.3,
+      "original_candidate_ranges": [
+        {
+          "start": 106.88,
+          "end": 144.32
+        }
+      ],
+      "padded_range": {
+        "start": 98.88,
+        "end": 152.32
+      },
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "vp9",
+          "codec_type": "video",
+          "duration": "62.300000"
+        },
+        {
+          "index": 1,
+          "codec_name": "opus",
+          "codec_type": "audio",
+          "duration": null
+        }
+      ],
+      "combined_text": "Now, the last thing worth calling out, it's very easy to start narrow with the category fandom and expand into mainstream. That's what you typically see with a lot of these big guys, but it's very difficult to start mainstream and go back down into category fandom. That's why I call this out. So for you, as I describe the two games, you probably already have in your head which one you'd like to play. Just keep that in mind as we go through the rest of this framework. Now, positioning question number two is who is my target audience? It is very critical to align on this. Who is the ideal viewer that I want to attract? And this will most likely map back to the game you just chose in question one.",
+      "reason": "This clip provides a clear, actionable framework for choosing a personal brand strategy (mainstream vs. category-specific) and emphasizes the importance of defining a target audience to avoid 'viewer drift'."
+    },
+    {
+      "section_id": "section_002",
+      "candidate_id": 2,
+      "video_id": "S-7VkwSU0gs",
+      "file_name": "section_002.mp4",
+      "file_path": "/root/youtubr_clipper/media/downloads/S-7VkwSU0gs/sections/section_002.mp4",
+      "start_offset": 192.88,
+      "end_offset": 261.6,
+      "target_duration_s": 68.72,
+      "probed_duration_s": 71.58,
+      "original_candidate_ranges": [
+        {
+          "start": 200.88,
+          "end": 253.6
+        }
+      ],
+      "padded_range": {
+        "start": 192.88,
+        "end": 261.6
+      },
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "vp9",
+          "codec_type": "video",
+          "duration": "71.580000"
+        },
+        {
+          "index": 1,
+          "codec_name": "opus",
+          "codec_type": "audio",
+          "duration": null
+        }
+      ],
+      "combined_text": "Personal brand pillars. There are four pillars that make up the foundation of every personal brand. Every single person that you look up to that has a personal brand you want to emulate has a definitive point of view on each of these pillars. And I'm telling you, it is extremely helpful to map these out before you start making content so they can act as guard rails for you. And you're probably starting to sense a theme here. Winning in personal branding is not about adding stuff. It's about subtracting. When you're starting out making content or trying to build a personal brand, you can talk about anything to anyone in any way on any platform. Literally, the whole world is your ocean. Simply put, the art of personal branding is just putting guard rails around you to help define what you talk about, to whom, in what way, on what platforms.",
+      "reason": "This segment introduces the core philosophy of personal branding as a process of subtraction and setting guardrails, which is a highly valuable and counterintuitive insight for creators."
+    },
+    {
+      "section_id": "section_003",
+      "candidate_id": 3,
+      "video_id": "S-7VkwSU0gs",
+      "file_name": "section_003.mp4",
+      "file_path": "/root/youtubr_clipper/media/downloads/S-7VkwSU0gs/sections/section_003.mp4",
+      "start_offset": 328.88,
+      "end_offset": 389.12,
+      "target_duration_s": 60.24,
+      "probed_duration_s": 69.1,
+      "original_candidate_ranges": [
+        {
+          "start": 336.88,
+          "end": 381.12
+        }
+      ],
+      "padded_range": {
+        "start": 328.88,
+        "end": 389.12
+      },
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "vp9",
+          "codec_type": "video",
+          "duration": "69.100000"
+        },
+        {
+          "index": 1,
+          "codec_name": "opus",
+          "codec_type": "audio",
+          "duration": null
+        }
+      ],
+      "combined_text": "Now, the second personal brand pillar that's very important to map is your contrarian beliefs. And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now. And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is. If your opinions are the same as everyone else, you are just a derivative that is smaller than the main person. You'll always lose. This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically hasn't seen. Now, I will say it is a bit difficult to one-time brain dump all of the contrarian takes you've ever had in a single session. But that's why you want to build out this contrarian take vault. And this is simply just a document or a note that captures any perspective you have that's contrarian when it comes up in your mind.",
+      "reason": "This clip explains the necessity of contrarian beliefs for standing out in a crowded market and provides a practical, actionable tip (the 'contrarian take vault') for implementing this strategy."
+    },
+    {
+      "section_id": "section_004",
+      "candidate_id": 4,
+      "video_id": "S-7VkwSU0gs",
+      "file_name": "section_004.mp4",
+      "file_path": "/root/youtubr_clipper/media/downloads/S-7VkwSU0gs/sections/section_004.mp4",
+      "start_offset": 615.36,
+      "end_offset": 693.52,
+      "target_duration_s": 78.16,
+      "probed_duration_s": 83.5,
+      "original_candidate_ranges": [
+        {
+          "start": 623.36,
+          "end": 685.52
+        }
+      ],
+      "padded_range": {
+        "start": 615.36,
+        "end": 693.52
+      },
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "vp9",
+          "codec_type": "video",
+          "duration": "83.500000"
+        },
+        {
+          "index": 1,
+          "codec_name": "opus",
+          "codec_type": "audio",
+          "duration": null
+        }
+      ],
+      "combined_text": "I mean the following. A content formula equals a topic plus a format plus a visual layout. So, for example, if I was working with someone trying to build a personal brand in the barbecue space, like they're a barbecue chef, one of their content formulas might be something like this. The topic is barbecue techniques, the format is a live demo or tutorial, and the visual layout is shot in world standing at the grill. Now, they might have another content formula that's something like this. The topic is barbecue equipment and tools. The format is a listical. The visual format would be in the kitchen holding up the products, cutting back and forth between full screen, A-roll, and B-roll. These would be two different examples of content formulas used for the same personal brand. Now, for most personal brands, they want to end up getting to three to four core topics, one to three core formats, and one to three core visual layouts. And this creates several different combinations or content formulas.",
+      "reason": "This clip breaks down the 'content formula' concept into a simple, repeatable equation (topic + format + visual layout), which is highly practical for any creator looking to build a system."
+    }
+  ]
+}

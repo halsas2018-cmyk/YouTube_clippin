@@ -1,0 +1,2470 @@
+{
+  "section_id": "section_003",
+  "candidate_id": 3,
+  "video_id": "S-7VkwSU0gs",
+  "file_name": "section_003.mp4",
+  "file_path": "/root/youtubr_clipper/media/downloads/S-7VkwSU0gs/sections/section_003.mp4",
+  "start_offset": 328.88,
+  "end_offset": 389.12,
+  "target_duration_s": 60.24,
+  "probed_duration_s": 69.1,
+  "original_candidate_ranges": [
+    {
+      "start": 336.88,
+      "end": 381.12
+    }
+  ],
+  "padded_range": {
+    "start": 328.88,
+    "end": 389.12
+  },
+  "combined_text": "Now, the second personal brand pillar that's very important to map is your contrarian beliefs. And if you've been watching my content for a while, you'll know I've been hammering this idea of contrarian beliefs for several years now. And the reason is that the easiest way to cut through a crowded category is to say things that are uncommon or different from what the conventional wisdom typically is. If your opinions are the same as everyone else, you are just a derivative that is smaller than the main person. You'll always lose. This is why you need novel frames, novel insights, new mechanisms, or new ways of doing things that the market typically hasn't seen. Now, I will say it is a bit difficult to one-time brain dump all of the contrarian takes you've ever had in a single session. But that's why you want to build out this contrarian take vault. And this is simply just a document or a note that captures any perspective you have that's contrarian when it comes up in your mind.",
+  "reason": "This clip explains the necessity of contrarian beliefs for standing out in a crowded market and provides a practical, actionable tip (the 'contrarian take vault') for implementing this strategy.",
+  "alignment": {
+    "whisper_model": "base",
+    "language": "en",
+    "device": "cpu",
+    "compute_type": "float32",
+    "total_words": 242,
+    "timestamp_note": "local_start/local_end are relative to the section MP4 file (0-based seconds). global_start/global_end are authoritative original-video timestamps = local_timestamp + start_offset."
+  },
+  "words": [
+    {
+      "word": "faulting",
+      "local_start": 0.031,
+      "local_end": 0.291,
+      "global_start": 328.911,
+      "global_end": 329.171,
+      "score": 0.755,
+      "segment_index": 0,
+      "segment_text": "faulting over time in generic messaging that doesn't land or ideal buyer."
+    },
+    {
+      "word": "over",
+      "local_start": 0.331,
+      "local_end": 0.451,
+      "global_start": 329.211,
+      "global_end": 329.331,
+      "score": 0.937,
+      "segment_index": 0,
+      "segment_text": "faulting over time in generic messaging that doesn't land or ideal buyer."
+    },
+    {
+      "word": "time",
+      "local_start": 0.511,
+      "local_end": 0.752,
+      "global_start": 329.391,
+      "global_end": 329.632,
+      "score": 0.928,
+      "segment_index": 0,
+      "segment_text": "faulting over time in generic messaging that doesn't land or ideal buyer."
+    },
+    {
+      "word": "in",
+      "local_start": 0.832,
+      "local_end": 0.912,
+      "global_start": 329.712,
+      "global_end": 329.792,
+      "score": 0.99,
+      "segment_index": 0,
+      "segment_text": "faulting over time in generic messaging that doesn't land or ideal buyer."
+    },
+    {
+      "word": "generic",
+      "local_start": 0.952,
+      "local_end": 1.372,
+      "global_start": 329.832,
+      "global_end": 330.252,
+      "score": 0.905,
+      "segment_index": 0,
+      "segment_text": "faulting over time in generic messaging that doesn't land or ideal buyer."
+    },
+    {
+      "word": "messaging",
+      "local_start": 1.432,
+      "local_end": 1.853,
+      "global_start": 330.312,
+      "global_end": 330.733,
+      "score": 0.946,
+      "segment_index": 0,
+      "segment_text": "faulting over time in generic messaging that doesn't land or ideal buyer."
+    },
+    {
+      "word": "that",
+      "local_start": 1.893,
+      "local_end": 2.013,
+      "global_start": 330.773,
+      "global_end": 330.893,
+      "score": 0.997,
+      "segment_index": 0,
+      "segment_text": "faulting over time in generic messaging that doesn't land or ideal buyer."
+    },
+    {
+      "word": "doesn't",
+      "local_start": 2.093,
+      "local_end": 2.433,
+      "global_start": 330.973,
+      "global_end": 331.313,
+      "score": 0.785,
+      "segment_index": 0,
+      "segment_text": "faulting over time in generic messaging that doesn't land or ideal buyer."
+    },
+    {
+      "word": "land",
+      "local_start": 2.533,
+      "local_end": 2.853,
+      "global_start": 331.413,
+      "global_end": 331.733,
+      "score": 0.874,
+      "segment_index": 0,
+      "segment_text": "faulting over time in generic messaging that doesn't land or ideal buyer."
+    },
+    {
+      "word": "or",
+      "local_start": 2.993,
+      "local_end": 3.094,
+      "global_start": 331.873,
+      "global_end": 331.974,
+      "score": 0.434,
+      "segment_index": 0,
+      "segment_text": "faulting over time in generic messaging that doesn't land or ideal buyer."
+    },
+    {
+      "word": "ideal",
+      "local_start": 3.234,
+      "local_end": 3.514,
+      "global_start": 332.114,
+      "global_end": 332.394,
+      "score": 0.906,
+      "segment_index": 0,
+      "segment_text": "faulting over time in generic messaging that doesn't land or ideal buyer."
+    },
+    {
+      "word": "buyer.",
+      "local_start": 3.554,
+      "local_end": 3.834,
+      "global_start": 332.434,
+      "global_end": 332.714,
+      "score": 0.797,
+      "segment_index": 0,
+      "segment_text": "faulting over time in generic messaging that doesn't land or ideal buyer."
+    },
+    {
+      "word": "So",
+      "local_start": 4.094,
+      "local_end": 4.214,
+      "global_start": 332.974,
+      "global_end": 333.094,
+      "score": 0.716,
+      "segment_index": 1,
+      "segment_text": "So slowly, if you don't do this, you have less and less conversion potency in your audience as it grows."
+    },
+    {
+      "word": "slowly,",
+      "local_start": 4.295,
+      "local_end": 4.675,
+      "global_start": 333.175,
+      "global_end": 333.555,
+      "score": 0.824,
+      "segment_index": 1,
+      "segment_text": "So slowly, if you don't do this, you have less and less conversion potency in your audience as it grows."
+    },
+    {
+      "word": "if",
+      "local_start": 4.755,
+      "local_end": 4.795,
+      "global_start": 333.635,
+      "global_end": 333.675,
+      "score": 1.0,
+      "segment_index": 1,
+      "segment_text": "So slowly, if you don't do this, you have less and less conversion potency in your audience as it grows."
+    },
+    {
+      "word": "you",
+      "local_start": 4.835,
+      "local_end": 4.915,
+      "global_start": 333.715,
+      "global_end": 333.795,
+      "score": 0.835,
+      "segment_index": 1,
+      "segment_text": "So slowly, if you don't do this, you have less and less conversion potency in your audience as it grows."
+    },
+    {
+      "word": "don't",
+      "local_start": 4.935,
+      "local_end": 5.095,
+      "global_start": 333.815,
+      "global_end": 333.975,
+      "score": 0.728,
+      "segment_index": 1,
+      "segment_text": "So slowly, if you don't do this, you have less and less conversion potency in your audience as it grows."
+    },
+    {
+      "word": "do",
+      "local_start": 5.135,
+      "local_end": 5.275,
+      "global_start": 334.015,
+      "global_end": 334.155,
+      "score": 0.834,
+      "segment_index": 1,
+      "segment_text": "So slowly, if you don't do this, you have less and less conversion potency in your audience as it grows."
+    },
+    {
+      "word": "this,",
+      "local_start": 5.315,
+      "local_end": 5.496,
+      "global_start": 334.195,
+      "global_end": 334.376,
+      "score": 0.85,
+      "segment_index": 1,
+      "segment_text": "So slowly, if you don't do this, you have less and less conversion potency in your audience as it grows."
+    },
+    {
+      "word": "you",
+      "local_start": 5.796,
+      "local_end": 5.876,
+      "global_start": 334.676,
+      "global_end": 334.756,
+      "score": 0.852,
+      "segment_index": 1,
+      "segment_text": "So slowly, if you don't do this, you have less and less conversion potency in your audience as it grows."
+    },
+    {
+      "word": "have",
+      "local_start": 5.916,
+      "local_end": 6.036,
+      "global_start": 334.796,
+      "global_end": 334.916,
+      "score": 0.874,
+      "segment_index": 1,
+      "segment_text": "So slowly, if you don't do this, you have less and less conversion potency in your audience as it grows."
+    },
+    {
+      "word": "less",
+      "local_start": 6.136,
+      "local_end": 6.336,
+      "global_start": 335.016,
+      "global_end": 335.216,
+      "score": 0.808,
+      "segment_index": 1,
+      "segment_text": "So slowly, if you don't do this, you have less and less conversion potency in your audience as it grows."
+    },
+    {
+      "word": "and",
+      "local_start": 6.396,
+      "local_end": 6.476,
+      "global_start": 335.276,
+      "global_end": 335.356,
+      "score": 0.878,
+      "segment_index": 1,
+      "segment_text": "So slowly, if you don't do this, you have less and less conversion potency in your audience as it grows."
+    },
+    {
+      "word": "less",
+      "local_start": 6.496,
+      "local_end": 6.697,
+      "global_start": 335.376,
+      "global_end": 335.577,
+      "score": 0.754,
+      "segment_index": 1,
+      "segment_text": "So slowly, if you don't do this, you have less and less conversion potency in your audience as it grows."
+    },
+    {
+      "word": "conversion",
+      "local_start": 6.797,
+      "local_end": 7.397,
+      "global_start": 335.677,
+      "global_end": 336.277,
+      "score": 0.908,
+      "segment_index": 1,
+      "segment_text": "So slowly, if you don't do this, you have less and less conversion potency in your audience as it grows."
+    },
+    {
+      "word": "potency",
+      "local_start": 7.477,
+      "local_end": 8.018,
+      "global_start": 336.357,
+      "global_end": 336.898,
+      "score": 0.793,
+      "segment_index": 1,
+      "segment_text": "So slowly, if you don't do this, you have less and less conversion potency in your audience as it grows."
+    },
+    {
+      "word": "in",
+      "local_start": 8.378,
+      "local_end": 8.458,
+      "global_start": 337.258,
+      "global_end": 337.338,
+      "score": 0.834,
+      "segment_index": 1,
+      "segment_text": "So slowly, if you don't do this, you have less and less conversion potency in your audience as it grows."
+    },
+    {
+      "word": "your",
+      "local_start": 8.478,
+      "local_end": 8.638,
+      "global_start": 337.358,
+      "global_end": 337.518,
+      "score": 0.834,
+      "segment_index": 1,
+      "segment_text": "So slowly, if you don't do this, you have less and less conversion potency in your audience as it grows."
+    },
+    {
+      "word": "audience",
+      "local_start": 8.738,
+      "local_end": 9.058,
+      "global_start": 337.618,
+      "global_end": 337.938,
+      "score": 0.929,
+      "segment_index": 1,
+      "segment_text": "So slowly, if you don't do this, you have less and less conversion potency in your audience as it grows."
+    },
+    {
+      "word": "as",
+      "local_start": 9.199,
+      "local_end": 9.279,
+      "global_start": 338.079,
+      "global_end": 338.159,
+      "score": 0.828,
+      "segment_index": 1,
+      "segment_text": "So slowly, if you don't do this, you have less and less conversion potency in your audience as it grows."
+    },
+    {
+      "word": "it",
+      "local_start": 9.339,
+      "local_end": 9.399,
+      "global_start": 338.219,
+      "global_end": 338.279,
+      "score": 0.974,
+      "segment_index": 1,
+      "segment_text": "So slowly, if you don't do this, you have less and less conversion potency in your audience as it grows."
+    },
+    {
+      "word": "grows.",
+      "local_start": 9.439,
+      "local_end": 9.759,
+      "global_start": 338.319,
+      "global_end": 338.639,
+      "score": 0.809,
+      "segment_index": 1,
+      "segment_text": "So slowly, if you don't do this, you have less and less conversion potency in your audience as it grows."
+    },
+    {
+      "word": "Now",
+      "local_start": 10.019,
+      "local_end": 10.099,
+      "global_start": 338.899,
+      "global_end": 338.979,
+      "score": 0.931,
+      "segment_index": 2,
+      "segment_text": "Now to create this avatar filtering, it's actually very simple."
+    },
+    {
+      "word": "to",
+      "local_start": 10.119,
+      "local_end": 10.179,
+      "global_start": 338.999,
+      "global_end": 339.059,
+      "score": 0.724,
+      "segment_index": 2,
+      "segment_text": "Now to create this avatar filtering, it's actually very simple."
+    },
+    {
+      "word": "create",
+      "local_start": 10.219,
+      "local_end": 10.46,
+      "global_start": 339.099,
+      "global_end": 339.34,
+      "score": 0.669,
+      "segment_index": 2,
+      "segment_text": "Now to create this avatar filtering, it's actually very simple."
+    },
+    {
+      "word": "this",
+      "local_start": 10.48,
+      "local_end": 10.64,
+      "global_start": 339.36,
+      "global_end": 339.52,
+      "score": 0.814,
+      "segment_index": 2,
+      "segment_text": "Now to create this avatar filtering, it's actually very simple."
+    },
+    {
+      "word": "avatar",
+      "local_start": 10.82,
+      "local_end": 11.22,
+      "global_start": 339.7,
+      "global_end": 340.1,
+      "score": 0.879,
+      "segment_index": 2,
+      "segment_text": "Now to create this avatar filtering, it's actually very simple."
+    },
+    {
+      "word": "filtering,",
+      "local_start": 11.3,
+      "local_end": 11.781,
+      "global_start": 340.18,
+      "global_end": 340.661,
+      "score": 0.942,
+      "segment_index": 2,
+      "segment_text": "Now to create this avatar filtering, it's actually very simple."
+    },
+    {
+      "word": "it's",
+      "local_start": 11.821,
+      "local_end": 11.921,
+      "global_start": 340.701,
+      "global_end": 340.801,
+      "score": 0.871,
+      "segment_index": 2,
+      "segment_text": "Now to create this avatar filtering, it's actually very simple."
+    },
+    {
+      "word": "actually",
+      "local_start": 11.961,
+      "local_end": 12.181,
+      "global_start": 340.841,
+      "global_end": 341.061,
+      "score": 0.878,
+      "segment_index": 2,
+      "segment_text": "Now to create this avatar filtering, it's actually very simple."
+    },
+    {
+      "word": "very",
+      "local_start": 12.221,
+      "local_end": 12.381,
+      "global_start": 341.101,
+      "global_end": 341.261,
+      "score": 0.848,
+      "segment_index": 2,
+      "segment_text": "Now to create this avatar filtering, it's actually very simple."
+    },
+    {
+      "word": "simple.",
+      "local_start": 12.421,
+      "local_end": 12.701,
+      "global_start": 341.301,
+      "global_end": 341.581,
+      "score": 0.871,
+      "segment_index": 2,
+      "segment_text": "Now to create this avatar filtering, it's actually very simple."
+    },
+    {
+      "word": "I",
+      "local_start": 12.902,
+      "local_end": 12.942,
+      "global_start": 341.782,
+      "global_end": 341.822,
+      "score": 0.89,
+      "segment_index": 3,
+      "segment_text": "I have people create their target authority statement."
+    },
+    {
+      "word": "have",
+      "local_start": 12.962,
+      "local_end": 13.062,
+      "global_start": 341.842,
+      "global_end": 341.942,
+      "score": 0.402,
+      "segment_index": 3,
+      "segment_text": "I have people create their target authority statement."
+    },
+    {
+      "word": "people",
+      "local_start": 13.082,
+      "local_end": 13.342,
+      "global_start": 341.962,
+      "global_end": 342.222,
+      "score": 0.8,
+      "segment_index": 3,
+      "segment_text": "I have people create their target authority statement."
+    },
+    {
+      "word": "create",
+      "local_start": 13.422,
+      "local_end": 13.722,
+      "global_start": 342.302,
+      "global_end": 342.602,
+      "score": 0.772,
+      "segment_index": 3,
+      "segment_text": "I have people create their target authority statement."
+    },
+    {
+      "word": "their",
+      "local_start": 13.762,
+      "local_end": 13.943,
+      "global_start": 342.642,
+      "global_end": 342.823,
+      "score": 0.849,
+      "segment_index": 3,
+      "segment_text": "I have people create their target authority statement."
+    },
+    {
+      "word": "target",
+      "local_start": 14.043,
+      "local_end": 14.463,
+      "global_start": 342.923,
+      "global_end": 343.343,
+      "score": 0.92,
+      "segment_index": 3,
+      "segment_text": "I have people create their target authority statement."
+    },
+    {
+      "word": "authority",
+      "local_start": 14.543,
+      "local_end": 15.043,
+      "global_start": 343.423,
+      "global_end": 343.923,
+      "score": 0.824,
+      "segment_index": 3,
+      "segment_text": "I have people create their target authority statement."
+    },
+    {
+      "word": "statement.",
+      "local_start": 15.103,
+      "local_end": 15.504,
+      "global_start": 343.983,
+      "global_end": 344.384,
+      "score": 0.927,
+      "segment_index": 3,
+      "segment_text": "I have people create their target authority statement."
+    },
+    {
+      "word": "And",
+      "local_start": 15.684,
+      "local_end": 15.744,
+      "global_start": 344.564,
+      "global_end": 344.624,
+      "score": 0.995,
+      "segment_index": 4,
+      "segment_text": "And it's basically filling in, I help X person with Y thing in Z way."
+    },
+    {
+      "word": "it's",
+      "local_start": 15.784,
+      "local_end": 15.864,
+      "global_start": 344.664,
+      "global_end": 344.744,
+      "score": 0.995,
+      "segment_index": 4,
+      "segment_text": "And it's basically filling in, I help X person with Y thing in Z way."
+    },
+    {
+      "word": "basically",
+      "local_start": 15.904,
+      "local_end": 16.304,
+      "global_start": 344.784,
+      "global_end": 345.184,
+      "score": 0.896,
+      "segment_index": 4,
+      "segment_text": "And it's basically filling in, I help X person with Y thing in Z way."
+    },
+    {
+      "word": "filling",
+      "local_start": 16.365,
+      "local_end": 16.645,
+      "global_start": 345.245,
+      "global_end": 345.525,
+      "score": 0.801,
+      "segment_index": 4,
+      "segment_text": "And it's basically filling in, I help X person with Y thing in Z way."
+    },
+    {
+      "word": "in,",
+      "local_start": 16.705,
+      "local_end": 16.805,
+      "global_start": 345.585,
+      "global_end": 345.685,
+      "score": 0.829,
+      "segment_index": 4,
+      "segment_text": "And it's basically filling in, I help X person with Y thing in Z way."
+    },
+    {
+      "word": "I",
+      "local_start": 17.085,
+      "local_end": 17.165,
+      "global_start": 345.965,
+      "global_end": 346.045,
+      "score": 0.933,
+      "segment_index": 4,
+      "segment_text": "And it's basically filling in, I help X person with Y thing in Z way."
+    },
+    {
+      "word": "help",
+      "local_start": 17.205,
+      "local_end": 17.385,
+      "global_start": 346.085,
+      "global_end": 346.265,
+      "score": 0.764,
+      "segment_index": 4,
+      "segment_text": "And it's basically filling in, I help X person with Y thing in Z way."
+    },
+    {
+      "word": "X",
+      "local_start": 17.626,
+      "local_end": 17.726,
+      "global_start": 346.506,
+      "global_end": 346.606,
+      "score": 0.999,
+      "segment_index": 4,
+      "segment_text": "And it's basically filling in, I help X person with Y thing in Z way."
+    },
+    {
+      "word": "person",
+      "local_start": 17.806,
+      "local_end": 18.206,
+      "global_start": 346.686,
+      "global_end": 347.086,
+      "score": 0.871,
+      "segment_index": 4,
+      "segment_text": "And it's basically filling in, I help X person with Y thing in Z way."
+    },
+    {
+      "word": "with",
+      "local_start": 18.406,
+      "local_end": 18.586,
+      "global_start": 347.286,
+      "global_end": 347.466,
+      "score": 0.817,
+      "segment_index": 4,
+      "segment_text": "And it's basically filling in, I help X person with Y thing in Z way."
+    },
+    {
+      "word": "Y",
+      "local_start": 18.907,
+      "local_end": 19.027,
+      "global_start": 347.787,
+      "global_end": 347.907,
+      "score": 0.991,
+      "segment_index": 4,
+      "segment_text": "And it's basically filling in, I help X person with Y thing in Z way."
+    },
+    {
+      "word": "thing",
+      "local_start": 19.127,
+      "local_end": 19.407,
+      "global_start": 348.007,
+      "global_end": 348.287,
+      "score": 0.909,
+      "segment_index": 4,
+      "segment_text": "And it's basically filling in, I help X person with Y thing in Z way."
+    },
+    {
+      "word": "in",
+      "local_start": 19.627,
+      "local_end": 19.747,
+      "global_start": 348.507,
+      "global_end": 348.627,
+      "score": 0.745,
+      "segment_index": 4,
+      "segment_text": "And it's basically filling in, I help X person with Y thing in Z way."
+    },
+    {
+      "word": "Z",
+      "local_start": 19.887,
+      "local_end": 20.128,
+      "global_start": 348.767,
+      "global_end": 349.008,
+      "score": 0.919,
+      "segment_index": 4,
+      "segment_text": "And it's basically filling in, I help X person with Y thing in Z way."
+    },
+    {
+      "word": "way.",
+      "local_start": 20.168,
+      "local_end": 20.408,
+      "global_start": 349.048,
+      "global_end": 349.288,
+      "score": 0.948,
+      "segment_index": 4,
+      "segment_text": "And it's basically filling in, I help X person with Y thing in Z way."
+    },
+    {
+      "word": "So",
+      "local_start": 20.668,
+      "local_end": 20.748,
+      "global_start": 349.548,
+      "global_end": 349.628,
+      "score": 0.98,
+      "segment_index": 5,
+      "segment_text": "So for Greg Ladd, it might be something like, I help young male entrepreneurs improve in business by passing down proven principles I learned."
+    },
+    {
+      "word": "for",
+      "local_start": 20.788,
+      "local_end": 20.868,
+      "global_start": 349.668,
+      "global_end": 349.748,
+      "score": 0.882,
+      "segment_index": 5,
+      "segment_text": "So for Greg Ladd, it might be something like, I help young male entrepreneurs improve in business by passing down proven principles I learned."
+    },
+    {
+      "word": "Greg",
+      "local_start": 20.888,
+      "local_end": 21.048,
+      "global_start": 349.768,
+      "global_end": 349.928,
+      "score": 0.859,
+      "segment_index": 5,
+      "segment_text": "So for Greg Ladd, it might be something like, I help young male entrepreneurs improve in business by passing down proven principles I learned."
+    },
+    {
+      "word": "Ladd,",
+      "local_start": 21.088,
+      "local_end": 21.288,
+      "global_start": 349.968,
+      "global_end": 350.168,
+      "score": 0.794,
+      "segment_index": 5,
+      "segment_text": "So for Greg Ladd, it might be something like, I help young male entrepreneurs improve in business by passing down proven principles I learned."
+    },
+    {
+      "word": "it",
+      "local_start": 21.328,
+      "local_end": 21.388,
+      "global_start": 350.208,
+      "global_end": 350.268,
+      "score": 0.7,
+      "segment_index": 5,
+      "segment_text": "So for Greg Ladd, it might be something like, I help young male entrepreneurs improve in business by passing down proven principles I learned."
+    },
+    {
+      "word": "might",
+      "local_start": 21.428,
+      "local_end": 21.528,
+      "global_start": 350.308,
+      "global_end": 350.408,
+      "score": 0.996,
+      "segment_index": 5,
+      "segment_text": "So for Greg Ladd, it might be something like, I help young male entrepreneurs improve in business by passing down proven principles I learned."
+    },
+    {
+      "word": "be",
+      "local_start": 21.568,
+      "local_end": 21.648,
+      "global_start": 350.448,
+      "global_end": 350.528,
+      "score": 0.732,
+      "segment_index": 5,
+      "segment_text": "So for Greg Ladd, it might be something like, I help young male entrepreneurs improve in business by passing down proven principles I learned."
+    },
+    {
+      "word": "something",
+      "local_start": 21.688,
+      "local_end": 21.929,
+      "global_start": 350.568,
+      "global_end": 350.809,
+      "score": 0.833,
+      "segment_index": 5,
+      "segment_text": "So for Greg Ladd, it might be something like, I help young male entrepreneurs improve in business by passing down proven principles I learned."
+    },
+    {
+      "word": "like,",
+      "local_start": 21.949,
+      "local_end": 22.129,
+      "global_start": 350.829,
+      "global_end": 351.009,
+      "score": 0.817,
+      "segment_index": 5,
+      "segment_text": "So for Greg Ladd, it might be something like, I help young male entrepreneurs improve in business by passing down proven principles I learned."
+    },
+    {
+      "word": "I",
+      "local_start": 22.349,
+      "local_end": 22.429,
+      "global_start": 351.229,
+      "global_end": 351.309,
+      "score": 0.832,
+      "segment_index": 5,
+      "segment_text": "So for Greg Ladd, it might be something like, I help young male entrepreneurs improve in business by passing down proven principles I learned."
+    },
+    {
+      "word": "help",
+      "local_start": 22.469,
+      "local_end": 22.649,
+      "global_start": 351.349,
+      "global_end": 351.529,
+      "score": 0.767,
+      "segment_index": 5,
+      "segment_text": "So for Greg Ladd, it might be something like, I help young male entrepreneurs improve in business by passing down proven principles I learned."
+    },
+    {
+      "word": "young",
+      "local_start": 22.769,
+      "local_end": 23.069,
+      "global_start": 351.649,
+      "global_end": 351.949,
+      "score": 0.832,
+      "segment_index": 5,
+      "segment_text": "So for Greg Ladd, it might be something like, I help young male entrepreneurs improve in business by passing down proven principles I learned."
+    },
+    {
+      "word": "male",
+      "local_start": 23.129,
+      "local_end": 23.389,
+      "global_start": 352.009,
+      "global_end": 352.269,
+      "score": 0.711,
+      "segment_index": 5,
+      "segment_text": "So for Greg Ladd, it might be something like, I help young male entrepreneurs improve in business by passing down proven principles I learned."
+    },
+    {
+      "word": "entrepreneurs",
+      "local_start": 23.529,
+      "local_end": 24.21,
+      "global_start": 352.409,
+      "global_end": 353.09,
+      "score": 0.513,
+      "segment_index": 5,
+      "segment_text": "So for Greg Ladd, it might be something like, I help young male entrepreneurs improve in business by passing down proven principles I learned."
+    },
+    {
+      "word": "improve",
+      "local_start": 24.45,
+      "local_end": 24.95,
+      "global_start": 353.33,
+      "global_end": 353.83,
+      "score": 0.907,
+      "segment_index": 5,
+      "segment_text": "So for Greg Ladd, it might be something like, I help young male entrepreneurs improve in business by passing down proven principles I learned."
+    },
+    {
+      "word": "in",
+      "local_start": 25.01,
+      "local_end": 25.09,
+      "global_start": 353.89,
+      "global_end": 353.97,
+      "score": 0.832,
+      "segment_index": 5,
+      "segment_text": "So for Greg Ladd, it might be something like, I help young male entrepreneurs improve in business by passing down proven principles I learned."
+    },
+    {
+      "word": "business",
+      "local_start": 25.15,
+      "local_end": 25.59,
+      "global_start": 354.03,
+      "global_end": 354.47,
+      "score": 0.819,
+      "segment_index": 5,
+      "segment_text": "So for Greg Ladd, it might be something like, I help young male entrepreneurs improve in business by passing down proven principles I learned."
+    },
+    {
+      "word": "by",
+      "local_start": 25.65,
+      "local_end": 25.81,
+      "global_start": 354.53,
+      "global_end": 354.69,
+      "score": 0.803,
+      "segment_index": 5,
+      "segment_text": "So for Greg Ladd, it might be something like, I help young male entrepreneurs improve in business by passing down proven principles I learned."
+    },
+    {
+      "word": "passing",
+      "local_start": 25.91,
+      "local_end": 26.29,
+      "global_start": 354.79,
+      "global_end": 355.17,
+      "score": 0.921,
+      "segment_index": 5,
+      "segment_text": "So for Greg Ladd, it might be something like, I help young male entrepreneurs improve in business by passing down proven principles I learned."
+    },
+    {
+      "word": "down",
+      "local_start": 26.351,
+      "local_end": 26.611,
+      "global_start": 355.231,
+      "global_end": 355.491,
+      "score": 0.859,
+      "segment_index": 5,
+      "segment_text": "So for Greg Ladd, it might be something like, I help young male entrepreneurs improve in business by passing down proven principles I learned."
+    },
+    {
+      "word": "proven",
+      "local_start": 26.751,
+      "local_end": 27.131,
+      "global_start": 355.631,
+      "global_end": 356.011,
+      "score": 0.738,
+      "segment_index": 5,
+      "segment_text": "So for Greg Ladd, it might be something like, I help young male entrepreneurs improve in business by passing down proven principles I learned."
+    },
+    {
+      "word": "principles",
+      "local_start": 27.191,
+      "local_end": 27.671,
+      "global_start": 356.071,
+      "global_end": 356.551,
+      "score": 0.791,
+      "segment_index": 5,
+      "segment_text": "So for Greg Ladd, it might be something like, I help young male entrepreneurs improve in business by passing down proven principles I learned."
+    },
+    {
+      "word": "I",
+      "local_start": 27.851,
+      "local_end": 27.931,
+      "global_start": 356.731,
+      "global_end": 356.811,
+      "score": 0.75,
+      "segment_index": 5,
+      "segment_text": "So for Greg Ladd, it might be something like, I help young male entrepreneurs improve in business by passing down proven principles I learned."
+    },
+    {
+      "word": "learned.",
+      "local_start": 27.971,
+      "local_end": 28.231,
+      "global_start": 356.851,
+      "global_end": 357.111,
+      "score": 0.8,
+      "segment_index": 5,
+      "segment_text": "So for Greg Ladd, it might be something like, I help young male entrepreneurs improve in business by passing down proven principles I learned."
+    },
+    {
+      "word": "For",
+      "local_start": 28.391,
+      "local_end": 28.491,
+      "global_start": 357.271,
+      "global_end": 357.371,
+      "score": 0.932,
+      "segment_index": 6,
+      "segment_text": "For me, it's I help business owners scale their businesses faster with social media or YouTube."
+    },
+    {
+      "word": "me,",
+      "local_start": 28.531,
+      "local_end": 28.692,
+      "global_start": 357.411,
+      "global_end": 357.572,
+      "score": 0.96,
+      "segment_index": 6,
+      "segment_text": "For me, it's I help business owners scale their businesses faster with social media or YouTube."
+    },
+    {
+      "word": "it's",
+      "local_start": 28.752,
+      "local_end": 28.852,
+      "global_start": 357.632,
+      "global_end": 357.732,
+      "score": 0.713,
+      "segment_index": 6,
+      "segment_text": "For me, it's I help business owners scale their businesses faster with social media or YouTube."
+    },
+    {
+      "word": "I",
+      "local_start": 29.092,
+      "local_end": 29.172,
+      "global_start": 357.972,
+      "global_end": 358.052,
+      "score": 0.76,
+      "segment_index": 6,
+      "segment_text": "For me, it's I help business owners scale their businesses faster with social media or YouTube."
+    },
+    {
+      "word": "help",
+      "local_start": 29.192,
+      "local_end": 29.352,
+      "global_start": 358.072,
+      "global_end": 358.232,
+      "score": 0.682,
+      "segment_index": 6,
+      "segment_text": "For me, it's I help business owners scale their businesses faster with social media or YouTube."
+    },
+    {
+      "word": "business",
+      "local_start": 29.412,
+      "local_end": 29.712,
+      "global_start": 358.292,
+      "global_end": 358.592,
+      "score": 0.837,
+      "segment_index": 6,
+      "segment_text": "For me, it's I help business owners scale their businesses faster with social media or YouTube."
+    },
+    {
+      "word": "owners",
+      "local_start": 29.752,
+      "local_end": 29.972,
+      "global_start": 358.632,
+      "global_end": 358.852,
+      "score": 0.755,
+      "segment_index": 6,
+      "segment_text": "For me, it's I help business owners scale their businesses faster with social media or YouTube."
+    },
+    {
+      "word": "scale",
+      "local_start": 30.052,
+      "local_end": 30.352,
+      "global_start": 358.932,
+      "global_end": 359.232,
+      "score": 0.789,
+      "segment_index": 6,
+      "segment_text": "For me, it's I help business owners scale their businesses faster with social media or YouTube."
+    },
+    {
+      "word": "their",
+      "local_start": 30.372,
+      "local_end": 30.512,
+      "global_start": 359.252,
+      "global_end": 359.392,
+      "score": 0.863,
+      "segment_index": 6,
+      "segment_text": "For me, it's I help business owners scale their businesses faster with social media or YouTube."
+    },
+    {
+      "word": "businesses",
+      "local_start": 30.532,
+      "local_end": 30.953,
+      "global_start": 359.412,
+      "global_end": 359.833,
+      "score": 0.763,
+      "segment_index": 6,
+      "segment_text": "For me, it's I help business owners scale their businesses faster with social media or YouTube."
+    },
+    {
+      "word": "faster",
+      "local_start": 31.013,
+      "local_end": 31.453,
+      "global_start": 359.893,
+      "global_end": 360.333,
+      "score": 0.812,
+      "segment_index": 6,
+      "segment_text": "For me, it's I help business owners scale their businesses faster with social media or YouTube."
+    },
+    {
+      "word": "with",
+      "local_start": 31.533,
+      "local_end": 31.733,
+      "global_start": 360.413,
+      "global_end": 360.613,
+      "score": 0.786,
+      "segment_index": 6,
+      "segment_text": "For me, it's I help business owners scale their businesses faster with social media or YouTube."
+    },
+    {
+      "word": "social",
+      "local_start": 31.853,
+      "local_end": 32.193,
+      "global_start": 360.733,
+      "global_end": 361.073,
+      "score": 0.892,
+      "segment_index": 6,
+      "segment_text": "For me, it's I help business owners scale their businesses faster with social media or YouTube."
+    },
+    {
+      "word": "media",
+      "local_start": 32.213,
+      "local_end": 32.533,
+      "global_start": 361.093,
+      "global_end": 361.413,
+      "score": 0.875,
+      "segment_index": 6,
+      "segment_text": "For me, it's I help business owners scale their businesses faster with social media or YouTube."
+    },
+    {
+      "word": "or",
+      "local_start": 32.773,
+      "local_end": 32.833,
+      "global_start": 361.653,
+      "global_end": 361.713,
+      "score": 0.934,
+      "segment_index": 6,
+      "segment_text": "For me, it's I help business owners scale their businesses faster with social media or YouTube."
+    },
+    {
+      "word": "YouTube.",
+      "local_start": 32.893,
+      "local_end": 33.254,
+      "global_start": 361.773,
+      "global_end": 362.134,
+      "score": 0.714,
+      "segment_index": 6,
+      "segment_text": "For me, it's I help business owners scale their businesses faster with social media or YouTube."
+    },
+    {
+      "word": "Again,",
+      "local_start": 33.494,
+      "local_end": 33.674,
+      "global_start": 362.374,
+      "global_end": 362.554,
+      "score": 0.947,
+      "segment_index": 7,
+      "segment_text": "Again, this is a very simple and quick exercise, but it's very important to do."
+    },
+    {
+      "word": "this",
+      "local_start": 33.694,
+      "local_end": 33.794,
+      "global_start": 362.574,
+      "global_end": 362.674,
+      "score": 0.572,
+      "segment_index": 7,
+      "segment_text": "Again, this is a very simple and quick exercise, but it's very important to do."
+    },
+    {
+      "word": "is",
+      "local_start": 33.814,
+      "local_end": 33.874,
+      "global_start": 362.694,
+      "global_end": 362.754,
+      "score": 0.28,
+      "segment_index": 7,
+      "segment_text": "Again, this is a very simple and quick exercise, but it's very important to do."
+    },
+    {
+      "word": "a",
+      "local_start": 33.914,
+      "local_end": 33.954,
+      "global_start": 362.794,
+      "global_end": 362.834,
+      "score": 0.454,
+      "segment_index": 7,
+      "segment_text": "Again, this is a very simple and quick exercise, but it's very important to do."
+    },
+    {
+      "word": "very",
+      "local_start": 33.994,
+      "local_end": 34.174,
+      "global_start": 362.874,
+      "global_end": 363.054,
+      "score": 0.878,
+      "segment_index": 7,
+      "segment_text": "Again, this is a very simple and quick exercise, but it's very important to do."
+    },
+    {
+      "word": "simple",
+      "local_start": 34.334,
+      "local_end": 34.694,
+      "global_start": 363.214,
+      "global_end": 363.574,
+      "score": 0.717,
+      "segment_index": 7,
+      "segment_text": "Again, this is a very simple and quick exercise, but it's very important to do."
+    },
+    {
+      "word": "and",
+      "local_start": 34.794,
+      "local_end": 34.894,
+      "global_start": 363.674,
+      "global_end": 363.774,
+      "score": 0.669,
+      "segment_index": 7,
+      "segment_text": "Again, this is a very simple and quick exercise, but it's very important to do."
+    },
+    {
+      "word": "quick",
+      "local_start": 35.014,
+      "local_end": 35.234,
+      "global_start": 363.894,
+      "global_end": 364.114,
+      "score": 0.837,
+      "segment_index": 7,
+      "segment_text": "Again, this is a very simple and quick exercise, but it's very important to do."
+    },
+    {
+      "word": "exercise,",
+      "local_start": 35.354,
+      "local_end": 35.835,
+      "global_start": 364.234,
+      "global_end": 364.715,
+      "score": 0.943,
+      "segment_index": 7,
+      "segment_text": "Again, this is a very simple and quick exercise, but it's very important to do."
+    },
+    {
+      "word": "but",
+      "local_start": 35.855,
+      "local_end": 35.955,
+      "global_start": 364.735,
+      "global_end": 364.835,
+      "score": 0.257,
+      "segment_index": 7,
+      "segment_text": "Again, this is a very simple and quick exercise, but it's very important to do."
+    },
+    {
+      "word": "it's",
+      "local_start": 35.975,
+      "local_end": 36.075,
+      "global_start": 364.855,
+      "global_end": 364.955,
+      "score": 0.89,
+      "segment_index": 7,
+      "segment_text": "Again, this is a very simple and quick exercise, but it's very important to do."
+    },
+    {
+      "word": "very",
+      "local_start": 36.155,
+      "local_end": 36.375,
+      "global_start": 365.035,
+      "global_end": 365.255,
+      "score": 0.76,
+      "segment_index": 7,
+      "segment_text": "Again, this is a very simple and quick exercise, but it's very important to do."
+    },
+    {
+      "word": "important",
+      "local_start": 36.415,
+      "local_end": 36.815,
+      "global_start": 365.295,
+      "global_end": 365.695,
+      "score": 0.88,
+      "segment_index": 7,
+      "segment_text": "Again, this is a very simple and quick exercise, but it's very important to do."
+    },
+    {
+      "word": "to",
+      "local_start": 36.835,
+      "local_end": 36.915,
+      "global_start": 365.715,
+      "global_end": 365.795,
+      "score": 0.806,
+      "segment_index": 7,
+      "segment_text": "Again, this is a very simple and quick exercise, but it's very important to do."
+    },
+    {
+      "word": "do.",
+      "local_start": 36.955,
+      "local_end": 37.115,
+      "global_start": 365.835,
+      "global_end": 365.995,
+      "score": 0.987,
+      "segment_index": 7,
+      "segment_text": "Again, this is a very simple and quick exercise, but it's very important to do."
+    },
+    {
+      "word": "Now",
+      "local_start": 37.295,
+      "local_end": 37.415,
+      "global_start": 366.175,
+      "global_end": 366.295,
+      "score": 0.881,
+      "segment_index": 8,
+      "segment_text": "Now question three in the positioning playbook is really where the majority of the work comes into play."
+    },
+    {
+      "word": "question",
+      "local_start": 37.475,
+      "local_end": 37.876,
+      "global_start": 366.355,
+      "global_end": 366.756,
+      "score": 0.864,
+      "segment_index": 8,
+      "segment_text": "Now question three in the positioning playbook is really where the majority of the work comes into play."
+    },
+    {
+      "word": "three",
+      "local_start": 37.936,
+      "local_end": 38.296,
+      "global_start": 366.816,
+      "global_end": 367.176,
+      "score": 0.875,
+      "segment_index": 8,
+      "segment_text": "Now question three in the positioning playbook is really where the majority of the work comes into play."
+    },
+    {
+      "word": "in",
+      "local_start": 38.436,
+      "local_end": 38.496,
+      "global_start": 367.316,
+      "global_end": 367.376,
+      "score": 0.998,
+      "segment_index": 8,
+      "segment_text": "Now question three in the positioning playbook is really where the majority of the work comes into play."
+    },
+    {
+      "word": "the",
+      "local_start": 38.536,
+      "local_end": 38.596,
+      "global_start": 367.416,
+      "global_end": 367.476,
+      "score": 0.997,
+      "segment_index": 8,
+      "segment_text": "Now question three in the positioning playbook is really where the majority of the work comes into play."
+    },
+    {
+      "word": "positioning",
+      "local_start": 38.636,
+      "local_end": 39.116,
+      "global_start": 367.516,
+      "global_end": 367.996,
+      "score": 0.847,
+      "segment_index": 8,
+      "segment_text": "Now question three in the positioning playbook is really where the majority of the work comes into play."
+    },
+    {
+      "word": "playbook",
+      "local_start": 39.156,
+      "local_end": 39.516,
+      "global_start": 368.036,
+      "global_end": 368.396,
+      "score": 0.871,
+      "segment_index": 8,
+      "segment_text": "Now question three in the positioning playbook is really where the majority of the work comes into play."
+    },
+    {
+      "word": "is",
+      "local_start": 39.616,
+      "local_end": 39.716,
+      "global_start": 368.496,
+      "global_end": 368.596,
+      "score": 0.585,
+      "segment_index": 8,
+      "segment_text": "Now question three in the positioning playbook is really where the majority of the work comes into play."
+    },
+    {
+      "word": "really",
+      "local_start": 39.796,
+      "local_end": 40.016,
+      "global_start": 368.676,
+      "global_end": 368.896,
+      "score": 0.894,
+      "segment_index": 8,
+      "segment_text": "Now question three in the positioning playbook is really where the majority of the work comes into play."
+    },
+    {
+      "word": "where",
+      "local_start": 40.057,
+      "local_end": 40.237,
+      "global_start": 368.937,
+      "global_end": 369.117,
+      "score": 0.856,
+      "segment_index": 8,
+      "segment_text": "Now question three in the positioning playbook is really where the majority of the work comes into play."
+    },
+    {
+      "word": "the",
+      "local_start": 40.277,
+      "local_end": 40.337,
+      "global_start": 369.157,
+      "global_end": 369.217,
+      "score": 0.998,
+      "segment_index": 8,
+      "segment_text": "Now question three in the positioning playbook is really where the majority of the work comes into play."
+    },
+    {
+      "word": "majority",
+      "local_start": 40.377,
+      "local_end": 40.797,
+      "global_start": 369.257,
+      "global_end": 369.677,
+      "score": 0.841,
+      "segment_index": 8,
+      "segment_text": "Now question three in the positioning playbook is really where the majority of the work comes into play."
+    },
+    {
+      "word": "of",
+      "local_start": 40.837,
+      "local_end": 40.877,
+      "global_start": 369.717,
+      "global_end": 369.757,
+      "score": 1.0,
+      "segment_index": 8,
+      "segment_text": "Now question three in the positioning playbook is really where the majority of the work comes into play."
+    },
+    {
+      "word": "the",
+      "local_start": 40.917,
+      "local_end": 40.977,
+      "global_start": 369.797,
+      "global_end": 369.857,
+      "score": 0.998,
+      "segment_index": 8,
+      "segment_text": "Now question three in the positioning playbook is really where the majority of the work comes into play."
+    },
+    {
+      "word": "work",
+      "local_start": 41.037,
+      "local_end": 41.217,
+      "global_start": 369.917,
+      "global_end": 370.097,
+      "score": 0.833,
+      "segment_index": 8,
+      "segment_text": "Now question three in the positioning playbook is really where the majority of the work comes into play."
+    },
+    {
+      "word": "comes",
+      "local_start": 41.277,
+      "local_end": 41.457,
+      "global_start": 370.157,
+      "global_end": 370.337,
+      "score": 0.704,
+      "segment_index": 8,
+      "segment_text": "Now question three in the positioning playbook is really where the majority of the work comes into play."
+    },
+    {
+      "word": "into",
+      "local_start": 41.517,
+      "local_end": 41.717,
+      "global_start": 370.397,
+      "global_end": 370.597,
+      "score": 0.795,
+      "segment_index": 8,
+      "segment_text": "Now question three in the positioning playbook is really where the majority of the work comes into play."
+    },
+    {
+      "word": "play.",
+      "local_start": 41.757,
+      "local_end": 41.977,
+      "global_start": 370.637,
+      "global_end": 370.857,
+      "score": 0.758,
+      "segment_index": 8,
+      "segment_text": "Now question three in the positioning playbook is really where the majority of the work comes into play."
+    },
+    {
+      "word": "The",
+      "local_start": 42.097,
+      "local_end": 42.177,
+      "global_start": 370.977,
+      "global_end": 371.057,
+      "score": 0.854,
+      "segment_index": 9,
+      "segment_text": "The first two could take like five minutes, but this one is much more substantive."
+    },
+    {
+      "word": "first",
+      "local_start": 42.197,
+      "local_end": 42.338,
+      "global_start": 371.077,
+      "global_end": 371.218,
+      "score": 0.801,
+      "segment_index": 9,
+      "segment_text": "The first two could take like five minutes, but this one is much more substantive."
+    },
+    {
+      "word": "two",
+      "local_start": 42.358,
+      "local_end": 42.498,
+      "global_start": 371.238,
+      "global_end": 371.378,
+      "score": 0.378,
+      "segment_index": 9,
+      "segment_text": "The first two could take like five minutes, but this one is much more substantive."
+    },
+    {
+      "word": "could",
+      "local_start": 42.518,
+      "local_end": 42.638,
+      "global_start": 371.398,
+      "global_end": 371.518,
+      "score": 0.956,
+      "segment_index": 9,
+      "segment_text": "The first two could take like five minutes, but this one is much more substantive."
+    },
+    {
+      "word": "take",
+      "local_start": 42.658,
+      "local_end": 42.778,
+      "global_start": 371.538,
+      "global_end": 371.658,
+      "score": 0.874,
+      "segment_index": 9,
+      "segment_text": "The first two could take like five minutes, but this one is much more substantive."
+    },
+    {
+      "word": "like",
+      "local_start": 42.818,
+      "local_end": 42.958,
+      "global_start": 371.698,
+      "global_end": 371.838,
+      "score": 0.752,
+      "segment_index": 9,
+      "segment_text": "The first two could take like five minutes, but this one is much more substantive."
+    },
+    {
+      "word": "five",
+      "local_start": 42.978,
+      "local_end": 43.158,
+      "global_start": 371.858,
+      "global_end": 372.038,
+      "score": 0.876,
+      "segment_index": 9,
+      "segment_text": "The first two could take like five minutes, but this one is much more substantive."
+    },
+    {
+      "word": "minutes,",
+      "local_start": 43.198,
+      "local_end": 43.418,
+      "global_start": 372.078,
+      "global_end": 372.298,
+      "score": 0.904,
+      "segment_index": 9,
+      "segment_text": "The first two could take like five minutes, but this one is much more substantive."
+    },
+    {
+      "word": "but",
+      "local_start": 43.538,
+      "local_end": 43.638,
+      "global_start": 372.418,
+      "global_end": 372.518,
+      "score": 0.831,
+      "segment_index": 9,
+      "segment_text": "The first two could take like five minutes, but this one is much more substantive."
+    },
+    {
+      "word": "this",
+      "local_start": 43.658,
+      "local_end": 43.798,
+      "global_start": 372.538,
+      "global_end": 372.678,
+      "score": 0.719,
+      "segment_index": 9,
+      "segment_text": "The first two could take like five minutes, but this one is much more substantive."
+    },
+    {
+      "word": "one",
+      "local_start": 43.938,
+      "local_end": 44.058,
+      "global_start": 372.818,
+      "global_end": 372.938,
+      "score": 0.654,
+      "segment_index": 9,
+      "segment_text": "The first two could take like five minutes, but this one is much more substantive."
+    },
+    {
+      "word": "is",
+      "local_start": 44.198,
+      "local_end": 44.298,
+      "global_start": 373.078,
+      "global_end": 373.178,
+      "score": 0.558,
+      "segment_index": 9,
+      "segment_text": "The first two could take like five minutes, but this one is much more substantive."
+    },
+    {
+      "word": "much",
+      "local_start": 44.378,
+      "local_end": 44.558,
+      "global_start": 373.258,
+      "global_end": 373.438,
+      "score": 0.743,
+      "segment_index": 9,
+      "segment_text": "The first two could take like five minutes, but this one is much more substantive."
+    },
+    {
+      "word": "more",
+      "local_start": 44.619,
+      "local_end": 44.759,
+      "global_start": 373.499,
+      "global_end": 373.639,
+      "score": 0.795,
+      "segment_index": 9,
+      "segment_text": "The first two could take like five minutes, but this one is much more substantive."
+    },
+    {
+      "word": "substantive.",
+      "local_start": 44.799,
+      "local_end": 45.339,
+      "global_start": 373.679,
+      "global_end": 374.219,
+      "score": 0.84,
+      "segment_index": 9,
+      "segment_text": "The first two could take like five minutes, but this one is much more substantive."
+    },
+    {
+      "word": "This",
+      "local_start": 45.499,
+      "local_end": 45.619,
+      "global_start": 374.379,
+      "global_end": 374.499,
+      "score": 0.877,
+      "segment_index": 10,
+      "segment_text": "This is what I call your personal brand pillars."
+    },
+    {
+      "word": "is",
+      "local_start": 45.639,
+      "local_end": 45.679,
+      "global_start": 374.519,
+      "global_end": 374.559,
+      "score": 0.0,
+      "segment_index": 10,
+      "segment_text": "This is what I call your personal brand pillars."
+    },
+    {
+      "word": "what",
+      "local_start": 45.699,
+      "local_end": 45.819,
+      "global_start": 374.579,
+      "global_end": 374.699,
+      "score": 0.83,
+      "segment_index": 10,
+      "segment_text": "This is what I call your personal brand pillars."
+    },
+    {
+      "word": "I",
+      "local_start": 45.859,
+      "local_end": 45.939,
+      "global_start": 374.739,
+      "global_end": 374.819,
+      "score": 0.752,
+      "segment_index": 10,
+      "segment_text": "This is what I call your personal brand pillars."
+    },
+    {
+      "word": "call",
+      "local_start": 45.979,
+      "local_end": 46.219,
+      "global_start": 374.859,
+      "global_end": 375.099,
+      "score": 0.857,
+      "segment_index": 10,
+      "segment_text": "This is what I call your personal brand pillars."
+    },
+    {
+      "word": "your",
+      "local_start": 46.259,
+      "local_end": 46.399,
+      "global_start": 375.139,
+      "global_end": 375.279,
+      "score": 0.96,
+      "segment_index": 10,
+      "segment_text": "This is what I call your personal brand pillars."
+    },
+    {
+      "word": "personal",
+      "local_start": 46.499,
+      "local_end": 46.94,
+      "global_start": 375.379,
+      "global_end": 375.82,
+      "score": 0.893,
+      "segment_index": 10,
+      "segment_text": "This is what I call your personal brand pillars."
+    },
+    {
+      "word": "brand",
+      "local_start": 47.0,
+      "local_end": 47.34,
+      "global_start": 375.88,
+      "global_end": 376.22,
+      "score": 0.894,
+      "segment_index": 10,
+      "segment_text": "This is what I call your personal brand pillars."
+    },
+    {
+      "word": "pillars.",
+      "local_start": 47.46,
+      "local_end": 47.82,
+      "global_start": 376.34,
+      "global_end": 376.7,
+      "score": 0.873,
+      "segment_index": 10,
+      "segment_text": "This is what I call your personal brand pillars."
+    },
+    {
+      "word": "For",
+      "local_start": 48.14,
+      "local_end": 48.22,
+      "global_start": 377.02,
+      "global_end": 377.1,
+      "score": 0.99,
+      "segment_index": 11,
+      "segment_text": "For most people trying to scale a personal brand, they have two big concerns."
+    },
+    {
+      "word": "most",
+      "local_start": 48.26,
+      "local_end": 48.421,
+      "global_start": 377.14,
+      "global_end": 377.301,
+      "score": 0.859,
+      "segment_index": 11,
+      "segment_text": "For most people trying to scale a personal brand, they have two big concerns."
+    },
+    {
+      "word": "people",
+      "local_start": 48.441,
+      "local_end": 48.681,
+      "global_start": 377.321,
+      "global_end": 377.561,
+      "score": 0.793,
+      "segment_index": 11,
+      "segment_text": "For most people trying to scale a personal brand, they have two big concerns."
+    },
+    {
+      "word": "trying",
+      "local_start": 48.721,
+      "local_end": 48.962,
+      "global_start": 377.601,
+      "global_end": 377.842,
+      "score": 0.856,
+      "segment_index": 11,
+      "segment_text": "For most people trying to scale a personal brand, they have two big concerns."
+    },
+    {
+      "word": "to",
+      "local_start": 48.982,
+      "local_end": 49.062,
+      "global_start": 377.862,
+      "global_end": 377.942,
+      "score": 0.504,
+      "segment_index": 11,
+      "segment_text": "For most people trying to scale a personal brand, they have two big concerns."
+    },
+    {
+      "word": "scale",
+      "local_start": 49.102,
+      "local_end": 49.342,
+      "global_start": 377.982,
+      "global_end": 378.222,
+      "score": 0.795,
+      "segment_index": 11,
+      "segment_text": "For most people trying to scale a personal brand, they have two big concerns."
+    },
+    {
+      "word": "a",
+      "local_start": 49.382,
+      "local_end": 49.402,
+      "global_start": 378.262,
+      "global_end": 378.282,
+      "score": 0.999,
+      "segment_index": 11,
+      "segment_text": "For most people trying to scale a personal brand, they have two big concerns."
+    },
+    {
+      "word": "personal",
+      "local_start": 49.442,
+      "local_end": 49.743,
+      "global_start": 378.322,
+      "global_end": 378.623,
+      "score": 0.81,
+      "segment_index": 11,
+      "segment_text": "For most people trying to scale a personal brand, they have two big concerns."
+    },
+    {
+      "word": "brand,",
+      "local_start": 49.783,
+      "local_end": 50.064,
+      "global_start": 378.663,
+      "global_end": 378.944,
+      "score": 0.887,
+      "segment_index": 11,
+      "segment_text": "For most people trying to scale a personal brand, they have two big concerns."
+    },
+    {
+      "word": "they",
+      "local_start": 50.084,
+      "local_end": 50.184,
+      "global_start": 378.964,
+      "global_end": 379.064,
+      "score": 0.875,
+      "segment_index": 11,
+      "segment_text": "For most people trying to scale a personal brand, they have two big concerns."
+    },
+    {
+      "word": "have",
+      "local_start": 50.224,
+      "local_end": 50.344,
+      "global_start": 379.104,
+      "global_end": 379.224,
+      "score": 0.773,
+      "segment_index": 11,
+      "segment_text": "For most people trying to scale a personal brand, they have two big concerns."
+    },
+    {
+      "word": "two",
+      "local_start": 50.464,
+      "local_end": 50.705,
+      "global_start": 379.344,
+      "global_end": 379.585,
+      "score": 0.886,
+      "segment_index": 11,
+      "segment_text": "For most people trying to scale a personal brand, they have two big concerns."
+    },
+    {
+      "word": "big",
+      "local_start": 50.745,
+      "local_end": 50.945,
+      "global_start": 379.625,
+      "global_end": 379.825,
+      "score": 0.78,
+      "segment_index": 11,
+      "segment_text": "For most people trying to scale a personal brand, they have two big concerns."
+    },
+    {
+      "word": "concerns.",
+      "local_start": 51.005,
+      "local_end": 51.486,
+      "global_start": 379.885,
+      "global_end": 380.366,
+      "score": 0.94,
+      "segment_index": 11,
+      "segment_text": "For most people trying to scale a personal brand, they have two big concerns."
+    },
+    {
+      "word": "Number",
+      "local_start": 51.767,
+      "local_end": 51.987,
+      "global_start": 380.647,
+      "global_end": 380.867,
+      "score": 0.822,
+      "segment_index": 12,
+      "segment_text": "Number one is how am I actually going to make this content tactically?"
+    },
+    {
+      "word": "one",
+      "local_start": 52.127,
+      "local_end": 52.247,
+      "global_start": 381.007,
+      "global_end": 381.127,
+      "score": 0.772,
+      "segment_index": 12,
+      "segment_text": "Number one is how am I actually going to make this content tactically?"
+    },
+    {
+      "word": "is",
+      "local_start": 52.408,
+      "local_end": 52.508,
+      "global_start": 381.288,
+      "global_end": 381.388,
+      "score": 0.788,
+      "segment_index": 12,
+      "segment_text": "Number one is how am I actually going to make this content tactically?"
+    },
+    {
+      "word": "how",
+      "local_start": 52.688,
+      "local_end": 52.848,
+      "global_start": 381.568,
+      "global_end": 381.728,
+      "score": 0.805,
+      "segment_index": 12,
+      "segment_text": "Number one is how am I actually going to make this content tactically?"
+    },
+    {
+      "word": "am",
+      "local_start": 52.909,
+      "local_end": 52.989,
+      "global_start": 381.789,
+      "global_end": 381.869,
+      "score": 0.828,
+      "segment_index": 12,
+      "segment_text": "Number one is how am I actually going to make this content tactically?"
+    },
+    {
+      "word": "I",
+      "local_start": 53.069,
+      "local_end": 53.129,
+      "global_start": 381.949,
+      "global_end": 382.009,
+      "score": 0.585,
+      "segment_index": 12,
+      "segment_text": "Number one is how am I actually going to make this content tactically?"
+    },
+    {
+      "word": "actually",
+      "local_start": 53.249,
+      "local_end": 53.51,
+      "global_start": 382.129,
+      "global_end": 382.39,
+      "score": 0.938,
+      "segment_index": 12,
+      "segment_text": "Number one is how am I actually going to make this content tactically?"
+    },
+    {
+      "word": "going",
+      "local_start": 53.55,
+      "local_end": 53.71,
+      "global_start": 382.43,
+      "global_end": 382.59,
+      "score": 0.841,
+      "segment_index": 12,
+      "segment_text": "Number one is how am I actually going to make this content tactically?"
+    },
+    {
+      "word": "to",
+      "local_start": 53.77,
+      "local_end": 53.87,
+      "global_start": 382.65,
+      "global_end": 382.75,
+      "score": 0.8,
+      "segment_index": 12,
+      "segment_text": "Number one is how am I actually going to make this content tactically?"
+    },
+    {
+      "word": "make",
+      "local_start": 54.01,
+      "local_end": 54.211,
+      "global_start": 382.89,
+      "global_end": 383.091,
+      "score": 0.822,
+      "segment_index": 12,
+      "segment_text": "Number one is how am I actually going to make this content tactically?"
+    },
+    {
+      "word": "this",
+      "local_start": 54.291,
+      "local_end": 54.451,
+      "global_start": 383.171,
+      "global_end": 383.331,
+      "score": 0.86,
+      "segment_index": 12,
+      "segment_text": "Number one is how am I actually going to make this content tactically?"
+    },
+    {
+      "word": "content",
+      "local_start": 54.571,
+      "local_end": 55.072,
+      "global_start": 383.451,
+      "global_end": 383.952,
+      "score": 0.868,
+      "segment_index": 12,
+      "segment_text": "Number one is how am I actually going to make this content tactically?"
+    },
+    {
+      "word": "tactically?",
+      "local_start": 55.152,
+      "local_end": 55.693,
+      "global_start": 384.032,
+      "global_end": 384.573,
+      "score": 0.838,
+      "segment_index": 12,
+      "segment_text": "Number one is how am I actually going to make this content tactically?"
+    },
+    {
+      "word": "And",
+      "local_start": 55.814,
+      "local_end": 55.874,
+      "global_start": 384.694,
+      "global_end": 384.754,
+      "score": 0.671,
+      "segment_index": 13,
+      "segment_text": "And number two, how am I going to cut through and stand out in my niche?"
+    },
+    {
+      "word": "number",
+      "local_start": 55.914,
+      "local_end": 56.114,
+      "global_start": 384.794,
+      "global_end": 384.994,
+      "score": 0.932,
+      "segment_index": 13,
+      "segment_text": "And number two, how am I going to cut through and stand out in my niche?"
+    },
+    {
+      "word": "two,",
+      "local_start": 56.154,
+      "local_end": 56.395,
+      "global_start": 385.034,
+      "global_end": 385.275,
+      "score": 0.906,
+      "segment_index": 13,
+      "segment_text": "And number two, how am I going to cut through and stand out in my niche?"
+    },
+    {
+      "word": "how",
+      "local_start": 56.695,
+      "local_end": 56.815,
+      "global_start": 385.575,
+      "global_end": 385.695,
+      "score": 0.876,
+      "segment_index": 13,
+      "segment_text": "And number two, how am I going to cut through and stand out in my niche?"
+    },
+    {
+      "word": "am",
+      "local_start": 56.835,
+      "local_end": 56.916,
+      "global_start": 385.715,
+      "global_end": 385.796,
+      "score": 0.698,
+      "segment_index": 13,
+      "segment_text": "And number two, how am I going to cut through and stand out in my niche?"
+    },
+    {
+      "word": "I",
+      "local_start": 56.956,
+      "local_end": 56.996,
+      "global_start": 385.836,
+      "global_end": 385.876,
+      "score": 0.662,
+      "segment_index": 13,
+      "segment_text": "And number two, how am I going to cut through and stand out in my niche?"
+    },
+    {
+      "word": "going",
+      "local_start": 57.036,
+      "local_end": 57.176,
+      "global_start": 385.916,
+      "global_end": 386.056,
+      "score": 0.802,
+      "segment_index": 13,
+      "segment_text": "And number two, how am I going to cut through and stand out in my niche?"
+    },
+    {
+      "word": "to",
+      "local_start": 57.216,
+      "local_end": 57.336,
+      "global_start": 386.096,
+      "global_end": 386.216,
+      "score": 0.692,
+      "segment_index": 13,
+      "segment_text": "And number two, how am I going to cut through and stand out in my niche?"
+    },
+    {
+      "word": "cut",
+      "local_start": 57.457,
+      "local_end": 57.657,
+      "global_start": 386.337,
+      "global_end": 386.537,
+      "score": 0.75,
+      "segment_index": 13,
+      "segment_text": "And number two, how am I going to cut through and stand out in my niche?"
+    },
+    {
+      "word": "through",
+      "local_start": 57.717,
+      "local_end": 57.977,
+      "global_start": 386.597,
+      "global_end": 386.857,
+      "score": 0.794,
+      "segment_index": 13,
+      "segment_text": "And number two, how am I going to cut through and stand out in my niche?"
+    },
+    {
+      "word": "and",
+      "local_start": 58.098,
+      "local_end": 58.198,
+      "global_start": 386.978,
+      "global_end": 387.078,
+      "score": 0.725,
+      "segment_index": 13,
+      "segment_text": "And number two, how am I going to cut through and stand out in my niche?"
+    },
+    {
+      "word": "stand",
+      "local_start": 58.258,
+      "local_end": 58.579,
+      "global_start": 387.138,
+      "global_end": 387.459,
+      "score": 0.77,
+      "segment_index": 13,
+      "segment_text": "And number two, how am I going to cut through and stand out in my niche?"
+    },
+    {
+      "word": "out",
+      "local_start": 58.699,
+      "local_end": 58.799,
+      "global_start": 387.579,
+      "global_end": 387.679,
+      "score": 0.705,
+      "segment_index": 13,
+      "segment_text": "And number two, how am I going to cut through and stand out in my niche?"
+    },
+    {
+      "word": "in",
+      "local_start": 58.899,
+      "local_end": 58.979,
+      "global_start": 387.779,
+      "global_end": 387.859,
+      "score": 0.832,
+      "segment_index": 13,
+      "segment_text": "And number two, how am I going to cut through and stand out in my niche?"
+    },
+    {
+      "word": "my",
+      "local_start": 58.999,
+      "local_end": 59.119,
+      "global_start": 387.879,
+      "global_end": 387.999,
+      "score": 0.998,
+      "segment_index": 13,
+      "segment_text": "And number two, how am I going to cut through and stand out in my niche?"
+    },
+    {
+      "word": "niche?",
+      "local_start": 59.18,
+      "local_end": 59.42,
+      "global_start": 388.06,
+      "global_end": 388.3,
+      "score": 0.858,
+      "segment_index": 13,
+      "segment_text": "And number two, how am I going to cut through and stand out in my niche?"
+    },
+    {
+      "word": "And",
+      "local_start": 59.7,
+      "local_end": 59.761,
+      "global_start": 388.58,
+      "global_end": 388.641,
+      "score": 0.375,
+      "segment_index": 14,
+      "segment_text": "And we'll address the making the content part in a minute."
+    },
+    {
+      "word": "we'll",
+      "local_start": 59.781,
+      "local_end": 59.881,
+      "global_start": 388.661,
+      "global_end": 388.761,
+      "score": 0.369,
+      "segment_index": 14,
+      "segment_text": "And we'll address the making the content part in a minute."
+    },
+    {
+      "word": "address",
+      "local_start": 59.901,
+      "local_end": 60.141,
+      "global_start": 388.781,
+      "global_end": 389.021,
+      "score": 0.938,
+      "segment_index": 14,
+      "segment_text": "And we'll address the making the content part in a minute."
+    },
+    {
+      "word": "the",
+      "local_start": 60.181,
+      "local_end": 60.302,
+      "global_start": 389.061,
+      "global_end": 389.182,
+      "score": 0.922,
+      "segment_index": 14,
+      "segment_text": "And we'll address the making the content part in a minute."
+    },
+    {
+      "word": "making",
+      "local_start": 60.362,
+      "local_end": 60.682,
+      "global_start": 389.242,
+      "global_end": 389.562,
+      "score": 0.866,
+      "segment_index": 14,
+      "segment_text": "And we'll address the making the content part in a minute."
+    },
+    {
+      "word": "the",
+      "local_start": 60.702,
+      "local_end": 60.782,
+      "global_start": 389.582,
+      "global_end": 389.662,
+      "score": 0.721,
+      "segment_index": 14,
+      "segment_text": "And we'll address the making the content part in a minute."
+    },
+    {
+      "word": "content",
+      "local_start": 60.842,
+      "local_end": 61.223,
+      "global_start": 389.722,
+      "global_end": 390.103,
+      "score": 0.843,
+      "segment_index": 14,
+      "segment_text": "And we'll address the making the content part in a minute."
+    },
+    {
+      "word": "part",
+      "local_start": 61.243,
+      "local_end": 61.464,
+      "global_start": 390.123,
+      "global_end": 390.344,
+      "score": 0.773,
+      "segment_index": 14,
+      "segment_text": "And we'll address the making the content part in a minute."
+    },
+    {
+      "word": "in",
+      "local_start": 61.564,
+      "local_end": 61.624,
+      "global_start": 390.444,
+      "global_end": 390.504,
+      "score": 0.9,
+      "segment_index": 14,
+      "segment_text": "And we'll address the making the content part in a minute."
+    },
+    {
+      "word": "a",
+      "local_start": 61.664,
+      "local_end": 61.684,
+      "global_start": 390.544,
+      "global_end": 390.564,
+      "score": 0.998,
+      "segment_index": 14,
+      "segment_text": "And we'll address the making the content part in a minute."
+    },
+    {
+      "word": "minute.",
+      "local_start": 61.724,
+      "local_end": 61.924,
+      "global_start": 390.604,
+      "global_end": 390.804,
+      "score": 0.909,
+      "segment_index": 14,
+      "segment_text": "And we'll address the making the content part in a minute."
+    },
+    {
+      "word": "But",
+      "local_start": 62.005,
+      "local_end": 62.105,
+      "global_start": 390.885,
+      "global_end": 390.985,
+      "score": 0.951,
+      "segment_index": 15,
+      "segment_text": "But this is a very helpful framework for learning how to stand out in your niche, personal brand pillars."
+    },
+    {
+      "word": "this",
+      "local_start": 62.145,
+      "local_end": 62.305,
+      "global_start": 391.025,
+      "global_end": 391.185,
+      "score": 0.802,
+      "segment_index": 15,
+      "segment_text": "But this is a very helpful framework for learning how to stand out in your niche, personal brand pillars."
+    },
+    {
+      "word": "is",
+      "local_start": 62.325,
+      "local_end": 62.385,
+      "global_start": 391.205,
+      "global_end": 391.265,
+      "score": 0.914,
+      "segment_index": 15,
+      "segment_text": "But this is a very helpful framework for learning how to stand out in your niche, personal brand pillars."
+    },
+    {
+      "word": "a",
+      "local_start": 62.425,
+      "local_end": 62.485,
+      "global_start": 391.305,
+      "global_end": 391.365,
+      "score": 0.34,
+      "segment_index": 15,
+      "segment_text": "But this is a very helpful framework for learning how to stand out in your niche, personal brand pillars."
+    },
+    {
+      "word": "very",
+      "local_start": 62.565,
+      "local_end": 62.766,
+      "global_start": 391.445,
+      "global_end": 391.646,
+      "score": 0.874,
+      "segment_index": 15,
+      "segment_text": "But this is a very helpful framework for learning how to stand out in your niche, personal brand pillars."
+    },
+    {
+      "word": "helpful",
+      "local_start": 62.806,
+      "local_end": 63.106,
+      "global_start": 391.686,
+      "global_end": 391.986,
+      "score": 0.819,
+      "segment_index": 15,
+      "segment_text": "But this is a very helpful framework for learning how to stand out in your niche, personal brand pillars."
+    },
+    {
+      "word": "framework",
+      "local_start": 63.147,
+      "local_end": 63.547,
+      "global_start": 392.027,
+      "global_end": 392.427,
+      "score": 0.911,
+      "segment_index": 15,
+      "segment_text": "But this is a very helpful framework for learning how to stand out in your niche, personal brand pillars."
+    },
+    {
+      "word": "for",
+      "local_start": 63.587,
+      "local_end": 63.708,
+      "global_start": 392.467,
+      "global_end": 392.588,
+      "score": 0.668,
+      "segment_index": 15,
+      "segment_text": "But this is a very helpful framework for learning how to stand out in your niche, personal brand pillars."
+    },
+    {
+      "word": "learning",
+      "local_start": 63.768,
+      "local_end": 64.088,
+      "global_start": 392.648,
+      "global_end": 392.968,
+      "score": 0.73,
+      "segment_index": 15,
+      "segment_text": "But this is a very helpful framework for learning how to stand out in your niche, personal brand pillars."
+    },
+    {
+      "word": "how",
+      "local_start": 64.148,
+      "local_end": 64.248,
+      "global_start": 393.028,
+      "global_end": 393.128,
+      "score": 0.998,
+      "segment_index": 15,
+      "segment_text": "But this is a very helpful framework for learning how to stand out in your niche, personal brand pillars."
+    },
+    {
+      "word": "to",
+      "local_start": 64.289,
+      "local_end": 64.369,
+      "global_start": 393.169,
+      "global_end": 393.249,
+      "score": 0.705,
+      "segment_index": 15,
+      "segment_text": "But this is a very helpful framework for learning how to stand out in your niche, personal brand pillars."
+    },
+    {
+      "word": "stand",
+      "local_start": 64.509,
+      "local_end": 64.91,
+      "global_start": 393.389,
+      "global_end": 393.79,
+      "score": 0.759,
+      "segment_index": 15,
+      "segment_text": "But this is a very helpful framework for learning how to stand out in your niche, personal brand pillars."
+    },
+    {
+      "word": "out",
+      "local_start": 65.05,
+      "local_end": 65.17,
+      "global_start": 393.93,
+      "global_end": 394.05,
+      "score": 0.868,
+      "segment_index": 15,
+      "segment_text": "But this is a very helpful framework for learning how to stand out in your niche, personal brand pillars."
+    },
+    {
+      "word": "in",
+      "local_start": 65.37,
+      "local_end": 65.451,
+      "global_start": 394.25,
+      "global_end": 394.331,
+      "score": 0.848,
+      "segment_index": 15,
+      "segment_text": "But this is a very helpful framework for learning how to stand out in your niche, personal brand pillars."
+    },
+    {
+      "word": "your",
+      "local_start": 65.471,
+      "local_end": 65.631,
+      "global_start": 394.351,
+      "global_end": 394.511,
+      "score": 0.919,
+      "segment_index": 15,
+      "segment_text": "But this is a very helpful framework for learning how to stand out in your niche, personal brand pillars."
+    },
+    {
+      "word": "niche,",
+      "local_start": 65.691,
+      "local_end": 65.931,
+      "global_start": 394.571,
+      "global_end": 394.811,
+      "score": 0.806,
+      "segment_index": 15,
+      "segment_text": "But this is a very helpful framework for learning how to stand out in your niche, personal brand pillars."
+    },
+    {
+      "word": "personal",
+      "local_start": 66.152,
+      "local_end": 66.492,
+      "global_start": 395.032,
+      "global_end": 395.372,
+      "score": 0.741,
+      "segment_index": 15,
+      "segment_text": "But this is a very helpful framework for learning how to stand out in your niche, personal brand pillars."
+    },
+    {
+      "word": "brand",
+      "local_start": 66.512,
+      "local_end": 66.773,
+      "global_start": 395.392,
+      "global_end": 395.653,
+      "score": 0.861,
+      "segment_index": 15,
+      "segment_text": "But this is a very helpful framework for learning how to stand out in your niche, personal brand pillars."
+    },
+    {
+      "word": "pillars.",
+      "local_start": 66.833,
+      "local_end": 67.154,
+      "global_start": 395.713,
+      "global_end": 396.034,
+      "score": 0.9,
+      "segment_index": 15,
+      "segment_text": "But this is a very helpful framework for learning how to stand out in your niche, personal brand pillars."
+    },
+    {
+      "word": "There",
+      "local_start": 67.434,
+      "local_end": 67.574,
+      "global_start": 396.314,
+      "global_end": 396.454,
+      "score": 0.804,
+      "segment_index": 16,
+      "segment_text": "There are four pillars that make up"
+    },
+    {
+      "word": "are",
+      "local_start": 67.614,
+      "local_end": 67.715,
+      "global_start": 396.494,
+      "global_end": 396.595,
+      "score": 0.667,
+      "segment_index": 16,
+      "segment_text": "There are four pillars that make up"
+    },
+    {
+      "word": "four",
+      "local_start": 67.795,
+      "local_end": 68.055,
+      "global_start": 396.675,
+      "global_end": 396.935,
+      "score": 0.709,
+      "segment_index": 16,
+      "segment_text": "There are four pillars that make up"
+    },
+    {
+      "word": "pillars",
+      "local_start": 68.155,
+      "local_end": 68.536,
+      "global_start": 397.035,
+      "global_end": 397.416,
+      "score": 0.858,
+      "segment_index": 16,
+      "segment_text": "There are four pillars that make up"
+    },
+    {
+      "word": "that",
+      "local_start": 68.596,
+      "local_end": 68.736,
+      "global_start": 397.476,
+      "global_end": 397.616,
+      "score": 0.899,
+      "segment_index": 16,
+      "segment_text": "There are four pillars that make up"
+    },
+    {
+      "word": "make",
+      "local_start": 68.816,
+      "local_end": 68.997,
+      "global_start": 397.696,
+      "global_end": 397.877,
+      "score": 0.982,
+      "segment_index": 16,
+      "segment_text": "There are four pillars that make up"
+    },
+    {
+      "word": "up",
+      "local_start": 69.057,
+      "local_end": 69.097,
+      "global_start": 397.937,
+      "global_end": 397.977,
+      "score": 0.566,
+      "segment_index": 16,
+      "segment_text": "There are four pillars that make up"
+    }
+  ],
+  "raw_segments": [
+    {
+      "start": 0.031,
+      "end": 20.568,
+      "text": "faulting over time in generic messaging that doesn't land or ideal buyer. So slowly, if you don't do this, you have less and less conversion potency in your audience as it grows. Now to create this avatar filtering, it's actually very simple. I have people create their target authority statement. And it's basically filling in, I help X person with Y thing in Z way."
+    },
+    {
+      "start": 20.568,
+      "end": 48.04,
+      "text": "So for Greg Ladd, it might be something like, I help young male entrepreneurs improve in business by passing down proven principles I learned. For me, it's I help business owners scale their businesses faster with social media or YouTube. Again, this is a very simple and quick exercise, but it's very important to do. Now question three in the positioning playbook is really where the majority of the work comes into play. The first two could take like five minutes, but this one is much more substantive. This is what I call your personal brand pillars."
+    },
+    {
+      "start": 48.04,
+      "end": 69.117,
+      "text": "For most people trying to scale a personal brand, they have two big concerns. Number one is how am I actually going to make this content tactically? And number two, how am I going to cut through and stand out in my niche? And we'll address the making the content part in a minute. But this is a very helpful framework for learning how to stand out in your niche, personal brand pillars. There are four pillars that make up"
+    }
+  ]
+}
