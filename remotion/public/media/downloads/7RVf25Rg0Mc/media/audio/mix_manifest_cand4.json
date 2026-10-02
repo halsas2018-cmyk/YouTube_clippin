@@ -1,0 +1,19 @@
+{
+  "video_id": "7RVf25Rg0Mc",
+  "selected_candidate_id": 4,
+  "source_manifests": {
+    "audio_planning": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/audio_planning_manifest_cand4.json",
+    "acquisition": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/media/audio/acquisition_manifest.json"
+  },
+  "output_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/media/audio/mixed_cand4.wav",
+  "sample_rate_hz": 44100,
+  "duration_s": 37.30498866213152,
+  "background_music_volume_base": 0.3,
+  "speech_ducking_applied": 46,
+  "sfx_events_count": 55,
+  "validation": {
+    "duration_ok": true,
+    "non_silent_rms": 0.015165727003082953,
+    "ducking_verified": "checked"
+  }
+}

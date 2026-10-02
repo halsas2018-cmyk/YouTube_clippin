@@ -5,11 +5,13 @@
     {
       "asset_id": "audio_background_music_001",
       "type": "background_music",
-      "local_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/media/audio/background_music.wav",
-      "source_url": "placeholder://background_music",
-      "provider": "placeholder",
-      "license": "placeholder (silent audio for validation)",
-      "query": "Background music track",
+      "local_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/media/audio/background_music.mp3",
+      "source_url": "https://cdn.freesound.org/previews/750/750507_14640845-hq.mp3",
+      "provider": "freesound",
+      "license": "CC \u2014 see Freesound for details",
+      "freesound_id": 750507,
+      "freesound_name": "Upbeat Corporate - Medium2",
+      "query": "modern corporate tech upbeat",
       "timing": {
         "start": 0.0,
         "end": 20.434
@@ -18,11 +20,13 @@
     {
       "asset_id": "audio_whoosh_001",
       "type": "whoosh",
-      "local_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/media/audio/whoosh.wav",
-      "source_url": "placeholder://whoosh",
-      "provider": "placeholder",
-      "license": "placeholder (silent audio for validation)",
-      "query": "Whoosh sound effect",
+      "local_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/media/audio/whoosh.mp3",
+      "source_url": "https://cdn.freesound.org/previews/856/856168_18901108-hq.mp3",
+      "provider": "freesound",
+      "license": "CC \u2014 see Freesound for details",
+      "freesound_id": 856168,
+      "freesound_name": "Cyberpunk Glitch Hologram Transition Whoosh",
+      "query": "fast digital whoosh",
       "timing": {
         "start": null,
         "end": null
@@ -31,11 +35,13 @@
     {
       "asset_id": "audio_click_001",
       "type": "click",
-      "local_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/media/audio/click.wav",
-      "source_url": "placeholder://click",
-      "provider": "placeholder",
-      "license": "placeholder (silent audio for validation)",
-      "query": "Click sound effect",
+      "local_path": "/root/youtubr_clipper/media/downloads/7RVf25Rg0Mc/media/audio/click.mp3",
+      "source_url": "https://cdn.freesound.org/previews/653/653369_9659530-hq.mp3",
+      "provider": "freesound",
+      "license": "CC \u2014 see Freesound for details",
+      "freesound_id": 653369,
+      "freesound_name": "SharpClick.wav",
+      "query": "sharp UI click",
       "timing": {
         "start": null,
         "end": null
