@@ -25,42 +25,22 @@ const FPS = 30;
 // FrameInner — the actual per-frame composition component
 // ---------------------------------------------------------------------------
 
-const FrameInner: React.FC = () => {
-  const input = getInputProps();
-  const videoId =
-    (input.videoId as string | undefined) ??
-    (process.env.VIDEO_ID as string | undefined) ??
-    "default";
-  const candidateId = Number(
-    (input.candidateId as string | undefined) ??
-      (process.env.CANDIDATE_ID as string | undefined) ??
-      "1"
-  );
-
+const ClipContent: React.FC<{
+  videoId: string;
+  candidateId: number;
+  candidate: any;
+  audioExt: string;
+  manifests: NonNullable<ReturnType<typeof useManifests>>;
+}> = ({ videoId, candidateId, candidate, audioExt, manifests }) => {
   const frame = useCurrentFrame();
-  const timeInSeconds = frame / FPS;
 
-  // --- Load all manifests via hooks (ALL called unconditionally, before any returns) ---
-  const manifests = useManifests({ videoId });
-  const audioExt = useMixManifest({ videoId, candidateId });
-  // useSegments called early with empty arrays; will re-fetch when candidate is known
   const segments = useSegments({
-    selectedRanges: [],
-    paddedRanges: [],
+    selectedRanges: candidate.selected_global_ranges || [],
+    paddedRanges: candidate.padded_ranges || [],
     videoId,
     candidateId,
     fps: FPS,
   });
-
-  if (!manifests || !audioExt) return null;
-
-  const { timings, captionManifest, emojiManifest, brollManifest } = manifests;
-
-  // --- Candidate lookup ---
-  const candidate = timings.candidates?.find(
-    (c: any) => c.candidate_id === candidateId
-  );
-  if (!candidate) return null;
 
   if (!segments) return null;
 
@@ -71,6 +51,8 @@ const FrameInner: React.FC = () => {
     acc += segments[i].durationInFrames / FPS;
     boundaries.push(acc);
   }
+
+  const { captionManifest, emojiManifest, brollManifest } = manifests;
 
   // --- Build B-roll decisions ---
   const brollDecisions = buildBrollDecisions({
@@ -119,6 +101,40 @@ const FrameInner: React.FC = () => {
         emojiCandidate={emojiCandidate ?? null}
       />
     </>
+  );
+};
+
+const FrameInner: React.FC = () => {
+  const input = getInputProps();
+  const videoId =
+    (input.videoId as string | undefined) ??
+    (process.env.VIDEO_ID as string | undefined) ??
+    "default";
+  const candidateId = Number(
+    (input.candidateId as string | undefined) ??
+      (process.env.CANDIDATE_ID as string | undefined) ??
+      "1"
+  );
+
+  // --- Load all manifests via hooks (called unconditionally) ---
+  const manifests = useManifests({ videoId });
+  const audioExt = useMixManifest({ videoId, candidateId });
+
+  if (!manifests || !audioExt) return null;
+
+  const candidate = manifests.timings?.candidates?.find(
+    (c: any) => c.candidate_id === candidateId
+  );
+  if (!candidate) return null;
+
+  return (
+    <ClipContent
+      videoId={videoId}
+      candidateId={candidateId}
+      candidate={candidate}
+      audioExt={audioExt}
+      manifests={manifests}
+    />
   );
 };
 

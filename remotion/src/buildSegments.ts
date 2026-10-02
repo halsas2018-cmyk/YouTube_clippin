@@ -1,3 +1,5 @@
+import { staticFile } from "remotion";
+
 export type Segment = {
   src: string;
   trimBefore: number;
@@ -21,7 +23,9 @@ export async function buildSegments({
   fps,
 }: BuildSegmentsOptions): Promise<Segment[]> {
   // Fetch sections manifest to get actual file extensions
-  const manifestRes = await fetch(`media/downloads/${videoId}/sections/sections_metadata.json`);
+  const manifestRes = await fetch(
+    staticFile(`media/downloads/${videoId}/sections/sections_metadata.json`)
+  );
   if (!manifestRes.ok) {
     throw new Error(`Failed to load sections manifest: ${manifestRes.status}`);
   }

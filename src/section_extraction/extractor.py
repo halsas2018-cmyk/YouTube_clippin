@@ -73,14 +73,21 @@ def probe_media_duration(file_path: Path | str) -> float:
     return round(float(val), 3) if val else 0.0
 
 
-def is_valid_media_file(file_path: Path | str) -> bool:
+def is_valid_media_file(file_path: Path | str, require_video: bool = True) -> bool:
     """Check if the media file exists and can be probed by ffprobe without errors."""
     fpath = Path(file_path)
     if not fpath.exists() or fpath.stat().st_size == 0:
         return False
     try:
         duration = probe_media_duration(fpath)
-        return duration > 0.0
+        if duration <= 0.0:
+            return False
+        if require_video:
+            info = probe_media_info(fpath)
+            streams = info.get("streams", [])
+            if not any(s.get("codec_type") == "video" for s in streams):
+                return False
+        return True
     except Exception:
         return False
 
@@ -113,20 +120,20 @@ def download_section_range(
     start_time: float,
     end_time: float,
     output_path: Path | str,
-    format_spec: str = "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best",
+    format_spec: str = "bestvideo[protocol^=https]+bestaudio[protocol^=https]/bestvideo+bestaudio/bestvideo",
     ytdlp_bin: str | None = None,
     overwrite: bool = False,
     max_retries: int = 2,
 ) -> Path:
     """Download only the specified section range using yt-dlp and ffmpeg.
 
-    Tries MP4 format first, falls back to best available (WebM) if MP4 not available.
-    Does NOT download the entire video. Validates file integrity with ffprobe.
+    Tries MP4 format first, falls back to best available video if MP4 not available.
+    Merges to MP4 container. Does NOT download the entire video. Validates file integrity with ffprobe.
     """
     out_file = Path(output_path)
     out_file.parent.mkdir(parents=True, exist_ok=True)
 
-    if out_file.exists() and not overwrite and is_valid_media_file(out_file):
+    if out_file.exists() and not overwrite and is_valid_media_file(out_file, require_video=True):
         logger.info("Valid output file %s already exists, skipping download.", out_file)
         return out_file
 
@@ -134,10 +141,10 @@ def download_section_range(
     section_arg = f"*{start_time:.2f}-{end_time:.2f}"
     outtmpl = str(out_file.with_suffix("")) + ".%(ext)s"
 
-    # Try MP4 first, then fallback to best available
+    # Try MP4 first, then fallback to best available video merged into MP4
     format_specs = [
-        format_spec,  # MP4 preferred
-        "bestvideo+bestaudio/best",  # Fallback: any format (usually WebM)
+        format_spec,
+        "bestvideo+bestaudio/bestvideo",
     ]
 
     last_error: Exception | None = None
@@ -148,6 +155,8 @@ def download_section_range(
             section_arg,
             "-f",
             fmt,
+            "--merge-output-format",
+            "mp4",
             "-o",
             outtmpl,
             "--force-overwrites",

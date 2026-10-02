@@ -19,7 +19,7 @@ export function useManifests({ videoId }: UseManifestsOptions): Manifests | null
   const [brollManifest, setBrollManifest] = useState<any | null>(null);
 
   const { delayRender, continueRender, cancelRender } = useDelayRender();
-  const [handle] = useState(() => delayRender());
+  const [handle] = useState(() => delayRender("Loading manifests"));
 
   const fetchJson = useCallback(
     async (pathStr: string) => {

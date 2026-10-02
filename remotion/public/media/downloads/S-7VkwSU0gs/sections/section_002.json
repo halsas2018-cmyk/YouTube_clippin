@@ -7,7 +7,7 @@
   "start_offset": 192.88,
   "end_offset": 261.6,
   "target_duration_s": 68.72,
-  "probed_duration_s": 68.739,
+  "probed_duration_s": 68.757,
   "original_candidate_ranges": [
     {
       "start": 200.88,
@@ -21,9 +21,15 @@
   "streams": [
     {
       "index": 0,
-      "codec_name": "aac",
+      "codec_name": "av1",
+      "codec_type": "video",
+      "duration": "68.757000"
+    },
+    {
+      "index": 1,
+      "codec_name": "opus",
       "codec_type": "audio",
-      "duration": "68.739002"
+      "duration": "68.721000"
     }
   ],
   "combined_text": "Personal brand pillars. There are four pillars that make up the foundation of every personal brand. Every single person that you look up to that has a personal brand you want to emulate has a definitive point of view on each of these pillars. And I'm telling you, it is extremely helpful to map these out before you start making content so they can act as guard rails for you. And you're probably starting to sense a theme here. Winning in personal branding is not about adding stuff. It's about subtracting. When you're starting out making content or trying to build a personal brand, you can talk about anything to anyone in any way on any platform. Literally, the whole world is your ocean. Simply put, the art of personal branding is just putting guard rails around you to help define what you talk about, to whom, in what way, on what platforms.",

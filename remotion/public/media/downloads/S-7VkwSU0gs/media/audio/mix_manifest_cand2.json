@@ -7,12 +7,12 @@
   },
   "output_path": "/root/youtubr_clipper/media/downloads/S-7VkwSU0gs/media/audio/mixed_cand2.mp3",
   "output_format": "mp3",
-  "duration_s": 52.950204,
+  "duration_s": 53.054694,
   "background_music_volume_base": 0.2,
-  "speech_ducking_applied": 56,
+  "speech_ducking_applied": 57,
   "sfx_events_count": 10,
   "validation": {
     "duration_ok": true,
-    "file_size_bytes": 1289812
+    "file_size_bytes": 313545
   }
 }

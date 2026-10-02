@@ -7,7 +7,7 @@
   "start_offset": 615.36,
   "end_offset": 693.52,
   "target_duration_s": 78.16,
-  "probed_duration_s": 78.174,
+  "probed_duration_s": 78.167,
   "original_candidate_ranges": [
     {
       "start": 623.36,
@@ -21,9 +21,15 @@
   "streams": [
     {
       "index": 0,
-      "codec_name": "aac",
+      "codec_name": "av1",
+      "codec_type": "video",
+      "duration": "78.167000"
+    },
+    {
+      "index": 1,
+      "codec_name": "opus",
       "codec_type": "audio",
-      "duration": "78.173991"
+      "duration": "78.161000"
     }
   ],
   "combined_text": "I mean the following. A content formula equals a topic plus a format plus a visual layout. So, for example, if I was working with someone trying to build a personal brand in the barbecue space, like they're a barbecue chef, one of their content formulas might be something like this. The topic is barbecue techniques, the format is a live demo or tutorial, and the visual layout is shot in world standing at the grill. Now, they might have another content formula that's something like this. The topic is barbecue equipment and tools. The format is a listical. The visual format would be in the kitchen holding up the products, cutting back and forth between full screen, A-roll, and B-roll. These would be two different examples of content formulas used for the same personal brand. Now, for most personal brands, they want to end up getting to three to four core topics, one to three core formats, and one to three core visual layouts. And this creates several different combinations or content formulas.",

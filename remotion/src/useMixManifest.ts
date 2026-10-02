@@ -11,7 +11,7 @@ export function useMixManifest({
   const [audioExt, setAudioExt] = useState<string | null>(null);
 
   const { delayRender, continueRender, cancelRender } = useDelayRender();
-  const [handle] = useState(() => delayRender());
+  const [handle] = useState(() => delayRender("Loading mix manifest"));
 
   const fetchMixManifest = useCallback(async () => {
     try {

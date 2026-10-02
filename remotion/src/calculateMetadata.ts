@@ -1,4 +1,4 @@
-import { CalculateMetadataFunction } from "remotion";
+import { CalculateMetadataFunction, staticFile } from "remotion";
 
 declare const process: any;
 
@@ -16,7 +16,7 @@ export const calculateMetadata: CalculateMetadataFunction<CalculateMetadataProps
   const candidateId = Number(props.candidateId ?? process.env.CANDIDATE_ID ?? "1");
 
   try {
-    const res = await fetch(`/public/media/downloads/${videoId}/final_clip_timings.json`);
+    const res = await fetch(staticFile(`media/downloads/${videoId}/final_clip_timings.json`));
     if (!res.ok) {
       console.log("[calculateMetadata] Failed to fetch timings:", res.status);
       return { durationInFrames: FPS };
