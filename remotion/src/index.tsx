@@ -40,9 +40,17 @@ const FrameInner: React.FC = () => {
   const frame = useCurrentFrame();
   const timeInSeconds = frame / FPS;
 
-  // --- Load all manifests via hooks (all called unconditionally, before any returns) ---
+  // --- Load all manifests via hooks (ALL called unconditionally, before any returns) ---
   const manifests = useManifests({ videoId });
   const audioExt = useMixManifest({ videoId, candidateId });
+  // useSegments called early with empty arrays; will re-fetch when candidate is known
+  const segments = useSegments({
+    selectedRanges: [],
+    paddedRanges: [],
+    videoId,
+    candidateId,
+    fps: FPS,
+  });
 
   if (!manifests || !audioExt) return null;
 
@@ -54,14 +62,6 @@ const FrameInner: React.FC = () => {
   );
   if (!candidate) return null;
 
-  // --- Build video segments from selected_global_ranges (async via hook) ---
-  const segments = useSegments({
-    selectedRanges: candidate.selected_global_ranges || [],
-    paddedRanges: candidate.padded_ranges || [],
-    videoId,
-    candidateId,
-    fps: FPS,
-  });
   if (!segments) return null;
 
   // --- Jump-cut flash boundaries ---
