@@ -12,7 +12,7 @@ import { Audio } from "@remotion/media";
 import { calculateMetadata } from "./calculateMetadata";
 import { useManifests } from "./useManifests";
 import { useMixManifest } from "./useMixManifest";
-import { buildSegments, type Segment } from "./buildSegments";
+import { useSegments } from "./useSegments";
 import { buildBrollDecisions, type BrollDecision } from "./buildBrollDecisions";
 import { BrollOverlay } from "./BrollOverlay";
 import { CaptionLayer } from "./CaptionLayer";
@@ -54,14 +54,15 @@ const FrameInner: React.FC = () => {
   );
   if (!candidate) return null;
 
-  // --- Build video segments from selected_global_ranges ---
-  const segments = buildSegments({
+  // --- Build video segments from selected_global_ranges (async via hook) ---
+  const segments = useSegments({
     selectedRanges: candidate.selected_global_ranges || [],
     paddedRanges: candidate.padded_ranges || [],
     videoId,
     candidateId,
     fps: FPS,
   });
+  if (!segments) return null;
 
   // --- Jump-cut flash boundaries ---
   const boundaries: number[] = [];

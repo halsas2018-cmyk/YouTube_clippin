@@ -13,13 +13,26 @@ export type BuildSegmentsOptions = {
   fps: number;
 };
 
-export function buildSegments({
+export async function buildSegments({
   selectedRanges,
   paddedRanges,
   videoId,
   candidateId,
   fps,
-}: BuildSegmentsOptions): Segment[] {
+}: BuildSegmentsOptions): Promise<Segment[]> {
+  // Fetch sections manifest to get actual file extensions
+  const manifestRes = await fetch(`media/downloads/${videoId}/sections/sections_metadata.json`);
+  if (!manifestRes.ok) {
+    throw new Error(`Failed to load sections manifest: ${manifestRes.status}`);
+  }
+  const manifest = await manifestRes.json();
+
+  // Build a map of section_id -> file_name
+  const sectionFiles = new Map<string, string>();
+  for (const section of manifest.sections) {
+    sectionFiles.set(section.section_id, section.file_name);
+  }
+
   const segments: Segment[] = [];
   let accumulatedTime = 0;
 
@@ -43,9 +56,9 @@ export function buildSegments({
       continue;
     }
 
-    const sectionPath = `media/downloads/${videoId}/sections/section_${String(
-      candidateId
-    ).padStart(3, "0")}.mp4`;
+    const sectionId = `section_${String(paddedIndex + 1).padStart(3, "0")}`;
+    const fileName = sectionFiles.get(sectionId) ?? `${sectionId}.mp4`;
+    const sectionPath = `media/downloads/${videoId}/sections/${fileName}`;
 
     segments.push({
       src: sectionPath,
