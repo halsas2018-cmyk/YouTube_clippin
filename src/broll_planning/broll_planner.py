@@ -170,6 +170,10 @@ def plan_broll_for_candidate(
     cand_id = cand.get("candidate_id", cand_index + 1)
     combined_text = cand.get("combined_text", "")
     aligned_words = cand.get("aligned_words", [])
+    # Prefer the actual WhisperX-transcribed words for the LLM prompt so that
+    # find_phrase_timestamps can reliably match the LLM's phrases to aligned_words.
+    if aligned_words:
+        combined_text = " ".join(w.get("word", "") for w in aligned_words)
     total_clip_duration = float(cand.get("total_clip_duration_s", 0.0))
 
     system_prompt = (

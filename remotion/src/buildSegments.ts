@@ -60,8 +60,16 @@ export async function buildSegments({
       continue;
     }
 
-    const sectionId = `section_${String(paddedIndex + 1).padStart(3, "0")}`;
-    const fileName = sectionFiles.get(sectionId) ?? `${sectionId}.mp4`;
+    const matchingSection = manifest.sections?.find(
+      (s: any) => s.candidate_id === candidateId
+    );
+    const sectionId =
+      matchingSection?.section_id ??
+      `section_${String(candidateId).padStart(3, "0")}`;
+    const fileName =
+      matchingSection?.file_name ??
+      sectionFiles.get(sectionId) ??
+      `${sectionId}.mp4`;
     const sectionPath = `media/downloads/${videoId}/sections/${fileName}`;
 
     segments.push({
