@@ -48,21 +48,21 @@ const FrameInner: React.FC = () => {
 
   const { timings, captionManifest, emojiManifest, brollManifest } = manifests;
 
-  // --- Candidate lookup (before hooks that depend on it) ---
+  // --- Candidate lookup ---
   const candidate = timings.candidates?.find(
     (c: any) => c.candidate_id === candidateId
   );
-  if (!candidate) return null;
 
   // --- Build video segments from selected_global_ranges (async via hook) ---
+  // Called unconditionally to satisfy React hooks rules; hook handles null candidate
   const segments = useSegments({
-    selectedRanges: candidate.selected_global_ranges || [],
-    paddedRanges: candidate.padded_ranges || [],
+    selectedRanges: candidate?.selected_global_ranges || [],
+    paddedRanges: candidate?.padded_ranges || [],
     videoId,
     candidateId,
     fps: FPS,
   });
-  if (!segments) return null;
+  if (!candidate || !segments) return null;
 
   // --- Jump-cut flash boundaries ---
   const boundaries: number[] = [];
