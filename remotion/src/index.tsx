@@ -1,9 +1,10 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import {
   Composition,
   useCurrentFrame,
   getInputProps,
   staticFile,
+  useDelayRender,
 } from "remotion";
 
 declare const process: any;
@@ -44,6 +45,27 @@ const FrameInner: React.FC = () => {
   if (!manifests) return null;
 
   const { timings, captionManifest, emojiManifest, brollManifest } = manifests;
+
+  // --- Load mix manifest to determine actual audio format (mp3 or wav) ---
+  const [audioExt, setAudioExt] = useState<string | null>(null);
+  const { delayRender, continueRender, cancelRender } = useDelayRender();
+  const [handle] = useState(() => delayRender());
+
+  useEffect(() => {
+    fetch(staticFile(`media/downloads/${videoId}/media/audio/mix_manifest_cand${candidateId}.json`))
+      .then((res) => {
+        if (!res.ok) throw new Error(`Mix manifest not found: ${res.status}`);
+        return res.json();
+      })
+      .then((data) => {
+        const ext = data.output_format ?? "wav"; // default to wav if missing
+        setAudioExt(ext);
+        continueRender(handle);
+      })
+      .catch((err) => cancelRender(err));
+  }, [videoId, candidateId, continueRender, cancelRender, handle]);
+
+  if (!audioExt) return null;
 
   // --- Candidate lookup ---
   const candidate = timings.candidates?.find(
@@ -89,10 +111,10 @@ const FrameInner: React.FC = () => {
   // ---------------------------------------------------------------------------
   return (
     <>
-      {/* Audio track — mixed_cand{N}.mp3 (real assets) or .wav (placeholder fallback) */}
+      {/* Audio track — mixed_cand{N}.{mp3|wav} (format determined by mix manifest) */}
       <Audio
         src={staticFile(
-          `media/downloads/${videoId}/media/audio/mixed_cand${candidateId}.mp3`
+          `media/downloads/${videoId}/media/audio/mixed_cand${candidateId}.${audioExt}`
         )}
       />
 
