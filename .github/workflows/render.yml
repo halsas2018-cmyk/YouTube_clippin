@@ -2,6 +2,11 @@ name: Render Remotion Videos
 
 on:
   workflow_dispatch:
+    inputs:
+      video_id:
+        description: "Video ID to render (e.g., S-7VkwSU0gs)"
+        required: true
+        type: string
 
 permissions:
   contents: read
@@ -30,14 +35,12 @@ jobs:
         working-directory: remotion
         run: npx remotion browser ensure
 
-      - name: Discover video ID and candidate IDs
+      - name: Discover candidate IDs
         id: discover
         working-directory: remotion
+        env:
+          VIDEO_ID: ${{ github.event.inputs.video_id }}
         run: |
-          # Find video ID from the downloads directory
-          VIDEO_ID=$(ls public/media/downloads/ | head -n 1)
-          echo "video_id=$VIDEO_ID" >> $GITHUB_OUTPUT
-
           # Extract candidate IDs from final_clip_timings.json
           CANDIDATE_IDS=$(cat "public/media/downloads/$VIDEO_ID/final_clip_timings.json" | \
             python3 -c "import json, sys; data = json.load(sys.stdin); print(' '.join(str(c['candidate_id']) for c in data['candidates']))")
@@ -45,10 +48,10 @@ jobs:
 
       - name: Render all candidates
         working-directory: remotion
+        env:
+          VIDEO_ID: ${{ github.event.inputs.video_id }}
+          CANDIDATE_IDS: ${{ steps.discover.outputs.candidate_ids }}
         run: |
-          VIDEO_ID="${{ steps.discover.outputs.video_id }}"
-          CANDIDATE_IDS="${{ steps.discover.outputs.candidate_ids }}"
-
           for CANDIDATE_ID in $CANDIDATE_IDS; do
             COMPOSITION_ID="${VIDEO_ID}-cand${CANDIDATE_ID}"
             OUTPUT_FILE="${VIDEO_ID}-cand${CANDIDATE_ID}.mp4"
