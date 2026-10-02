@@ -48,7 +48,7 @@ const FrameInner: React.FC = () => {
 
   const { timings, captionManifest, emojiManifest, brollManifest } = manifests;
 
-  // --- Candidate lookup ---
+  // --- Candidate lookup (before hooks that depend on it) ---
   const candidate = timings.candidates?.find(
     (c: any) => c.candidate_id === candidateId
   );
