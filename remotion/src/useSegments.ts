@@ -9,6 +9,11 @@ export function useSegments(options: BuildSegmentsOptions): Segment[] | null {
   const [handle] = useState(() => delayRender());
 
   const loadSegments = useCallback(async () => {
+    // Skip if no ranges to process
+    if (!options.selectedRanges.length || !options.paddedRanges.length) {
+      continueRender(handle);
+      return;
+    }
     try {
       const segs = await buildSegments(options);
       setSegments(segs);
