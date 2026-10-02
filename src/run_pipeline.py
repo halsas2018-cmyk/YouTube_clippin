@@ -75,6 +75,17 @@ def copy_remotion_assets(video_id: str, project_root: Path) -> dict:
         for cand in timings.get("candidates", []):
             candidate_ids.append(cand.get("candidate_id"))
 
+    # Also copy mix manifests for all discovered candidates
+    for cand_id in candidate_ids:
+        mix_manifest = f"mix_manifest_cand{cand_id}.json"
+        src = src_base / "media" / "audio" / mix_manifest
+        dst = dst_base / "media" / "audio" / mix_manifest
+        if src.exists():
+            shutil.copy2(src, dst)
+            print(f"  Copied manifest: {mix_manifest}")
+        else:
+            print(f"  Warning: Mix manifest not found: {mix_manifest}")
+
     # Copy section MP4s (for all candidates)
     src_sections = src_base / "sections"
     dst_sections = dst_base / "sections"

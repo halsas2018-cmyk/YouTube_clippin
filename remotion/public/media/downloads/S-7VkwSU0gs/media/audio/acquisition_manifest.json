@@ -1,32 +1,30 @@
 {
   "video_id": "S-7VkwSU0gs",
-  "total_clip_duration_s": 30.0,
+  "total_clip_duration_s": 37.416,
   "audio_assets": [
     {
       "asset_id": "audio_background_music_001",
       "type": "background_music",
-      "local_path": "/root/youtubr_clipper/media/downloads/S-7VkwSU0gs/media/audio/background_music.mp3",
-      "source_url": "https://cdn.freesound.org/previews/750/750507_14640845-hq.mp3",
-      "provider": "freesound",
-      "license": "CC \u2014 see Freesound for details",
-      "freesound_id": 750507,
-      "freesound_name": "Upbeat Corporate - Medium2",
-      "query": "upbeat corporate background",
+      "local_path": "/root/youtubr_clipper/media/downloads/S-7VkwSU0gs/media/audio/background_music.wav",
+      "source_url": "placeholder://background_music",
+      "provider": "placeholder",
+      "license": "placeholder (sine tone)",
+      "query": "minimalist corporate business background",
       "timing": {
         "start": 0.0,
-        "end": 30.0
+        "end": 37.416
       }
     },
     {
       "asset_id": "audio_whoosh_001",
       "type": "whoosh",
       "local_path": "/root/youtubr_clipper/media/downloads/S-7VkwSU0gs/media/audio/whoosh.mp3",
-      "source_url": "https://cdn.freesound.org/previews/854/854083_9051306-hq.mp3",
+      "source_url": "https://cdn.freesound.org/previews/856/856168_18901108-hq.mp3",
       "provider": "freesound",
       "license": "CC \u2014 see Freesound for details",
-      "freesound_id": 854083,
-      "freesound_name": "Swoosh 3",
-      "query": "whoosh swoosh transition",
+      "freesound_id": 856168,
+      "freesound_name": "Cyberpunk Glitch Hologram Transition Whoosh",
+      "query": "fast digital swoosh",
       "timing": {
         "start": null,
         "end": null
@@ -35,11 +33,13 @@
     {
       "asset_id": "audio_click_001",
       "type": "click",
-      "local_path": "/root/youtubr_clipper/media/downloads/S-7VkwSU0gs/media/audio/click.wav",
-      "source_url": "placeholder://click",
-      "provider": "placeholder",
-      "license": "placeholder (sine tone)",
-      "query": "ui click button",
+      "local_path": "/root/youtubr_clipper/media/downloads/S-7VkwSU0gs/media/audio/click.mp3",
+      "source_url": "https://cdn.freesound.org/previews/653/653369_9659530-hq.mp3",
+      "provider": "freesound",
+      "license": "CC \u2014 see Freesound for details",
+      "freesound_id": 653369,
+      "freesound_name": "SharpClick.wav",
+      "query": "sharp UI click",
       "timing": {
         "start": null,
         "end": null
