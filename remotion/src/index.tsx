@@ -62,6 +62,7 @@ const FrameInner: React.FC = () => {
   if (!candidate) return null;
 
   // segments hook will re-fetch automatically when options change (useEffect dependency)
+  if (!segments) return null;
 
   // --- Jump-cut flash boundaries ---
   const boundaries: number[] = [];
