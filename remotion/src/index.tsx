@@ -1,10 +1,9 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import {
   Composition,
   useCurrentFrame,
   getInputProps,
   staticFile,
-  useDelayRender,
 } from "remotion";
 
 declare const process: any;
@@ -12,6 +11,7 @@ declare const process: any;
 import { Audio } from "@remotion/media";
 import { calculateMetadata } from "./calculateMetadata";
 import { useManifests } from "./useManifests";
+import { useMixManifest } from "./useMixManifest";
 import { buildSegments, type Segment } from "./buildSegments";
 import { buildBrollDecisions, type BrollDecision } from "./buildBrollDecisions";
 import { BrollOverlay } from "./BrollOverlay";
@@ -40,32 +40,13 @@ const FrameInner: React.FC = () => {
   const frame = useCurrentFrame();
   const timeInSeconds = frame / FPS;
 
-  // --- Load all manifests via hook ---
+  // --- Load all manifests via hooks ---
   const manifests = useManifests({ videoId });
-  if (!manifests) return null;
+  const audioExt = useMixManifest({ videoId, candidateId });
+
+  if (!manifests || !audioExt) return null;
 
   const { timings, captionManifest, emojiManifest, brollManifest } = manifests;
-
-  // --- Load mix manifest to determine actual audio format (mp3 or wav) ---
-  const [audioExt, setAudioExt] = useState<string | null>(null);
-  const { delayRender, continueRender, cancelRender } = useDelayRender();
-  const [handle] = useState(() => delayRender());
-
-  useEffect(() => {
-    fetch(staticFile(`media/downloads/${videoId}/media/audio/mix_manifest_cand${candidateId}.json`))
-      .then((res) => {
-        if (!res.ok) throw new Error(`Mix manifest not found: ${res.status}`);
-        return res.json();
-      })
-      .then((data) => {
-        const ext = data.output_format ?? "wav"; // default to wav if missing
-        setAudioExt(ext);
-        continueRender(handle);
-      })
-      .catch((err) => cancelRender(err));
-  }, [videoId, candidateId, continueRender, cancelRender, handle]);
-
-  if (!audioExt) return null;
 
   // --- Candidate lookup ---
   const candidate = timings.candidates?.find(
