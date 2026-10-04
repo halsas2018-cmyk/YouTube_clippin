@@ -1,0 +1,2785 @@
+{
+  "section_id": "section_003",
+  "candidate_id": 3,
+  "video_id": "KHd-luu3M8s",
+  "file_name": "section_003.mp4",
+  "file_path": "/root/youtubr_clipper/media/downloads/KHd-luu3M8s/sections/section_003.mp4",
+  "start_offset": 901.56,
+  "end_offset": 976.88,
+  "target_duration_s": 75.32,
+  "probed_duration_s": 75.332,
+  "original_candidate_ranges": [
+    {
+      "start": 909.56,
+      "end": 968.88
+    }
+  ],
+  "padded_range": {
+    "start": 901.56,
+    "end": 976.88
+  },
+  "combined_text": "We're not bored moment to moment. On the contrary, we've wiped out boredom moment to moment. We cracked the case. We look at the phone. We scroll the social media. We listen to the podcast. We wipe out every moment of boredom. But when you do that all day, be honest with yourself, how interesting is your life? I bet it's grindingly boring. And if you're spending 10 to 12 hours a day behind the screen and checking your phone 205 times a day, you're in danger of getting to the end of your life saying, \"Well, that was pretty boring because I was never bored.\" If you want to know the stakes here, think about your eulogy and what you want people to say about you. Think about what you want to think about yourself at the end of your days. How do you want to look back on your life? Now, compare it to how you're spending your life right now. I dare say that if you're like the average American, checking your phone 205 times a day, spending somewhere between 4 and 9 hours on your screens, small and large. If you were honest and you got to the end of your life right now, you'd say, \"I spent a lot of time online.\" But one thing you wouldn't say is, \"I sure wish I'd spent more time online.\" You'd say, \"I wish I'd spent more time with my loved ones, with my friends, with my family, getting to know people, having real-life experiences.\" That's what you'd say, right? Well, that's what to go do. That's the argument for this. I know breaking a tech addiction is hard. I get it. It's hard for me, too. And the younger you are, the harder it is. But those are the stakes. What are you going to say when you come to the end of your days? \"It was really boring cuz I wiped out boredom. Well, and and I could have done even even better if I spent even more time on Instagram. I don't think so. I think you're going to want to have had deeper relationships and love, been fully and passionately alive in the world. So, you got to get after it now.",
+  "reason": "This is a powerful, emotionally resonant conclusion that challenges the viewer to reconsider their relationship with technology by focusing on the long-term regret of a life spent behind a screen.",
+  "alignment": {
+    "whisper_model": "base",
+    "language": "en",
+    "device": "cpu",
+    "compute_type": "float32",
+    "total_words": 273,
+    "timestamp_note": "local_start/local_end are relative to the section MP4 file (0-based seconds). global_start/global_end are authoritative original-video timestamps = local_timestamp + start_offset."
+  },
+  "words": [
+    {
+      "word": "do",
+      "local_start": 0.071,
+      "local_end": 0.151,
+      "global_start": 901.631,
+      "global_end": 901.711,
+      "score": 0.774,
+      "segment_index": 0,
+      "segment_text": "do is this."
+    },
+    {
+      "word": "is",
+      "local_start": 0.211,
+      "local_end": 0.311,
+      "global_start": 901.771,
+      "global_end": 901.871,
+      "score": 0.69,
+      "segment_index": 0,
+      "segment_text": "do is this."
+    },
+    {
+      "word": "this.",
+      "local_start": 0.331,
+      "local_end": 0.551,
+      "global_start": 901.891,
+      "global_end": 902.111,
+      "score": 0.575,
+      "segment_index": 0,
+      "segment_text": "do is this."
+    },
+    {
+      "word": "If",
+      "local_start": 1.072,
+      "local_end": 1.132,
+      "global_start": 902.632,
+      "global_end": 902.692,
+      "score": 0.994,
+      "segment_index": 1,
+      "segment_text": "If we want to be free, we need to be honest."
+    },
+    {
+      "word": "we",
+      "local_start": 1.212,
+      "local_end": 1.392,
+      "global_start": 902.772,
+      "global_end": 902.952,
+      "score": 0.788,
+      "segment_index": 1,
+      "segment_text": "If we want to be free, we need to be honest."
+    },
+    {
+      "word": "want",
+      "local_start": 1.412,
+      "local_end": 1.572,
+      "global_start": 902.972,
+      "global_end": 903.132,
+      "score": 0.806,
+      "segment_index": 1,
+      "segment_text": "If we want to be free, we need to be honest."
+    },
+    {
+      "word": "to",
+      "local_start": 1.612,
+      "local_end": 1.672,
+      "global_start": 903.172,
+      "global_end": 903.232,
+      "score": 0.747,
+      "segment_index": 1,
+      "segment_text": "If we want to be free, we need to be honest."
+    },
+    {
+      "word": "be",
+      "local_start": 1.692,
+      "local_end": 1.793,
+      "global_start": 903.252,
+      "global_end": 903.353,
+      "score": 0.82,
+      "segment_index": 1,
+      "segment_text": "If we want to be free, we need to be honest."
+    },
+    {
+      "word": "free,",
+      "local_start": 1.873,
+      "local_end": 2.153,
+      "global_start": 903.433,
+      "global_end": 903.713,
+      "score": 0.711,
+      "segment_index": 1,
+      "segment_text": "If we want to be free, we need to be honest."
+    },
+    {
+      "word": "we",
+      "local_start": 2.914,
+      "local_end": 3.034,
+      "global_start": 904.474,
+      "global_end": 904.594,
+      "score": 0.932,
+      "segment_index": 1,
+      "segment_text": "If we want to be free, we need to be honest."
+    },
+    {
+      "word": "need",
+      "local_start": 3.074,
+      "local_end": 3.194,
+      "global_start": 904.634,
+      "global_end": 904.754,
+      "score": 0.997,
+      "segment_index": 1,
+      "segment_text": "If we want to be free, we need to be honest."
+    },
+    {
+      "word": "to",
+      "local_start": 3.214,
+      "local_end": 3.274,
+      "global_start": 904.774,
+      "global_end": 904.834,
+      "score": 0.57,
+      "segment_index": 1,
+      "segment_text": "If we want to be free, we need to be honest."
+    },
+    {
+      "word": "be",
+      "local_start": 3.294,
+      "local_end": 3.374,
+      "global_start": 904.854,
+      "global_end": 904.934,
+      "score": 0.872,
+      "segment_index": 1,
+      "segment_text": "If we want to be free, we need to be honest."
+    },
+    {
+      "word": "honest.",
+      "local_start": 3.434,
+      "local_end": 3.774,
+      "global_start": 904.994,
+      "global_end": 905.334,
+      "score": 0.889,
+      "segment_index": 1,
+      "segment_text": "If we want to be free, we need to be honest."
+    },
+    {
+      "word": "And",
+      "local_start": 4.855,
+      "local_end": 4.915,
+      "global_start": 906.415,
+      "global_end": 906.475,
+      "score": 0.978,
+      "segment_index": 2,
+      "segment_text": "And that doesn't mean going and telling mom everything you did when you were a kid that you're ashamed of."
+    },
+    {
+      "word": "that",
+      "local_start": 4.955,
+      "local_end": 5.055,
+      "global_start": 906.515,
+      "global_end": 906.615,
+      "score": 0.894,
+      "segment_index": 2,
+      "segment_text": "And that doesn't mean going and telling mom everything you did when you were a kid that you're ashamed of."
+    },
+    {
+      "word": "doesn't",
+      "local_start": 5.075,
+      "local_end": 5.316,
+      "global_start": 906.635,
+      "global_end": 906.876,
+      "score": 0.664,
+      "segment_index": 2,
+      "segment_text": "And that doesn't mean going and telling mom everything you did when you were a kid that you're ashamed of."
+    },
+    {
+      "word": "mean",
+      "local_start": 5.336,
+      "local_end": 5.516,
+      "global_start": 906.896,
+      "global_end": 907.076,
+      "score": 0.723,
+      "segment_index": 2,
+      "segment_text": "And that doesn't mean going and telling mom everything you did when you were a kid that you're ashamed of."
+    },
+    {
+      "word": "going",
+      "local_start": 5.936,
+      "local_end": 6.176,
+      "global_start": 907.496,
+      "global_end": 907.736,
+      "score": 0.899,
+      "segment_index": 2,
+      "segment_text": "And that doesn't mean going and telling mom everything you did when you were a kid that you're ashamed of."
+    },
+    {
+      "word": "and",
+      "local_start": 6.216,
+      "local_end": 6.297,
+      "global_start": 907.776,
+      "global_end": 907.857,
+      "score": 0.846,
+      "segment_index": 2,
+      "segment_text": "And that doesn't mean going and telling mom everything you did when you were a kid that you're ashamed of."
+    },
+    {
+      "word": "telling",
+      "local_start": 6.317,
+      "local_end": 6.577,
+      "global_start": 907.877,
+      "global_end": 908.137,
+      "score": 0.769,
+      "segment_index": 2,
+      "segment_text": "And that doesn't mean going and telling mom everything you did when you were a kid that you're ashamed of."
+    },
+    {
+      "word": "mom",
+      "local_start": 6.617,
+      "local_end": 6.917,
+      "global_start": 908.177,
+      "global_end": 908.477,
+      "score": 0.528,
+      "segment_index": 2,
+      "segment_text": "And that doesn't mean going and telling mom everything you did when you were a kid that you're ashamed of."
+    },
+    {
+      "word": "everything",
+      "local_start": 6.957,
+      "local_end": 7.217,
+      "global_start": 908.517,
+      "global_end": 908.777,
+      "score": 0.892,
+      "segment_index": 2,
+      "segment_text": "And that doesn't mean going and telling mom everything you did when you were a kid that you're ashamed of."
+    },
+    {
+      "word": "you",
+      "local_start": 7.237,
+      "local_end": 7.317,
+      "global_start": 908.797,
+      "global_end": 908.877,
+      "score": 0.999,
+      "segment_index": 2,
+      "segment_text": "And that doesn't mean going and telling mom everything you did when you were a kid that you're ashamed of."
+    },
+    {
+      "word": "did",
+      "local_start": 7.357,
+      "local_end": 7.458,
+      "global_start": 908.917,
+      "global_end": 909.018,
+      "score": 0.833,
+      "segment_index": 2,
+      "segment_text": "And that doesn't mean going and telling mom everything you did when you were a kid that you're ashamed of."
+    },
+    {
+      "word": "when",
+      "local_start": 7.498,
+      "local_end": 7.578,
+      "global_start": 909.058,
+      "global_end": 909.138,
+      "score": 0.999,
+      "segment_index": 2,
+      "segment_text": "And that doesn't mean going and telling mom everything you did when you were a kid that you're ashamed of."
+    },
+    {
+      "word": "you",
+      "local_start": 7.618,
+      "local_end": 7.678,
+      "global_start": 909.178,
+      "global_end": 909.238,
+      "score": 0.999,
+      "segment_index": 2,
+      "segment_text": "And that doesn't mean going and telling mom everything you did when you were a kid that you're ashamed of."
+    },
+    {
+      "word": "were",
+      "local_start": 7.698,
+      "local_end": 7.818,
+      "global_start": 909.258,
+      "global_end": 909.378,
+      "score": 0.606,
+      "segment_index": 2,
+      "segment_text": "And that doesn't mean going and telling mom everything you did when you were a kid that you're ashamed of."
+    },
+    {
+      "word": "a",
+      "local_start": 7.838,
+      "local_end": 7.858,
+      "global_start": 909.398,
+      "global_end": 909.418,
+      "score": 0.977,
+      "segment_index": 2,
+      "segment_text": "And that doesn't mean going and telling mom everything you did when you were a kid that you're ashamed of."
+    },
+    {
+      "word": "kid",
+      "local_start": 7.918,
+      "local_end": 8.098,
+      "global_start": 909.478,
+      "global_end": 909.658,
+      "score": 0.829,
+      "segment_index": 2,
+      "segment_text": "And that doesn't mean going and telling mom everything you did when you were a kid that you're ashamed of."
+    },
+    {
+      "word": "that",
+      "local_start": 8.118,
+      "local_end": 8.198,
+      "global_start": 909.678,
+      "global_end": 909.758,
+      "score": 0.955,
+      "segment_index": 2,
+      "segment_text": "And that doesn't mean going and telling mom everything you did when you were a kid that you're ashamed of."
+    },
+    {
+      "word": "you're",
+      "local_start": 8.218,
+      "local_end": 8.358,
+      "global_start": 909.778,
+      "global_end": 909.918,
+      "score": 0.921,
+      "segment_index": 2,
+      "segment_text": "And that doesn't mean going and telling mom everything you did when you were a kid that you're ashamed of."
+    },
+    {
+      "word": "ashamed",
+      "local_start": 8.378,
+      "local_end": 8.679,
+      "global_start": 909.938,
+      "global_end": 910.239,
+      "score": 0.88,
+      "segment_index": 2,
+      "segment_text": "And that doesn't mean going and telling mom everything you did when you were a kid that you're ashamed of."
+    },
+    {
+      "word": "of.",
+      "local_start": 8.759,
+      "local_end": 8.859,
+      "global_start": 910.319,
+      "global_end": 910.419,
+      "score": 0.96,
+      "segment_index": 2,
+      "segment_text": "And that doesn't mean going and telling mom everything you did when you were a kid that you're ashamed of."
+    },
+    {
+      "word": "Do",
+      "local_start": 10.237,
+      "local_end": 10.417,
+      "global_start": 911.797,
+      "global_end": 911.977,
+      "score": 0.95,
+      "segment_index": 3,
+      "segment_text": "Do that."
+    },
+    {
+      "word": "that.",
+      "local_start": 10.477,
+      "local_end": 10.758,
+      "global_start": 912.037,
+      "global_end": 912.318,
+      "score": 0.841,
+      "segment_index": 3,
+      "segment_text": "Do that."
+    },
+    {
+      "word": "Fine.",
+      "local_start": 11.538,
+      "local_end": 11.978,
+      "global_start": 913.098,
+      "global_end": 913.538,
+      "score": 0.789,
+      "segment_index": 4,
+      "segment_text": "Fine."
+    },
+    {
+      "word": "It",
+      "local_start": 12.439,
+      "local_end": 12.499,
+      "global_start": 913.999,
+      "global_end": 914.059,
+      "score": 0.707,
+      "segment_index": 5,
+      "segment_text": "It means being honest with yourself."
+    },
+    {
+      "word": "means",
+      "local_start": 12.539,
+      "local_end": 12.679,
+      "global_start": 914.099,
+      "global_end": 914.239,
+      "score": 0.598,
+      "segment_index": 5,
+      "segment_text": "It means being honest with yourself."
+    },
+    {
+      "word": "being",
+      "local_start": 12.719,
+      "local_end": 12.859,
+      "global_start": 914.279,
+      "global_end": 914.419,
+      "score": 0.878,
+      "segment_index": 5,
+      "segment_text": "It means being honest with yourself."
+    },
+    {
+      "word": "honest",
+      "local_start": 12.899,
+      "local_end": 13.119,
+      "global_start": 914.459,
+      "global_end": 914.679,
+      "score": 0.881,
+      "segment_index": 5,
+      "segment_text": "It means being honest with yourself."
+    },
+    {
+      "word": "with",
+      "local_start": 13.139,
+      "local_end": 13.239,
+      "global_start": 914.699,
+      "global_end": 914.799,
+      "score": 0.878,
+      "segment_index": 5,
+      "segment_text": "It means being honest with yourself."
+    },
+    {
+      "word": "yourself.",
+      "local_start": 13.279,
+      "local_end": 13.74,
+      "global_start": 914.839,
+      "global_end": 915.3,
+      "score": 0.864,
+      "segment_index": 5,
+      "segment_text": "It means being honest with yourself."
+    },
+    {
+      "word": "To",
+      "local_start": 14.32,
+      "local_end": 14.44,
+      "global_start": 915.88,
+      "global_end": 916.0,
+      "score": 0.756,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "get",
+      "local_start": 14.5,
+      "local_end": 14.64,
+      "global_start": 916.06,
+      "global_end": 916.2,
+      "score": 0.847,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "off",
+      "local_start": 14.74,
+      "local_end": 14.881,
+      "global_start": 916.3,
+      "global_end": 916.441,
+      "score": 0.887,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "the",
+      "local_start": 14.921,
+      "local_end": 15.001,
+      "global_start": 916.481,
+      "global_end": 916.561,
+      "score": 0.936,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "sauce,",
+      "local_start": 15.061,
+      "local_end": 15.421,
+      "global_start": 916.621,
+      "global_end": 916.981,
+      "score": 0.955,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "if",
+      "local_start": 15.481,
+      "local_end": 15.541,
+      "global_start": 917.041,
+      "global_end": 917.101,
+      "score": 0.96,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "you're",
+      "local_start": 15.561,
+      "local_end": 15.761,
+      "global_start": 917.121,
+      "global_end": 917.321,
+      "score": 0.816,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "drinking",
+      "local_start": 15.801,
+      "local_end": 16.061,
+      "global_start": 917.361,
+      "global_end": 917.621,
+      "score": 0.852,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "too",
+      "local_start": 16.081,
+      "local_end": 16.181,
+      "global_start": 917.641,
+      "global_end": 917.741,
+      "score": 0.887,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "much",
+      "local_start": 16.201,
+      "local_end": 16.322,
+      "global_start": 917.761,
+      "global_end": 917.882,
+      "score": 0.862,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "alcohol,",
+      "local_start": 16.382,
+      "local_end": 16.762,
+      "global_start": 917.942,
+      "global_end": 918.322,
+      "score": 0.813,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "you",
+      "local_start": 16.782,
+      "local_end": 16.862,
+      "global_start": 918.342,
+      "global_end": 918.422,
+      "score": 0.893,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "need",
+      "local_start": 16.882,
+      "local_end": 16.982,
+      "global_start": 918.442,
+      "global_end": 918.542,
+      "score": 0.993,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "to",
+      "local_start": 17.002,
+      "local_end": 17.062,
+      "global_start": 918.562,
+      "global_end": 918.622,
+      "score": 0.42,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "get",
+      "local_start": 17.102,
+      "local_end": 17.202,
+      "global_start": 918.662,
+      "global_end": 918.762,
+      "score": 0.831,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "honest",
+      "local_start": 17.282,
+      "local_end": 17.542,
+      "global_start": 918.842,
+      "global_end": 919.102,
+      "score": 0.874,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "with",
+      "local_start": 17.582,
+      "local_end": 17.703,
+      "global_start": 919.142,
+      "global_end": 919.263,
+      "score": 0.779,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "yourself",
+      "local_start": 17.723,
+      "local_end": 18.143,
+      "global_start": 919.283,
+      "global_end": 919.703,
+      "score": 0.672,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "that",
+      "local_start": 18.163,
+      "local_end": 18.263,
+      "global_start": 919.723,
+      "global_end": 919.823,
+      "score": 0.91,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "you're",
+      "local_start": 18.283,
+      "local_end": 18.443,
+      "global_start": 919.843,
+      "global_end": 920.003,
+      "score": 0.829,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "doing",
+      "local_start": 18.483,
+      "local_end": 18.723,
+      "global_start": 920.043,
+      "global_end": 920.283,
+      "score": 0.721,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "something",
+      "local_start": 18.803,
+      "local_end": 19.084,
+      "global_start": 920.363,
+      "global_end": 920.644,
+      "score": 0.84,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "that",
+      "local_start": 19.124,
+      "local_end": 19.204,
+      "global_start": 920.684,
+      "global_end": 920.764,
+      "score": 0.871,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "you",
+      "local_start": 19.244,
+      "local_end": 19.364,
+      "global_start": 920.804,
+      "global_end": 920.924,
+      "score": 0.916,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "shouldn't",
+      "local_start": 19.404,
+      "local_end": 19.644,
+      "global_start": 920.964,
+      "global_end": 921.204,
+      "score": 0.871,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "be",
+      "local_start": 19.664,
+      "local_end": 19.744,
+      "global_start": 921.224,
+      "global_end": 921.304,
+      "score": 0.682,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "doing",
+      "local_start": 19.784,
+      "local_end": 19.984,
+      "global_start": 921.344,
+      "global_end": 921.544,
+      "score": 0.853,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "in",
+      "local_start": 20.024,
+      "local_end": 20.104,
+      "global_start": 921.584,
+      "global_end": 921.664,
+      "score": 0.471,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "your",
+      "local_start": 20.124,
+      "local_end": 20.324,
+      "global_start": 921.684,
+      "global_end": 921.884,
+      "score": 0.387,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "shame",
+      "local_start": 20.384,
+      "local_end": 20.665,
+      "global_start": 921.944,
+      "global_end": 922.225,
+      "score": 0.557,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "to",
+      "local_start": 20.685,
+      "local_end": 20.785,
+      "global_start": 922.245,
+      "global_end": 922.345,
+      "score": 0.178,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "it",
+      "local_start": 20.825,
+      "local_end": 20.885,
+      "global_start": 922.385,
+      "global_end": 922.445,
+      "score": 0.756,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "and",
+      "local_start": 20.925,
+      "local_end": 21.005,
+      "global_start": 922.485,
+      "global_end": 922.565,
+      "score": 0.84,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "you",
+      "local_start": 21.045,
+      "local_end": 21.125,
+      "global_start": 922.605,
+      "global_end": 922.685,
+      "score": 0.978,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "don't",
+      "local_start": 21.165,
+      "local_end": 21.325,
+      "global_start": 922.725,
+      "global_end": 922.885,
+      "score": 0.703,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "like",
+      "local_start": 21.345,
+      "local_end": 21.545,
+      "global_start": 922.905,
+      "global_end": 923.105,
+      "score": 0.746,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "it",
+      "local_start": 21.605,
+      "local_end": 21.665,
+      "global_start": 923.165,
+      "global_end": 923.225,
+      "score": 0.752,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "and",
+      "local_start": 21.986,
+      "local_end": 22.066,
+      "global_start": 923.546,
+      "global_end": 923.626,
+      "score": 0.892,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "you",
+      "local_start": 22.086,
+      "local_end": 22.226,
+      "global_start": 923.646,
+      "global_end": 923.786,
+      "score": 0.737,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "wanna",
+      "local_start": 22.246,
+      "local_end": 22.426,
+      "global_start": 923.806,
+      "global_end": 923.986,
+      "score": 0.655,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "stop.",
+      "local_start": 22.466,
+      "local_end": 22.766,
+      "global_start": 924.026,
+      "global_end": 924.326,
+      "score": 0.859,
+      "segment_index": 6,
+      "segment_text": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop."
+    },
+    {
+      "word": "And",
+      "local_start": 23.026,
+      "local_end": 23.106,
+      "global_start": 924.586,
+      "global_end": 924.666,
+      "score": 0.848,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "you've",
+      "local_start": 23.126,
+      "local_end": 23.247,
+      "global_start": 924.686,
+      "global_end": 924.807,
+      "score": 0.595,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "been",
+      "local_start": 23.267,
+      "local_end": 23.367,
+      "global_start": 924.827,
+      "global_end": 924.927,
+      "score": 0.405,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "lying",
+      "local_start": 23.527,
+      "local_end": 23.867,
+      "global_start": 925.087,
+      "global_end": 925.427,
+      "score": 0.751,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "to",
+      "local_start": 23.887,
+      "local_end": 23.947,
+      "global_start": 925.447,
+      "global_end": 925.507,
+      "score": 0.746,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "yourself",
+      "local_start": 23.987,
+      "local_end": 24.327,
+      "global_start": 925.547,
+      "global_end": 925.887,
+      "score": 0.796,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "all",
+      "local_start": 24.367,
+      "local_end": 24.467,
+      "global_start": 925.927,
+      "global_end": 926.027,
+      "score": 1.0,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "this",
+      "local_start": 24.507,
+      "local_end": 24.628,
+      "global_start": 926.067,
+      "global_end": 926.188,
+      "score": 0.754,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "time",
+      "local_start": 24.668,
+      "local_end": 24.848,
+      "global_start": 926.228,
+      "global_end": 926.408,
+      "score": 0.888,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "and",
+      "local_start": 24.888,
+      "local_end": 24.968,
+      "global_start": 926.448,
+      "global_end": 926.528,
+      "score": 0.54,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "thinking",
+      "local_start": 25.008,
+      "local_end": 25.288,
+      "global_start": 926.568,
+      "global_end": 926.848,
+      "score": 0.852,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "that",
+      "local_start": 25.328,
+      "local_end": 25.408,
+      "global_start": 926.888,
+      "global_end": 926.968,
+      "score": 0.918,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "it's",
+      "local_start": 25.448,
+      "local_end": 25.568,
+      "global_start": 927.008,
+      "global_end": 927.128,
+      "score": 0.774,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "gonna",
+      "local_start": 25.588,
+      "local_end": 25.768,
+      "global_start": 927.148,
+      "global_end": 927.328,
+      "score": 0.351,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "be",
+      "local_start": 25.788,
+      "local_end": 25.868,
+      "global_start": 927.348,
+      "global_end": 927.428,
+      "score": 0.714,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "okay",
+      "local_start": 25.928,
+      "local_end": 26.249,
+      "global_start": 927.488,
+      "global_end": 927.809,
+      "score": 0.714,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "and",
+      "local_start": 26.269,
+      "local_end": 26.329,
+      "global_start": 927.829,
+      "global_end": 927.889,
+      "score": 0.988,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "you",
+      "local_start": 26.749,
+      "local_end": 26.929,
+      "global_start": 928.309,
+      "global_end": 928.489,
+      "score": 0.887,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "finally",
+      "local_start": 26.949,
+      "local_end": 27.269,
+      "global_start": 928.509,
+      "global_end": 928.829,
+      "score": 0.88,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "drink",
+      "local_start": 27.37,
+      "local_end": 27.59,
+      "global_start": 928.93,
+      "global_end": 929.15,
+      "score": 0.844,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "enough",
+      "local_start": 27.65,
+      "local_end": 27.85,
+      "global_start": 929.21,
+      "global_end": 929.41,
+      "score": 0.759,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "that",
+      "local_start": 27.89,
+      "local_end": 27.99,
+      "global_start": 929.45,
+      "global_end": 929.55,
+      "score": 0.897,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "you'll",
+      "local_start": 28.01,
+      "local_end": 28.17,
+      "global_start": 929.57,
+      "global_end": 929.73,
+      "score": 0.989,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "just",
+      "local_start": 28.21,
+      "local_end": 28.35,
+      "global_start": 929.77,
+      "global_end": 929.91,
+      "score": 0.711,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "lose",
+      "local_start": 28.45,
+      "local_end": 28.73,
+      "global_start": 930.01,
+      "global_end": 930.29,
+      "score": 0.782,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "the",
+      "local_start": 28.771,
+      "local_end": 28.891,
+      "global_start": 930.331,
+      "global_end": 930.451,
+      "score": 0.839,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "urge",
+      "local_start": 29.031,
+      "local_end": 29.271,
+      "global_start": 930.591,
+      "global_end": 930.831,
+      "score": 0.804,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "to",
+      "local_start": 29.291,
+      "local_end": 29.371,
+      "global_start": 930.851,
+      "global_end": 930.931,
+      "score": 0.842,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "do",
+      "local_start": 29.411,
+      "local_end": 29.531,
+      "global_start": 930.971,
+      "global_end": 931.091,
+      "score": 0.842,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "so.",
+      "local_start": 29.571,
+      "local_end": 29.711,
+      "global_start": 931.131,
+      "global_end": 931.271,
+      "score": 0.896,
+      "segment_index": 7,
+      "segment_text": "And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so."
+    },
+    {
+      "word": "You",
+      "local_start": 29.991,
+      "local_end": 30.172,
+      "global_start": 931.551,
+      "global_end": 931.732,
+      "score": 0.725,
+      "segment_index": 8,
+      "segment_text": "You know that's a lie."
+    },
+    {
+      "word": "know",
+      "local_start": 30.252,
+      "local_end": 30.512,
+      "global_start": 931.812,
+      "global_end": 932.072,
+      "score": 0.658,
+      "segment_index": 8,
+      "segment_text": "You know that's a lie."
+    },
+    {
+      "word": "that's",
+      "local_start": 30.632,
+      "local_end": 30.892,
+      "global_start": 932.192,
+      "global_end": 932.452,
+      "score": 0.764,
+      "segment_index": 8,
+      "segment_text": "You know that's a lie."
+    },
+    {
+      "word": "a",
+      "local_start": 30.932,
+      "local_end": 30.972,
+      "global_start": 932.492,
+      "global_end": 932.532,
+      "score": 0.585,
+      "segment_index": 8,
+      "segment_text": "You know that's a lie."
+    },
+    {
+      "word": "lie.",
+      "local_start": 31.092,
+      "local_end": 31.492,
+      "global_start": 932.652,
+      "global_end": 933.052,
+      "score": 0.653,
+      "segment_index": 8,
+      "segment_text": "You know that's a lie."
+    },
+    {
+      "word": "You",
+      "local_start": 31.873,
+      "local_end": 31.973,
+      "global_start": 933.433,
+      "global_end": 933.533,
+      "score": 0.992,
+      "segment_index": 9,
+      "segment_text": "You know that you're doing something that you shouldn't be doing and you feel rotten about yourself."
+    },
+    {
+      "word": "know",
+      "local_start": 32.013,
+      "local_end": 32.113,
+      "global_start": 933.573,
+      "global_end": 933.673,
+      "score": 0.988,
+      "segment_index": 9,
+      "segment_text": "You know that you're doing something that you shouldn't be doing and you feel rotten about yourself."
+    },
+    {
+      "word": "that",
+      "local_start": 32.133,
+      "local_end": 32.233,
+      "global_start": 933.693,
+      "global_end": 933.793,
+      "score": 0.775,
+      "segment_index": 9,
+      "segment_text": "You know that you're doing something that you shouldn't be doing and you feel rotten about yourself."
+    },
+    {
+      "word": "you're",
+      "local_start": 32.253,
+      "local_end": 32.433,
+      "global_start": 933.813,
+      "global_end": 933.993,
+      "score": 0.799,
+      "segment_index": 9,
+      "segment_text": "You know that you're doing something that you shouldn't be doing and you feel rotten about yourself."
+    },
+    {
+      "word": "doing",
+      "local_start": 32.493,
+      "local_end": 32.733,
+      "global_start": 934.053,
+      "global_end": 934.293,
+      "score": 0.793,
+      "segment_index": 9,
+      "segment_text": "You know that you're doing something that you shouldn't be doing and you feel rotten about yourself."
+    },
+    {
+      "word": "something",
+      "local_start": 32.793,
+      "local_end": 33.034,
+      "global_start": 934.353,
+      "global_end": 934.594,
+      "score": 0.809,
+      "segment_index": 9,
+      "segment_text": "You know that you're doing something that you shouldn't be doing and you feel rotten about yourself."
+    },
+    {
+      "word": "that",
+      "local_start": 33.054,
+      "local_end": 33.134,
+      "global_start": 934.614,
+      "global_end": 934.694,
+      "score": 0.002,
+      "segment_index": 9,
+      "segment_text": "You know that you're doing something that you shouldn't be doing and you feel rotten about yourself."
+    },
+    {
+      "word": "you",
+      "local_start": 33.154,
+      "local_end": 33.234,
+      "global_start": 934.714,
+      "global_end": 934.794,
+      "score": 0.101,
+      "segment_index": 9,
+      "segment_text": "You know that you're doing something that you shouldn't be doing and you feel rotten about yourself."
+    },
+    {
+      "word": "shouldn't",
+      "local_start": 33.254,
+      "local_end": 33.454,
+      "global_start": 934.814,
+      "global_end": 935.014,
+      "score": 0.956,
+      "segment_index": 9,
+      "segment_text": "You know that you're doing something that you shouldn't be doing and you feel rotten about yourself."
+    },
+    {
+      "word": "be",
+      "local_start": 33.474,
+      "local_end": 33.554,
+      "global_start": 935.034,
+      "global_end": 935.114,
+      "score": 0.616,
+      "segment_index": 9,
+      "segment_text": "You know that you're doing something that you shouldn't be doing and you feel rotten about yourself."
+    },
+    {
+      "word": "doing",
+      "local_start": 33.574,
+      "local_end": 33.814,
+      "global_start": 935.134,
+      "global_end": 935.374,
+      "score": 0.748,
+      "segment_index": 9,
+      "segment_text": "You know that you're doing something that you shouldn't be doing and you feel rotten about yourself."
+    },
+    {
+      "word": "and",
+      "local_start": 33.834,
+      "local_end": 33.894,
+      "global_start": 935.394,
+      "global_end": 935.454,
+      "score": 0.954,
+      "segment_index": 9,
+      "segment_text": "You know that you're doing something that you shouldn't be doing and you feel rotten about yourself."
+    },
+    {
+      "word": "you",
+      "local_start": 33.914,
+      "local_end": 34.094,
+      "global_start": 935.474,
+      "global_end": 935.654,
+      "score": 0.154,
+      "segment_index": 9,
+      "segment_text": "You know that you're doing something that you shouldn't be doing and you feel rotten about yourself."
+    },
+    {
+      "word": "feel",
+      "local_start": 34.114,
+      "local_end": 34.274,
+      "global_start": 935.674,
+      "global_end": 935.834,
+      "score": 0.319,
+      "segment_index": 9,
+      "segment_text": "You know that you're doing something that you shouldn't be doing and you feel rotten about yourself."
+    },
+    {
+      "word": "rotten",
+      "local_start": 34.775,
+      "local_end": 35.035,
+      "global_start": 936.335,
+      "global_end": 936.595,
+      "score": 0.943,
+      "segment_index": 9,
+      "segment_text": "You know that you're doing something that you shouldn't be doing and you feel rotten about yourself."
+    },
+    {
+      "word": "about",
+      "local_start": 35.075,
+      "local_end": 35.215,
+      "global_start": 936.635,
+      "global_end": 936.775,
+      "score": 0.824,
+      "segment_index": 9,
+      "segment_text": "You know that you're doing something that you shouldn't be doing and you feel rotten about yourself."
+    },
+    {
+      "word": "yourself.",
+      "local_start": 35.255,
+      "local_end": 35.716,
+      "global_start": 936.815,
+      "global_end": 937.276,
+      "score": 0.763,
+      "segment_index": 9,
+      "segment_text": "You know that you're doing something that you shouldn't be doing and you feel rotten about yourself."
+    },
+    {
+      "word": "Admit",
+      "local_start": 36.716,
+      "local_end": 37.056,
+      "global_start": 938.276,
+      "global_end": 938.616,
+      "score": 0.841,
+      "segment_index": 10,
+      "segment_text": "Admit it."
+    },
+    {
+      "word": "it.",
+      "local_start": 37.137,
+      "local_end": 37.217,
+      "global_start": 938.697,
+      "global_end": 938.777,
+      "score": 0.809,
+      "segment_index": 10,
+      "segment_text": "Admit it."
+    },
+    {
+      "word": "Be",
+      "local_start": 37.517,
+      "local_end": 37.637,
+      "global_start": 939.077,
+      "global_end": 939.197,
+      "score": 0.964,
+      "segment_index": 11,
+      "segment_text": "Be honest with yourself."
+    },
+    {
+      "word": "honest",
+      "local_start": 37.697,
+      "local_end": 37.937,
+      "global_start": 939.257,
+      "global_end": 939.497,
+      "score": 0.829,
+      "segment_index": 11,
+      "segment_text": "Be honest with yourself."
+    },
+    {
+      "word": "with",
+      "local_start": 37.957,
+      "local_end": 38.057,
+      "global_start": 939.517,
+      "global_end": 939.617,
+      "score": 0.874,
+      "segment_index": 11,
+      "segment_text": "Be honest with yourself."
+    },
+    {
+      "word": "yourself.",
+      "local_start": 38.077,
+      "local_end": 38.518,
+      "global_start": 939.637,
+      "global_end": 940.078,
+      "score": 0.834,
+      "segment_index": 11,
+      "segment_text": "Be honest with yourself."
+    },
+    {
+      "word": "Emerson",
+      "local_start": 39.497,
+      "local_end": 39.857,
+      "global_start": 941.057,
+      "global_end": 941.417,
+      "score": 0.934,
+      "segment_index": 12,
+      "segment_text": "Emerson talks about the fact that everybody needs a radical honesty in their lives in all parts of their lives."
+    },
+    {
+      "word": "talks",
+      "local_start": 39.917,
+      "local_end": 40.097,
+      "global_start": 941.477,
+      "global_end": 941.657,
+      "score": 0.873,
+      "segment_index": 12,
+      "segment_text": "Emerson talks about the fact that everybody needs a radical honesty in their lives in all parts of their lives."
+    },
+    {
+      "word": "about",
+      "local_start": 40.137,
+      "local_end": 40.257,
+      "global_start": 941.697,
+      "global_end": 941.817,
+      "score": 0.929,
+      "segment_index": 12,
+      "segment_text": "Emerson talks about the fact that everybody needs a radical honesty in their lives in all parts of their lives."
+    },
+    {
+      "word": "the",
+      "local_start": 40.278,
+      "local_end": 40.358,
+      "global_start": 941.838,
+      "global_end": 941.918,
+      "score": 0.832,
+      "segment_index": 12,
+      "segment_text": "Emerson talks about the fact that everybody needs a radical honesty in their lives in all parts of their lives."
+    },
+    {
+      "word": "fact",
+      "local_start": 40.378,
+      "local_end": 40.518,
+      "global_start": 941.938,
+      "global_end": 942.078,
+      "score": 0.706,
+      "segment_index": 12,
+      "segment_text": "Emerson talks about the fact that everybody needs a radical honesty in their lives in all parts of their lives."
+    },
+    {
+      "word": "that",
+      "local_start": 40.538,
+      "local_end": 40.658,
+      "global_start": 942.098,
+      "global_end": 942.218,
+      "score": 0.768,
+      "segment_index": 12,
+      "segment_text": "Emerson talks about the fact that everybody needs a radical honesty in their lives in all parts of their lives."
+    },
+    {
+      "word": "everybody",
+      "local_start": 40.718,
+      "local_end": 41.118,
+      "global_start": 942.278,
+      "global_end": 942.678,
+      "score": 0.827,
+      "segment_index": 12,
+      "segment_text": "Emerson talks about the fact that everybody needs a radical honesty in their lives in all parts of their lives."
+    },
+    {
+      "word": "needs",
+      "local_start": 41.278,
+      "local_end": 41.478,
+      "global_start": 942.838,
+      "global_end": 943.038,
+      "score": 0.858,
+      "segment_index": 12,
+      "segment_text": "Emerson talks about the fact that everybody needs a radical honesty in their lives in all parts of their lives."
+    },
+    {
+      "word": "a",
+      "local_start": 41.518,
+      "local_end": 41.538,
+      "global_start": 943.078,
+      "global_end": 943.098,
+      "score": 0.99,
+      "segment_index": 12,
+      "segment_text": "Emerson talks about the fact that everybody needs a radical honesty in their lives in all parts of their lives."
+    },
+    {
+      "word": "radical",
+      "local_start": 41.778,
+      "local_end": 42.219,
+      "global_start": 943.338,
+      "global_end": 943.779,
+      "score": 0.8,
+      "segment_index": 12,
+      "segment_text": "Emerson talks about the fact that everybody needs a radical honesty in their lives in all parts of their lives."
+    },
+    {
+      "word": "honesty",
+      "local_start": 42.259,
+      "local_end": 42.619,
+      "global_start": 943.819,
+      "global_end": 944.179,
+      "score": 0.873,
+      "segment_index": 12,
+      "segment_text": "Emerson talks about the fact that everybody needs a radical honesty in their lives in all parts of their lives."
+    },
+    {
+      "word": "in",
+      "local_start": 42.659,
+      "local_end": 42.699,
+      "global_start": 944.219,
+      "global_end": 944.259,
+      "score": 0.994,
+      "segment_index": 12,
+      "segment_text": "Emerson talks about the fact that everybody needs a radical honesty in their lives in all parts of their lives."
+    },
+    {
+      "word": "their",
+      "local_start": 42.739,
+      "local_end": 42.899,
+      "global_start": 944.299,
+      "global_end": 944.459,
+      "score": 0.846,
+      "segment_index": 12,
+      "segment_text": "Emerson talks about the fact that everybody needs a radical honesty in their lives in all parts of their lives."
+    },
+    {
+      "word": "lives",
+      "local_start": 42.939,
+      "local_end": 43.379,
+      "global_start": 944.499,
+      "global_end": 944.939,
+      "score": 0.691,
+      "segment_index": 12,
+      "segment_text": "Emerson talks about the fact that everybody needs a radical honesty in their lives in all parts of their lives."
+    },
+    {
+      "word": "in",
+      "local_start": 43.86,
+      "local_end": 43.96,
+      "global_start": 945.42,
+      "global_end": 945.52,
+      "score": 0.764,
+      "segment_index": 12,
+      "segment_text": "Emerson talks about the fact that everybody needs a radical honesty in their lives in all parts of their lives."
+    },
+    {
+      "word": "all",
+      "local_start": 44.14,
+      "local_end": 44.3,
+      "global_start": 945.7,
+      "global_end": 945.86,
+      "score": 0.853,
+      "segment_index": 12,
+      "segment_text": "Emerson talks about the fact that everybody needs a radical honesty in their lives in all parts of their lives."
+    },
+    {
+      "word": "parts",
+      "local_start": 44.38,
+      "local_end": 44.64,
+      "global_start": 945.94,
+      "global_end": 946.2,
+      "score": 0.67,
+      "segment_index": 12,
+      "segment_text": "Emerson talks about the fact that everybody needs a radical honesty in their lives in all parts of their lives."
+    },
+    {
+      "word": "of",
+      "local_start": 44.68,
+      "local_end": 44.72,
+      "global_start": 946.24,
+      "global_end": 946.28,
+      "score": 0.993,
+      "segment_index": 12,
+      "segment_text": "Emerson talks about the fact that everybody needs a radical honesty in their lives in all parts of their lives."
+    },
+    {
+      "word": "their",
+      "local_start": 44.76,
+      "local_end": 44.9,
+      "global_start": 946.32,
+      "global_end": 946.46,
+      "score": 0.895,
+      "segment_index": 12,
+      "segment_text": "Emerson talks about the fact that everybody needs a radical honesty in their lives in all parts of their lives."
+    },
+    {
+      "word": "lives.",
+      "local_start": 44.94,
+      "local_end": 45.26,
+      "global_start": 946.5,
+      "global_end": 946.82,
+      "score": 0.831,
+      "segment_index": 12,
+      "segment_text": "Emerson talks about the fact that everybody needs a radical honesty in their lives in all parts of their lives."
+    },
+    {
+      "word": "And",
+      "local_start": 45.441,
+      "local_end": 45.521,
+      "global_start": 947.001,
+      "global_end": 947.081,
+      "score": 0.842,
+      "segment_index": 13,
+      "segment_text": "And it's hard, it's hard to do."
+    },
+    {
+      "word": "it's",
+      "local_start": 45.561,
+      "local_end": 45.661,
+      "global_start": 947.121,
+      "global_end": 947.221,
+      "score": 0.883,
+      "segment_index": 13,
+      "segment_text": "And it's hard, it's hard to do."
+    },
+    {
+      "word": "hard,",
+      "local_start": 45.761,
+      "local_end": 46.101,
+      "global_start": 947.321,
+      "global_end": 947.661,
+      "score": 0.837,
+      "segment_index": 13,
+      "segment_text": "And it's hard, it's hard to do."
+    },
+    {
+      "word": "it's",
+      "local_start": 46.381,
+      "local_end": 46.501,
+      "global_start": 947.941,
+      "global_end": 948.061,
+      "score": 0.766,
+      "segment_index": 13,
+      "segment_text": "And it's hard, it's hard to do."
+    },
+    {
+      "word": "hard",
+      "local_start": 46.521,
+      "local_end": 46.661,
+      "global_start": 948.081,
+      "global_end": 948.221,
+      "score": 0.766,
+      "segment_index": 13,
+      "segment_text": "And it's hard, it's hard to do."
+    },
+    {
+      "word": "to",
+      "local_start": 46.701,
+      "local_end": 46.761,
+      "global_start": 948.261,
+      "global_end": 948.321,
+      "score": 0.9,
+      "segment_index": 13,
+      "segment_text": "And it's hard, it's hard to do."
+    },
+    {
+      "word": "do.",
+      "local_start": 46.821,
+      "local_end": 47.102,
+      "global_start": 948.381,
+      "global_end": 948.662,
+      "score": 0.888,
+      "segment_index": 13,
+      "segment_text": "And it's hard, it's hard to do."
+    },
+    {
+      "word": "I",
+      "local_start": 47.182,
+      "local_end": 47.222,
+      "global_start": 948.742,
+      "global_end": 948.782,
+      "score": 0.957,
+      "segment_index": 14,
+      "segment_text": "I mean, there's a ton of behavioral science literature that even research I participated in myself that shows that we don't know ourselves very well."
+    },
+    {
+      "word": "mean,",
+      "local_start": 47.262,
+      "local_end": 47.382,
+      "global_start": 948.822,
+      "global_end": 948.942,
+      "score": 0.978,
+      "segment_index": 14,
+      "segment_text": "I mean, there's a ton of behavioral science literature that even research I participated in myself that shows that we don't know ourselves very well."
+    },
+    {
+      "word": "there's",
+      "local_start": 47.402,
+      "local_end": 47.542,
+      "global_start": 948.962,
+      "global_end": 949.102,
+      "score": 0.486,
+      "segment_index": 14,
+      "segment_text": "I mean, there's a ton of behavioral science literature that even research I participated in myself that shows that we don't know ourselves very well."
+    },
+    {
+      "word": "a",
+      "local_start": 47.602,
+      "local_end": 47.642,
+      "global_start": 949.162,
+      "global_end": 949.202,
+      "score": 0.894,
+      "segment_index": 14,
+      "segment_text": "I mean, there's a ton of behavioral science literature that even research I participated in myself that shows that we don't know ourselves very well."
+    },
+    {
+      "word": "ton",
+      "local_start": 47.682,
+      "local_end": 47.882,
+      "global_start": 949.242,
+      "global_end": 949.442,
+      "score": 0.826,
+      "segment_index": 14,
+      "segment_text": "I mean, there's a ton of behavioral science literature that even research I participated in myself that shows that we don't know ourselves very well."
+    },
+    {
+      "word": "of",
+      "local_start": 47.902,
+      "local_end": 47.962,
+      "global_start": 949.462,
+      "global_end": 949.522,
+      "score": 0.746,
+      "segment_index": 14,
+      "segment_text": "I mean, there's a ton of behavioral science literature that even research I participated in myself that shows that we don't know ourselves very well."
+    },
+    {
+      "word": "behavioral",
+      "local_start": 48.102,
+      "local_end": 48.422,
+      "global_start": 949.662,
+      "global_end": 949.982,
+      "score": 0.701,
+      "segment_index": 14,
+      "segment_text": "I mean, there's a ton of behavioral science literature that even research I participated in myself that shows that we don't know ourselves very well."
+    },
+    {
+      "word": "science",
+      "local_start": 48.442,
+      "local_end": 48.682,
+      "global_start": 950.002,
+      "global_end": 950.242,
+      "score": 0.863,
+      "segment_index": 14,
+      "segment_text": "I mean, there's a ton of behavioral science literature that even research I participated in myself that shows that we don't know ourselves very well."
+    },
+    {
+      "word": "literature",
+      "local_start": 48.702,
+      "local_end": 49.083,
+      "global_start": 950.262,
+      "global_end": 950.643,
+      "score": 0.833,
+      "segment_index": 14,
+      "segment_text": "I mean, there's a ton of behavioral science literature that even research I participated in myself that shows that we don't know ourselves very well."
+    },
+    {
+      "word": "that",
+      "local_start": 49.123,
+      "local_end": 49.223,
+      "global_start": 950.683,
+      "global_end": 950.783,
+      "score": 0.923,
+      "segment_index": 14,
+      "segment_text": "I mean, there's a ton of behavioral science literature that even research I participated in myself that shows that we don't know ourselves very well."
+    },
+    {
+      "word": "even",
+      "local_start": 49.423,
+      "local_end": 49.583,
+      "global_start": 950.983,
+      "global_end": 951.143,
+      "score": 0.804,
+      "segment_index": 14,
+      "segment_text": "I mean, there's a ton of behavioral science literature that even research I participated in myself that shows that we don't know ourselves very well."
+    },
+    {
+      "word": "research",
+      "local_start": 49.683,
+      "local_end": 50.003,
+      "global_start": 951.243,
+      "global_end": 951.563,
+      "score": 0.901,
+      "segment_index": 14,
+      "segment_text": "I mean, there's a ton of behavioral science literature that even research I participated in myself that shows that we don't know ourselves very well."
+    },
+    {
+      "word": "I",
+      "local_start": 50.043,
+      "local_end": 50.163,
+      "global_start": 951.603,
+      "global_end": 951.723,
+      "score": 0.587,
+      "segment_index": 14,
+      "segment_text": "I mean, there's a ton of behavioral science literature that even research I participated in myself that shows that we don't know ourselves very well."
+    },
+    {
+      "word": "participated",
+      "local_start": 50.203,
+      "local_end": 50.844,
+      "global_start": 951.763,
+      "global_end": 952.404,
+      "score": 0.911,
+      "segment_index": 14,
+      "segment_text": "I mean, there's a ton of behavioral science literature that even research I participated in myself that shows that we don't know ourselves very well."
+    },
+    {
+      "word": "in",
+      "local_start": 50.984,
+      "local_end": 51.064,
+      "global_start": 952.544,
+      "global_end": 952.624,
+      "score": 0.861,
+      "segment_index": 14,
+      "segment_text": "I mean, there's a ton of behavioral science literature that even research I participated in myself that shows that we don't know ourselves very well."
+    },
+    {
+      "word": "myself",
+      "local_start": 51.104,
+      "local_end": 51.664,
+      "global_start": 952.664,
+      "global_end": 953.224,
+      "score": 0.822,
+      "segment_index": 14,
+      "segment_text": "I mean, there's a ton of behavioral science literature that even research I participated in myself that shows that we don't know ourselves very well."
+    },
+    {
+      "word": "that",
+      "local_start": 52.245,
+      "local_end": 52.365,
+      "global_start": 953.805,
+      "global_end": 953.925,
+      "score": 0.814,
+      "segment_index": 14,
+      "segment_text": "I mean, there's a ton of behavioral science literature that even research I participated in myself that shows that we don't know ourselves very well."
+    },
+    {
+      "word": "shows",
+      "local_start": 52.405,
+      "local_end": 52.565,
+      "global_start": 953.965,
+      "global_end": 954.125,
+      "score": 0.936,
+      "segment_index": 14,
+      "segment_text": "I mean, there's a ton of behavioral science literature that even research I participated in myself that shows that we don't know ourselves very well."
+    },
+    {
+      "word": "that",
+      "local_start": 52.585,
+      "local_end": 52.685,
+      "global_start": 954.145,
+      "global_end": 954.245,
+      "score": 0.876,
+      "segment_index": 14,
+      "segment_text": "I mean, there's a ton of behavioral science literature that even research I participated in myself that shows that we don't know ourselves very well."
+    },
+    {
+      "word": "we",
+      "local_start": 52.705,
+      "local_end": 52.765,
+      "global_start": 954.265,
+      "global_end": 954.325,
+      "score": 0.751,
+      "segment_index": 14,
+      "segment_text": "I mean, there's a ton of behavioral science literature that even research I participated in myself that shows that we don't know ourselves very well."
+    },
+    {
+      "word": "don't",
+      "local_start": 52.785,
+      "local_end": 52.925,
+      "global_start": 954.345,
+      "global_end": 954.485,
+      "score": 0.81,
+      "segment_index": 14,
+      "segment_text": "I mean, there's a ton of behavioral science literature that even research I participated in myself that shows that we don't know ourselves very well."
+    },
+    {
+      "word": "know",
+      "local_start": 52.965,
+      "local_end": 53.105,
+      "global_start": 954.525,
+      "global_end": 954.665,
+      "score": 0.758,
+      "segment_index": 14,
+      "segment_text": "I mean, there's a ton of behavioral science literature that even research I participated in myself that shows that we don't know ourselves very well."
+    },
+    {
+      "word": "ourselves",
+      "local_start": 53.145,
+      "local_end": 53.505,
+      "global_start": 954.705,
+      "global_end": 955.065,
+      "score": 0.823,
+      "segment_index": 14,
+      "segment_text": "I mean, there's a ton of behavioral science literature that even research I participated in myself that shows that we don't know ourselves very well."
+    },
+    {
+      "word": "very",
+      "local_start": 53.545,
+      "local_end": 53.765,
+      "global_start": 955.105,
+      "global_end": 955.325,
+      "score": 0.756,
+      "segment_index": 14,
+      "segment_text": "I mean, there's a ton of behavioral science literature that even research I participated in myself that shows that we don't know ourselves very well."
+    },
+    {
+      "word": "well.",
+      "local_start": 53.805,
+      "local_end": 54.026,
+      "global_start": 955.365,
+      "global_end": 955.586,
+      "score": 0.92,
+      "segment_index": 14,
+      "segment_text": "I mean, there's a ton of behavioral science literature that even research I participated in myself that shows that we don't know ourselves very well."
+    },
+    {
+      "word": "And",
+      "local_start": 54.046,
+      "local_end": 54.106,
+      "global_start": 955.606,
+      "global_end": 955.666,
+      "score": 0.943,
+      "segment_index": 15,
+      "segment_text": "And the main reason is because we lied to ourselves all day long."
+    },
+    {
+      "word": "the",
+      "local_start": 54.126,
+      "local_end": 54.206,
+      "global_start": 955.686,
+      "global_end": 955.766,
+      "score": 0.836,
+      "segment_index": 15,
+      "segment_text": "And the main reason is because we lied to ourselves all day long."
+    },
+    {
+      "word": "main",
+      "local_start": 54.226,
+      "local_end": 54.386,
+      "global_start": 955.786,
+      "global_end": 955.946,
+      "score": 0.821,
+      "segment_index": 15,
+      "segment_text": "And the main reason is because we lied to ourselves all day long."
+    },
+    {
+      "word": "reason",
+      "local_start": 54.426,
+      "local_end": 54.646,
+      "global_start": 955.986,
+      "global_end": 956.206,
+      "score": 0.78,
+      "segment_index": 15,
+      "segment_text": "And the main reason is because we lied to ourselves all day long."
+    },
+    {
+      "word": "is",
+      "local_start": 54.686,
+      "local_end": 54.766,
+      "global_start": 956.246,
+      "global_end": 956.326,
+      "score": 0.532,
+      "segment_index": 15,
+      "segment_text": "And the main reason is because we lied to ourselves all day long."
+    },
+    {
+      "word": "because",
+      "local_start": 54.786,
+      "local_end": 54.966,
+      "global_start": 956.346,
+      "global_end": 956.526,
+      "score": 0.868,
+      "segment_index": 15,
+      "segment_text": "And the main reason is because we lied to ourselves all day long."
+    },
+    {
+      "word": "we",
+      "local_start": 55.006,
+      "local_end": 55.146,
+      "global_start": 956.566,
+      "global_end": 956.706,
+      "score": 0.637,
+      "segment_index": 15,
+      "segment_text": "And the main reason is because we lied to ourselves all day long."
+    },
+    {
+      "word": "lied",
+      "local_start": 55.206,
+      "local_end": 55.426,
+      "global_start": 956.766,
+      "global_end": 956.986,
+      "score": 0.723,
+      "segment_index": 15,
+      "segment_text": "And the main reason is because we lied to ourselves all day long."
+    },
+    {
+      "word": "to",
+      "local_start": 55.446,
+      "local_end": 55.506,
+      "global_start": 957.006,
+      "global_end": 957.066,
+      "score": 0.796,
+      "segment_index": 15,
+      "segment_text": "And the main reason is because we lied to ourselves all day long."
+    },
+    {
+      "word": "ourselves",
+      "local_start": 55.546,
+      "local_end": 55.947,
+      "global_start": 957.106,
+      "global_end": 957.507,
+      "score": 0.737,
+      "segment_index": 15,
+      "segment_text": "And the main reason is because we lied to ourselves all day long."
+    },
+    {
+      "word": "all",
+      "local_start": 56.007,
+      "local_end": 56.147,
+      "global_start": 957.567,
+      "global_end": 957.707,
+      "score": 0.799,
+      "segment_index": 15,
+      "segment_text": "And the main reason is because we lied to ourselves all day long."
+    },
+    {
+      "word": "day",
+      "local_start": 56.187,
+      "local_end": 56.307,
+      "global_start": 957.747,
+      "global_end": 957.867,
+      "score": 0.883,
+      "segment_index": 15,
+      "segment_text": "And the main reason is because we lied to ourselves all day long."
+    },
+    {
+      "word": "long.",
+      "local_start": 56.347,
+      "local_end": 56.587,
+      "global_start": 957.907,
+      "global_end": 958.147,
+      "score": 0.781,
+      "segment_index": 15,
+      "segment_text": "And the main reason is because we lied to ourselves all day long."
+    },
+    {
+      "word": "We",
+      "local_start": 56.627,
+      "local_end": 56.747,
+      "global_start": 958.187,
+      "global_end": 958.307,
+      "score": 0.787,
+      "segment_index": 16,
+      "segment_text": "We got these biases that make us feel better about ourselves, you know?"
+    },
+    {
+      "word": "got",
+      "local_start": 56.767,
+      "local_end": 56.867,
+      "global_start": 958.327,
+      "global_end": 958.427,
+      "score": 0.832,
+      "segment_index": 16,
+      "segment_text": "We got these biases that make us feel better about ourselves, you know?"
+    },
+    {
+      "word": "these",
+      "local_start": 56.887,
+      "local_end": 57.047,
+      "global_start": 958.447,
+      "global_end": 958.607,
+      "score": 0.807,
+      "segment_index": 16,
+      "segment_text": "We got these biases that make us feel better about ourselves, you know?"
+    },
+    {
+      "word": "biases",
+      "local_start": 57.207,
+      "local_end": 57.888,
+      "global_start": 958.767,
+      "global_end": 959.448,
+      "score": 0.877,
+      "segment_index": 16,
+      "segment_text": "We got these biases that make us feel better about ourselves, you know?"
+    },
+    {
+      "word": "that",
+      "local_start": 57.928,
+      "local_end": 58.068,
+      "global_start": 959.488,
+      "global_end": 959.628,
+      "score": 0.808,
+      "segment_index": 16,
+      "segment_text": "We got these biases that make us feel better about ourselves, you know?"
+    },
+    {
+      "word": "make",
+      "local_start": 58.088,
+      "local_end": 58.208,
+      "global_start": 959.648,
+      "global_end": 959.768,
+      "score": 0.83,
+      "segment_index": 16,
+      "segment_text": "We got these biases that make us feel better about ourselves, you know?"
+    },
+    {
+      "word": "us",
+      "local_start": 58.248,
+      "local_end": 58.308,
+      "global_start": 959.808,
+      "global_end": 959.868,
+      "score": 0.772,
+      "segment_index": 16,
+      "segment_text": "We got these biases that make us feel better about ourselves, you know?"
+    },
+    {
+      "word": "feel",
+      "local_start": 58.328,
+      "local_end": 58.508,
+      "global_start": 959.888,
+      "global_end": 960.068,
+      "score": 0.722,
+      "segment_index": 16,
+      "segment_text": "We got these biases that make us feel better about ourselves, you know?"
+    },
+    {
+      "word": "better",
+      "local_start": 58.568,
+      "local_end": 58.848,
+      "global_start": 960.128,
+      "global_end": 960.408,
+      "score": 0.824,
+      "segment_index": 16,
+      "segment_text": "We got these biases that make us feel better about ourselves, you know?"
+    },
+    {
+      "word": "about",
+      "local_start": 58.888,
+      "local_end": 59.029,
+      "global_start": 960.448,
+      "global_end": 960.589,
+      "score": 0.809,
+      "segment_index": 16,
+      "segment_text": "We got these biases that make us feel better about ourselves, you know?"
+    },
+    {
+      "word": "ourselves,",
+      "local_start": 59.069,
+      "local_end": 59.669,
+      "global_start": 960.629,
+      "global_end": 961.229,
+      "score": 0.772,
+      "segment_index": 16,
+      "segment_text": "We got these biases that make us feel better about ourselves, you know?"
+    },
+    {
+      "word": "you",
+      "local_start": 59.689,
+      "local_end": 59.789,
+      "global_start": 961.249,
+      "global_end": 961.349,
+      "score": 0.694,
+      "segment_index": 16,
+      "segment_text": "We got these biases that make us feel better about ourselves, you know?"
+    },
+    {
+      "word": "know?",
+      "local_start": 59.809,
+      "local_end": 60.009,
+      "global_start": 961.369,
+      "global_end": 961.569,
+      "score": 0.782,
+      "segment_index": 16,
+      "segment_text": "We got these biases that make us feel better about ourselves, you know?"
+    },
+    {
+      "word": "Yeah,",
+      "local_start": 60.609,
+      "local_end": 60.99,
+      "global_start": 962.169,
+      "global_end": 962.55,
+      "score": 0.777,
+      "segment_index": 17,
+      "segment_text": "Yeah, you know, like I think to myself, yeah, Arthur Brooks, he's a guy with good hair, you know, I can kind of,"
+    },
+    {
+      "word": "you",
+      "local_start": 61.03,
+      "local_end": 61.11,
+      "global_start": 962.59,
+      "global_end": 962.67,
+      "score": 0.957,
+      "segment_index": 17,
+      "segment_text": "Yeah, you know, like I think to myself, yeah, Arthur Brooks, he's a guy with good hair, you know, I can kind of,"
+    },
+    {
+      "word": "know,",
+      "local_start": 61.15,
+      "local_end": 61.57,
+      "global_start": 962.71,
+      "global_end": 963.13,
+      "score": 0.835,
+      "segment_index": 17,
+      "segment_text": "Yeah, you know, like I think to myself, yeah, Arthur Brooks, he's a guy with good hair, you know, I can kind of,"
+    },
+    {
+      "word": "like",
+      "local_start": 61.59,
+      "local_end": 61.75,
+      "global_start": 963.15,
+      "global_end": 963.31,
+      "score": 0.853,
+      "segment_index": 17,
+      "segment_text": "Yeah, you know, like I think to myself, yeah, Arthur Brooks, he's a guy with good hair, you know, I can kind of,"
+    },
+    {
+      "word": "I",
+      "local_start": 61.81,
+      "local_end": 61.87,
+      "global_start": 963.37,
+      "global_end": 963.43,
+      "score": 0.671,
+      "segment_index": 17,
+      "segment_text": "Yeah, you know, like I think to myself, yeah, Arthur Brooks, he's a guy with good hair, you know, I can kind of,"
+    },
+    {
+      "word": "think",
+      "local_start": 61.89,
+      "local_end": 62.03,
+      "global_start": 963.45,
+      "global_end": 963.59,
+      "score": 0.927,
+      "segment_index": 17,
+      "segment_text": "Yeah, you know, like I think to myself, yeah, Arthur Brooks, he's a guy with good hair, you know, I can kind of,"
+    },
+    {
+      "word": "to",
+      "local_start": 62.05,
+      "local_end": 62.09,
+      "global_start": 963.61,
+      "global_end": 963.65,
+      "score": 0.976,
+      "segment_index": 17,
+      "segment_text": "Yeah, you know, like I think to myself, yeah, Arthur Brooks, he's a guy with good hair, you know, I can kind of,"
+    },
+    {
+      "word": "myself,",
+      "local_start": 62.13,
+      "local_end": 62.571,
+      "global_start": 963.69,
+      "global_end": 964.131,
+      "score": 0.897,
+      "segment_index": 17,
+      "segment_text": "Yeah, you know, like I think to myself, yeah, Arthur Brooks, he's a guy with good hair, you know, I can kind of,"
+    },
+    {
+      "word": "yeah,",
+      "local_start": 62.951,
+      "local_end": 63.191,
+      "global_start": 964.511,
+      "global_end": 964.751,
+      "score": 0.69,
+      "segment_index": 17,
+      "segment_text": "Yeah, you know, like I think to myself, yeah, Arthur Brooks, he's a guy with good hair, you know, I can kind of,"
+    },
+    {
+      "word": "Arthur",
+      "local_start": 63.231,
+      "local_end": 63.471,
+      "global_start": 964.791,
+      "global_end": 965.031,
+      "score": 0.692,
+      "segment_index": 17,
+      "segment_text": "Yeah, you know, like I think to myself, yeah, Arthur Brooks, he's a guy with good hair, you know, I can kind of,"
+    },
+    {
+      "word": "Brooks,",
+      "local_start": 63.491,
+      "local_end": 63.711,
+      "global_start": 965.051,
+      "global_end": 965.271,
+      "score": 0.983,
+      "segment_index": 17,
+      "segment_text": "Yeah, you know, like I think to myself, yeah, Arthur Brooks, he's a guy with good hair, you know, I can kind of,"
+    },
+    {
+      "word": "he's",
+      "local_start": 63.731,
+      "local_end": 63.831,
+      "global_start": 965.291,
+      "global_end": 965.391,
+      "score": 0.666,
+      "segment_index": 17,
+      "segment_text": "Yeah, you know, like I think to myself, yeah, Arthur Brooks, he's a guy with good hair, you know, I can kind of,"
+    },
+    {
+      "word": "a",
+      "local_start": 63.891,
+      "local_end": 63.931,
+      "global_start": 965.451,
+      "global_end": 965.491,
+      "score": 0.535,
+      "segment_index": 17,
+      "segment_text": "Yeah, you know, like I think to myself, yeah, Arthur Brooks, he's a guy with good hair, you know, I can kind of,"
+    },
+    {
+      "word": "guy",
+      "local_start": 63.951,
+      "local_end": 64.091,
+      "global_start": 965.511,
+      "global_end": 965.651,
+      "score": 0.567,
+      "segment_index": 17,
+      "segment_text": "Yeah, you know, like I think to myself, yeah, Arthur Brooks, he's a guy with good hair, you know, I can kind of,"
+    },
+    {
+      "word": "with",
+      "local_start": 64.112,
+      "local_end": 64.212,
+      "global_start": 965.672,
+      "global_end": 965.772,
+      "score": 0.874,
+      "segment_index": 17,
+      "segment_text": "Yeah, you know, like I think to myself, yeah, Arthur Brooks, he's a guy with good hair, you know, I can kind of,"
+    },
+    {
+      "word": "good",
+      "local_start": 64.252,
+      "local_end": 64.392,
+      "global_start": 965.812,
+      "global_end": 965.952,
+      "score": 0.983,
+      "segment_index": 17,
+      "segment_text": "Yeah, you know, like I think to myself, yeah, Arthur Brooks, he's a guy with good hair, you know, I can kind of,"
+    },
+    {
+      "word": "hair,",
+      "local_start": 64.432,
+      "local_end": 64.772,
+      "global_start": 965.992,
+      "global_end": 966.332,
+      "score": 0.821,
+      "segment_index": 17,
+      "segment_text": "Yeah, you know, like I think to myself, yeah, Arthur Brooks, he's a guy with good hair, you know, I can kind of,"
+    },
+    {
+      "word": "you",
+      "local_start": 65.072,
+      "local_end": 65.152,
+      "global_start": 966.632,
+      "global_end": 966.712,
+      "score": 0.994,
+      "segment_index": 17,
+      "segment_text": "Yeah, you know, like I think to myself, yeah, Arthur Brooks, he's a guy with good hair, you know, I can kind of,"
+    },
+    {
+      "word": "know,",
+      "local_start": 65.192,
+      "local_end": 65.372,
+      "global_start": 966.752,
+      "global_end": 966.932,
+      "score": 0.711,
+      "segment_index": 17,
+      "segment_text": "Yeah, you know, like I think to myself, yeah, Arthur Brooks, he's a guy with good hair, you know, I can kind of,"
+    },
+    {
+      "word": "I",
+      "local_start": 65.412,
+      "local_end": 65.472,
+      "global_start": 966.972,
+      "global_end": 967.032,
+      "score": 0.94,
+      "segment_index": 17,
+      "segment_text": "Yeah, you know, like I think to myself, yeah, Arthur Brooks, he's a guy with good hair, you know, I can kind of,"
+    },
+    {
+      "word": "can",
+      "local_start": 65.492,
+      "local_end": 65.612,
+      "global_start": 967.052,
+      "global_end": 967.172,
+      "score": 0.891,
+      "segment_index": 17,
+      "segment_text": "Yeah, you know, like I think to myself, yeah, Arthur Brooks, he's a guy with good hair, you know, I can kind of,"
+    },
+    {
+      "word": "kind",
+      "local_start": 65.833,
+      "local_end": 65.933,
+      "global_start": 967.393,
+      "global_end": 967.493,
+      "score": 0.355,
+      "segment_index": 17,
+      "segment_text": "Yeah, you know, like I think to myself, yeah, Arthur Brooks, he's a guy with good hair, you know, I can kind of,"
+    },
+    {
+      "word": "of,",
+      "local_start": 65.953,
+      "local_end": 66.013,
+      "global_start": 967.513,
+      "global_end": 967.573,
+      "score": 0.312,
+      "segment_index": 17,
+      "segment_text": "Yeah, you know, like I think to myself, yeah, Arthur Brooks, he's a guy with good hair, you know, I can kind of,"
+    },
+    {
+      "word": "I'm",
+      "local_start": 66.934,
+      "local_end": 67.095,
+      "global_start": 968.494,
+      "global_end": 968.655,
+      "score": 0.764,
+      "segment_index": 18,
+      "segment_text": "I'm bald."
+    },
+    {
+      "word": "bald.",
+      "local_start": 67.215,
+      "local_end": 67.877,
+      "global_start": 968.775,
+      "global_end": 969.437,
+      "score": 0.877,
+      "segment_index": 18,
+      "segment_text": "I'm bald."
+    },
+    {
+      "word": "It's",
+      "local_start": 68.239,
+      "local_end": 68.399,
+      "global_start": 969.799,
+      "global_end": 969.959,
+      "score": 0.78,
+      "segment_index": 19,
+      "segment_text": "It's time for me to actually suck it up and be honest with myself."
+    },
+    {
+      "word": "time",
+      "local_start": 68.54,
+      "local_end": 68.941,
+      "global_start": 970.1,
+      "global_end": 970.501,
+      "score": 0.76,
+      "segment_index": 19,
+      "segment_text": "It's time for me to actually suck it up and be honest with myself."
+    },
+    {
+      "word": "for",
+      "local_start": 69.021,
+      "local_end": 69.142,
+      "global_start": 970.581,
+      "global_end": 970.702,
+      "score": 0.732,
+      "segment_index": 19,
+      "segment_text": "It's time for me to actually suck it up and be honest with myself."
+    },
+    {
+      "word": "me",
+      "local_start": 69.162,
+      "local_end": 69.262,
+      "global_start": 970.722,
+      "global_end": 970.822,
+      "score": 0.825,
+      "segment_index": 19,
+      "segment_text": "It's time for me to actually suck it up and be honest with myself."
+    },
+    {
+      "word": "to",
+      "local_start": 69.282,
+      "local_end": 69.343,
+      "global_start": 970.842,
+      "global_end": 970.903,
+      "score": 0.892,
+      "segment_index": 19,
+      "segment_text": "It's time for me to actually suck it up and be honest with myself."
+    },
+    {
+      "word": "actually",
+      "local_start": 69.443,
+      "local_end": 69.764,
+      "global_start": 971.003,
+      "global_end": 971.324,
+      "score": 0.82,
+      "segment_index": 19,
+      "segment_text": "It's time for me to actually suck it up and be honest with myself."
+    },
+    {
+      "word": "suck",
+      "local_start": 69.905,
+      "local_end": 70.145,
+      "global_start": 971.465,
+      "global_end": 971.705,
+      "score": 0.903,
+      "segment_index": 19,
+      "segment_text": "It's time for me to actually suck it up and be honest with myself."
+    },
+    {
+      "word": "it",
+      "local_start": 70.186,
+      "local_end": 70.246,
+      "global_start": 971.746,
+      "global_end": 971.806,
+      "score": 0.894,
+      "segment_index": 19,
+      "segment_text": "It's time for me to actually suck it up and be honest with myself."
+    },
+    {
+      "word": "up",
+      "local_start": 70.326,
+      "local_end": 70.426,
+      "global_start": 971.886,
+      "global_end": 971.986,
+      "score": 0.834,
+      "segment_index": 19,
+      "segment_text": "It's time for me to actually suck it up and be honest with myself."
+    },
+    {
+      "word": "and",
+      "local_start": 70.467,
+      "local_end": 70.547,
+      "global_start": 972.027,
+      "global_end": 972.107,
+      "score": 0.89,
+      "segment_index": 19,
+      "segment_text": "It's time for me to actually suck it up and be honest with myself."
+    },
+    {
+      "word": "be",
+      "local_start": 70.587,
+      "local_end": 70.687,
+      "global_start": 972.147,
+      "global_end": 972.247,
+      "score": 0.833,
+      "segment_index": 19,
+      "segment_text": "It's time for me to actually suck it up and be honest with myself."
+    },
+    {
+      "word": "honest",
+      "local_start": 70.728,
+      "local_end": 70.988,
+      "global_start": 972.288,
+      "global_end": 972.548,
+      "score": 0.774,
+      "segment_index": 19,
+      "segment_text": "It's time for me to actually suck it up and be honest with myself."
+    },
+    {
+      "word": "with",
+      "local_start": 71.029,
+      "local_end": 71.129,
+      "global_start": 972.589,
+      "global_end": 972.689,
+      "score": 0.882,
+      "segment_index": 19,
+      "segment_text": "It's time for me to actually suck it up and be honest with myself."
+    },
+    {
+      "word": "myself.",
+      "local_start": 71.169,
+      "local_end": 71.45,
+      "global_start": 972.729,
+      "global_end": 973.01,
+      "score": 0.926,
+      "segment_index": 19,
+      "segment_text": "It's time for me to actually suck it up and be honest with myself."
+    },
+    {
+      "word": "Now",
+      "local_start": 71.47,
+      "local_end": 71.55,
+      "global_start": 973.03,
+      "global_end": 973.11,
+      "score": 0.993,
+      "segment_index": 20,
+      "segment_text": "Now that's an easy one."
+    },
+    {
+      "word": "that's",
+      "local_start": 71.591,
+      "local_end": 71.811,
+      "global_start": 973.151,
+      "global_end": 973.371,
+      "score": 0.856,
+      "segment_index": 20,
+      "segment_text": "Now that's an easy one."
+    },
+    {
+      "word": "an",
+      "local_start": 71.852,
+      "local_end": 71.912,
+      "global_start": 973.412,
+      "global_end": 973.472,
+      "score": 0.75,
+      "segment_index": 20,
+      "segment_text": "Now that's an easy one."
+    },
+    {
+      "word": "easy",
+      "local_start": 71.992,
+      "local_end": 72.253,
+      "global_start": 973.552,
+      "global_end": 973.813,
+      "score": 0.916,
+      "segment_index": 20,
+      "segment_text": "Now that's an easy one."
+    },
+    {
+      "word": "one.",
+      "local_start": 72.393,
+      "local_end": 72.514,
+      "global_start": 973.953,
+      "global_end": 974.074,
+      "score": 0.78,
+      "segment_index": 20,
+      "segment_text": "Now that's an easy one."
+    },
+    {
+      "word": "You",
+      "local_start": 72.735,
+      "local_end": 72.815,
+      "global_start": 974.295,
+      "global_end": 974.375,
+      "score": 0.885,
+      "segment_index": 21,
+      "segment_text": "You know what's not an easy one?"
+    },
+    {
+      "word": "know",
+      "local_start": 72.835,
+      "local_end": 72.915,
+      "global_start": 974.395,
+      "global_end": 974.475,
+      "score": 0.999,
+      "segment_index": 21,
+      "segment_text": "You know what's not an easy one?"
+    },
+    {
+      "word": "what's",
+      "local_start": 72.935,
+      "local_end": 73.096,
+      "global_start": 974.495,
+      "global_end": 974.656,
+      "score": 0.334,
+      "segment_index": 21,
+      "segment_text": "You know what's not an easy one?"
+    },
+    {
+      "word": "not",
+      "local_start": 73.156,
+      "local_end": 73.337,
+      "global_start": 974.716,
+      "global_end": 974.897,
+      "score": 0.682,
+      "segment_index": 21,
+      "segment_text": "You know what's not an easy one?"
+    },
+    {
+      "word": "an",
+      "local_start": 73.377,
+      "local_end": 73.417,
+      "global_start": 974.937,
+      "global_end": 974.977,
+      "score": 1.0,
+      "segment_index": 21,
+      "segment_text": "You know what's not an easy one?"
+    },
+    {
+      "word": "easy",
+      "local_start": 73.477,
+      "local_end": 73.678,
+      "global_start": 975.037,
+      "global_end": 975.238,
+      "score": 0.999,
+      "segment_index": 21,
+      "segment_text": "You know what's not an easy one?"
+    },
+    {
+      "word": "one?",
+      "local_start": 73.839,
+      "local_end": 73.979,
+      "global_start": 975.399,
+      "global_end": 975.539,
+      "score": 0.72,
+      "segment_index": 21,
+      "segment_text": "You know what's not an easy one?"
+    },
+    {
+      "word": "My",
+      "local_start": 74.601,
+      "local_end": 74.722,
+      "global_start": 976.161,
+      "global_end": 976.282,
+      "score": 0.838,
+      "segment_index": 22,
+      "segment_text": "My personal"
+    },
+    {
+      "word": "personal",
+      "local_start": 74.802,
+      "local_end": 75.183,
+      "global_start": 976.362,
+      "global_end": 976.743,
+      "score": 0.894,
+      "segment_index": 22,
+      "segment_text": "My personal"
+    }
+  ],
+  "raw_segments": [
+    {
+      "start": 0.031,
+      "end": 9.059,
+      "text": "do is this. If we want to be free, we need to be honest. And that doesn't mean going and telling mom everything you did when you were a kid that you're ashamed of."
+    },
+    {
+      "start": 9.937,
+      "end": 39.198,
+      "text": "Do that. Fine. It means being honest with yourself. To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing in your shame to it and you don't like it and you wanna stop. And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so. You know that's a lie. You know that you're doing something that you shouldn't be doing and you feel rotten about yourself. Admit it. Be honest with yourself."
+    },
+    {
+      "start": 39.417,
+      "end": 66.653,
+      "text": "Emerson talks about the fact that everybody needs a radical honesty in their lives in all parts of their lives. And it's hard, it's hard to do. I mean, there's a ton of behavioral science literature that even research I participated in myself that shows that we don't know ourselves very well. And the main reason is because we lied to ourselves all day long. We got these biases that make us feel better about ourselves, you know? Yeah, you know, like I think to myself, yeah, Arthur Brooks, he's a guy with good hair, you know, I can kind of,"
+    },
+    {
+      "start": 66.653,
+      "end": 75.344,
+      "text": "I'm bald. It's time for me to actually suck it up and be honest with myself. Now that's an easy one. You know what's not an easy one? My personal"
+    }
+  ]
+}

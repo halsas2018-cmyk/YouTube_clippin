@@ -1,0 +1,2340 @@
+{
+  "section_id": "section_002",
+  "candidate_id": 2,
+  "video_id": "KHd-luu3M8s",
+  "file_name": "section_002.mp4",
+  "file_path": "/root/youtubr_clipper/media/downloads/KHd-luu3M8s/sections/section_002.mp4",
+  "start_offset": 391.96,
+  "end_offset": 466.16,
+  "target_duration_s": 74.2,
+  "probed_duration_s": 74.214,
+  "original_candidate_ranges": [
+    {
+      "start": 399.96,
+      "end": 458.16
+    }
+  ],
+  "padded_range": {
+    "start": 391.96,
+    "end": 466.16
+  },
+  "combined_text": "So, since I do that, one of the questions that a lot of my students ask me is you know, professor, who's your favorite philosopher? Uh maybe Aristotle is so great. I don't know. Maybe throw in a little bit of uh Thomas Aquinas. Got to love that. Yeah, I do. I love all that stuff. But my favorite philosopher, hands-down, is an American from the 19th century, from from the 1840s. That's Ralph Waldo Emerson. The really the most American philosopher because he talked about the spirit of self-reliance. What it actually means to rebel against the things that are holding you down. It's like a tall glass of cold water on a hot summer's day as far as I'm concerned because we all need to rebel against a lot of things. You know, we're we especially need to rebel against ourselves when we're chained by our technology. And Ralph Waldo Emerson, writing in 1841, his most famous essay, Self-Reliance, talks about exactly how to do it. Even though there wasn't even the shadow of an iPhone in his pocket, nonetheless, he had the philosophy that we can all still use today. Emerson's philosophy has a lot of different parts to it. And and I write about it extensively. But but really what it comes down to is this. If we want to be free, we need to be honest. And and and that doesn't mean, you know, going and telling mom everything you did when you were a kid that you're ashamed of. Do that. Fine. It means being honest with yourself. To get off the sauce if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing and that you're ashamed of it and you don't like it and you want to stop. And you've been lying to yourself all this time and thinking that it's going to be okay and then you have you finally drink enough that you'll just lose the urge to do so. You know that's a lie. You know that you're doing something that you shouldn't be doing and you feel rotten about yourself. Admit it. Be honest with yourself.",
+  "reason": "This segment introduces a compelling philosophical framework for overcoming addiction through radical honesty, using Ralph Waldo Emerson as a relatable and authoritative anchor.",
+  "alignment": {
+    "whisper_model": "base",
+    "language": "en",
+    "device": "cpu",
+    "compute_type": "float32",
+    "total_words": 229,
+    "timestamp_note": "local_start/local_end are relative to the section MP4 file (0-based seconds). global_start/global_end are authoritative original-video timestamps = local_timestamp + start_offset."
+  },
+  "words": [
+    {
+      "word": "the",
+      "local_start": 0.051,
+      "local_end": 0.111,
+      "global_start": 392.011,
+      "global_end": 392.071,
+      "score": 0.985,
+      "segment_index": 0,
+      "segment_text": "the limbic system of the brain that we have different parts that are designed to create these terrible aversive emotions, specifically and for specific reasons."
+    },
+    {
+      "word": "limbic",
+      "local_start": 0.151,
+      "local_end": 0.391,
+      "global_start": 392.111,
+      "global_end": 392.351,
+      "score": 0.453,
+      "segment_index": 0,
+      "segment_text": "the limbic system of the brain that we have different parts that are designed to create these terrible aversive emotions, specifically and for specific reasons."
+    },
+    {
+      "word": "system",
+      "local_start": 0.411,
+      "local_end": 0.631,
+      "global_start": 392.371,
+      "global_end": 392.591,
+      "score": 0.839,
+      "segment_index": 0,
+      "segment_text": "the limbic system of the brain that we have different parts that are designed to create these terrible aversive emotions, specifically and for specific reasons."
+    },
+    {
+      "word": "of",
+      "local_start": 0.671,
+      "local_end": 0.711,
+      "global_start": 392.631,
+      "global_end": 392.671,
+      "score": 0.966,
+      "segment_index": 0,
+      "segment_text": "the limbic system of the brain that we have different parts that are designed to create these terrible aversive emotions, specifically and for specific reasons."
+    },
+    {
+      "word": "the",
+      "local_start": 0.751,
+      "local_end": 0.811,
+      "global_start": 392.711,
+      "global_end": 392.771,
+      "score": 0.997,
+      "segment_index": 0,
+      "segment_text": "the limbic system of the brain that we have different parts that are designed to create these terrible aversive emotions, specifically and for specific reasons."
+    },
+    {
+      "word": "brain",
+      "local_start": 0.851,
+      "local_end": 1.111,
+      "global_start": 392.811,
+      "global_end": 393.071,
+      "score": 0.864,
+      "segment_index": 0,
+      "segment_text": "the limbic system of the brain that we have different parts that are designed to create these terrible aversive emotions, specifically and for specific reasons."
+    },
+    {
+      "word": "that",
+      "local_start": 1.131,
+      "local_end": 1.431,
+      "global_start": 393.091,
+      "global_end": 393.391,
+      "score": 0.815,
+      "segment_index": 0,
+      "segment_text": "the limbic system of the brain that we have different parts that are designed to create these terrible aversive emotions, specifically and for specific reasons."
+    },
+    {
+      "word": "we",
+      "local_start": 1.991,
+      "local_end": 2.031,
+      "global_start": 393.951,
+      "global_end": 393.991,
+      "score": 0.999,
+      "segment_index": 0,
+      "segment_text": "the limbic system of the brain that we have different parts that are designed to create these terrible aversive emotions, specifically and for specific reasons."
+    },
+    {
+      "word": "have",
+      "local_start": 2.051,
+      "local_end": 2.152,
+      "global_start": 394.011,
+      "global_end": 394.112,
+      "score": 0.879,
+      "segment_index": 0,
+      "segment_text": "the limbic system of the brain that we have different parts that are designed to create these terrible aversive emotions, specifically and for specific reasons."
+    },
+    {
+      "word": "different",
+      "local_start": 2.272,
+      "local_end": 2.612,
+      "global_start": 394.232,
+      "global_end": 394.572,
+      "score": 0.816,
+      "segment_index": 0,
+      "segment_text": "the limbic system of the brain that we have different parts that are designed to create these terrible aversive emotions, specifically and for specific reasons."
+    },
+    {
+      "word": "parts",
+      "local_start": 2.652,
+      "local_end": 2.892,
+      "global_start": 394.612,
+      "global_end": 394.852,
+      "score": 0.735,
+      "segment_index": 0,
+      "segment_text": "the limbic system of the brain that we have different parts that are designed to create these terrible aversive emotions, specifically and for specific reasons."
+    },
+    {
+      "word": "that",
+      "local_start": 3.292,
+      "local_end": 3.392,
+      "global_start": 395.252,
+      "global_end": 395.352,
+      "score": 0.397,
+      "segment_index": 0,
+      "segment_text": "the limbic system of the brain that we have different parts that are designed to create these terrible aversive emotions, specifically and for specific reasons."
+    },
+    {
+      "word": "are",
+      "local_start": 3.412,
+      "local_end": 3.512,
+      "global_start": 395.372,
+      "global_end": 395.472,
+      "score": 0.443,
+      "segment_index": 0,
+      "segment_text": "the limbic system of the brain that we have different parts that are designed to create these terrible aversive emotions, specifically and for specific reasons."
+    },
+    {
+      "word": "designed",
+      "local_start": 3.612,
+      "local_end": 4.412,
+      "global_start": 395.572,
+      "global_end": 396.372,
+      "score": 0.782,
+      "segment_index": 0,
+      "segment_text": "the limbic system of the brain that we have different parts that are designed to create these terrible aversive emotions, specifically and for specific reasons."
+    },
+    {
+      "word": "to",
+      "local_start": 4.572,
+      "local_end": 4.672,
+      "global_start": 396.532,
+      "global_end": 396.632,
+      "score": 0.79,
+      "segment_index": 0,
+      "segment_text": "the limbic system of the brain that we have different parts that are designed to create these terrible aversive emotions, specifically and for specific reasons."
+    },
+    {
+      "word": "create",
+      "local_start": 4.752,
+      "local_end": 5.072,
+      "global_start": 396.712,
+      "global_end": 397.032,
+      "score": 0.832,
+      "segment_index": 0,
+      "segment_text": "the limbic system of the brain that we have different parts that are designed to create these terrible aversive emotions, specifically and for specific reasons."
+    },
+    {
+      "word": "these",
+      "local_start": 5.132,
+      "local_end": 5.332,
+      "global_start": 397.092,
+      "global_end": 397.292,
+      "score": 0.711,
+      "segment_index": 0,
+      "segment_text": "the limbic system of the brain that we have different parts that are designed to create these terrible aversive emotions, specifically and for specific reasons."
+    },
+    {
+      "word": "terrible",
+      "local_start": 5.592,
+      "local_end": 6.032,
+      "global_start": 397.552,
+      "global_end": 397.992,
+      "score": 0.769,
+      "segment_index": 0,
+      "segment_text": "the limbic system of the brain that we have different parts that are designed to create these terrible aversive emotions, specifically and for specific reasons."
+    },
+    {
+      "word": "aversive",
+      "local_start": 6.132,
+      "local_end": 6.533,
+      "global_start": 398.092,
+      "global_end": 398.493,
+      "score": 0.544,
+      "segment_index": 0,
+      "segment_text": "the limbic system of the brain that we have different parts that are designed to create these terrible aversive emotions, specifically and for specific reasons."
+    },
+    {
+      "word": "emotions,",
+      "local_start": 6.573,
+      "local_end": 7.033,
+      "global_start": 398.533,
+      "global_end": 398.993,
+      "score": 0.759,
+      "segment_index": 0,
+      "segment_text": "the limbic system of the brain that we have different parts that are designed to create these terrible aversive emotions, specifically and for specific reasons."
+    },
+    {
+      "word": "specifically",
+      "local_start": 7.093,
+      "local_end": 7.673,
+      "global_start": 399.053,
+      "global_end": 399.633,
+      "score": 0.799,
+      "segment_index": 0,
+      "segment_text": "the limbic system of the brain that we have different parts that are designed to create these terrible aversive emotions, specifically and for specific reasons."
+    },
+    {
+      "word": "and",
+      "local_start": 7.753,
+      "local_end": 7.833,
+      "global_start": 399.713,
+      "global_end": 399.793,
+      "score": 0.834,
+      "segment_index": 0,
+      "segment_text": "the limbic system of the brain that we have different parts that are designed to create these terrible aversive emotions, specifically and for specific reasons."
+    },
+    {
+      "word": "for",
+      "local_start": 7.893,
+      "local_end": 8.033,
+      "global_start": 399.853,
+      "global_end": 399.993,
+      "score": 0.731,
+      "segment_index": 0,
+      "segment_text": "the limbic system of the brain that we have different parts that are designed to create these terrible aversive emotions, specifically and for specific reasons."
+    },
+    {
+      "word": "specific",
+      "local_start": 8.093,
+      "local_end": 8.573,
+      "global_start": 400.053,
+      "global_end": 400.533,
+      "score": 0.851,
+      "segment_index": 0,
+      "segment_text": "the limbic system of the brain that we have different parts that are designed to create these terrible aversive emotions, specifically and for specific reasons."
+    },
+    {
+      "word": "reasons.",
+      "local_start": 8.633,
+      "local_end": 8.893,
+      "global_start": 400.593,
+      "global_end": 400.853,
+      "score": 0.922,
+      "segment_index": 0,
+      "segment_text": "the limbic system of the brain that we have different parts that are designed to create these terrible aversive emotions, specifically and for specific reasons."
+    },
+    {
+      "word": "I'll",
+      "local_start": 8.913,
+      "local_end": 9.013,
+      "global_start": 400.873,
+      "global_end": 400.973,
+      "score": 0.912,
+      "segment_index": 1,
+      "segment_text": "I'll give you an example."
+    },
+    {
+      "word": "give",
+      "local_start": 9.033,
+      "local_end": 9.113,
+      "global_start": 400.993,
+      "global_end": 401.073,
+      "score": 0.996,
+      "segment_index": 1,
+      "segment_text": "I'll give you an example."
+    },
+    {
+      "word": "you",
+      "local_start": 9.133,
+      "local_end": 9.193,
+      "global_start": 401.093,
+      "global_end": 401.153,
+      "score": 0.963,
+      "segment_index": 1,
+      "segment_text": "I'll give you an example."
+    },
+    {
+      "word": "an",
+      "local_start": 9.213,
+      "local_end": 9.253,
+      "global_start": 401.173,
+      "global_end": 401.213,
+      "score": 0.634,
+      "segment_index": 1,
+      "segment_text": "I'll give you an example."
+    },
+    {
+      "word": "example.",
+      "local_start": 9.293,
+      "local_end": 9.693,
+      "global_start": 401.253,
+      "global_end": 401.653,
+      "score": 0.897,
+      "segment_index": 1,
+      "segment_text": "I'll give you an example."
+    },
+    {
+      "word": "There's",
+      "local_start": 10.293,
+      "local_end": 10.493,
+      "global_start": 402.253,
+      "global_end": 402.453,
+      "score": 0.843,
+      "segment_index": 2,
+      "segment_text": "There's a part of the limbic system called the dorsal anterior singulate cortex."
+    },
+    {
+      "word": "a",
+      "local_start": 10.533,
+      "local_end": 10.554,
+      "global_start": 402.493,
+      "global_end": 402.514,
+      "score": 0.997,
+      "segment_index": 2,
+      "segment_text": "There's a part of the limbic system called the dorsal anterior singulate cortex."
+    },
+    {
+      "word": "part",
+      "local_start": 10.634,
+      "local_end": 10.874,
+      "global_start": 402.594,
+      "global_end": 402.834,
+      "score": 0.781,
+      "segment_index": 2,
+      "segment_text": "There's a part of the limbic system called the dorsal anterior singulate cortex."
+    },
+    {
+      "word": "of",
+      "local_start": 10.894,
+      "local_end": 10.934,
+      "global_start": 402.854,
+      "global_end": 402.894,
+      "score": 0.632,
+      "segment_index": 2,
+      "segment_text": "There's a part of the limbic system called the dorsal anterior singulate cortex."
+    },
+    {
+      "word": "the",
+      "local_start": 10.954,
+      "local_end": 11.034,
+      "global_start": 402.914,
+      "global_end": 402.994,
+      "score": 0.811,
+      "segment_index": 2,
+      "segment_text": "There's a part of the limbic system called the dorsal anterior singulate cortex."
+    },
+    {
+      "word": "limbic",
+      "local_start": 11.074,
+      "local_end": 11.274,
+      "global_start": 403.034,
+      "global_end": 403.234,
+      "score": 0.676,
+      "segment_index": 2,
+      "segment_text": "There's a part of the limbic system called the dorsal anterior singulate cortex."
+    },
+    {
+      "word": "system",
+      "local_start": 11.294,
+      "local_end": 11.534,
+      "global_start": 403.254,
+      "global_end": 403.494,
+      "score": 0.738,
+      "segment_index": 2,
+      "segment_text": "There's a part of the limbic system called the dorsal anterior singulate cortex."
+    },
+    {
+      "word": "called",
+      "local_start": 11.574,
+      "local_end": 11.734,
+      "global_start": 403.534,
+      "global_end": 403.694,
+      "score": 0.823,
+      "segment_index": 2,
+      "segment_text": "There's a part of the limbic system called the dorsal anterior singulate cortex."
+    },
+    {
+      "word": "the",
+      "local_start": 11.754,
+      "local_end": 11.814,
+      "global_start": 403.714,
+      "global_end": 403.774,
+      "score": 0.894,
+      "segment_index": 2,
+      "segment_text": "There's a part of the limbic system called the dorsal anterior singulate cortex."
+    },
+    {
+      "word": "dorsal",
+      "local_start": 11.934,
+      "local_end": 12.414,
+      "global_start": 403.894,
+      "global_end": 404.374,
+      "score": 0.728,
+      "segment_index": 2,
+      "segment_text": "There's a part of the limbic system called the dorsal anterior singulate cortex."
+    },
+    {
+      "word": "anterior",
+      "local_start": 12.534,
+      "local_end": 13.094,
+      "global_start": 404.494,
+      "global_end": 405.054,
+      "score": 0.835,
+      "segment_index": 2,
+      "segment_text": "There's a part of the limbic system called the dorsal anterior singulate cortex."
+    },
+    {
+      "word": "singulate",
+      "local_start": 13.114,
+      "local_end": 13.474,
+      "global_start": 405.074,
+      "global_end": 405.434,
+      "score": 0.702,
+      "segment_index": 2,
+      "segment_text": "There's a part of the limbic system called the dorsal anterior singulate cortex."
+    },
+    {
+      "word": "cortex.",
+      "local_start": 13.514,
+      "local_end": 13.934,
+      "global_start": 405.474,
+      "global_end": 405.894,
+      "score": 0.672,
+      "segment_index": 2,
+      "segment_text": "There's a part of the limbic system called the dorsal anterior singulate cortex."
+    },
+    {
+      "word": "It's",
+      "local_start": 14.414,
+      "local_end": 14.554,
+      "global_start": 406.374,
+      "global_end": 406.514,
+      "score": 0.769,
+      "segment_index": 3,
+      "segment_text": "It's dedicated to help you feel social exclusion, sadness."
+    },
+    {
+      "word": "dedicated",
+      "local_start": 14.714,
+      "local_end": 15.335,
+      "global_start": 406.674,
+      "global_end": 407.295,
+      "score": 0.879,
+      "segment_index": 3,
+      "segment_text": "It's dedicated to help you feel social exclusion, sadness."
+    },
+    {
+      "word": "to",
+      "local_start": 15.455,
+      "local_end": 15.615,
+      "global_start": 407.415,
+      "global_end": 407.575,
+      "score": 0.858,
+      "segment_index": 3,
+      "segment_text": "It's dedicated to help you feel social exclusion, sadness."
+    },
+    {
+      "word": "help",
+      "local_start": 15.955,
+      "local_end": 16.235,
+      "global_start": 407.915,
+      "global_end": 408.195,
+      "score": 0.795,
+      "segment_index": 3,
+      "segment_text": "It's dedicated to help you feel social exclusion, sadness."
+    },
+    {
+      "word": "you",
+      "local_start": 16.335,
+      "local_end": 16.535,
+      "global_start": 408.295,
+      "global_end": 408.495,
+      "score": 0.86,
+      "segment_index": 3,
+      "segment_text": "It's dedicated to help you feel social exclusion, sadness."
+    },
+    {
+      "word": "feel",
+      "local_start": 16.675,
+      "local_end": 17.015,
+      "global_start": 408.635,
+      "global_end": 408.975,
+      "score": 0.843,
+      "segment_index": 3,
+      "segment_text": "It's dedicated to help you feel social exclusion, sadness."
+    },
+    {
+      "word": "social",
+      "local_start": 17.255,
+      "local_end": 17.635,
+      "global_start": 409.215,
+      "global_end": 409.595,
+      "score": 0.775,
+      "segment_index": 3,
+      "segment_text": "It's dedicated to help you feel social exclusion, sadness."
+    },
+    {
+      "word": "exclusion,",
+      "local_start": 17.695,
+      "local_end": 18.315,
+      "global_start": 409.655,
+      "global_end": 410.275,
+      "score": 0.908,
+      "segment_index": 3,
+      "segment_text": "It's dedicated to help you feel social exclusion, sadness."
+    },
+    {
+      "word": "sadness.",
+      "local_start": 18.495,
+      "local_end": 19.136,
+      "global_start": 410.455,
+      "global_end": 411.096,
+      "score": 0.876,
+      "segment_index": 3,
+      "segment_text": "It's dedicated to help you feel social exclusion, sadness."
+    },
+    {
+      "word": "It",
+      "local_start": 19.796,
+      "local_end": 19.876,
+      "global_start": 411.756,
+      "global_end": 411.836,
+      "score": 0.832,
+      "segment_index": 4,
+      "segment_text": "It lights up like a Christmas tree."
+    },
+    {
+      "word": "lights",
+      "local_start": 20.036,
+      "local_end": 20.256,
+      "global_start": 411.996,
+      "global_end": 412.216,
+      "score": 0.933,
+      "segment_index": 4,
+      "segment_text": "It lights up like a Christmas tree."
+    },
+    {
+      "word": "up",
+      "local_start": 20.316,
+      "local_end": 20.376,
+      "global_start": 412.276,
+      "global_end": 412.336,
+      "score": 0.878,
+      "segment_index": 4,
+      "segment_text": "It lights up like a Christmas tree."
+    },
+    {
+      "word": "like",
+      "local_start": 20.416,
+      "local_end": 20.516,
+      "global_start": 412.376,
+      "global_end": 412.476,
+      "score": 0.874,
+      "segment_index": 4,
+      "segment_text": "It lights up like a Christmas tree."
+    },
+    {
+      "word": "a",
+      "local_start": 20.556,
+      "local_end": 20.596,
+      "global_start": 412.516,
+      "global_end": 412.556,
+      "score": 0.499,
+      "segment_index": 4,
+      "segment_text": "It lights up like a Christmas tree."
+    },
+    {
+      "word": "Christmas",
+      "local_start": 20.716,
+      "local_end": 21.216,
+      "global_start": 412.676,
+      "global_end": 413.176,
+      "score": 0.7,
+      "segment_index": 4,
+      "segment_text": "It lights up like a Christmas tree."
+    },
+    {
+      "word": "tree.",
+      "local_start": 21.276,
+      "local_end": 21.556,
+      "global_start": 413.236,
+      "global_end": 413.516,
+      "score": 0.873,
+      "segment_index": 4,
+      "segment_text": "It lights up like a Christmas tree."
+    },
+    {
+      "word": "If",
+      "local_start": 21.636,
+      "local_end": 21.696,
+      "global_start": 413.596,
+      "global_end": 413.656,
+      "score": 0.972,
+      "segment_index": 5,
+      "segment_text": "If you lose somebody that you love, if somebody leaves you with the altar, if somebody that you love dies and you're feeling grief,"
+    },
+    {
+      "word": "you",
+      "local_start": 21.736,
+      "local_end": 21.896,
+      "global_start": 413.696,
+      "global_end": 413.856,
+      "score": 0.773,
+      "segment_index": 5,
+      "segment_text": "If you lose somebody that you love, if somebody leaves you with the altar, if somebody that you love dies and you're feeling grief,"
+    },
+    {
+      "word": "lose",
+      "local_start": 21.956,
+      "local_end": 22.216,
+      "global_start": 413.916,
+      "global_end": 414.176,
+      "score": 0.823,
+      "segment_index": 5,
+      "segment_text": "If you lose somebody that you love, if somebody leaves you with the altar, if somebody that you love dies and you're feeling grief,"
+    },
+    {
+      "word": "somebody",
+      "local_start": 22.256,
+      "local_end": 22.556,
+      "global_start": 414.216,
+      "global_end": 414.516,
+      "score": 0.848,
+      "segment_index": 5,
+      "segment_text": "If you lose somebody that you love, if somebody leaves you with the altar, if somebody that you love dies and you're feeling grief,"
+    },
+    {
+      "word": "that",
+      "local_start": 22.576,
+      "local_end": 22.676,
+      "global_start": 414.536,
+      "global_end": 414.636,
+      "score": 0.871,
+      "segment_index": 5,
+      "segment_text": "If you lose somebody that you love, if somebody leaves you with the altar, if somebody that you love dies and you're feeling grief,"
+    },
+    {
+      "word": "you",
+      "local_start": 22.716,
+      "local_end": 22.856,
+      "global_start": 414.676,
+      "global_end": 414.816,
+      "score": 0.867,
+      "segment_index": 5,
+      "segment_text": "If you lose somebody that you love, if somebody leaves you with the altar, if somebody that you love dies and you're feeling grief,"
+    },
+    {
+      "word": "love,",
+      "local_start": 22.916,
+      "local_end": 23.297,
+      "global_start": 414.876,
+      "global_end": 415.257,
+      "score": 0.827,
+      "segment_index": 5,
+      "segment_text": "If you lose somebody that you love, if somebody leaves you with the altar, if somebody that you love dies and you're feeling grief,"
+    },
+    {
+      "word": "if",
+      "local_start": 23.377,
+      "local_end": 23.457,
+      "global_start": 415.337,
+      "global_end": 415.417,
+      "score": 0.986,
+      "segment_index": 5,
+      "segment_text": "If you lose somebody that you love, if somebody leaves you with the altar, if somebody that you love dies and you're feeling grief,"
+    },
+    {
+      "word": "somebody",
+      "local_start": 23.497,
+      "local_end": 23.817,
+      "global_start": 415.457,
+      "global_end": 415.777,
+      "score": 0.691,
+      "segment_index": 5,
+      "segment_text": "If you lose somebody that you love, if somebody leaves you with the altar, if somebody that you love dies and you're feeling grief,"
+    },
+    {
+      "word": "leaves",
+      "local_start": 23.937,
+      "local_end": 24.237,
+      "global_start": 415.897,
+      "global_end": 416.197,
+      "score": 0.794,
+      "segment_index": 5,
+      "segment_text": "If you lose somebody that you love, if somebody leaves you with the altar, if somebody that you love dies and you're feeling grief,"
+    },
+    {
+      "word": "you",
+      "local_start": 24.277,
+      "local_end": 24.377,
+      "global_start": 416.237,
+      "global_end": 416.337,
+      "score": 0.834,
+      "segment_index": 5,
+      "segment_text": "If you lose somebody that you love, if somebody leaves you with the altar, if somebody that you love dies and you're feeling grief,"
+    },
+    {
+      "word": "with",
+      "local_start": 24.417,
+      "local_end": 24.517,
+      "global_start": 416.377,
+      "global_end": 416.477,
+      "score": 0.838,
+      "segment_index": 5,
+      "segment_text": "If you lose somebody that you love, if somebody leaves you with the altar, if somebody that you love dies and you're feeling grief,"
+    },
+    {
+      "word": "the",
+      "local_start": 24.537,
+      "local_end": 24.637,
+      "global_start": 416.497,
+      "global_end": 416.597,
+      "score": 0.67,
+      "segment_index": 5,
+      "segment_text": "If you lose somebody that you love, if somebody leaves you with the altar, if somebody that you love dies and you're feeling grief,"
+    },
+    {
+      "word": "altar,",
+      "local_start": 24.837,
+      "local_end": 25.337,
+      "global_start": 416.797,
+      "global_end": 417.297,
+      "score": 0.726,
+      "segment_index": 5,
+      "segment_text": "If you lose somebody that you love, if somebody leaves you with the altar, if somebody that you love dies and you're feeling grief,"
+    },
+    {
+      "word": "if",
+      "local_start": 25.597,
+      "local_end": 25.677,
+      "global_start": 417.557,
+      "global_end": 417.637,
+      "score": 0.887,
+      "segment_index": 5,
+      "segment_text": "If you lose somebody that you love, if somebody leaves you with the altar, if somebody that you love dies and you're feeling grief,"
+    },
+    {
+      "word": "somebody",
+      "local_start": 26.097,
+      "local_end": 26.397,
+      "global_start": 418.057,
+      "global_end": 418.357,
+      "score": 0.852,
+      "segment_index": 5,
+      "segment_text": "If you lose somebody that you love, if somebody leaves you with the altar, if somebody that you love dies and you're feeling grief,"
+    },
+    {
+      "word": "that",
+      "local_start": 26.417,
+      "local_end": 26.517,
+      "global_start": 418.377,
+      "global_end": 418.477,
+      "score": 0.906,
+      "segment_index": 5,
+      "segment_text": "If you lose somebody that you love, if somebody leaves you with the altar, if somebody that you love dies and you're feeling grief,"
+    },
+    {
+      "word": "you",
+      "local_start": 26.557,
+      "local_end": 26.697,
+      "global_start": 418.517,
+      "global_end": 418.657,
+      "score": 0.83,
+      "segment_index": 5,
+      "segment_text": "If you lose somebody that you love, if somebody leaves you with the altar, if somebody that you love dies and you're feeling grief,"
+    },
+    {
+      "word": "love",
+      "local_start": 26.757,
+      "local_end": 26.997,
+      "global_start": 418.717,
+      "global_end": 418.957,
+      "score": 0.861,
+      "segment_index": 5,
+      "segment_text": "If you lose somebody that you love, if somebody leaves you with the altar, if somebody that you love dies and you're feeling grief,"
+    },
+    {
+      "word": "dies",
+      "local_start": 27.317,
+      "local_end": 27.858,
+      "global_start": 419.277,
+      "global_end": 419.818,
+      "score": 0.78,
+      "segment_index": 5,
+      "segment_text": "If you lose somebody that you love, if somebody leaves you with the altar, if somebody that you love dies and you're feeling grief,"
+    },
+    {
+      "word": "and",
+      "local_start": 27.998,
+      "local_end": 28.058,
+      "global_start": 419.958,
+      "global_end": 420.018,
+      "score": 0.99,
+      "segment_index": 5,
+      "segment_text": "If you lose somebody that you love, if somebody leaves you with the altar, if somebody that you love dies and you're feeling grief,"
+    },
+    {
+      "word": "you're",
+      "local_start": 28.098,
+      "local_end": 28.218,
+      "global_start": 420.058,
+      "global_end": 420.178,
+      "score": 0.737,
+      "segment_index": 5,
+      "segment_text": "If you lose somebody that you love, if somebody leaves you with the altar, if somebody that you love dies and you're feeling grief,"
+    },
+    {
+      "word": "feeling",
+      "local_start": 28.238,
+      "local_end": 28.538,
+      "global_start": 420.198,
+      "global_end": 420.498,
+      "score": 0.751,
+      "segment_index": 5,
+      "segment_text": "If you lose somebody that you love, if somebody leaves you with the altar, if somebody that you love dies and you're feeling grief,"
+    },
+    {
+      "word": "grief,",
+      "local_start": 28.598,
+      "local_end": 28.938,
+      "global_start": 420.558,
+      "global_end": 420.898,
+      "score": 0.845,
+      "segment_index": 5,
+      "segment_text": "If you lose somebody that you love, if somebody leaves you with the altar, if somebody that you love dies and you're feeling grief,"
+    },
+    {
+      "word": "That",
+      "local_start": 29.538,
+      "local_end": 29.678,
+      "global_start": 421.498,
+      "global_end": 421.638,
+      "score": 0.867,
+      "segment_index": 6,
+      "segment_text": "That dorsal interior singular cortex is on full blast."
+    },
+    {
+      "word": "dorsal",
+      "local_start": 29.738,
+      "local_end": 30.098,
+      "global_start": 421.698,
+      "global_end": 422.058,
+      "score": 0.783,
+      "segment_index": 6,
+      "segment_text": "That dorsal interior singular cortex is on full blast."
+    },
+    {
+      "word": "interior",
+      "local_start": 30.118,
+      "local_end": 30.518,
+      "global_start": 422.078,
+      "global_end": 422.478,
+      "score": 0.729,
+      "segment_index": 6,
+      "segment_text": "That dorsal interior singular cortex is on full blast."
+    },
+    {
+      "word": "singular",
+      "local_start": 30.558,
+      "local_end": 30.898,
+      "global_start": 422.518,
+      "global_end": 422.858,
+      "score": 0.875,
+      "segment_index": 6,
+      "segment_text": "That dorsal interior singular cortex is on full blast."
+    },
+    {
+      "word": "cortex",
+      "local_start": 30.939,
+      "local_end": 31.419,
+      "global_start": 422.899,
+      "global_end": 423.379,
+      "score": 0.798,
+      "segment_index": 6,
+      "segment_text": "That dorsal interior singular cortex is on full blast."
+    },
+    {
+      "word": "is",
+      "local_start": 31.479,
+      "local_end": 31.539,
+      "global_start": 423.439,
+      "global_end": 423.499,
+      "score": 0.844,
+      "segment_index": 6,
+      "segment_text": "That dorsal interior singular cortex is on full blast."
+    },
+    {
+      "word": "on",
+      "local_start": 31.659,
+      "local_end": 31.759,
+      "global_start": 423.619,
+      "global_end": 423.719,
+      "score": 0.751,
+      "segment_index": 6,
+      "segment_text": "That dorsal interior singular cortex is on full blast."
+    },
+    {
+      "word": "full",
+      "local_start": 31.919,
+      "local_end": 32.199,
+      "global_start": 423.879,
+      "global_end": 424.159,
+      "score": 0.877,
+      "segment_index": 6,
+      "segment_text": "That dorsal interior singular cortex is on full blast."
+    },
+    {
+      "word": "blast.",
+      "local_start": 32.239,
+      "local_end": 32.719,
+      "global_start": 424.199,
+      "global_end": 424.679,
+      "score": 0.879,
+      "segment_index": 6,
+      "segment_text": "That dorsal interior singular cortex is on full blast."
+    },
+    {
+      "word": "Now,",
+      "local_start": 32.839,
+      "local_end": 32.979,
+      "global_start": 424.799,
+      "global_end": 424.939,
+      "score": 0.978,
+      "segment_index": 7,
+      "segment_text": "Now, why would be evolved to feel grief or any sadness for that matter?"
+    },
+    {
+      "word": "why",
+      "local_start": 33.199,
+      "local_end": 33.519,
+      "global_start": 425.159,
+      "global_end": 425.479,
+      "score": 0.767,
+      "segment_index": 7,
+      "segment_text": "Now, why would be evolved to feel grief or any sadness for that matter?"
+    },
+    {
+      "word": "would",
+      "local_start": 33.579,
+      "local_end": 33.92,
+      "global_start": 425.539,
+      "global_end": 425.88,
+      "score": 0.704,
+      "segment_index": 7,
+      "segment_text": "Now, why would be evolved to feel grief or any sadness for that matter?"
+    },
+    {
+      "word": "be",
+      "local_start": 34.22,
+      "local_end": 34.36,
+      "global_start": 426.18,
+      "global_end": 426.32,
+      "score": 0.827,
+      "segment_index": 7,
+      "segment_text": "Now, why would be evolved to feel grief or any sadness for that matter?"
+    },
+    {
+      "word": "evolved",
+      "local_start": 34.46,
+      "local_end": 34.9,
+      "global_start": 426.42,
+      "global_end": 426.86,
+      "score": 0.861,
+      "segment_index": 7,
+      "segment_text": "Now, why would be evolved to feel grief or any sadness for that matter?"
+    },
+    {
+      "word": "to",
+      "local_start": 34.92,
+      "local_end": 35.0,
+      "global_start": 426.88,
+      "global_end": 426.96,
+      "score": 0.508,
+      "segment_index": 7,
+      "segment_text": "Now, why would be evolved to feel grief or any sadness for that matter?"
+    },
+    {
+      "word": "feel",
+      "local_start": 35.02,
+      "local_end": 35.22,
+      "global_start": 426.98,
+      "global_end": 427.18,
+      "score": 0.83,
+      "segment_index": 7,
+      "segment_text": "Now, why would be evolved to feel grief or any sadness for that matter?"
+    },
+    {
+      "word": "grief",
+      "local_start": 35.28,
+      "local_end": 35.66,
+      "global_start": 427.24,
+      "global_end": 427.62,
+      "score": 0.949,
+      "segment_index": 7,
+      "segment_text": "Now, why would be evolved to feel grief or any sadness for that matter?"
+    },
+    {
+      "word": "or",
+      "local_start": 35.74,
+      "local_end": 36.38,
+      "global_start": 427.7,
+      "global_end": 428.34,
+      "score": 0.905,
+      "segment_index": 7,
+      "segment_text": "Now, why would be evolved to feel grief or any sadness for that matter?"
+    },
+    {
+      "word": "any",
+      "local_start": 36.5,
+      "local_end": 36.661,
+      "global_start": 428.46,
+      "global_end": 428.621,
+      "score": 0.791,
+      "segment_index": 7,
+      "segment_text": "Now, why would be evolved to feel grief or any sadness for that matter?"
+    },
+    {
+      "word": "sadness",
+      "local_start": 36.721,
+      "local_end": 37.141,
+      "global_start": 428.681,
+      "global_end": 429.101,
+      "score": 0.873,
+      "segment_index": 7,
+      "segment_text": "Now, why would be evolved to feel grief or any sadness for that matter?"
+    },
+    {
+      "word": "for",
+      "local_start": 37.161,
+      "local_end": 37.241,
+      "global_start": 429.121,
+      "global_end": 429.201,
+      "score": 0.851,
+      "segment_index": 7,
+      "segment_text": "Now, why would be evolved to feel grief or any sadness for that matter?"
+    },
+    {
+      "word": "that",
+      "local_start": 37.281,
+      "local_end": 37.421,
+      "global_start": 429.241,
+      "global_end": 429.381,
+      "score": 0.828,
+      "segment_index": 7,
+      "segment_text": "Now, why would be evolved to feel grief or any sadness for that matter?"
+    },
+    {
+      "word": "matter?",
+      "local_start": 37.481,
+      "local_end": 37.761,
+      "global_start": 429.441,
+      "global_end": 429.721,
+      "score": 0.884,
+      "segment_index": 7,
+      "segment_text": "Now, why would be evolved to feel grief or any sadness for that matter?"
+    },
+    {
+      "word": "I",
+      "local_start": 37.781,
+      "local_end": 37.861,
+      "global_start": 429.741,
+      "global_end": 429.821,
+      "score": 0.545,
+      "segment_index": 8,
+      "segment_text": "I hear people say, I want to live without sadness."
+    },
+    {
+      "word": "hear",
+      "local_start": 37.901,
+      "local_end": 38.041,
+      "global_start": 429.861,
+      "global_end": 430.001,
+      "score": 0.751,
+      "segment_index": 8,
+      "segment_text": "I hear people say, I want to live without sadness."
+    },
+    {
+      "word": "people",
+      "local_start": 38.081,
+      "local_end": 38.281,
+      "global_start": 430.041,
+      "global_end": 430.241,
+      "score": 0.856,
+      "segment_index": 8,
+      "segment_text": "I hear people say, I want to live without sadness."
+    },
+    {
+      "word": "say,",
+      "local_start": 38.321,
+      "local_end": 38.461,
+      "global_start": 430.281,
+      "global_end": 430.421,
+      "score": 0.871,
+      "segment_index": 8,
+      "segment_text": "I hear people say, I want to live without sadness."
+    },
+    {
+      "word": "I",
+      "local_start": 38.481,
+      "local_end": 38.501,
+      "global_start": 430.441,
+      "global_end": 430.461,
+      "score": 0.015,
+      "segment_index": 8,
+      "segment_text": "I hear people say, I want to live without sadness."
+    },
+    {
+      "word": "want",
+      "local_start": 38.641,
+      "local_end": 38.761,
+      "global_start": 430.601,
+      "global_end": 430.721,
+      "score": 0.686,
+      "segment_index": 8,
+      "segment_text": "I hear people say, I want to live without sadness."
+    },
+    {
+      "word": "to",
+      "local_start": 38.781,
+      "local_end": 38.821,
+      "global_start": 430.741,
+      "global_end": 430.781,
+      "score": 0.488,
+      "segment_index": 8,
+      "segment_text": "I hear people say, I want to live without sadness."
+    },
+    {
+      "word": "live",
+      "local_start": 38.841,
+      "local_end": 38.921,
+      "global_start": 430.801,
+      "global_end": 430.881,
+      "score": 0.998,
+      "segment_index": 8,
+      "segment_text": "I hear people say, I want to live without sadness."
+    },
+    {
+      "word": "without",
+      "local_start": 38.941,
+      "local_end": 39.161,
+      "global_start": 430.901,
+      "global_end": 431.121,
+      "score": 0.829,
+      "segment_index": 8,
+      "segment_text": "I hear people say, I want to live without sadness."
+    },
+    {
+      "word": "sadness.",
+      "local_start": 39.221,
+      "local_end": 39.722,
+      "global_start": 431.181,
+      "global_end": 431.682,
+      "score": 0.884,
+      "segment_index": 8,
+      "segment_text": "I hear people say, I want to live without sadness."
+    },
+    {
+      "word": "No,",
+      "local_start": 40.242,
+      "local_end": 40.342,
+      "global_start": 432.202,
+      "global_end": 432.302,
+      "score": 0.775,
+      "segment_index": 9,
+      "segment_text": "No, you don't."
+    },
+    {
+      "word": "you",
+      "local_start": 40.362,
+      "local_end": 40.442,
+      "global_start": 432.322,
+      "global_end": 432.402,
+      "score": 0.796,
+      "segment_index": 9,
+      "segment_text": "No, you don't."
+    },
+    {
+      "word": "don't.",
+      "local_start": 40.482,
+      "local_end": 40.782,
+      "global_start": 432.442,
+      "global_end": 432.742,
+      "score": 0.834,
+      "segment_index": 9,
+      "segment_text": "No, you don't."
+    },
+    {
+      "word": "If",
+      "local_start": 41.482,
+      "local_end": 41.542,
+      "global_start": 433.442,
+      "global_end": 433.502,
+      "score": 0.999,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "you",
+      "local_start": 41.582,
+      "local_end": 41.742,
+      "global_start": 433.542,
+      "global_end": 433.702,
+      "score": 0.891,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "never",
+      "local_start": 41.922,
+      "local_end": 42.182,
+      "global_start": 433.882,
+      "global_end": 434.142,
+      "score": 0.788,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "had",
+      "local_start": 42.262,
+      "local_end": 42.443,
+      "global_start": 434.222,
+      "global_end": 434.403,
+      "score": 0.848,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "any",
+      "local_start": 42.503,
+      "local_end": 42.643,
+      "global_start": 434.463,
+      "global_end": 434.603,
+      "score": 0.736,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "sadness",
+      "local_start": 42.703,
+      "local_end": 43.163,
+      "global_start": 434.663,
+      "global_end": 435.123,
+      "score": 0.857,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "and",
+      "local_start": 43.223,
+      "local_end": 43.303,
+      "global_start": 435.183,
+      "global_end": 435.263,
+      "score": 0.938,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "it",
+      "local_start": 43.343,
+      "local_end": 43.403,
+      "global_start": 435.303,
+      "global_end": 435.363,
+      "score": 0.744,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "didn't",
+      "local_start": 43.483,
+      "local_end": 43.683,
+      "global_start": 435.443,
+      "global_end": 435.643,
+      "score": 0.923,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "really",
+      "local_start": 43.723,
+      "local_end": 43.923,
+      "global_start": 435.683,
+      "global_end": 435.883,
+      "score": 0.836,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "bother",
+      "local_start": 43.983,
+      "local_end": 44.283,
+      "global_start": 435.943,
+      "global_end": 436.243,
+      "score": 0.774,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "you,",
+      "local_start": 44.323,
+      "local_end": 44.443,
+      "global_start": 436.283,
+      "global_end": 436.403,
+      "score": 0.798,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "if",
+      "local_start": 44.583,
+      "local_end": 44.643,
+      "global_start": 436.543,
+      "global_end": 436.603,
+      "score": 0.998,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "it",
+      "local_start": 44.703,
+      "local_end": 44.763,
+      "global_start": 436.663,
+      "global_end": 436.723,
+      "score": 0.756,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "were",
+      "local_start": 44.803,
+      "local_end": 44.943,
+      "global_start": 436.763,
+      "global_end": 436.903,
+      "score": 0.663,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "not",
+      "local_start": 45.003,
+      "local_end": 45.163,
+      "global_start": 436.963,
+      "global_end": 437.123,
+      "score": 0.898,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "incredibly",
+      "local_start": 45.244,
+      "local_end": 45.624,
+      "global_start": 437.204,
+      "global_end": 437.584,
+      "score": 0.856,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "uncomfortable,",
+      "local_start": 45.644,
+      "local_end": 46.144,
+      "global_start": 437.604,
+      "global_end": 438.104,
+      "score": 0.826,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "you",
+      "local_start": 46.444,
+      "local_end": 46.564,
+      "global_start": 438.404,
+      "global_end": 438.524,
+      "score": 0.868,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "wouldn't",
+      "local_start": 46.604,
+      "local_end": 46.884,
+      "global_start": 438.564,
+      "global_end": 438.844,
+      "score": 0.799,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "do",
+      "local_start": 46.984,
+      "local_end": 47.224,
+      "global_start": 438.944,
+      "global_end": 439.184,
+      "score": 0.799,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "what",
+      "local_start": 47.284,
+      "local_end": 47.404,
+      "global_start": 439.244,
+      "global_end": 439.364,
+      "score": 0.871,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "you",
+      "local_start": 47.464,
+      "local_end": 47.604,
+      "global_start": 439.424,
+      "global_end": 439.564,
+      "score": 0.914,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "need",
+      "local_start": 47.644,
+      "local_end": 47.804,
+      "global_start": 439.604,
+      "global_end": 439.764,
+      "score": 0.882,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "to",
+      "local_start": 47.844,
+      "local_end": 47.904,
+      "global_start": 439.804,
+      "global_end": 439.864,
+      "score": 0.996,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "do",
+      "local_start": 47.944,
+      "local_end": 48.125,
+      "global_start": 439.904,
+      "global_end": 440.085,
+      "score": 0.782,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "to",
+      "local_start": 48.265,
+      "local_end": 48.385,
+      "global_start": 440.225,
+      "global_end": 440.345,
+      "score": 0.69,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "avoid",
+      "local_start": 48.465,
+      "local_end": 48.885,
+      "global_start": 440.425,
+      "global_end": 440.845,
+      "score": 0.773,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "it.",
+      "local_start": 48.965,
+      "local_end": 49.025,
+      "global_start": 440.925,
+      "global_end": 440.985,
+      "score": 0.874,
+      "segment_index": 10,
+      "segment_text": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "word": "You'd",
+      "local_start": 49.585,
+      "local_end": 49.785,
+      "global_start": 441.545,
+      "global_end": 441.745,
+      "score": 0.832,
+      "segment_index": 11,
+      "segment_text": "You'd say everything that's on your mind."
+    },
+    {
+      "word": "say",
+      "local_start": 49.866,
+      "local_end": 50.126,
+      "global_start": 441.826,
+      "global_end": 442.086,
+      "score": 0.807,
+      "segment_index": 11,
+      "segment_text": "You'd say everything that's on your mind."
+    },
+    {
+      "word": "everything",
+      "local_start": 50.206,
+      "local_end": 50.507,
+      "global_start": 442.166,
+      "global_end": 442.467,
+      "score": 0.914,
+      "segment_index": 11,
+      "segment_text": "You'd say everything that's on your mind."
+    },
+    {
+      "word": "that's",
+      "local_start": 50.527,
+      "local_end": 50.707,
+      "global_start": 442.487,
+      "global_end": 442.667,
+      "score": 0.838,
+      "segment_index": 11,
+      "segment_text": "You'd say everything that's on your mind."
+    },
+    {
+      "word": "on",
+      "local_start": 50.767,
+      "local_end": 50.867,
+      "global_start": 442.727,
+      "global_end": 442.827,
+      "score": 0.487,
+      "segment_index": 11,
+      "segment_text": "You'd say everything that's on your mind."
+    },
+    {
+      "word": "your",
+      "local_start": 50.908,
+      "local_end": 51.048,
+      "global_start": 442.868,
+      "global_end": 443.008,
+      "score": 0.708,
+      "segment_index": 11,
+      "segment_text": "You'd say everything that's on your mind."
+    },
+    {
+      "word": "mind.",
+      "local_start": 51.088,
+      "local_end": 51.569,
+      "global_start": 443.048,
+      "global_end": 443.529,
+      "score": 0.821,
+      "segment_index": 11,
+      "segment_text": "You'd say everything that's on your mind."
+    },
+    {
+      "word": "You'd",
+      "local_start": 51.849,
+      "local_end": 51.989,
+      "global_start": 443.809,
+      "global_end": 443.949,
+      "score": 0.722,
+      "segment_index": 12,
+      "segment_text": "You'd do all kinds of things that would make people throw you out of the tribe."
+    },
+    {
+      "word": "do",
+      "local_start": 52.01,
+      "local_end": 52.09,
+      "global_start": 443.97,
+      "global_end": 444.05,
+      "score": 0.851,
+      "segment_index": 12,
+      "segment_text": "You'd do all kinds of things that would make people throw you out of the tribe."
+    },
+    {
+      "word": "all",
+      "local_start": 52.25,
+      "local_end": 52.41,
+      "global_start": 444.21,
+      "global_end": 444.37,
+      "score": 0.766,
+      "segment_index": 12,
+      "segment_text": "You'd do all kinds of things that would make people throw you out of the tribe."
+    },
+    {
+      "word": "kinds",
+      "local_start": 52.49,
+      "local_end": 52.791,
+      "global_start": 444.45,
+      "global_end": 444.751,
+      "score": 0.667,
+      "segment_index": 12,
+      "segment_text": "You'd do all kinds of things that would make people throw you out of the tribe."
+    },
+    {
+      "word": "of",
+      "local_start": 52.851,
+      "local_end": 52.911,
+      "global_start": 444.811,
+      "global_end": 444.871,
+      "score": 0.751,
+      "segment_index": 12,
+      "segment_text": "You'd do all kinds of things that would make people throw you out of the tribe."
+    },
+    {
+      "word": "things",
+      "local_start": 52.951,
+      "local_end": 53.232,
+      "global_start": 444.911,
+      "global_end": 445.192,
+      "score": 0.684,
+      "segment_index": 12,
+      "segment_text": "You'd do all kinds of things that would make people throw you out of the tribe."
+    },
+    {
+      "word": "that",
+      "local_start": 53.272,
+      "local_end": 53.372,
+      "global_start": 445.232,
+      "global_end": 445.332,
+      "score": 0.997,
+      "segment_index": 12,
+      "segment_text": "You'd do all kinds of things that would make people throw you out of the tribe."
+    },
+    {
+      "word": "would",
+      "local_start": 53.412,
+      "local_end": 53.572,
+      "global_start": 445.372,
+      "global_end": 445.532,
+      "score": 0.711,
+      "segment_index": 12,
+      "segment_text": "You'd do all kinds of things that would make people throw you out of the tribe."
+    },
+    {
+      "word": "make",
+      "local_start": 53.612,
+      "local_end": 53.773,
+      "global_start": 445.572,
+      "global_end": 445.733,
+      "score": 0.825,
+      "segment_index": 12,
+      "segment_text": "You'd do all kinds of things that would make people throw you out of the tribe."
+    },
+    {
+      "word": "people",
+      "local_start": 53.833,
+      "local_end": 54.093,
+      "global_start": 445.793,
+      "global_end": 446.053,
+      "score": 0.626,
+      "segment_index": 12,
+      "segment_text": "You'd do all kinds of things that would make people throw you out of the tribe."
+    },
+    {
+      "word": "throw",
+      "local_start": 54.214,
+      "local_end": 54.514,
+      "global_start": 446.174,
+      "global_end": 446.474,
+      "score": 0.791,
+      "segment_index": 12,
+      "segment_text": "You'd do all kinds of things that would make people throw you out of the tribe."
+    },
+    {
+      "word": "you",
+      "local_start": 54.554,
+      "local_end": 54.674,
+      "global_start": 446.514,
+      "global_end": 446.634,
+      "score": 0.639,
+      "segment_index": 12,
+      "segment_text": "You'd do all kinds of things that would make people throw you out of the tribe."
+    },
+    {
+      "word": "out",
+      "local_start": 54.714,
+      "local_end": 54.795,
+      "global_start": 446.674,
+      "global_end": 446.755,
+      "score": 0.834,
+      "segment_index": 12,
+      "segment_text": "You'd do all kinds of things that would make people throw you out of the tribe."
+    },
+    {
+      "word": "of",
+      "local_start": 54.835,
+      "local_end": 54.875,
+      "global_start": 446.795,
+      "global_end": 446.835,
+      "score": 0.976,
+      "segment_index": 12,
+      "segment_text": "You'd do all kinds of things that would make people throw you out of the tribe."
+    },
+    {
+      "word": "the",
+      "local_start": 54.895,
+      "local_end": 54.975,
+      "global_start": 446.855,
+      "global_end": 446.935,
+      "score": 0.675,
+      "segment_index": 12,
+      "segment_text": "You'd do all kinds of things that would make people throw you out of the tribe."
+    },
+    {
+      "word": "tribe.",
+      "local_start": 55.035,
+      "local_end": 56.057,
+      "global_start": 446.995,
+      "global_end": 448.017,
+      "score": 0.765,
+      "segment_index": 12,
+      "segment_text": "You'd do all kinds of things that would make people throw you out of the tribe."
+    },
+    {
+      "word": "250,000",
+      "local_start": 56.097,
+      "local_end": 56.798,
+      "global_start": 448.057,
+      "global_end": 448.758,
+      "score": 0.651,
+      "segment_index": 13,
+      "segment_text": "250,000 years ago, that would mean that you're going to walk the frozen tundra and die alone, and you don't want that."
+    },
+    {
+      "word": "years",
+      "local_start": 56.838,
+      "local_end": 56.999,
+      "global_start": 448.798,
+      "global_end": 448.959,
+      "score": 0.801,
+      "segment_index": 13,
+      "segment_text": "250,000 years ago, that would mean that you're going to walk the frozen tundra and die alone, and you don't want that."
+    },
+    {
+      "word": "ago,",
+      "local_start": 57.039,
+      "local_end": 57.239,
+      "global_start": 448.999,
+      "global_end": 449.199,
+      "score": 0.899,
+      "segment_index": 13,
+      "segment_text": "250,000 years ago, that would mean that you're going to walk the frozen tundra and die alone, and you don't want that."
+    },
+    {
+      "word": "that",
+      "local_start": 57.279,
+      "local_end": 57.399,
+      "global_start": 449.239,
+      "global_end": 449.359,
+      "score": 0.782,
+      "segment_index": 13,
+      "segment_text": "250,000 years ago, that would mean that you're going to walk the frozen tundra and die alone, and you don't want that."
+    },
+    {
+      "word": "would",
+      "local_start": 57.439,
+      "local_end": 57.6,
+      "global_start": 449.399,
+      "global_end": 449.56,
+      "score": 0.701,
+      "segment_index": 13,
+      "segment_text": "250,000 years ago, that would mean that you're going to walk the frozen tundra and die alone, and you don't want that."
+    },
+    {
+      "word": "mean",
+      "local_start": 57.62,
+      "local_end": 57.78,
+      "global_start": 449.58,
+      "global_end": 449.74,
+      "score": 0.834,
+      "segment_index": 13,
+      "segment_text": "250,000 years ago, that would mean that you're going to walk the frozen tundra and die alone, and you don't want that."
+    },
+    {
+      "word": "that",
+      "local_start": 57.8,
+      "local_end": 57.88,
+      "global_start": 449.76,
+      "global_end": 449.84,
+      "score": 0.488,
+      "segment_index": 13,
+      "segment_text": "250,000 years ago, that would mean that you're going to walk the frozen tundra and die alone, and you don't want that."
+    },
+    {
+      "word": "you're",
+      "local_start": 57.9,
+      "local_end": 58.02,
+      "global_start": 449.86,
+      "global_end": 449.98,
+      "score": 0.981,
+      "segment_index": 13,
+      "segment_text": "250,000 years ago, that would mean that you're going to walk the frozen tundra and die alone, and you don't want that."
+    },
+    {
+      "word": "going",
+      "local_start": 58.041,
+      "local_end": 58.141,
+      "global_start": 450.001,
+      "global_end": 450.101,
+      "score": 0.25,
+      "segment_index": 13,
+      "segment_text": "250,000 years ago, that would mean that you're going to walk the frozen tundra and die alone, and you don't want that."
+    },
+    {
+      "word": "to",
+      "local_start": 58.161,
+      "local_end": 58.201,
+      "global_start": 450.121,
+      "global_end": 450.161,
+      "score": 0.334,
+      "segment_index": 13,
+      "segment_text": "250,000 years ago, that would mean that you're going to walk the frozen tundra and die alone, and you don't want that."
+    },
+    {
+      "word": "walk",
+      "local_start": 58.241,
+      "local_end": 58.501,
+      "global_start": 450.201,
+      "global_end": 450.461,
+      "score": 0.942,
+      "segment_index": 13,
+      "segment_text": "250,000 years ago, that would mean that you're going to walk the frozen tundra and die alone, and you don't want that."
+    },
+    {
+      "word": "the",
+      "local_start": 58.541,
+      "local_end": 58.642,
+      "global_start": 450.501,
+      "global_end": 450.602,
+      "score": 0.718,
+      "segment_index": 13,
+      "segment_text": "250,000 years ago, that would mean that you're going to walk the frozen tundra and die alone, and you don't want that."
+    },
+    {
+      "word": "frozen",
+      "local_start": 58.682,
+      "local_end": 59.002,
+      "global_start": 450.642,
+      "global_end": 450.962,
+      "score": 0.89,
+      "segment_index": 13,
+      "segment_text": "250,000 years ago, that would mean that you're going to walk the frozen tundra and die alone, and you don't want that."
+    },
+    {
+      "word": "tundra",
+      "local_start": 59.042,
+      "local_end": 59.403,
+      "global_start": 451.002,
+      "global_end": 451.363,
+      "score": 0.896,
+      "segment_index": 13,
+      "segment_text": "250,000 years ago, that would mean that you're going to walk the frozen tundra and die alone, and you don't want that."
+    },
+    {
+      "word": "and",
+      "local_start": 59.463,
+      "local_end": 59.563,
+      "global_start": 451.423,
+      "global_end": 451.523,
+      "score": 0.689,
+      "segment_index": 13,
+      "segment_text": "250,000 years ago, that would mean that you're going to walk the frozen tundra and die alone, and you don't want that."
+    },
+    {
+      "word": "die",
+      "local_start": 59.663,
+      "local_end": 59.924,
+      "global_start": 451.623,
+      "global_end": 451.884,
+      "score": 0.805,
+      "segment_index": 13,
+      "segment_text": "250,000 years ago, that would mean that you're going to walk the frozen tundra and die alone, and you don't want that."
+    },
+    {
+      "word": "alone,",
+      "local_start": 59.984,
+      "local_end": 60.365,
+      "global_start": 451.944,
+      "global_end": 452.325,
+      "score": 0.834,
+      "segment_index": 13,
+      "segment_text": "250,000 years ago, that would mean that you're going to walk the frozen tundra and die alone, and you don't want that."
+    },
+    {
+      "word": "and",
+      "local_start": 60.745,
+      "local_end": 60.846,
+      "global_start": 452.705,
+      "global_end": 452.806,
+      "score": 0.794,
+      "segment_index": 13,
+      "segment_text": "250,000 years ago, that would mean that you're going to walk the frozen tundra and die alone, and you don't want that."
+    },
+    {
+      "word": "you",
+      "local_start": 60.906,
+      "local_end": 61.046,
+      "global_start": 452.866,
+      "global_end": 453.006,
+      "score": 0.667,
+      "segment_index": 13,
+      "segment_text": "250,000 years ago, that would mean that you're going to walk the frozen tundra and die alone, and you don't want that."
+    },
+    {
+      "word": "don't",
+      "local_start": 61.086,
+      "local_end": 61.266,
+      "global_start": 453.046,
+      "global_end": 453.226,
+      "score": 0.609,
+      "segment_index": 13,
+      "segment_text": "250,000 years ago, that would mean that you're going to walk the frozen tundra and die alone, and you don't want that."
+    },
+    {
+      "word": "want",
+      "local_start": 61.326,
+      "local_end": 61.567,
+      "global_start": 453.286,
+      "global_end": 453.527,
+      "score": 0.712,
+      "segment_index": 13,
+      "segment_text": "250,000 years ago, that would mean that you're going to walk the frozen tundra and die alone, and you don't want that."
+    },
+    {
+      "word": "that.",
+      "local_start": 61.627,
+      "local_end": 61.867,
+      "global_start": 453.587,
+      "global_end": 453.827,
+      "score": 0.927,
+      "segment_index": 13,
+      "segment_text": "250,000 years ago, that would mean that you're going to walk the frozen tundra and die alone, and you don't want that."
+    },
+    {
+      "word": "Today,",
+      "local_start": 62.248,
+      "local_end": 62.649,
+      "global_start": 454.208,
+      "global_end": 454.609,
+      "score": 0.781,
+      "segment_index": 14,
+      "segment_text": "Today, it would mean that you're fired, friendless, and divorced in about two weeks."
+    },
+    {
+      "word": "it",
+      "local_start": 62.809,
+      "local_end": 62.869,
+      "global_start": 454.769,
+      "global_end": 454.829,
+      "score": 0.772,
+      "segment_index": 14,
+      "segment_text": "Today, it would mean that you're fired, friendless, and divorced in about two weeks."
+    },
+    {
+      "word": "would",
+      "local_start": 62.909,
+      "local_end": 63.05,
+      "global_start": 454.869,
+      "global_end": 455.01,
+      "score": 0.8,
+      "segment_index": 14,
+      "segment_text": "Today, it would mean that you're fired, friendless, and divorced in about two weeks."
+    },
+    {
+      "word": "mean",
+      "local_start": 63.07,
+      "local_end": 63.21,
+      "global_start": 455.03,
+      "global_end": 455.17,
+      "score": 0.858,
+      "segment_index": 14,
+      "segment_text": "Today, it would mean that you're fired, friendless, and divorced in about two weeks."
+    },
+    {
+      "word": "that",
+      "local_start": 63.25,
+      "local_end": 63.35,
+      "global_start": 455.21,
+      "global_end": 455.31,
+      "score": 0.937,
+      "segment_index": 14,
+      "segment_text": "Today, it would mean that you're fired, friendless, and divorced in about two weeks."
+    },
+    {
+      "word": "you're",
+      "local_start": 63.37,
+      "local_end": 63.531,
+      "global_start": 455.33,
+      "global_end": 455.491,
+      "score": 0.822,
+      "segment_index": 14,
+      "segment_text": "Today, it would mean that you're fired, friendless, and divorced in about two weeks."
+    },
+    {
+      "word": "fired,",
+      "local_start": 63.591,
+      "local_end": 64.011,
+      "global_start": 455.551,
+      "global_end": 455.971,
+      "score": 0.86,
+      "segment_index": 14,
+      "segment_text": "Today, it would mean that you're fired, friendless, and divorced in about two weeks."
+    },
+    {
+      "word": "friendless,",
+      "local_start": 64.132,
+      "local_end": 64.572,
+      "global_start": 456.092,
+      "global_end": 456.532,
+      "score": 0.813,
+      "segment_index": 14,
+      "segment_text": "Today, it would mean that you're fired, friendless, and divorced in about two weeks."
+    },
+    {
+      "word": "and",
+      "local_start": 64.592,
+      "local_end": 64.673,
+      "global_start": 456.552,
+      "global_end": 456.633,
+      "score": 0.852,
+      "segment_index": 14,
+      "segment_text": "Today, it would mean that you're fired, friendless, and divorced in about two weeks."
+    },
+    {
+      "word": "divorced",
+      "local_start": 64.713,
+      "local_end": 65.174,
+      "global_start": 456.673,
+      "global_end": 457.134,
+      "score": 0.857,
+      "segment_index": 14,
+      "segment_text": "Today, it would mean that you're fired, friendless, and divorced in about two weeks."
+    },
+    {
+      "word": "in",
+      "local_start": 65.214,
+      "local_end": 65.294,
+      "global_start": 457.174,
+      "global_end": 457.254,
+      "score": 0.546,
+      "segment_index": 14,
+      "segment_text": "Today, it would mean that you're fired, friendless, and divorced in about two weeks."
+    },
+    {
+      "word": "about",
+      "local_start": 65.314,
+      "local_end": 65.514,
+      "global_start": 457.274,
+      "global_end": 457.474,
+      "score": 0.817,
+      "segment_index": 14,
+      "segment_text": "Today, it would mean that you're fired, friendless, and divorced in about two weeks."
+    },
+    {
+      "word": "two",
+      "local_start": 65.674,
+      "local_end": 65.875,
+      "global_start": 457.634,
+      "global_end": 457.835,
+      "score": 0.788,
+      "segment_index": 14,
+      "segment_text": "Today, it would mean that you're fired, friendless, and divorced in about two weeks."
+    },
+    {
+      "word": "weeks.",
+      "local_start": 65.935,
+      "local_end": 66.276,
+      "global_start": 457.895,
+      "global_end": 458.236,
+      "score": 0.825,
+      "segment_index": 14,
+      "segment_text": "Today, it would mean that you're fired, friendless, and divorced in about two weeks."
+    },
+    {
+      "word": "Not",
+      "local_start": 66.997,
+      "local_end": 67.157,
+      "global_start": 458.957,
+      "global_end": 459.117,
+      "score": 0.814,
+      "segment_index": 15,
+      "segment_text": "Not so good for you, either."
+    },
+    {
+      "word": "so",
+      "local_start": 67.217,
+      "local_end": 67.378,
+      "global_start": 459.177,
+      "global_end": 459.338,
+      "score": 0.832,
+      "segment_index": 15,
+      "segment_text": "Not so good for you, either."
+    },
+    {
+      "word": "good",
+      "local_start": 67.438,
+      "local_end": 67.618,
+      "global_start": 459.398,
+      "global_end": 459.578,
+      "score": 0.674,
+      "segment_index": 15,
+      "segment_text": "Not so good for you, either."
+    },
+    {
+      "word": "for",
+      "local_start": 67.658,
+      "local_end": 67.778,
+      "global_start": 459.618,
+      "global_end": 459.738,
+      "score": 0.823,
+      "segment_index": 15,
+      "segment_text": "Not so good for you, either."
+    },
+    {
+      "word": "you,",
+      "local_start": 67.818,
+      "local_end": 67.939,
+      "global_start": 459.778,
+      "global_end": 459.899,
+      "score": 0.899,
+      "segment_index": 15,
+      "segment_text": "Not so good for you, either."
+    },
+    {
+      "word": "either.",
+      "local_start": 68.059,
+      "local_end": 68.339,
+      "global_start": 460.019,
+      "global_end": 460.299,
+      "score": 0.713,
+      "segment_index": 15,
+      "segment_text": "Not so good for you, either."
+    },
+    {
+      "word": "Thank",
+      "local_start": 68.7,
+      "local_end": 69.041,
+      "global_start": 460.66,
+      "global_end": 461.001,
+      "score": 0.828,
+      "segment_index": 16,
+      "segment_text": "Thank goodness for your dorsal enter your Singular cord text and the sadness that you hate."
+    },
+    {
+      "word": "goodness",
+      "local_start": 69.281,
+      "local_end": 69.822,
+      "global_start": 461.241,
+      "global_end": 461.782,
+      "score": 0.682,
+      "segment_index": 16,
+      "segment_text": "Thank goodness for your dorsal enter your Singular cord text and the sadness that you hate."
+    },
+    {
+      "word": "for",
+      "local_start": 69.942,
+      "local_end": 70.123,
+      "global_start": 461.902,
+      "global_end": 462.083,
+      "score": 0.741,
+      "segment_index": 16,
+      "segment_text": "Thank goodness for your dorsal enter your Singular cord text and the sadness that you hate."
+    },
+    {
+      "word": "your",
+      "local_start": 70.203,
+      "local_end": 70.523,
+      "global_start": 462.163,
+      "global_end": 462.483,
+      "score": 0.815,
+      "segment_index": 16,
+      "segment_text": "Thank goodness for your dorsal enter your Singular cord text and the sadness that you hate."
+    },
+    {
+      "word": "dorsal",
+      "local_start": 70.744,
+      "local_end": 71.124,
+      "global_start": 462.704,
+      "global_end": 463.084,
+      "score": 0.78,
+      "segment_index": 16,
+      "segment_text": "Thank goodness for your dorsal enter your Singular cord text and the sadness that you hate."
+    },
+    {
+      "word": "enter",
+      "local_start": 71.144,
+      "local_end": 71.385,
+      "global_start": 463.104,
+      "global_end": 463.345,
+      "score": 0.784,
+      "segment_index": 16,
+      "segment_text": "Thank goodness for your dorsal enter your Singular cord text and the sadness that you hate."
+    },
+    {
+      "word": "your",
+      "local_start": 71.405,
+      "local_end": 71.525,
+      "global_start": 463.365,
+      "global_end": 463.485,
+      "score": 0.91,
+      "segment_index": 16,
+      "segment_text": "Thank goodness for your dorsal enter your Singular cord text and the sadness that you hate."
+    },
+    {
+      "word": "Singular",
+      "local_start": 71.565,
+      "local_end": 71.886,
+      "global_start": 463.525,
+      "global_end": 463.846,
+      "score": 0.909,
+      "segment_index": 16,
+      "segment_text": "Thank goodness for your dorsal enter your Singular cord text and the sadness that you hate."
+    },
+    {
+      "word": "cord",
+      "local_start": 71.926,
+      "local_end": 72.106,
+      "global_start": 463.886,
+      "global_end": 464.066,
+      "score": 0.363,
+      "segment_index": 16,
+      "segment_text": "Thank goodness for your dorsal enter your Singular cord text and the sadness that you hate."
+    },
+    {
+      "word": "text",
+      "local_start": 72.126,
+      "local_end": 72.407,
+      "global_start": 464.086,
+      "global_end": 464.367,
+      "score": 0.866,
+      "segment_index": 16,
+      "segment_text": "Thank goodness for your dorsal enter your Singular cord text and the sadness that you hate."
+    },
+    {
+      "word": "and",
+      "local_start": 72.707,
+      "local_end": 72.807,
+      "global_start": 464.667,
+      "global_end": 464.767,
+      "score": 0.708,
+      "segment_index": 16,
+      "segment_text": "Thank goodness for your dorsal enter your Singular cord text and the sadness that you hate."
+    },
+    {
+      "word": "the",
+      "local_start": 72.847,
+      "local_end": 72.928,
+      "global_start": 464.807,
+      "global_end": 464.888,
+      "score": 0.849,
+      "segment_index": 16,
+      "segment_text": "Thank goodness for your dorsal enter your Singular cord text and the sadness that you hate."
+    },
+    {
+      "word": "sadness",
+      "local_start": 73.028,
+      "local_end": 73.429,
+      "global_start": 464.988,
+      "global_end": 465.389,
+      "score": 0.883,
+      "segment_index": 16,
+      "segment_text": "Thank goodness for your dorsal enter your Singular cord text and the sadness that you hate."
+    },
+    {
+      "word": "that",
+      "local_start": 73.449,
+      "local_end": 73.549,
+      "global_start": 465.409,
+      "global_end": 465.509,
+      "score": 0.903,
+      "segment_index": 16,
+      "segment_text": "Thank goodness for your dorsal enter your Singular cord text and the sadness that you hate."
+    },
+    {
+      "word": "you",
+      "local_start": 73.569,
+      "local_end": 73.689,
+      "global_start": 465.529,
+      "global_end": 465.649,
+      "score": 0.814,
+      "segment_index": 16,
+      "segment_text": "Thank goodness for your dorsal enter your Singular cord text and the sadness that you hate."
+    },
+    {
+      "word": "hate.",
+      "local_start": 73.749,
+      "local_end": 73.99,
+      "global_start": 465.709,
+      "global_end": 465.95,
+      "score": 0.972,
+      "segment_index": 16,
+      "segment_text": "Thank goodness for your dorsal enter your Singular cord text and the sadness that you hate."
+    }
+  ],
+  "raw_segments": [
+    {
+      "start": 0.031,
+      "end": 29.478,
+      "text": "the limbic system of the brain that we have different parts that are designed to create these terrible aversive emotions, specifically and for specific reasons. I'll give you an example. There's a part of the limbic system called the dorsal anterior singulate cortex. It's dedicated to help you feel social exclusion, sadness. It lights up like a Christmas tree. If you lose somebody that you love, if somebody leaves you with the altar, if somebody that you love dies and you're feeling grief,"
+    },
+    {
+      "start": 29.478,
+      "end": 49.525,
+      "text": "That dorsal interior singular cortex is on full blast. Now, why would be evolved to feel grief or any sadness for that matter? I hear people say, I want to live without sadness. No, you don't. If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it."
+    },
+    {
+      "start": 49.525,
+      "end": 74.23,
+      "text": "You'd say everything that's on your mind. You'd do all kinds of things that would make people throw you out of the tribe. 250,000 years ago, that would mean that you're going to walk the frozen tundra and die alone, and you don't want that. Today, it would mean that you're fired, friendless, and divorced in about two weeks. Not so good for you, either. Thank goodness for your dorsal enter your Singular cord text and the sadness that you hate."
+    }
+  ]
+}

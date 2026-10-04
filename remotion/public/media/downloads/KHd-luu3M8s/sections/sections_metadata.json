@@ -1,0 +1,118 @@
+{
+  "video_id": "KHd-luu3M8s",
+  "video_url": "https://www.youtube.com/watch?v=KHd-luu3M8s",
+  "total_sections": 3,
+  "sections": [
+    {
+      "section_id": "section_001",
+      "candidate_id": 1,
+      "video_id": "KHd-luu3M8s",
+      "file_name": "section_001.mp4",
+      "file_path": "/root/youtubr_clipper/media/downloads/KHd-luu3M8s/sections/section_001.mp4",
+      "start_offset": 118.28,
+      "end_offset": 190.0,
+      "target_duration_s": 71.72,
+      "probed_duration_s": 71.743,
+      "original_candidate_ranges": [
+        {
+          "start": 126.28,
+          "end": 182.0
+        }
+      ],
+      "padded_range": {
+        "start": 118.28,
+        "end": 190.0
+      },
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "av1",
+          "codec_type": "video",
+          "duration": "71.743000"
+        },
+        {
+          "index": 1,
+          "codec_name": "opus",
+          "codec_type": "audio",
+          "duration": "71.721000"
+        }
+      ],
+      "combined_text": "One of the most interesting areas of social science is that of human addiction. And and addiction is such a fascinating area of human behavior because it's based entirely on on a really great part of human life, which is our ability to learn, our ability to make progress. Our brains are designed to learn new things that make it easier for us to pass the winter and pass on our genes. And and we have neurochemicals that actually make this possible as well. We want to make sure that when we learn something that's an adaptive advantage that that we remember it and that we bank it and we learn new things after that. This makes us fit. This makes it more possible for us to find mates, for us to eat. And this is a real advantage to Homo sapiens. It's one of the reasons that we're so unbelievably successful is cuz we learn and we have brains designed to learn. Part of this is a a neurochemical that neuromodulator that most people are familiar with called dopamine. Dopamine is often mischaracterized as a pleasure hormone. It's not. What it does is it gives you the anticipation of reward. And and and here's how it works. You learn something, you come across something, you're surprised by something that that you like and you you encode that such that the next time you think about it, you get a little spritz of dopamine in your brain and that gives you the anticipation of the reward for getting that thing again and so you go in search of it again. If you find even more of it the second time, more dopamine which reinforces the cycle. And this is a great thing. This is why you would remember that there gazelles around a watering hole or berries on a bush and you're looking forward to going and getting that.",
+      "reason": "This clip provides a clear, scientific explanation of how the dopamine reward system works and why it is a fundamental, positive part of human evolution, setting the stage for understanding modern tech addiction."
+    },
+    {
+      "section_id": "section_002",
+      "candidate_id": 2,
+      "video_id": "KHd-luu3M8s",
+      "file_name": "section_002.mp4",
+      "file_path": "/root/youtubr_clipper/media/downloads/KHd-luu3M8s/sections/section_002.mp4",
+      "start_offset": 391.96,
+      "end_offset": 466.16,
+      "target_duration_s": 74.2,
+      "probed_duration_s": 74.214,
+      "original_candidate_ranges": [
+        {
+          "start": 399.96,
+          "end": 458.16
+        }
+      ],
+      "padded_range": {
+        "start": 391.96,
+        "end": 466.16
+      },
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "av1",
+          "codec_type": "video",
+          "duration": "74.214000"
+        },
+        {
+          "index": 1,
+          "codec_name": "opus",
+          "codec_type": "audio",
+          "duration": "74.201000"
+        }
+      ],
+      "combined_text": "So, since I do that, one of the questions that a lot of my students ask me is you know, professor, who's your favorite philosopher? Uh maybe Aristotle is so great. I don't know. Maybe throw in a little bit of uh Thomas Aquinas. Got to love that. Yeah, I do. I love all that stuff. But my favorite philosopher, hands-down, is an American from the 19th century, from from the 1840s. That's Ralph Waldo Emerson. The really the most American philosopher because he talked about the spirit of self-reliance. What it actually means to rebel against the things that are holding you down. It's like a tall glass of cold water on a hot summer's day as far as I'm concerned because we all need to rebel against a lot of things. You know, we're we especially need to rebel against ourselves when we're chained by our technology. And Ralph Waldo Emerson, writing in 1841, his most famous essay, Self-Reliance, talks about exactly how to do it. Even though there wasn't even the shadow of an iPhone in his pocket, nonetheless, he had the philosophy that we can all still use today. Emerson's philosophy has a lot of different parts to it. And and I write about it extensively. But but really what it comes down to is this. If we want to be free, we need to be honest. And and and that doesn't mean, you know, going and telling mom everything you did when you were a kid that you're ashamed of. Do that. Fine. It means being honest with yourself. To get off the sauce if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing and that you're ashamed of it and you don't like it and you want to stop. And you've been lying to yourself all this time and thinking that it's going to be okay and then you have you finally drink enough that you'll just lose the urge to do so. You know that's a lie. You know that you're doing something that you shouldn't be doing and you feel rotten about yourself. Admit it. Be honest with yourself.",
+      "reason": "This segment introduces a compelling philosophical framework for overcoming addiction through radical honesty, using Ralph Waldo Emerson as a relatable and authoritative anchor."
+    },
+    {
+      "section_id": "section_003",
+      "candidate_id": 3,
+      "video_id": "KHd-luu3M8s",
+      "file_name": "section_003.mp4",
+      "file_path": "/root/youtubr_clipper/media/downloads/KHd-luu3M8s/sections/section_003.mp4",
+      "start_offset": 901.56,
+      "end_offset": 976.88,
+      "target_duration_s": 75.32,
+      "probed_duration_s": 75.332,
+      "original_candidate_ranges": [
+        {
+          "start": 909.56,
+          "end": 968.88
+        }
+      ],
+      "padded_range": {
+        "start": 901.56,
+        "end": 976.88
+      },
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "av1",
+          "codec_type": "video",
+          "duration": "75.332000"
+        },
+        {
+          "index": 1,
+          "codec_name": "opus",
+          "codec_type": "audio",
+          "duration": "75.321000"
+        }
+      ],
+      "combined_text": "We're not bored moment to moment. On the contrary, we've wiped out boredom moment to moment. We cracked the case. We look at the phone. We scroll the social media. We listen to the podcast. We wipe out every moment of boredom. But when you do that all day, be honest with yourself, how interesting is your life? I bet it's grindingly boring. And if you're spending 10 to 12 hours a day behind the screen and checking your phone 205 times a day, you're in danger of getting to the end of your life saying, \"Well, that was pretty boring because I was never bored.\" If you want to know the stakes here, think about your eulogy and what you want people to say about you. Think about what you want to think about yourself at the end of your days. How do you want to look back on your life? Now, compare it to how you're spending your life right now. I dare say that if you're like the average American, checking your phone 205 times a day, spending somewhere between 4 and 9 hours on your screens, small and large. If you were honest and you got to the end of your life right now, you'd say, \"I spent a lot of time online.\" But one thing you wouldn't say is, \"I sure wish I'd spent more time online.\" You'd say, \"I wish I'd spent more time with my loved ones, with my friends, with my family, getting to know people, having real-life experiences.\" That's what you'd say, right? Well, that's what to go do. That's the argument for this. I know breaking a tech addiction is hard. I get it. It's hard for me, too. And the younger you are, the harder it is. But those are the stakes. What are you going to say when you come to the end of your days? \"It was really boring cuz I wiped out boredom. Well, and and I could have done even even better if I spent even more time on Instagram. I don't think so. I think you're going to want to have had deeper relationships and love, been fully and passionately alive in the world. So, you got to get after it now.",
+      "reason": "This is a powerful, emotionally resonant conclusion that challenges the viewer to reconsider their relationship with technology by focusing on the long-term regret of a life spent behind a screen."
+    }
+  ]
+}

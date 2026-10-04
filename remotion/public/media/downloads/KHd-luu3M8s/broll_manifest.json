@@ -1,0 +1,1735 @@
+{
+  "video_id": "KHd-luu3M8s",
+  "llm_config": {
+    "provider": "google",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "decision_counts": {
+    "KEEP_ORIGINAL": 6,
+    "USE_BROLL": 9,
+    "ORIGINAL_WITH_OVERLAY": 5,
+    "total_decisions": 20
+  },
+  "total_asset_slots": 14,
+  "candidates": [
+    {
+      "candidate_id": 1,
+      "total_clip_duration_s": 55.631,
+      "original_video_duration_s": 35.502,
+      "broll_duration_s": 20.129,
+      "original_video_percentage": 63.82,
+      "decision_counts": {
+        "KEEP_ORIGINAL": 1,
+        "USE_BROLL": 4,
+        "ORIGINAL_WITH_OVERLAY": 2
+      },
+      "total_decisions": 7,
+      "asset_slot_count": 6,
+      "visual_decisions": [
+        {
+          "decision": "KEEP_ORIGINAL",
+          "supported_phrase": "makes it more possible for us to find mates, for us to eat. And this is a real advantage to Homo sapiens.",
+          "matched_words": [
+            "makes",
+            "it",
+            "more",
+            "possible",
+            "for",
+            "us",
+            "to",
+            "find",
+            "mates,",
+            "for",
+            "us",
+            "to",
+            "eat.",
+            "And",
+            "this",
+            "is",
+            "a",
+            "real",
+            "advantage",
+            "to",
+            "Homo",
+            "sapiens."
+          ],
+          "purpose": "Establish the speaker's authority and connection with the audience.",
+          "authoritative_timing": {
+            "clip_start": 0.0,
+            "clip_end": 6.364,
+            "duration_s": 6.364,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 126.356,
+            "global_end": 132.72
+          }
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "This is one of the reasons that we're so unbelievably successful is because we learn, and we have brains designed to learn.",
+          "matched_words": [
+            "This",
+            "is",
+            "one",
+            "of",
+            "the",
+            "reasons",
+            "that",
+            "we're",
+            "so",
+            "unbelievably",
+            "successful",
+            "is",
+            "because",
+            "we",
+            "learn,",
+            "and",
+            "we",
+            "have",
+            "brains",
+            "designed",
+            "to",
+            "learn."
+          ],
+          "purpose": "Illustrate the concept of human evolution and cognitive development.",
+          "authoritative_timing": {
+            "clip_start": 6.384,
+            "clip_end": 11.647,
+            "duration_s": 5.263,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 132.74,
+            "global_end": 138.003
+          },
+          "visual_concept": "Cinematic montage of human evolution and complex brain neural network animations.",
+          "search_query": "human brain evolution"
+        },
+        {
+          "decision": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "Part of this is a neurochemical, that neuromodulator that most people are familiar with, called dopamine.",
+          "matched_words": [
+            "Part",
+            "of",
+            "this",
+            "is",
+            "a",
+            "neurochemical,",
+            "that",
+            "neuromodulator",
+            "that",
+            "most",
+            "people",
+            "are",
+            "familiar",
+            "with,",
+            "called",
+            "dopamine."
+          ],
+          "purpose": "Introduce the key term with a clear visual label.",
+          "authoritative_timing": {
+            "clip_start": 12.248,
+            "clip_end": 18.412,
+            "duration_s": 6.164,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 138.604,
+            "global_end": 144.768
+          },
+          "visual_concept": "A clean, modern text overlay appearing on screen displaying the word 'DOPAMINE' with a chemical structure graphic.",
+          "search_query": "dopamine molecule graphic"
+        },
+        {
+          "decision": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "Dopamine is often mischaracterized as a pleasure hormones. It's not. What it does is it gives you the anticipation of reward.",
+          "matched_words": [
+            "Dopamine",
+            "is",
+            "often",
+            "mischaracterized",
+            "as",
+            "a",
+            "pleasure",
+            "hormones.",
+            "It's",
+            "not.",
+            "What",
+            "it",
+            "does",
+            "is",
+            "it",
+            "gives",
+            "you",
+            "the",
+            "anticipation",
+            "of",
+            "reward."
+          ],
+          "purpose": "Visually represent the concept of anticipation versus immediate pleasure.",
+          "authoritative_timing": {
+            "clip_start": 18.872,
+            "clip_end": 26.735,
+            "duration_s": 7.863,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 145.228,
+            "global_end": 153.091
+          },
+          "visual_concept": "Close-up of a person looking forward with excitement or a runner at a starting line.",
+          "search_query": "anticipation reward concept"
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "You learn something, you come across something, you're surprised by something that you like, and you encode that.",
+          "matched_words": [
+            "You",
+            "learn",
+            "something,",
+            "you",
+            "come",
+            "across",
+            "something,",
+            "you're",
+            "surprised",
+            "by",
+            "something",
+            "that",
+            "you",
+            "like,",
+            "and",
+            "you",
+            "encode",
+            "that."
+          ],
+          "purpose": "Show the process of learning and memory formation.",
+          "authoritative_timing": {
+            "clip_start": 29.196,
+            "clip_end": 35.999,
+            "duration_s": 6.803,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 155.552,
+            "global_end": 162.355
+          },
+          "visual_concept": "Abstract animation of digital data points connecting and forming a glowing neural pathway.",
+          "search_query": "neural network learning"
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "If you find even more of it the second time, more dopamine, which reinforces the cycle.",
+          "matched_words": [
+            "If",
+            "you",
+            "find",
+            "even",
+            "more",
+            "of",
+            "it",
+            "the",
+            "second",
+            "time,",
+            "more",
+            "dopamine,",
+            "which",
+            "reinforces",
+            "the",
+            "cycle."
+          ],
+          "purpose": "Visualize the feedback loop mechanism.",
+          "authoritative_timing": {
+            "clip_start": 45.903,
+            "clip_end": 50.316,
+            "duration_s": 4.413,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 172.259,
+            "global_end": 176.672
+          },
+          "visual_concept": "A circular flow chart animation showing a repeating cycle of reward and motivation.",
+          "search_query": "feedback loop animation"
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "This is why you would remember that there are gazelles around a watering",
+          "matched_words": [
+            "This",
+            "is",
+            "why",
+            "you",
+            "would",
+            "remember",
+            "that",
+            "there",
+            "are",
+            "gazelles",
+            "around",
+            "a",
+            "watering"
+          ],
+          "purpose": "Provide a concrete example of the evolutionary survival mechanism.",
+          "authoritative_timing": {
+            "clip_start": 51.981,
+            "clip_end": 55.631,
+            "duration_s": 3.65,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 178.337,
+            "global_end": 181.987
+          },
+          "visual_concept": "Footage of gazelles gathering at a watering hole in the savanna.",
+          "search_query": "gazelles watering hole"
+        }
+      ],
+      "asset_slots": [
+        {
+          "slot_id": "asset_slot_cand_1_001",
+          "candidate_id": 1,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "This is one of the reasons that we're so unbelievably successful is because we learn, and we have brains designed to learn.",
+          "matched_words": [
+            "This",
+            "is",
+            "one",
+            "of",
+            "the",
+            "reasons",
+            "that",
+            "we're",
+            "so",
+            "unbelievably",
+            "successful",
+            "is",
+            "because",
+            "we",
+            "learn,",
+            "and",
+            "we",
+            "have",
+            "brains",
+            "designed",
+            "to",
+            "learn."
+          ],
+          "visual_concept": "Cinematic montage of human evolution and complex brain neural network animations.",
+          "search_query": "human brain evolution",
+          "purpose": "Illustrate the concept of human evolution and cognitive development.",
+          "authoritative_timing": {
+            "clip_start": 6.384,
+            "clip_end": 11.647,
+            "duration_s": 5.263,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 132.74,
+            "global_end": 138.003
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/a-woman-examining-a-man-s-head-x-ray-image-8879943/",
+            "local_path": "media/downloads/KHd-luu3M8s/media/broll/asset_slot_cand_1_001.mp4",
+            "file_size_bytes": 1166820,
+            "attribution": {
+              "author": "cottonbro studio",
+              "author_url": "https://www.pexels.com/@cottonbro",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_1_002",
+          "candidate_id": 1,
+          "decision_type": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "Part of this is a neurochemical, that neuromodulator that most people are familiar with, called dopamine.",
+          "matched_words": [
+            "Part",
+            "of",
+            "this",
+            "is",
+            "a",
+            "neurochemical,",
+            "that",
+            "neuromodulator",
+            "that",
+            "most",
+            "people",
+            "are",
+            "familiar",
+            "with,",
+            "called",
+            "dopamine."
+          ],
+          "visual_concept": "A clean, modern text overlay appearing on screen displaying the word 'DOPAMINE' with a chemical structure graphic.",
+          "search_query": "dopamine molecule graphic",
+          "purpose": "Introduce the key term with a clear visual label.",
+          "authoritative_timing": {
+            "clip_start": 12.248,
+            "clip_end": 18.412,
+            "duration_s": 6.164,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 138.604,
+            "global_end": 144.768
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/vibrant-abstract-molecular-structure-animation-35062890/",
+            "local_path": "media/downloads/KHd-luu3M8s/media/broll/asset_slot_cand_1_002.mp4",
+            "file_size_bytes": 796233,
+            "attribution": {
+              "author": "Nicola Narracci",
+              "author_url": "https://www.pexels.com/@nicola-narracci-157460431",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_1_003",
+          "candidate_id": 1,
+          "decision_type": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "Dopamine is often mischaracterized as a pleasure hormones. It's not. What it does is it gives you the anticipation of reward.",
+          "matched_words": [
+            "Dopamine",
+            "is",
+            "often",
+            "mischaracterized",
+            "as",
+            "a",
+            "pleasure",
+            "hormones.",
+            "It's",
+            "not.",
+            "What",
+            "it",
+            "does",
+            "is",
+            "it",
+            "gives",
+            "you",
+            "the",
+            "anticipation",
+            "of",
+            "reward."
+          ],
+          "visual_concept": "Close-up of a person looking forward with excitement or a runner at a starting line.",
+          "search_query": "anticipation reward concept",
+          "purpose": "Visually represent the concept of anticipation versus immediate pleasure.",
+          "authoritative_timing": {
+            "clip_start": 18.872,
+            "clip_end": 26.735,
+            "duration_s": 7.863,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 145.228,
+            "global_end": 153.091
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/never-give-up-text-based-6532227/",
+            "local_path": "media/downloads/KHd-luu3M8s/media/broll/asset_slot_cand_1_003.mp4",
+            "file_size_bytes": 2723807,
+            "attribution": {
+              "author": "Nataliya Vaitkevich",
+              "author_url": "https://www.pexels.com/@n-voitkevich",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_1_004",
+          "candidate_id": 1,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "You learn something, you come across something, you're surprised by something that you like, and you encode that.",
+          "matched_words": [
+            "You",
+            "learn",
+            "something,",
+            "you",
+            "come",
+            "across",
+            "something,",
+            "you're",
+            "surprised",
+            "by",
+            "something",
+            "that",
+            "you",
+            "like,",
+            "and",
+            "you",
+            "encode",
+            "that."
+          ],
+          "visual_concept": "Abstract animation of digital data points connecting and forming a glowing neural pathway.",
+          "search_query": "neural network learning",
+          "purpose": "Show the process of learning and memory formation.",
+          "authoritative_timing": {
+            "clip_start": 29.196,
+            "clip_end": 35.999,
+            "duration_s": 6.803,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 155.552,
+            "global_end": 162.355
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/abstract-glowing-molecular-network-animation-35062463/",
+            "local_path": "media/downloads/KHd-luu3M8s/media/broll/asset_slot_cand_1_004.mp4",
+            "file_size_bytes": 432106,
+            "attribution": {
+              "author": "Nicola Narracci",
+              "author_url": "https://www.pexels.com/@nicola-narracci-157460431",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_1_005",
+          "candidate_id": 1,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "If you find even more of it the second time, more dopamine, which reinforces the cycle.",
+          "matched_words": [
+            "If",
+            "you",
+            "find",
+            "even",
+            "more",
+            "of",
+            "it",
+            "the",
+            "second",
+            "time,",
+            "more",
+            "dopamine,",
+            "which",
+            "reinforces",
+            "the",
+            "cycle."
+          ],
+          "visual_concept": "A circular flow chart animation showing a repeating cycle of reward and motivation.",
+          "search_query": "feedback loop animation",
+          "purpose": "Visualize the feedback loop mechanism.",
+          "authoritative_timing": {
+            "clip_start": 45.903,
+            "clip_end": 50.316,
+            "duration_s": 4.413,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 172.259,
+            "global_end": 176.672
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/animation-of-a-hand-doing-gestures-8818511/",
+            "local_path": "media/downloads/KHd-luu3M8s/media/broll/asset_slot_cand_1_005.mp4",
+            "file_size_bytes": 1916587,
+            "attribution": {
+              "author": "cottonbro CG studio",
+              "author_url": "https://www.pexels.com/@cottonbro-cg-studio",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_1_006",
+          "candidate_id": 1,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "This is why you would remember that there are gazelles around a watering",
+          "matched_words": [
+            "This",
+            "is",
+            "why",
+            "you",
+            "would",
+            "remember",
+            "that",
+            "there",
+            "are",
+            "gazelles",
+            "around",
+            "a",
+            "watering"
+          ],
+          "visual_concept": "Footage of gazelles gathering at a watering hole in the savanna.",
+          "search_query": "gazelles watering hole",
+          "purpose": "Provide a concrete example of the evolutionary survival mechanism.",
+          "authoritative_timing": {
+            "clip_start": 51.981,
+            "clip_end": 55.631,
+            "duration_s": 3.65,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 178.337,
+            "global_end": 181.987
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/two-horses-drinking-water-by-fence-39710084/",
+            "local_path": "media/downloads/KHd-luu3M8s/media/broll/asset_slot_cand_1_006.mp4",
+            "file_size_bytes": 1916587,
+            "attribution": {
+              "author": "Olha Lytvynenko",
+              "author_url": "https://www.pexels.com/@olha-lytvynenko-2162602393",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "candidate_id": 2,
+      "total_clip_duration_s": 58.383,
+      "original_video_duration_s": 37.502,
+      "broll_duration_s": 20.881,
+      "original_video_percentage": 64.23,
+      "decision_counts": {
+        "KEEP_ORIGINAL": 2,
+        "USE_BROLL": 3,
+        "ORIGINAL_WITH_OVERLAY": 2
+      },
+      "total_decisions": 7,
+      "asset_slot_count": 5,
+      "visual_decisions": [
+        {
+          "decision": "KEEP_ORIGINAL",
+          "supported_phrase": "for specific reasons. I'll give you an example.",
+          "matched_words": [
+            "for",
+            "specific",
+            "reasons.",
+            "I'll",
+            "give",
+            "you",
+            "an",
+            "example."
+          ],
+          "purpose": "Establishing the speaker's authority and setting up the explanation.",
+          "authoritative_timing": {
+            "clip_start": 0.0,
+            "clip_end": 1.8,
+            "duration_s": 1.8,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 399.853,
+            "global_end": 401.653
+          }
+        },
+        {
+          "decision": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "There's a part of the limbic system called the dorsal anterior singulate cortex. It's dedicated to help you feel social exclusion, sadness. It lights up like a Christmas tree.",
+          "matched_words": [
+            "There's",
+            "a",
+            "part",
+            "of",
+            "the",
+            "limbic",
+            "system",
+            "called",
+            "the",
+            "dorsal",
+            "anterior",
+            "singulate",
+            "cortex.",
+            "It's",
+            "dedicated",
+            "to",
+            "help",
+            "you",
+            "feel",
+            "social",
+            "exclusion,",
+            "sadness.",
+            "It",
+            "lights",
+            "up",
+            "like",
+            "a",
+            "Christmas",
+            "tree."
+          ],
+          "purpose": "Visualizing the brain anatomy being discussed to aid viewer understanding.",
+          "authoritative_timing": {
+            "clip_start": 2.4,
+            "clip_end": 13.663,
+            "duration_s": 11.263,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 402.253,
+            "global_end": 413.516
+          },
+          "visual_concept": "A 3D medical animation of the human brain highlighting the dorsal anterior cingulate cortex in a glowing color.",
+          "search_query": "brain anatomy animation"
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "If you lose somebody that you love, if somebody leaves you with the altar, if somebody that you love dies and you're feeling grief, That dorsal interior singular cortex is on full blast.",
+          "matched_words": [
+            "If",
+            "you",
+            "lose",
+            "somebody",
+            "that",
+            "you",
+            "love,",
+            "if",
+            "somebody",
+            "leaves",
+            "you",
+            "with",
+            "the",
+            "altar,",
+            "if",
+            "somebody",
+            "that",
+            "you",
+            "love",
+            "dies",
+            "and",
+            "you're",
+            "feeling",
+            "grief,",
+            "That",
+            "dorsal",
+            "interior",
+            "singular",
+            "cortex",
+            "is",
+            "on",
+            "full",
+            "blast."
+          ],
+          "purpose": "Evoking the emotional weight of grief through human-centric imagery.",
+          "authoritative_timing": {
+            "clip_start": 13.743,
+            "clip_end": 24.826,
+            "duration_s": 11.083,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 413.596,
+            "global_end": 424.679
+          },
+          "visual_concept": "Cinematic slow-motion footage of a person looking out a window looking contemplative and sad.",
+          "search_query": "person feeling grief"
+        },
+        {
+          "decision": "KEEP_ORIGINAL",
+          "supported_phrase": "Now, why would be evolved to feel grief or any sadness for that matter? I hear people say, I want to live without sadness. No, you don't.",
+          "matched_words": [
+            "Now,",
+            "why",
+            "would",
+            "be",
+            "evolved",
+            "to",
+            "feel",
+            "grief",
+            "or",
+            "any",
+            "sadness",
+            "for",
+            "that",
+            "matter?",
+            "I",
+            "hear",
+            "people",
+            "say,",
+            "I",
+            "want",
+            "to",
+            "live",
+            "without",
+            "sadness.",
+            "No,",
+            "you",
+            "don't."
+          ],
+          "purpose": "Focusing on the speaker's rhetorical delivery and engagement.",
+          "authoritative_timing": {
+            "clip_start": 24.946,
+            "clip_end": 32.889,
+            "duration_s": 7.943,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 424.799,
+            "global_end": 432.742
+          }
+        },
+        {
+          "decision": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it. You'd say everything that's on your mind. You'd do all kinds of things that would make people throw you out of the tribe.",
+          "matched_words": [
+            "If",
+            "you",
+            "never",
+            "had",
+            "any",
+            "sadness",
+            "and",
+            "it",
+            "didn't",
+            "really",
+            "bother",
+            "you,",
+            "if",
+            "it",
+            "were",
+            "not",
+            "incredibly",
+            "uncomfortable,",
+            "you",
+            "wouldn't",
+            "do",
+            "what",
+            "you",
+            "need",
+            "to",
+            "do",
+            "to",
+            "avoid",
+            "it.",
+            "You'd",
+            "say",
+            "everything",
+            "that's",
+            "on",
+            "your",
+            "mind.",
+            "You'd",
+            "do",
+            "all",
+            "kinds",
+            "of",
+            "things",
+            "that",
+            "would",
+            "make",
+            "people",
+            "throw",
+            "you",
+            "out",
+            "of",
+            "the",
+            "tribe."
+          ],
+          "purpose": "Illustrating the concept of social consequences and tribal exclusion.",
+          "authoritative_timing": {
+            "clip_start": 33.589,
+            "clip_end": 48.164,
+            "duration_s": 14.575,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 433.442,
+            "global_end": 448.017
+          },
+          "visual_concept": "A group of people in a prehistoric setting sitting around a campfire, looking at someone with disapproval.",
+          "search_query": "prehistoric tribe campfire"
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "250,000 years ago, that would mean that you're going to walk the frozen tundra and die alone, and you don't want that.",
+          "matched_words": [
+            "250,000",
+            "years",
+            "ago,",
+            "that",
+            "would",
+            "mean",
+            "that",
+            "you're",
+            "going",
+            "to",
+            "walk",
+            "the",
+            "frozen",
+            "tundra",
+            "and",
+            "die",
+            "alone,",
+            "and",
+            "you",
+            "don't",
+            "want",
+            "that."
+          ],
+          "purpose": "Visualizing the harsh reality of ancient survival.",
+          "authoritative_timing": {
+            "clip_start": 48.204,
+            "clip_end": 53.974,
+            "duration_s": 5.77,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 448.057,
+            "global_end": 453.827
+          },
+          "visual_concept": "Wide shot of a lone figure walking across a vast, snowy, desolate tundra landscape.",
+          "search_query": "frozen tundra landscape"
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "Today, it would mean that you're fired, friendless, and divorced in about two weeks.",
+          "matched_words": [
+            "Today,",
+            "it",
+            "would",
+            "mean",
+            "that",
+            "you're",
+            "fired,",
+            "friendless,",
+            "and",
+            "divorced",
+            "in",
+            "about",
+            "two",
+            "weeks."
+          ],
+          "purpose": "Connecting the ancient concept to modern-day social and professional failure.",
+          "authoritative_timing": {
+            "clip_start": 54.355,
+            "clip_end": 58.383,
+            "duration_s": 4.028,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 454.208,
+            "global_end": 458.236
+          },
+          "visual_concept": "A person sitting alone at a desk in a modern office looking stressed and isolated.",
+          "search_query": "stressed office worker"
+        }
+      ],
+      "asset_slots": [
+        {
+          "slot_id": "asset_slot_cand_2_001",
+          "candidate_id": 2,
+          "decision_type": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "There's a part of the limbic system called the dorsal anterior singulate cortex. It's dedicated to help you feel social exclusion, sadness. It lights up like a Christmas tree.",
+          "matched_words": [
+            "There's",
+            "a",
+            "part",
+            "of",
+            "the",
+            "limbic",
+            "system",
+            "called",
+            "the",
+            "dorsal",
+            "anterior",
+            "singulate",
+            "cortex.",
+            "It's",
+            "dedicated",
+            "to",
+            "help",
+            "you",
+            "feel",
+            "social",
+            "exclusion,",
+            "sadness.",
+            "It",
+            "lights",
+            "up",
+            "like",
+            "a",
+            "Christmas",
+            "tree."
+          ],
+          "visual_concept": "A 3D medical animation of the human brain highlighting the dorsal anterior cingulate cortex in a glowing color.",
+          "search_query": "brain anatomy animation",
+          "purpose": "Visualizing the brain anatomy being discussed to aid viewer understanding.",
+          "authoritative_timing": {
+            "clip_start": 2.4,
+            "clip_end": 13.663,
+            "duration_s": 11.263,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 402.253,
+            "global_end": 413.516
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/abstract-golden-neural-network-animation-35003022/",
+            "local_path": "media/downloads/KHd-luu3M8s/media/broll/asset_slot_cand_2_001.mp4",
+            "file_size_bytes": 2761894,
+            "attribution": {
+              "author": "Nicola Narracci",
+              "author_url": "https://www.pexels.com/@nicola-narracci-157460431",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_2_002",
+          "candidate_id": 2,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "If you lose somebody that you love, if somebody leaves you with the altar, if somebody that you love dies and you're feeling grief, That dorsal interior singular cortex is on full blast.",
+          "matched_words": [
+            "If",
+            "you",
+            "lose",
+            "somebody",
+            "that",
+            "you",
+            "love,",
+            "if",
+            "somebody",
+            "leaves",
+            "you",
+            "with",
+            "the",
+            "altar,",
+            "if",
+            "somebody",
+            "that",
+            "you",
+            "love",
+            "dies",
+            "and",
+            "you're",
+            "feeling",
+            "grief,",
+            "That",
+            "dorsal",
+            "interior",
+            "singular",
+            "cortex",
+            "is",
+            "on",
+            "full",
+            "blast."
+          ],
+          "visual_concept": "Cinematic slow-motion footage of a person looking out a window looking contemplative and sad.",
+          "search_query": "person feeling grief",
+          "purpose": "Evoking the emotional weight of grief through human-centric imagery.",
+          "authoritative_timing": {
+            "clip_start": 13.743,
+            "clip_end": 24.826,
+            "duration_s": 11.083,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 413.596,
+            "global_end": 424.679
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/a-woman-looking-depressed-and-problematic-6381027/",
+            "local_path": "media/downloads/KHd-luu3M8s/media/broll/asset_slot_cand_2_002.mp4",
+            "file_size_bytes": 1127140,
+            "attribution": {
+              "author": "Liza Summer",
+              "author_url": "https://www.pexels.com/@liza-summer",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_2_003",
+          "candidate_id": 2,
+          "decision_type": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "If you never had any sadness and it didn't really bother you, if it were not incredibly uncomfortable, you wouldn't do what you need to do to avoid it. You'd say everything that's on your mind. You'd do all kinds of things that would make people throw you out of the tribe.",
+          "matched_words": [
+            "If",
+            "you",
+            "never",
+            "had",
+            "any",
+            "sadness",
+            "and",
+            "it",
+            "didn't",
+            "really",
+            "bother",
+            "you,",
+            "if",
+            "it",
+            "were",
+            "not",
+            "incredibly",
+            "uncomfortable,",
+            "you",
+            "wouldn't",
+            "do",
+            "what",
+            "you",
+            "need",
+            "to",
+            "do",
+            "to",
+            "avoid",
+            "it.",
+            "You'd",
+            "say",
+            "everything",
+            "that's",
+            "on",
+            "your",
+            "mind.",
+            "You'd",
+            "do",
+            "all",
+            "kinds",
+            "of",
+            "things",
+            "that",
+            "would",
+            "make",
+            "people",
+            "throw",
+            "you",
+            "out",
+            "of",
+            "the",
+            "tribe."
+          ],
+          "visual_concept": "A group of people in a prehistoric setting sitting around a campfire, looking at someone with disapproval.",
+          "search_query": "prehistoric tribe campfire",
+          "purpose": "Illustrating the concept of social consequences and tribal exclusion.",
+          "authoritative_timing": {
+            "clip_start": 33.589,
+            "clip_end": 48.164,
+            "duration_s": 14.575,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 433.442,
+            "global_end": 448.017
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/traditional-tribal-dance-ritual-in-jungle-38333286/",
+            "local_path": "media/downloads/KHd-luu3M8s/media/broll/asset_slot_cand_2_003.mp4",
+            "file_size_bytes": 1213090,
+            "attribution": {
+              "author": "Sergei Starostin",
+              "author_url": "https://www.pexels.com/@sejio402",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_2_004",
+          "candidate_id": 2,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "250,000 years ago, that would mean that you're going to walk the frozen tundra and die alone, and you don't want that.",
+          "matched_words": [
+            "250,000",
+            "years",
+            "ago,",
+            "that",
+            "would",
+            "mean",
+            "that",
+            "you're",
+            "going",
+            "to",
+            "walk",
+            "the",
+            "frozen",
+            "tundra",
+            "and",
+            "die",
+            "alone,",
+            "and",
+            "you",
+            "don't",
+            "want",
+            "that."
+          ],
+          "visual_concept": "Wide shot of a lone figure walking across a vast, snowy, desolate tundra landscape.",
+          "search_query": "frozen tundra landscape",
+          "purpose": "Visualizing the harsh reality of ancient survival.",
+          "authoritative_timing": {
+            "clip_start": 48.204,
+            "clip_end": 53.974,
+            "duration_s": 5.77,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 448.057,
+            "global_end": 453.827
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/vast-snow-covered-landscape-under-cloudy-sky-35836040/",
+            "local_path": "media/downloads/KHd-luu3M8s/media/broll/asset_slot_cand_2_004.mp4",
+            "file_size_bytes": 1015649,
+            "attribution": {
+              "author": "Besra Akar",
+              "author_url": "https://www.pexels.com/@besra-akar-1272392811",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_2_005",
+          "candidate_id": 2,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "Today, it would mean that you're fired, friendless, and divorced in about two weeks.",
+          "matched_words": [
+            "Today,",
+            "it",
+            "would",
+            "mean",
+            "that",
+            "you're",
+            "fired,",
+            "friendless,",
+            "and",
+            "divorced",
+            "in",
+            "about",
+            "two",
+            "weeks."
+          ],
+          "visual_concept": "A person sitting alone at a desk in a modern office looking stressed and isolated.",
+          "search_query": "stressed office worker",
+          "purpose": "Connecting the ancient concept to modern-day social and professional failure.",
+          "authoritative_timing": {
+            "clip_start": 54.355,
+            "clip_end": 58.383,
+            "duration_s": 4.028,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 454.208,
+            "global_end": 458.236
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/frustrated-woman-browsing-through-documents-in-an-office-12909006/",
+            "local_path": "media/downloads/KHd-luu3M8s/media/broll/asset_slot_cand_2_005.mp4",
+            "file_size_bytes": 211552,
+            "attribution": {
+              "author": "Mizuno K",
+              "author_url": "https://www.pexels.com/@mizunokozuki",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "candidate_id": 3,
+      "total_clip_duration_s": 59.959,
+      "original_video_duration_s": 47.451,
+      "broll_duration_s": 12.508,
+      "original_video_percentage": 79.14,
+      "decision_counts": {
+        "KEEP_ORIGINAL": 3,
+        "USE_BROLL": 2,
+        "ORIGINAL_WITH_OVERLAY": 1
+      },
+      "total_decisions": 6,
+      "asset_slot_count": 3,
+      "visual_decisions": [
+        {
+          "decision": "KEEP_ORIGINAL",
+          "supported_phrase": "kid that you're ashamed of. Do that. Fine. It means being honest with yourself.",
+          "matched_words": [
+            "kid",
+            "that",
+            "you're",
+            "ashamed",
+            "of.",
+            "Do",
+            "that.",
+            "Fine.",
+            "It",
+            "means",
+            "being",
+            "honest",
+            "with",
+            "yourself."
+          ],
+          "purpose": "Establish the speaker's emotional connection and authority on the topic.",
+          "authoritative_timing": {
+            "clip_start": 0.0,
+            "clip_end": 5.822,
+            "duration_s": 5.822,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 909.478,
+            "global_end": 915.3
+          }
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing",
+          "matched_words": [
+            "To",
+            "get",
+            "off",
+            "the",
+            "sauce,",
+            "if",
+            "you're",
+            "drinking",
+            "too",
+            "much",
+            "alcohol,",
+            "you",
+            "need",
+            "to",
+            "get",
+            "honest",
+            "with",
+            "yourself",
+            "that",
+            "you're",
+            "doing",
+            "something",
+            "that",
+            "you",
+            "shouldn't",
+            "be",
+            "doing"
+          ],
+          "purpose": "Illustrate the struggle of addiction without showing the speaker talking about it.",
+          "authoritative_timing": {
+            "clip_start": 6.402,
+            "clip_end": 12.066,
+            "duration_s": 5.664,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 915.88,
+            "global_end": 921.544
+          },
+          "visual_concept": "A person looking at a glass of alcohol in a dimly lit room, looking contemplative and conflicted.",
+          "search_query": "person struggling addiction"
+        },
+        {
+          "decision": "KEEP_ORIGINAL",
+          "supported_phrase": "in your shame to it and you don't like it and you wanna stop. And you've been lying to yourself all this time and thinking that it's gonna be okay and you finally drink enough that you'll just lose the urge to do so. You know that's a lie.",
+          "matched_words": [
+            "in",
+            "your",
+            "shame",
+            "to",
+            "it",
+            "and",
+            "you",
+            "don't",
+            "like",
+            "it",
+            "and",
+            "you",
+            "wanna",
+            "stop.",
+            "And",
+            "you've",
+            "been",
+            "lying",
+            "to",
+            "yourself",
+            "all",
+            "this",
+            "time",
+            "and",
+            "thinking",
+            "that",
+            "it's",
+            "gonna",
+            "be",
+            "okay",
+            "and",
+            "you",
+            "finally",
+            "drink",
+            "enough",
+            "that",
+            "you'll",
+            "just",
+            "lose",
+            "the",
+            "urge",
+            "to",
+            "do",
+            "so.",
+            "You",
+            "know",
+            "that's",
+            "a",
+            "lie."
+          ],
+          "purpose": "Maintain focus on the speaker's intense delivery and direct address to the viewer.",
+          "authoritative_timing": {
+            "clip_start": 12.106,
+            "clip_end": 23.574,
+            "duration_s": 11.468,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 921.584,
+            "global_end": 933.052
+          }
+        },
+        {
+          "decision": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "Emerson talks about the fact that everybody needs a radical honesty in their lives in all parts of their lives.",
+          "matched_words": [
+            "Emerson",
+            "talks",
+            "about",
+            "the",
+            "fact",
+            "that",
+            "everybody",
+            "needs",
+            "a",
+            "radical",
+            "honesty",
+            "in",
+            "their",
+            "lives",
+            "in",
+            "all",
+            "parts",
+            "of",
+            "their",
+            "lives."
+          ],
+          "purpose": "Highlight the reference to Ralph Waldo Emerson with a visual quote card.",
+          "authoritative_timing": {
+            "clip_start": 31.579,
+            "clip_end": 37.342,
+            "duration_s": 5.763,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 941.057,
+            "global_end": 946.82
+          },
+          "visual_concept": "A clean, minimalist text overlay featuring a quote about radical honesty by Ralph Waldo Emerson.",
+          "search_query": "minimalist quote graphic"
+        },
+        {
+          "decision": "USE_BROLL",
+          "supported_phrase": "I mean, there's a ton of behavioral science literature that even research I participated in myself that shows that we don't know ourselves very well.",
+          "matched_words": [
+            "I",
+            "mean,",
+            "there's",
+            "a",
+            "ton",
+            "of",
+            "behavioral",
+            "science",
+            "literature",
+            "that",
+            "even",
+            "research",
+            "I",
+            "participated",
+            "in",
+            "myself",
+            "that",
+            "shows",
+            "that",
+            "we",
+            "don't",
+            "know",
+            "ourselves",
+            "very",
+            "well."
+          ],
+          "purpose": "Provide visual context for the mention of academic research and behavioral science.",
+          "authoritative_timing": {
+            "clip_start": 39.264,
+            "clip_end": 46.108,
+            "duration_s": 6.844,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 948.742,
+            "global_end": 955.586
+          },
+          "visual_concept": "A shot of a researcher looking at data charts or a library of psychology books.",
+          "search_query": "behavioral science research"
+        },
+        {
+          "decision": "KEEP_ORIGINAL",
+          "supported_phrase": "And the main reason is because we lied to ourselves all day long. We got these biases that make us feel better about ourselves, you know? Yeah, you know, like I think to myself, yeah, Arthur Brooks, he's a guy with good hair, you know, I can kind of, I'm bald.",
+          "matched_words": [
+            "And",
+            "the",
+            "main",
+            "reason",
+            "is",
+            "because",
+            "we",
+            "lied",
+            "to",
+            "ourselves",
+            "all",
+            "day",
+            "long.",
+            "We",
+            "got",
+            "these",
+            "biases",
+            "that",
+            "make",
+            "us",
+            "feel",
+            "better",
+            "about",
+            "ourselves,",
+            "you",
+            "know?",
+            "Yeah,",
+            "you",
+            "know,",
+            "like",
+            "I",
+            "think",
+            "to",
+            "myself,",
+            "yeah,",
+            "Arthur",
+            "Brooks,",
+            "he's",
+            "a",
+            "guy",
+            "with",
+            "good",
+            "hair,",
+            "you",
+            "know,",
+            "I",
+            "can",
+            "kind",
+            "of,",
+            "I'm",
+            "bald."
+          ],
+          "purpose": "The speaker is telling a self-deprecating joke; keeping the original footage captures the humor and personality.",
+          "authoritative_timing": {
+            "clip_start": 46.128,
+            "clip_end": 59.959,
+            "duration_s": 13.831,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 955.606,
+            "global_end": 969.437
+          }
+        }
+      ],
+      "asset_slots": [
+        {
+          "slot_id": "asset_slot_cand_3_001",
+          "candidate_id": 3,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "To get off the sauce, if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing",
+          "matched_words": [
+            "To",
+            "get",
+            "off",
+            "the",
+            "sauce,",
+            "if",
+            "you're",
+            "drinking",
+            "too",
+            "much",
+            "alcohol,",
+            "you",
+            "need",
+            "to",
+            "get",
+            "honest",
+            "with",
+            "yourself",
+            "that",
+            "you're",
+            "doing",
+            "something",
+            "that",
+            "you",
+            "shouldn't",
+            "be",
+            "doing"
+          ],
+          "visual_concept": "A person looking at a glass of alcohol in a dimly lit room, looking contemplative and conflicted.",
+          "search_query": "person struggling addiction",
+          "purpose": "Illustrate the struggle of addiction without showing the speaker talking about it.",
+          "authoritative_timing": {
+            "clip_start": 6.402,
+            "clip_end": 12.066,
+            "duration_s": 5.664,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 915.88,
+            "global_end": 921.544
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/man-resting-his-head-on-his-hand-8558453/",
+            "local_path": "media/downloads/KHd-luu3M8s/media/broll/asset_slot_cand_3_001.mp4",
+            "file_size_bytes": 751862,
+            "attribution": {
+              "author": "Timur Weber",
+              "author_url": "https://www.pexels.com/@timur-weber",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_3_002",
+          "candidate_id": 3,
+          "decision_type": "ORIGINAL_WITH_OVERLAY",
+          "supported_phrase": "Emerson talks about the fact that everybody needs a radical honesty in their lives in all parts of their lives.",
+          "matched_words": [
+            "Emerson",
+            "talks",
+            "about",
+            "the",
+            "fact",
+            "that",
+            "everybody",
+            "needs",
+            "a",
+            "radical",
+            "honesty",
+            "in",
+            "their",
+            "lives",
+            "in",
+            "all",
+            "parts",
+            "of",
+            "their",
+            "lives."
+          ],
+          "visual_concept": "A clean, minimalist text overlay featuring a quote about radical honesty by Ralph Waldo Emerson.",
+          "search_query": "minimalist quote graphic",
+          "purpose": "Highlight the reference to Ralph Waldo Emerson with a visual quote card.",
+          "authoritative_timing": {
+            "clip_start": 31.579,
+            "clip_end": 37.342,
+            "duration_s": 5.763,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 941.057,
+            "global_end": 946.82
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/word-creativity-on-a-letter-board-9017843/",
+            "local_path": "media/downloads/KHd-luu3M8s/media/broll/asset_slot_cand_3_002.mp4",
+            "file_size_bytes": 644134,
+            "attribution": {
+              "author": "Kevin  Malik",
+              "author_url": "https://www.pexels.com/@kevin-malik",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        },
+        {
+          "slot_id": "asset_slot_cand_3_003",
+          "candidate_id": 3,
+          "decision_type": "USE_BROLL",
+          "supported_phrase": "I mean, there's a ton of behavioral science literature that even research I participated in myself that shows that we don't know ourselves very well.",
+          "matched_words": [
+            "I",
+            "mean,",
+            "there's",
+            "a",
+            "ton",
+            "of",
+            "behavioral",
+            "science",
+            "literature",
+            "that",
+            "even",
+            "research",
+            "I",
+            "participated",
+            "in",
+            "myself",
+            "that",
+            "shows",
+            "that",
+            "we",
+            "don't",
+            "know",
+            "ourselves",
+            "very",
+            "well."
+          ],
+          "visual_concept": "A shot of a researcher looking at data charts or a library of psychology books.",
+          "search_query": "behavioral science research",
+          "purpose": "Provide visual context for the mention of academic research and behavioral science.",
+          "authoritative_timing": {
+            "clip_start": 39.264,
+            "clip_end": 46.108,
+            "duration_s": 6.844,
+            "timing_source": "WhisperX word alignment"
+          },
+          "provenance": {
+            "global_start": 948.742,
+            "global_end": 955.586
+          },
+          "acquisition": {
+            "provider": "pexels",
+            "media_type": "video",
+            "source_url": "https://www.pexels.com/video/man-people-looking-portrait-9373400/",
+            "local_path": "media/downloads/KHd-luu3M8s/media/broll/asset_slot_cand_3_003.mp4",
+            "file_size_bytes": 1082339,
+            "attribution": {
+              "author": "Mikhail Nilov",
+              "author_url": "https://www.pexels.com/@mikhail-nilov",
+              "license": "Pexels License (Free to use)"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "acquisition_summary": {
+    "acquired_asset_count": 14,
+    "provider_counts": {
+      "pexels": 14,
+      "pixabay": 0,
+      "failed": 0
+    }
+  }
+}

@@ -1,0 +1,6609 @@
+{
+  "video_id": "KHd-luu3M8s",
+  "llm_provider": "google",
+  "llm_model": "gemini-3.1-flash-lite",
+  "candidates": [
+    {
+      "candidate_id": 1,
+      "total_clip_duration_s": 55.631,
+      "caption_group_count": 54,
+      "caption_groups": [
+        {
+          "group_id": "cand_1_cap_001",
+          "range_index": 0,
+          "start_time": 0.0,
+          "end_time": 1.121,
+          "duration_s": 1.121,
+          "text": "makes it more possible",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "makes",
+              "clip_start": 0.0,
+              "clip_end": 0.2,
+              "global_start": 126.356,
+              "global_end": 126.556,
+              "score": 0.781
+            },
+            {
+              "word": "it",
+              "clip_start": 0.26,
+              "clip_end": 0.32,
+              "global_start": 126.616,
+              "global_end": 126.676,
+              "score": 0.75
+            },
+            {
+              "word": "more",
+              "clip_start": 0.36,
+              "clip_end": 0.5,
+              "global_start": 126.716,
+              "global_end": 126.856,
+              "score": 0.802
+            },
+            {
+              "word": "possible",
+              "clip_start": 0.62,
+              "clip_end": 1.121,
+              "global_start": 126.976,
+              "global_end": 127.477,
+              "score": 0.767
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_002",
+          "range_index": 0,
+          "start_time": 1.201,
+          "end_time": 1.821,
+          "duration_s": 0.62,
+          "text": "for us to find",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "for",
+              "clip_start": 1.201,
+              "clip_end": 1.281,
+              "global_start": 127.557,
+              "global_end": 127.637,
+              "score": 0.858
+            },
+            {
+              "word": "us",
+              "clip_start": 1.341,
+              "clip_end": 1.421,
+              "global_start": 127.697,
+              "global_end": 127.777,
+              "score": 0.678
+            },
+            {
+              "word": "to",
+              "clip_start": 1.441,
+              "clip_end": 1.521,
+              "global_start": 127.797,
+              "global_end": 127.877,
+              "score": 0.864
+            },
+            {
+              "word": "find",
+              "clip_start": 1.561,
+              "clip_end": 1.821,
+              "global_start": 127.917,
+              "global_end": 128.177,
+              "score": 0.689
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_003",
+          "range_index": 0,
+          "start_time": 1.901,
+          "end_time": 2.722,
+          "duration_s": 0.821,
+          "text": "mates, for us to",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "mates,",
+              "clip_start": 1.901,
+              "clip_end": 2.262,
+              "global_start": 128.257,
+              "global_end": 128.618,
+              "score": 0.846
+            },
+            {
+              "word": "for",
+              "clip_start": 2.342,
+              "clip_end": 2.462,
+              "global_start": 128.698,
+              "global_end": 128.818,
+              "score": 0.973
+            },
+            {
+              "word": "us",
+              "clip_start": 2.502,
+              "clip_end": 2.582,
+              "global_start": 128.858,
+              "global_end": 128.938,
+              "score": 0.56
+            },
+            {
+              "word": "to",
+              "clip_start": 2.622,
+              "clip_end": 2.722,
+              "global_start": 128.978,
+              "global_end": 129.078,
+              "score": 0.657
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_004",
+          "range_index": 0,
+          "start_time": 2.862,
+          "end_time": 3.042,
+          "duration_s": 0.18,
+          "text": "eat.",
+          "word_count": 1,
+          "words": [
+            {
+              "word": "eat.",
+              "clip_start": 2.862,
+              "clip_end": 3.042,
+              "global_start": 129.218,
+              "global_end": 129.398,
+              "score": 0.643
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_005",
+          "range_index": 0,
+          "start_time": 3.442,
+          "end_time": 4.043,
+          "duration_s": 0.601,
+          "text": "And this is a",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "And",
+              "clip_start": 3.442,
+              "clip_end": 3.542,
+              "global_start": 129.798,
+              "global_end": 129.898,
+              "score": 0.784
+            },
+            {
+              "word": "this",
+              "clip_start": 3.702,
+              "clip_end": 3.843,
+              "global_start": 130.058,
+              "global_end": 130.199,
+              "score": 0.889
+            },
+            {
+              "word": "is",
+              "clip_start": 3.903,
+              "clip_end": 3.983,
+              "global_start": 130.259,
+              "global_end": 130.339,
+              "score": 0.682
+            },
+            {
+              "word": "a",
+              "clip_start": 4.023,
+              "clip_end": 4.043,
+              "global_start": 130.379,
+              "global_end": 130.399,
+              "score": 0.994
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_006",
+          "range_index": 0,
+          "start_time": 4.223,
+          "end_time": 5.824,
+          "duration_s": 1.601,
+          "text": "real advantage to Homo",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "real",
+              "clip_start": 4.223,
+              "clip_end": 4.543,
+              "global_start": 130.579,
+              "global_end": 130.899,
+              "score": 0.855
+            },
+            {
+              "word": "advantage",
+              "clip_start": 4.623,
+              "clip_end": 5.343,
+              "global_start": 130.979,
+              "global_end": 131.699,
+              "score": 0.792
+            },
+            {
+              "word": "to",
+              "clip_start": 5.404,
+              "clip_end": 5.484,
+              "global_start": 131.76,
+              "global_end": 131.84,
+              "score": 0.816
+            },
+            {
+              "word": "Homo",
+              "clip_start": 5.544,
+              "clip_end": 5.824,
+              "global_start": 131.9,
+              "global_end": 132.18,
+              "score": 0.996
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_007",
+          "range_index": 0,
+          "start_time": 5.864,
+          "end_time": 6.644,
+          "duration_s": 0.78,
+          "text": "sapiens. This is one",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "sapiens.",
+              "clip_start": 5.864,
+              "clip_end": 6.364,
+              "global_start": 132.22,
+              "global_end": 132.72,
+              "score": 0.88
+            },
+            {
+              "word": "This",
+              "clip_start": 6.384,
+              "clip_end": 6.464,
+              "global_start": 132.74,
+              "global_end": 132.82,
+              "score": 0.114
+            },
+            {
+              "word": "is",
+              "clip_start": 6.484,
+              "clip_end": 6.524,
+              "global_start": 132.84,
+              "global_end": 132.88,
+              "score": 0.491
+            },
+            {
+              "word": "one",
+              "clip_start": 6.564,
+              "clip_end": 6.644,
+              "global_start": 132.92,
+              "global_end": 133.0,
+              "score": 0.834
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_008",
+          "range_index": 0,
+          "start_time": 6.664,
+          "end_time": 7.225,
+          "duration_s": 0.561,
+          "text": "of the reasons that",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "of",
+              "clip_start": 6.664,
+              "clip_end": 6.704,
+              "global_start": 133.02,
+              "global_end": 133.06,
+              "score": 0.999
+            },
+            {
+              "word": "the",
+              "clip_start": 6.724,
+              "clip_end": 6.784,
+              "global_start": 133.08,
+              "global_end": 133.14,
+              "score": 0.995
+            },
+            {
+              "word": "reasons",
+              "clip_start": 6.824,
+              "clip_end": 7.085,
+              "global_start": 133.18,
+              "global_end": 133.441,
+              "score": 0.854
+            },
+            {
+              "word": "that",
+              "clip_start": 7.125,
+              "clip_end": 7.225,
+              "global_start": 133.481,
+              "global_end": 133.581,
+              "score": 0.879
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_009",
+          "range_index": 0,
+          "start_time": 7.245,
+          "end_time": 8.566,
+          "duration_s": 1.321,
+          "text": "we're so unbelievably successful",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "we're",
+              "clip_start": 7.245,
+              "clip_end": 7.365,
+              "global_start": 133.601,
+              "global_end": 133.721,
+              "score": 0.784
+            },
+            {
+              "word": "so",
+              "clip_start": 7.405,
+              "clip_end": 7.525,
+              "global_start": 133.761,
+              "global_end": 133.881,
+              "score": 0.877
+            },
+            {
+              "word": "unbelievably",
+              "clip_start": 7.585,
+              "clip_end": 8.145,
+              "global_start": 133.941,
+              "global_end": 134.501,
+              "score": 0.826
+            },
+            {
+              "word": "successful",
+              "clip_start": 8.185,
+              "clip_end": 8.566,
+              "global_start": 134.541,
+              "global_end": 134.922,
+              "score": 0.862
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_010",
+          "range_index": 0,
+          "start_time": 8.606,
+          "end_time": 9.406,
+          "duration_s": 0.8,
+          "text": "is because we learn,",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "is",
+              "clip_start": 8.606,
+              "clip_end": 8.646,
+              "global_start": 134.962,
+              "global_end": 135.002,
+              "score": 0.622
+            },
+            {
+              "word": "because",
+              "clip_start": 8.666,
+              "clip_end": 8.866,
+              "global_start": 135.022,
+              "global_end": 135.222,
+              "score": 0.669
+            },
+            {
+              "word": "we",
+              "clip_start": 8.906,
+              "clip_end": 9.066,
+              "global_start": 135.262,
+              "global_end": 135.422,
+              "score": 0.628
+            },
+            {
+              "word": "learn,",
+              "clip_start": 9.106,
+              "clip_end": 9.406,
+              "global_start": 135.462,
+              "global_end": 135.762,
+              "score": 0.785
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_011",
+          "range_index": 0,
+          "start_time": 9.706,
+          "end_time": 10.427,
+          "duration_s": 0.721,
+          "text": "and we have brains",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "and",
+              "clip_start": 9.706,
+              "clip_end": 9.786,
+              "global_start": 136.062,
+              "global_end": 136.142,
+              "score": 0.885
+            },
+            {
+              "word": "we",
+              "clip_start": 9.806,
+              "clip_end": 9.886,
+              "global_start": 136.162,
+              "global_end": 136.242,
+              "score": 0.735
+            },
+            {
+              "word": "have",
+              "clip_start": 9.926,
+              "clip_end": 10.026,
+              "global_start": 136.282,
+              "global_end": 136.382,
+              "score": 0.886
+            },
+            {
+              "word": "brains",
+              "clip_start": 10.066,
+              "clip_end": 10.427,
+              "global_start": 136.422,
+              "global_end": 136.783,
+              "score": 0.705
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_012",
+          "range_index": 0,
+          "start_time": 10.487,
+          "end_time": 11.647,
+          "duration_s": 1.16,
+          "text": "designed to learn.",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "designed",
+              "clip_start": 10.487,
+              "clip_end": 11.087,
+              "global_start": 136.843,
+              "global_end": 137.443,
+              "score": 0.706
+            },
+            {
+              "word": "to",
+              "clip_start": 11.187,
+              "clip_end": 11.327,
+              "global_start": 137.543,
+              "global_end": 137.683,
+              "score": 0.548
+            },
+            {
+              "word": "learn.",
+              "clip_start": 11.367,
+              "clip_end": 11.647,
+              "global_start": 137.723,
+              "global_end": 138.003,
+              "score": 0.758
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_013",
+          "range_index": 0,
+          "start_time": 12.248,
+          "end_time": 13.008,
+          "duration_s": 0.76,
+          "text": "Part of this is",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "Part",
+              "clip_start": 12.248,
+              "clip_end": 12.428,
+              "global_start": 138.604,
+              "global_end": 138.784,
+              "score": 0.902
+            },
+            {
+              "word": "of",
+              "clip_start": 12.468,
+              "clip_end": 12.528,
+              "global_start": 138.824,
+              "global_end": 138.884,
+              "score": 0.751
+            },
+            {
+              "word": "this",
+              "clip_start": 12.568,
+              "clip_end": 12.748,
+              "global_start": 138.924,
+              "global_end": 139.104,
+              "score": 0.762
+            },
+            {
+              "word": "is",
+              "clip_start": 12.908,
+              "clip_end": 13.008,
+              "global_start": 139.264,
+              "global_end": 139.364,
+              "score": 0.676
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_014",
+          "range_index": 0,
+          "start_time": 13.108,
+          "end_time": 14.269,
+          "duration_s": 1.161,
+          "text": "a neurochemical,",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "a",
+              "clip_start": 13.108,
+              "clip_end": 13.168,
+              "global_start": 139.464,
+              "global_end": 139.524,
+              "score": 0.773
+            },
+            {
+              "word": "neurochemical,",
+              "clip_start": 13.509,
+              "clip_end": 14.269,
+              "global_start": 139.865,
+              "global_end": 140.625,
+              "score": 0.882
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_015",
+          "range_index": 0,
+          "start_time": 14.309,
+          "end_time": 14.449,
+          "duration_s": 0.14,
+          "text": "that",
+          "word_count": 1,
+          "words": [
+            {
+              "word": "that",
+              "clip_start": 14.309,
+              "clip_end": 14.449,
+              "global_start": 140.665,
+              "global_end": 140.805,
+              "score": 0.792
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_016",
+          "range_index": 0,
+          "start_time": 15.03,
+          "end_time": 16.791,
+          "duration_s": 1.761,
+          "text": "neuromodulator that most people",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "neuromodulator",
+              "clip_start": 15.03,
+              "clip_end": 15.99,
+              "global_start": 141.386,
+              "global_end": 142.346,
+              "score": 0.858
+            },
+            {
+              "word": "that",
+              "clip_start": 16.03,
+              "clip_end": 16.19,
+              "global_start": 142.386,
+              "global_end": 142.546,
+              "score": 0.819
+            },
+            {
+              "word": "most",
+              "clip_start": 16.35,
+              "clip_end": 16.531,
+              "global_start": 142.706,
+              "global_end": 142.887,
+              "score": 0.767
+            },
+            {
+              "word": "people",
+              "clip_start": 16.571,
+              "clip_end": 16.791,
+              "global_start": 142.927,
+              "global_end": 143.147,
+              "score": 0.786
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_017",
+          "range_index": 0,
+          "start_time": 16.831,
+          "end_time": 17.511,
+          "duration_s": 0.68,
+          "text": "are familiar with,",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "are",
+              "clip_start": 16.831,
+              "clip_end": 16.911,
+              "global_start": 143.187,
+              "global_end": 143.267,
+              "score": 0.835
+            },
+            {
+              "word": "familiar",
+              "clip_start": 16.951,
+              "clip_end": 17.311,
+              "global_start": 143.307,
+              "global_end": 143.667,
+              "score": 0.874
+            },
+            {
+              "word": "with,",
+              "clip_start": 17.351,
+              "clip_end": 17.511,
+              "global_start": 143.707,
+              "global_end": 143.867,
+              "score": 0.828
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_018",
+          "range_index": 0,
+          "start_time": 17.531,
+          "end_time": 18.412,
+          "duration_s": 0.881,
+          "text": "called dopamine.",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "called",
+              "clip_start": 17.531,
+              "clip_end": 17.731,
+              "global_start": 143.887,
+              "global_end": 144.087,
+              "score": 0.887
+            },
+            {
+              "word": "dopamine.",
+              "clip_start": 17.831,
+              "clip_end": 18.412,
+              "global_start": 144.187,
+              "global_end": 144.768,
+              "score": 0.876
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_019",
+          "range_index": 0,
+          "start_time": 18.872,
+          "end_time": 21.033,
+          "duration_s": 2.161,
+          "text": "Dopamine is often mischaracterized",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "Dopamine",
+              "clip_start": 18.872,
+              "clip_end": 19.472,
+              "global_start": 145.228,
+              "global_end": 145.828,
+              "score": 0.871
+            },
+            {
+              "word": "is",
+              "clip_start": 19.792,
+              "clip_end": 19.872,
+              "global_start": 146.148,
+              "global_end": 146.228,
+              "score": 0.486
+            },
+            {
+              "word": "often",
+              "clip_start": 19.952,
+              "clip_end": 20.213,
+              "global_start": 146.308,
+              "global_end": 146.569,
+              "score": 0.89
+            },
+            {
+              "word": "mischaracterized",
+              "clip_start": 20.233,
+              "clip_end": 21.033,
+              "global_start": 146.589,
+              "global_end": 147.389,
+              "score": 0.811
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_020",
+          "range_index": 0,
+          "start_time": 21.093,
+          "end_time": 22.213,
+          "duration_s": 1.12,
+          "text": "as a pleasure hormones.",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "as",
+              "clip_start": 21.093,
+              "clip_end": 21.153,
+              "global_start": 147.449,
+              "global_end": 147.509,
+              "score": 0.768
+            },
+            {
+              "word": "a",
+              "clip_start": 21.193,
+              "clip_end": 21.213,
+              "global_start": 147.549,
+              "global_end": 147.569,
+              "score": 0.994
+            },
+            {
+              "word": "pleasure",
+              "clip_start": 21.273,
+              "clip_end": 21.653,
+              "global_start": 147.629,
+              "global_end": 148.009,
+              "score": 0.891
+            },
+            {
+              "word": "hormones.",
+              "clip_start": 21.693,
+              "clip_end": 22.213,
+              "global_start": 148.049,
+              "global_end": 148.569,
+              "score": 0.838
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_021",
+          "range_index": 0,
+          "start_time": 22.353,
+          "end_time": 22.954,
+          "duration_s": 0.601,
+          "text": "It's not.",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "It's",
+              "clip_start": 22.353,
+              "clip_end": 22.494,
+              "global_start": 148.709,
+              "global_end": 148.85,
+              "score": 0.756
+            },
+            {
+              "word": "not.",
+              "clip_start": 22.594,
+              "clip_end": 22.954,
+              "global_start": 148.95,
+              "global_end": 149.31,
+              "score": 0.832
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_022",
+          "range_index": 0,
+          "start_time": 23.294,
+          "end_time": 23.934,
+          "duration_s": 0.64,
+          "text": "What it does is",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "What",
+              "clip_start": 23.294,
+              "clip_end": 23.434,
+              "global_start": 149.65,
+              "global_end": 149.79,
+              "score": 0.713
+            },
+            {
+              "word": "it",
+              "clip_start": 23.454,
+              "clip_end": 23.494,
+              "global_start": 149.81,
+              "global_end": 149.85,
+              "score": 0.879
+            },
+            {
+              "word": "does",
+              "clip_start": 23.534,
+              "clip_end": 23.734,
+              "global_start": 149.89,
+              "global_end": 150.09,
+              "score": 0.83
+            },
+            {
+              "word": "is",
+              "clip_start": 23.814,
+              "clip_end": 23.934,
+              "global_start": 150.17,
+              "global_end": 150.29,
+              "score": 0.614
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_023",
+          "range_index": 0,
+          "start_time": 24.034,
+          "end_time": 24.714,
+          "duration_s": 0.68,
+          "text": "it gives you the",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "it",
+              "clip_start": 24.034,
+              "clip_end": 24.114,
+              "global_start": 150.39,
+              "global_end": 150.47,
+              "score": 0.826
+            },
+            {
+              "word": "gives",
+              "clip_start": 24.174,
+              "clip_end": 24.374,
+              "global_start": 150.53,
+              "global_end": 150.73,
+              "score": 0.784
+            },
+            {
+              "word": "you",
+              "clip_start": 24.414,
+              "clip_end": 24.574,
+              "global_start": 150.77,
+              "global_end": 150.93,
+              "score": 0.811
+            },
+            {
+              "word": "the",
+              "clip_start": 24.614,
+              "clip_end": 24.714,
+              "global_start": 150.97,
+              "global_end": 151.07,
+              "score": 0.678
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_024",
+          "range_index": 0,
+          "start_time": 24.854,
+          "end_time": 26.735,
+          "duration_s": 1.881,
+          "text": "anticipation of reward.",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "anticipation",
+              "clip_start": 24.854,
+              "clip_end": 25.895,
+              "global_start": 151.21,
+              "global_end": 152.251,
+              "score": 0.8
+            },
+            {
+              "word": "of",
+              "clip_start": 25.935,
+              "clip_end": 25.995,
+              "global_start": 152.291,
+              "global_end": 152.351,
+              "score": 0.75
+            },
+            {
+              "word": "reward.",
+              "clip_start": 26.115,
+              "clip_end": 26.735,
+              "global_start": 152.471,
+              "global_end": 153.091,
+              "score": 0.778
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_025",
+          "range_index": 0,
+          "start_time": 27.896,
+          "end_time": 28.536,
+          "duration_s": 0.64,
+          "text": "And here's how it",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "And",
+              "clip_start": 27.896,
+              "clip_end": 27.996,
+              "global_start": 154.252,
+              "global_end": 154.352,
+              "score": 0.743
+            },
+            {
+              "word": "here's",
+              "clip_start": 28.016,
+              "clip_end": 28.236,
+              "global_start": 154.372,
+              "global_end": 154.592,
+              "score": 0.609
+            },
+            {
+              "word": "how",
+              "clip_start": 28.276,
+              "clip_end": 28.396,
+              "global_start": 154.632,
+              "global_end": 154.752,
+              "score": 0.82
+            },
+            {
+              "word": "it",
+              "clip_start": 28.476,
+              "clip_end": 28.536,
+              "global_start": 154.832,
+              "global_end": 154.892,
+              "score": 0.754
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_026",
+          "range_index": 0,
+          "start_time": 28.576,
+          "end_time": 30.237,
+          "duration_s": 1.661,
+          "text": "works. You learn something,",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "works.",
+              "clip_start": 28.576,
+              "clip_end": 28.876,
+              "global_start": 154.932,
+              "global_end": 155.232,
+              "score": 0.911
+            },
+            {
+              "word": "You",
+              "clip_start": 29.196,
+              "clip_end": 29.396,
+              "global_start": 155.552,
+              "global_end": 155.752,
+              "score": 0.832
+            },
+            {
+              "word": "learn",
+              "clip_start": 29.436,
+              "clip_end": 29.736,
+              "global_start": 155.792,
+              "global_end": 156.092,
+              "score": 0.754
+            },
+            {
+              "word": "something,",
+              "clip_start": 29.816,
+              "clip_end": 30.237,
+              "global_start": 156.172,
+              "global_end": 156.593,
+              "score": 0.834
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_027",
+          "range_index": 0,
+          "start_time": 30.257,
+          "end_time": 31.497,
+          "duration_s": 1.24,
+          "text": "you come across something,",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "you",
+              "clip_start": 30.257,
+              "clip_end": 30.437,
+              "global_start": 156.613,
+              "global_end": 156.793,
+              "score": 0.949
+            },
+            {
+              "word": "come",
+              "clip_start": 30.497,
+              "clip_end": 30.637,
+              "global_start": 156.853,
+              "global_end": 156.993,
+              "score": 0.858
+            },
+            {
+              "word": "across",
+              "clip_start": 30.677,
+              "clip_end": 31.037,
+              "global_start": 157.033,
+              "global_end": 157.393,
+              "score": 0.902
+            },
+            {
+              "word": "something,",
+              "clip_start": 31.117,
+              "clip_end": 31.497,
+              "global_start": 157.473,
+              "global_end": 157.853,
+              "score": 0.815
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_028",
+          "range_index": 0,
+          "start_time": 31.517,
+          "end_time": 32.778,
+          "duration_s": 1.261,
+          "text": "you're surprised by something",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "you're",
+              "clip_start": 31.517,
+              "clip_end": 31.677,
+              "global_start": 157.873,
+              "global_end": 158.033,
+              "score": 0.91
+            },
+            {
+              "word": "surprised",
+              "clip_start": 31.697,
+              "clip_end": 32.177,
+              "global_start": 158.053,
+              "global_end": 158.533,
+              "score": 0.839
+            },
+            {
+              "word": "by",
+              "clip_start": 32.217,
+              "clip_end": 32.338,
+              "global_start": 158.573,
+              "global_end": 158.694,
+              "score": 0.803
+            },
+            {
+              "word": "something",
+              "clip_start": 32.418,
+              "clip_end": 32.778,
+              "global_start": 158.774,
+              "global_end": 159.134,
+              "score": 0.856
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_029",
+          "range_index": 0,
+          "start_time": 33.178,
+          "end_time": 33.798,
+          "duration_s": 0.62,
+          "text": "that you like,",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "that",
+              "clip_start": 33.178,
+              "clip_end": 33.298,
+              "global_start": 159.534,
+              "global_end": 159.654,
+              "score": 0.961
+            },
+            {
+              "word": "you",
+              "clip_start": 33.318,
+              "clip_end": 33.478,
+              "global_start": 159.674,
+              "global_end": 159.834,
+              "score": 0.787
+            },
+            {
+              "word": "like,",
+              "clip_start": 33.518,
+              "clip_end": 33.798,
+              "global_start": 159.874,
+              "global_end": 160.154,
+              "score": 0.938
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_030",
+          "range_index": 0,
+          "start_time": 34.438,
+          "end_time": 34.638,
+          "duration_s": 0.2,
+          "text": "and you",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "and",
+              "clip_start": 34.438,
+              "clip_end": 34.558,
+              "global_start": 160.794,
+              "global_end": 160.914,
+              "score": 0.732
+            },
+            {
+              "word": "you",
+              "clip_start": 34.578,
+              "clip_end": 34.638,
+              "global_start": 160.934,
+              "global_end": 160.994,
+              "score": 0.07
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_031",
+          "range_index": 0,
+          "start_time": 35.119,
+          "end_time": 35.999,
+          "duration_s": 0.88,
+          "text": "encode that.",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "encode",
+              "clip_start": 35.119,
+              "clip_end": 35.699,
+              "global_start": 161.475,
+              "global_end": 162.055,
+              "score": 0.806
+            },
+            {
+              "word": "that.",
+              "clip_start": 35.739,
+              "clip_end": 35.999,
+              "global_start": 162.095,
+              "global_end": 162.355,
+              "score": 0.936
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_032",
+          "range_index": 0,
+          "start_time": 36.139,
+          "end_time": 36.759,
+          "duration_s": 0.62,
+          "text": "Such that the next",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "Such",
+              "clip_start": 36.139,
+              "clip_end": 36.319,
+              "global_start": 162.495,
+              "global_end": 162.675,
+              "score": 0.906
+            },
+            {
+              "word": "that",
+              "clip_start": 36.339,
+              "clip_end": 36.479,
+              "global_start": 162.695,
+              "global_end": 162.835,
+              "score": 0.805
+            },
+            {
+              "word": "the",
+              "clip_start": 36.499,
+              "clip_end": 36.579,
+              "global_start": 162.855,
+              "global_end": 162.935,
+              "score": 0.828
+            },
+            {
+              "word": "next",
+              "clip_start": 36.619,
+              "clip_end": 36.759,
+              "global_start": 162.975,
+              "global_end": 163.115,
+              "score": 0.787
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_033",
+          "range_index": 0,
+          "start_time": 36.779,
+          "end_time": 37.72,
+          "duration_s": 0.941,
+          "text": "time you think about",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "time",
+              "clip_start": 36.779,
+              "clip_end": 36.939,
+              "global_start": 163.135,
+              "global_end": 163.295,
+              "score": 0.813
+            },
+            {
+              "word": "you",
+              "clip_start": 36.979,
+              "clip_end": 37.119,
+              "global_start": 163.335,
+              "global_end": 163.475,
+              "score": 0.927
+            },
+            {
+              "word": "think",
+              "clip_start": 37.2,
+              "clip_end": 37.44,
+              "global_start": 163.556,
+              "global_end": 163.796,
+              "score": 0.82
+            },
+            {
+              "word": "about",
+              "clip_start": 37.5,
+              "clip_end": 37.72,
+              "global_start": 163.856,
+              "global_end": 164.076,
+              "score": 0.845
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_034",
+          "range_index": 0,
+          "start_time": 37.74,
+          "end_time": 38.14,
+          "duration_s": 0.4,
+          "text": "it, you get a",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "it,",
+              "clip_start": 37.74,
+              "clip_end": 37.8,
+              "global_start": 164.096,
+              "global_end": 164.156,
+              "score": 0.897
+            },
+            {
+              "word": "you",
+              "clip_start": 37.84,
+              "clip_end": 37.96,
+              "global_start": 164.196,
+              "global_end": 164.316,
+              "score": 0.943
+            },
+            {
+              "word": "get",
+              "clip_start": 38.0,
+              "clip_end": 38.1,
+              "global_start": 164.356,
+              "global_end": 164.456,
+              "score": 0.792
+            },
+            {
+              "word": "a",
+              "clip_start": 38.12,
+              "clip_end": 38.14,
+              "global_start": 164.476,
+              "global_end": 164.496,
+              "score": 0.981
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_035",
+          "range_index": 0,
+          "start_time": 38.18,
+          "end_time": 39.58,
+          "duration_s": 1.4,
+          "text": "little spritz of dopamine",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "little",
+              "clip_start": 38.18,
+              "clip_end": 38.4,
+              "global_start": 164.536,
+              "global_end": 164.756,
+              "score": 0.765
+            },
+            {
+              "word": "spritz",
+              "clip_start": 38.46,
+              "clip_end": 38.82,
+              "global_start": 164.816,
+              "global_end": 165.176,
+              "score": 0.832
+            },
+            {
+              "word": "of",
+              "clip_start": 38.86,
+              "clip_end": 38.94,
+              "global_start": 165.216,
+              "global_end": 165.296,
+              "score": 0.846
+            },
+            {
+              "word": "dopamine",
+              "clip_start": 39.1,
+              "clip_end": 39.58,
+              "global_start": 165.456,
+              "global_end": 165.936,
+              "score": 0.838
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_036",
+          "range_index": 0,
+          "start_time": 39.6,
+          "end_time": 40.161,
+          "duration_s": 0.561,
+          "text": "in your brain,",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "in",
+              "clip_start": 39.6,
+              "clip_end": 39.661,
+              "global_start": 165.956,
+              "global_end": 166.017,
+              "score": 0.796
+            },
+            {
+              "word": "your",
+              "clip_start": 39.701,
+              "clip_end": 39.821,
+              "global_start": 166.057,
+              "global_end": 166.177,
+              "score": 0.754
+            },
+            {
+              "word": "brain,",
+              "clip_start": 39.841,
+              "clip_end": 40.161,
+              "global_start": 166.197,
+              "global_end": 166.517,
+              "score": 0.952
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_037",
+          "range_index": 0,
+          "start_time": 40.181,
+          "end_time": 40.741,
+          "duration_s": 0.56,
+          "text": "and that gives you",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "and",
+              "clip_start": 40.181,
+              "clip_end": 40.261,
+              "global_start": 166.537,
+              "global_end": 166.617,
+              "score": 0.853
+            },
+            {
+              "word": "that",
+              "clip_start": 40.301,
+              "clip_end": 40.421,
+              "global_start": 166.657,
+              "global_end": 166.777,
+              "score": 0.908
+            },
+            {
+              "word": "gives",
+              "clip_start": 40.441,
+              "clip_end": 40.601,
+              "global_start": 166.797,
+              "global_end": 166.957,
+              "score": 0.802
+            },
+            {
+              "word": "you",
+              "clip_start": 40.621,
+              "clip_end": 40.741,
+              "global_start": 166.977,
+              "global_end": 167.097,
+              "score": 0.814
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_038",
+          "range_index": 0,
+          "start_time": 40.781,
+          "end_time": 41.821,
+          "duration_s": 1.04,
+          "text": "the anticipation of the",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "the",
+              "clip_start": 40.781,
+              "clip_end": 40.841,
+              "global_start": 167.137,
+              "global_end": 167.197,
+              "score": 0.999
+            },
+            {
+              "word": "anticipation",
+              "clip_start": 40.901,
+              "clip_end": 41.641,
+              "global_start": 167.257,
+              "global_end": 167.997,
+              "score": 0.825
+            },
+            {
+              "word": "of",
+              "clip_start": 41.661,
+              "clip_end": 41.721,
+              "global_start": 168.017,
+              "global_end": 168.077,
+              "score": 0.796
+            },
+            {
+              "word": "the",
+              "clip_start": 41.761,
+              "clip_end": 41.821,
+              "global_start": 168.117,
+              "global_end": 168.177,
+              "score": 0.995
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_039",
+          "range_index": 0,
+          "start_time": 41.881,
+          "end_time": 43.102,
+          "duration_s": 1.221,
+          "text": "reward for getting that",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "reward",
+              "clip_start": 41.881,
+              "clip_end": 42.222,
+              "global_start": 168.237,
+              "global_end": 168.578,
+              "score": 0.648
+            },
+            {
+              "word": "for",
+              "clip_start": 42.562,
+              "clip_end": 42.682,
+              "global_start": 168.918,
+              "global_end": 169.038,
+              "score": 0.849
+            },
+            {
+              "word": "getting",
+              "clip_start": 42.702,
+              "clip_end": 42.962,
+              "global_start": 169.058,
+              "global_end": 169.318,
+              "score": 0.888
+            },
+            {
+              "word": "that",
+              "clip_start": 42.982,
+              "clip_end": 43.102,
+              "global_start": 169.338,
+              "global_end": 169.458,
+              "score": 0.851
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_040",
+          "range_index": 0,
+          "start_time": 43.162,
+          "end_time": 43.662,
+          "duration_s": 0.5,
+          "text": "thing again.",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "thing",
+              "clip_start": 43.162,
+              "clip_end": 43.382,
+              "global_start": 169.518,
+              "global_end": 169.738,
+              "score": 0.72
+            },
+            {
+              "word": "again.",
+              "clip_start": 43.422,
+              "clip_end": 43.662,
+              "global_start": 169.778,
+              "global_end": 170.018,
+              "score": 0.9
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_041",
+          "range_index": 0,
+          "start_time": 43.682,
+          "end_time": 44.122,
+          "duration_s": 0.44,
+          "text": "And so you go",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "And",
+              "clip_start": 43.682,
+              "clip_end": 43.742,
+              "global_start": 170.038,
+              "global_end": 170.098,
+              "score": 0.998
+            },
+            {
+              "word": "so",
+              "clip_start": 43.782,
+              "clip_end": 43.882,
+              "global_start": 170.138,
+              "global_end": 170.238,
+              "score": 0.704
+            },
+            {
+              "word": "you",
+              "clip_start": 43.902,
+              "clip_end": 44.022,
+              "global_start": 170.258,
+              "global_end": 170.378,
+              "score": 0.918
+            },
+            {
+              "word": "go",
+              "clip_start": 44.042,
+              "clip_end": 44.122,
+              "global_start": 170.398,
+              "global_end": 170.478,
+              "score": 0.836
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_042",
+          "range_index": 0,
+          "start_time": 44.162,
+          "end_time": 44.903,
+          "duration_s": 0.741,
+          "text": "and search of it",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "and",
+              "clip_start": 44.162,
+              "clip_end": 44.242,
+              "global_start": 170.518,
+              "global_end": 170.598,
+              "score": 0.287
+            },
+            {
+              "word": "search",
+              "clip_start": 44.402,
+              "clip_end": 44.683,
+              "global_start": 170.758,
+              "global_end": 171.039,
+              "score": 0.815
+            },
+            {
+              "word": "of",
+              "clip_start": 44.723,
+              "clip_end": 44.783,
+              "global_start": 171.079,
+              "global_end": 171.139,
+              "score": 0.944
+            },
+            {
+              "word": "it",
+              "clip_start": 44.843,
+              "clip_end": 44.903,
+              "global_start": 171.199,
+              "global_end": 171.259,
+              "score": 0.75
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_043",
+          "range_index": 0,
+          "start_time": 44.963,
+          "end_time": 45.223,
+          "duration_s": 0.26,
+          "text": "again.",
+          "word_count": 1,
+          "words": [
+            {
+              "word": "again.",
+              "clip_start": 44.963,
+              "clip_end": 45.223,
+              "global_start": 171.319,
+              "global_end": 171.579,
+              "score": 0.955
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_044",
+          "range_index": 0,
+          "start_time": 45.903,
+          "end_time": 46.585,
+          "duration_s": 0.682,
+          "text": "If you find even",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "If",
+              "clip_start": 45.903,
+              "clip_end": 45.963,
+              "global_start": 172.259,
+              "global_end": 172.319,
+              "score": 0.998
+            },
+            {
+              "word": "you",
+              "clip_start": 46.004,
+              "clip_end": 46.124,
+              "global_start": 172.36,
+              "global_end": 172.48,
+              "score": 0.934
+            },
+            {
+              "word": "find",
+              "clip_start": 46.164,
+              "clip_end": 46.365,
+              "global_start": 172.52,
+              "global_end": 172.721,
+              "score": 0.766
+            },
+            {
+              "word": "even",
+              "clip_start": 46.405,
+              "clip_end": 46.585,
+              "global_start": 172.761,
+              "global_end": 172.941,
+              "score": 0.639
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_045",
+          "range_index": 0,
+          "start_time": 46.665,
+          "end_time": 47.147,
+          "duration_s": 0.482,
+          "text": "more of it the",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "more",
+              "clip_start": 46.665,
+              "clip_end": 46.866,
+              "global_start": 173.021,
+              "global_end": 173.222,
+              "score": 0.828
+            },
+            {
+              "word": "of",
+              "clip_start": 46.886,
+              "clip_end": 46.926,
+              "global_start": 173.242,
+              "global_end": 173.282,
+              "score": 0.998
+            },
+            {
+              "word": "it",
+              "clip_start": 46.986,
+              "clip_end": 47.026,
+              "global_start": 173.342,
+              "global_end": 173.382,
+              "score": 0.994
+            },
+            {
+              "word": "the",
+              "clip_start": 47.067,
+              "clip_end": 47.147,
+              "global_start": 173.423,
+              "global_end": 173.503,
+              "score": 0.833
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_046",
+          "range_index": 0,
+          "start_time": 47.187,
+          "end_time": 47.708,
+          "duration_s": 0.521,
+          "text": "second time,",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "second",
+              "clip_start": 47.187,
+              "clip_end": 47.428,
+              "global_start": 173.543,
+              "global_end": 173.784,
+              "score": 0.927
+            },
+            {
+              "word": "time,",
+              "clip_start": 47.468,
+              "clip_end": 47.708,
+              "global_start": 173.824,
+              "global_end": 174.064,
+              "score": 0.806
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_047",
+          "range_index": 0,
+          "start_time": 47.849,
+          "end_time": 48.751,
+          "duration_s": 0.902,
+          "text": "more dopamine,",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "more",
+              "clip_start": 47.849,
+              "clip_end": 48.09,
+              "global_start": 174.205,
+              "global_end": 174.446,
+              "score": 0.623
+            },
+            {
+              "word": "dopamine,",
+              "clip_start": 48.19,
+              "clip_end": 48.751,
+              "global_start": 174.546,
+              "global_end": 175.107,
+              "score": 0.901
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_048",
+          "range_index": 0,
+          "start_time": 48.792,
+          "end_time": 50.316,
+          "duration_s": 1.524,
+          "text": "which reinforces the cycle.",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "which",
+              "clip_start": 48.792,
+              "clip_end": 48.932,
+              "global_start": 175.148,
+              "global_end": 175.288,
+              "score": 0.808
+            },
+            {
+              "word": "reinforces",
+              "clip_start": 49.012,
+              "clip_end": 49.634,
+              "global_start": 175.368,
+              "global_end": 175.99,
+              "score": 0.77
+            },
+            {
+              "word": "the",
+              "clip_start": 49.674,
+              "clip_end": 49.754,
+              "global_start": 176.03,
+              "global_end": 176.11,
+              "score": 0.974
+            },
+            {
+              "word": "cycle.",
+              "clip_start": 49.814,
+              "clip_end": 50.316,
+              "global_start": 176.17,
+              "global_end": 176.672,
+              "score": 0.782
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_049",
+          "range_index": 0,
+          "start_time": 50.918,
+          "end_time": 51.359,
+          "duration_s": 0.441,
+          "text": "And this is a",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "And",
+              "clip_start": 50.918,
+              "clip_end": 50.998,
+              "global_start": 177.274,
+              "global_end": 177.354,
+              "score": 0.933
+            },
+            {
+              "word": "this",
+              "clip_start": 51.018,
+              "clip_end": 51.138,
+              "global_start": 177.374,
+              "global_end": 177.494,
+              "score": 0.839
+            },
+            {
+              "word": "is",
+              "clip_start": 51.198,
+              "clip_end": 51.279,
+              "global_start": 177.554,
+              "global_end": 177.635,
+              "score": 0.508
+            },
+            {
+              "word": "a",
+              "clip_start": 51.319,
+              "clip_end": 51.359,
+              "global_start": 177.675,
+              "global_end": 177.715,
+              "score": 0.499
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_050",
+          "range_index": 0,
+          "start_time": 51.399,
+          "end_time": 51.941,
+          "duration_s": 0.542,
+          "text": "great thing.",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "great",
+              "clip_start": 51.399,
+              "clip_end": 51.62,
+              "global_start": 177.755,
+              "global_end": 177.976,
+              "score": 0.781
+            },
+            {
+              "word": "thing.",
+              "clip_start": 51.68,
+              "clip_end": 51.941,
+              "global_start": 178.036,
+              "global_end": 178.297,
+              "score": 0.791
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_051",
+          "range_index": 0,
+          "start_time": 51.981,
+          "end_time": 52.843,
+          "duration_s": 0.862,
+          "text": "This is why you",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "This",
+              "clip_start": 51.981,
+              "clip_end": 52.121,
+              "global_start": 178.337,
+              "global_end": 178.477,
+              "score": 0.688
+            },
+            {
+              "word": "is",
+              "clip_start": 52.181,
+              "clip_end": 52.261,
+              "global_start": 178.537,
+              "global_end": 178.617,
+              "score": 0.502
+            },
+            {
+              "word": "why",
+              "clip_start": 52.362,
+              "clip_end": 52.683,
+              "global_start": 178.718,
+              "global_end": 179.039,
+              "score": 0.806
+            },
+            {
+              "word": "you",
+              "clip_start": 52.763,
+              "clip_end": 52.843,
+              "global_start": 179.119,
+              "global_end": 179.199,
+              "score": 0.923
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_052",
+          "range_index": 0,
+          "start_time": 52.863,
+          "end_time": 53.806,
+          "duration_s": 0.943,
+          "text": "would remember that there",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "would",
+              "clip_start": 52.863,
+              "clip_end": 53.024,
+              "global_start": 179.219,
+              "global_end": 179.38,
+              "score": 0.982
+            },
+            {
+              "word": "remember",
+              "clip_start": 53.064,
+              "clip_end": 53.445,
+              "global_start": 179.42,
+              "global_end": 179.801,
+              "score": 0.813
+            },
+            {
+              "word": "that",
+              "clip_start": 53.505,
+              "clip_end": 53.625,
+              "global_start": 179.861,
+              "global_end": 179.981,
+              "score": 0.818
+            },
+            {
+              "word": "there",
+              "clip_start": 53.645,
+              "clip_end": 53.806,
+              "global_start": 180.001,
+              "global_end": 180.162,
+              "score": 0.942
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_053",
+          "range_index": 0,
+          "start_time": 53.846,
+          "end_time": 55.17,
+          "duration_s": 1.324,
+          "text": "are gazelles around a",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "are",
+              "clip_start": 53.846,
+              "clip_end": 53.926,
+              "global_start": 180.202,
+              "global_end": 180.282,
+              "score": 0.849
+            },
+            {
+              "word": "gazelles",
+              "clip_start": 54.247,
+              "clip_end": 54.769,
+              "global_start": 180.603,
+              "global_end": 181.125,
+              "score": 0.925
+            },
+            {
+              "word": "around",
+              "clip_start": 54.829,
+              "clip_end": 55.09,
+              "global_start": 181.185,
+              "global_end": 181.446,
+              "score": 0.911
+            },
+            {
+              "word": "a",
+              "clip_start": 55.13,
+              "clip_end": 55.17,
+              "global_start": 181.486,
+              "global_end": 181.526,
+              "score": 0.497
+            }
+          ]
+        },
+        {
+          "group_id": "cand_1_cap_054",
+          "range_index": 0,
+          "start_time": 55.21,
+          "end_time": 55.631,
+          "duration_s": 0.421,
+          "text": "watering",
+          "word_count": 1,
+          "words": [
+            {
+              "word": "watering",
+              "clip_start": 55.21,
+              "clip_end": 55.631,
+              "global_start": 181.566,
+              "global_end": 181.987,
+              "score": 0.853
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "candidate_id": 2,
+      "total_clip_duration_s": 58.383,
+      "caption_group_count": 55,
+      "caption_groups": [
+        {
+          "group_id": "cand_2_cap_001",
+          "range_index": 0,
+          "start_time": 0.0,
+          "end_time": 1.0,
+          "duration_s": 1.0,
+          "text": "for specific reasons.",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "for",
+              "clip_start": 0.0,
+              "clip_end": 0.14,
+              "global_start": 399.853,
+              "global_end": 399.993,
+              "score": 0.731
+            },
+            {
+              "word": "specific",
+              "clip_start": 0.2,
+              "clip_end": 0.68,
+              "global_start": 400.053,
+              "global_end": 400.533,
+              "score": 0.851
+            },
+            {
+              "word": "reasons.",
+              "clip_start": 0.74,
+              "clip_end": 1.0,
+              "global_start": 400.593,
+              "global_end": 400.853,
+              "score": 0.922
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_002",
+          "range_index": 0,
+          "start_time": 1.02,
+          "end_time": 1.36,
+          "duration_s": 0.34,
+          "text": "I'll give you an",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "I'll",
+              "clip_start": 1.02,
+              "clip_end": 1.12,
+              "global_start": 400.873,
+              "global_end": 400.973,
+              "score": 0.912
+            },
+            {
+              "word": "give",
+              "clip_start": 1.14,
+              "clip_end": 1.22,
+              "global_start": 400.993,
+              "global_end": 401.073,
+              "score": 0.996
+            },
+            {
+              "word": "you",
+              "clip_start": 1.24,
+              "clip_end": 1.3,
+              "global_start": 401.093,
+              "global_end": 401.153,
+              "score": 0.963
+            },
+            {
+              "word": "an",
+              "clip_start": 1.32,
+              "clip_end": 1.36,
+              "global_start": 401.173,
+              "global_end": 401.213,
+              "score": 0.634
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_003",
+          "range_index": 0,
+          "start_time": 1.4,
+          "end_time": 1.8,
+          "duration_s": 0.4,
+          "text": "example.",
+          "word_count": 1,
+          "words": [
+            {
+              "word": "example.",
+              "clip_start": 1.4,
+              "clip_end": 1.8,
+              "global_start": 401.253,
+              "global_end": 401.653,
+              "score": 0.897
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_004",
+          "range_index": 0,
+          "start_time": 2.4,
+          "end_time": 3.041,
+          "duration_s": 0.641,
+          "text": "There's a part of",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "There's",
+              "clip_start": 2.4,
+              "clip_end": 2.6,
+              "global_start": 402.253,
+              "global_end": 402.453,
+              "score": 0.843
+            },
+            {
+              "word": "a",
+              "clip_start": 2.64,
+              "clip_end": 2.661,
+              "global_start": 402.493,
+              "global_end": 402.514,
+              "score": 0.997
+            },
+            {
+              "word": "part",
+              "clip_start": 2.741,
+              "clip_end": 2.981,
+              "global_start": 402.594,
+              "global_end": 402.834,
+              "score": 0.781
+            },
+            {
+              "word": "of",
+              "clip_start": 3.001,
+              "clip_end": 3.041,
+              "global_start": 402.854,
+              "global_end": 402.894,
+              "score": 0.632
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_005",
+          "range_index": 0,
+          "start_time": 3.061,
+          "end_time": 3.841,
+          "duration_s": 0.78,
+          "text": "the limbic system called",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "the",
+              "clip_start": 3.061,
+              "clip_end": 3.141,
+              "global_start": 402.914,
+              "global_end": 402.994,
+              "score": 0.811
+            },
+            {
+              "word": "limbic",
+              "clip_start": 3.181,
+              "clip_end": 3.381,
+              "global_start": 403.034,
+              "global_end": 403.234,
+              "score": 0.676
+            },
+            {
+              "word": "system",
+              "clip_start": 3.401,
+              "clip_end": 3.641,
+              "global_start": 403.254,
+              "global_end": 403.494,
+              "score": 0.738
+            },
+            {
+              "word": "called",
+              "clip_start": 3.681,
+              "clip_end": 3.841,
+              "global_start": 403.534,
+              "global_end": 403.694,
+              "score": 0.823
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_006",
+          "range_index": 0,
+          "start_time": 3.861,
+          "end_time": 5.581,
+          "duration_s": 1.72,
+          "text": "the dorsal anterior singulate",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "the",
+              "clip_start": 3.861,
+              "clip_end": 3.921,
+              "global_start": 403.714,
+              "global_end": 403.774,
+              "score": 0.894
+            },
+            {
+              "word": "dorsal",
+              "clip_start": 4.041,
+              "clip_end": 4.521,
+              "global_start": 403.894,
+              "global_end": 404.374,
+              "score": 0.728
+            },
+            {
+              "word": "anterior",
+              "clip_start": 4.641,
+              "clip_end": 5.201,
+              "global_start": 404.494,
+              "global_end": 405.054,
+              "score": 0.835
+            },
+            {
+              "word": "singulate",
+              "clip_start": 5.221,
+              "clip_end": 5.581,
+              "global_start": 405.074,
+              "global_end": 405.434,
+              "score": 0.702
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_007",
+          "range_index": 0,
+          "start_time": 5.621,
+          "end_time": 6.041,
+          "duration_s": 0.42,
+          "text": "cortex.",
+          "word_count": 1,
+          "words": [
+            {
+              "word": "cortex.",
+              "clip_start": 5.621,
+              "clip_end": 6.041,
+              "global_start": 405.474,
+              "global_end": 405.894,
+              "score": 0.672
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_008",
+          "range_index": 0,
+          "start_time": 6.521,
+          "end_time": 8.342,
+          "duration_s": 1.821,
+          "text": "It's dedicated to help",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "It's",
+              "clip_start": 6.521,
+              "clip_end": 6.661,
+              "global_start": 406.374,
+              "global_end": 406.514,
+              "score": 0.769
+            },
+            {
+              "word": "dedicated",
+              "clip_start": 6.821,
+              "clip_end": 7.442,
+              "global_start": 406.674,
+              "global_end": 407.295,
+              "score": 0.879
+            },
+            {
+              "word": "to",
+              "clip_start": 7.562,
+              "clip_end": 7.722,
+              "global_start": 407.415,
+              "global_end": 407.575,
+              "score": 0.858
+            },
+            {
+              "word": "help",
+              "clip_start": 8.062,
+              "clip_end": 8.342,
+              "global_start": 407.915,
+              "global_end": 408.195,
+              "score": 0.795
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_009",
+          "range_index": 0,
+          "start_time": 8.442,
+          "end_time": 10.422,
+          "duration_s": 1.98,
+          "text": "you feel social exclusion,",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "you",
+              "clip_start": 8.442,
+              "clip_end": 8.642,
+              "global_start": 408.295,
+              "global_end": 408.495,
+              "score": 0.86
+            },
+            {
+              "word": "feel",
+              "clip_start": 8.782,
+              "clip_end": 9.122,
+              "global_start": 408.635,
+              "global_end": 408.975,
+              "score": 0.843
+            },
+            {
+              "word": "social",
+              "clip_start": 9.362,
+              "clip_end": 9.742,
+              "global_start": 409.215,
+              "global_end": 409.595,
+              "score": 0.775
+            },
+            {
+              "word": "exclusion,",
+              "clip_start": 9.802,
+              "clip_end": 10.422,
+              "global_start": 409.655,
+              "global_end": 410.275,
+              "score": 0.908
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_010",
+          "range_index": 0,
+          "start_time": 10.602,
+          "end_time": 11.243,
+          "duration_s": 0.641,
+          "text": "sadness.",
+          "word_count": 1,
+          "words": [
+            {
+              "word": "sadness.",
+              "clip_start": 10.602,
+              "clip_end": 11.243,
+              "global_start": 410.455,
+              "global_end": 411.096,
+              "score": 0.876
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_011",
+          "range_index": 0,
+          "start_time": 11.903,
+          "end_time": 12.623,
+          "duration_s": 0.72,
+          "text": "It lights up like",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "It",
+              "clip_start": 11.903,
+              "clip_end": 11.983,
+              "global_start": 411.756,
+              "global_end": 411.836,
+              "score": 0.832
+            },
+            {
+              "word": "lights",
+              "clip_start": 12.143,
+              "clip_end": 12.363,
+              "global_start": 411.996,
+              "global_end": 412.216,
+              "score": 0.933
+            },
+            {
+              "word": "up",
+              "clip_start": 12.423,
+              "clip_end": 12.483,
+              "global_start": 412.276,
+              "global_end": 412.336,
+              "score": 0.878
+            },
+            {
+              "word": "like",
+              "clip_start": 12.523,
+              "clip_end": 12.623,
+              "global_start": 412.376,
+              "global_end": 412.476,
+              "score": 0.874
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_012",
+          "range_index": 0,
+          "start_time": 12.663,
+          "end_time": 13.663,
+          "duration_s": 1.0,
+          "text": "a Christmas tree.",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "a",
+              "clip_start": 12.663,
+              "clip_end": 12.703,
+              "global_start": 412.516,
+              "global_end": 412.556,
+              "score": 0.499
+            },
+            {
+              "word": "Christmas",
+              "clip_start": 12.823,
+              "clip_end": 13.323,
+              "global_start": 412.676,
+              "global_end": 413.176,
+              "score": 0.7
+            },
+            {
+              "word": "tree.",
+              "clip_start": 13.383,
+              "clip_end": 13.663,
+              "global_start": 413.236,
+              "global_end": 413.516,
+              "score": 0.873
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_013",
+          "range_index": 0,
+          "start_time": 13.743,
+          "end_time": 14.663,
+          "duration_s": 0.92,
+          "text": "If you lose somebody",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "If",
+              "clip_start": 13.743,
+              "clip_end": 13.803,
+              "global_start": 413.596,
+              "global_end": 413.656,
+              "score": 0.972
+            },
+            {
+              "word": "you",
+              "clip_start": 13.843,
+              "clip_end": 14.003,
+              "global_start": 413.696,
+              "global_end": 413.856,
+              "score": 0.773
+            },
+            {
+              "word": "lose",
+              "clip_start": 14.063,
+              "clip_end": 14.323,
+              "global_start": 413.916,
+              "global_end": 414.176,
+              "score": 0.823
+            },
+            {
+              "word": "somebody",
+              "clip_start": 14.363,
+              "clip_end": 14.663,
+              "global_start": 414.216,
+              "global_end": 414.516,
+              "score": 0.848
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_014",
+          "range_index": 0,
+          "start_time": 14.683,
+          "end_time": 15.404,
+          "duration_s": 0.721,
+          "text": "that you love,",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "that",
+              "clip_start": 14.683,
+              "clip_end": 14.783,
+              "global_start": 414.536,
+              "global_end": 414.636,
+              "score": 0.871
+            },
+            {
+              "word": "you",
+              "clip_start": 14.823,
+              "clip_end": 14.963,
+              "global_start": 414.676,
+              "global_end": 414.816,
+              "score": 0.867
+            },
+            {
+              "word": "love,",
+              "clip_start": 15.023,
+              "clip_end": 15.404,
+              "global_start": 414.876,
+              "global_end": 415.257,
+              "score": 0.827
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_015",
+          "range_index": 0,
+          "start_time": 15.484,
+          "end_time": 16.484,
+          "duration_s": 1.0,
+          "text": "if somebody leaves you",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "if",
+              "clip_start": 15.484,
+              "clip_end": 15.564,
+              "global_start": 415.337,
+              "global_end": 415.417,
+              "score": 0.986
+            },
+            {
+              "word": "somebody",
+              "clip_start": 15.604,
+              "clip_end": 15.924,
+              "global_start": 415.457,
+              "global_end": 415.777,
+              "score": 0.691
+            },
+            {
+              "word": "leaves",
+              "clip_start": 16.044,
+              "clip_end": 16.344,
+              "global_start": 415.897,
+              "global_end": 416.197,
+              "score": 0.794
+            },
+            {
+              "word": "you",
+              "clip_start": 16.384,
+              "clip_end": 16.484,
+              "global_start": 416.237,
+              "global_end": 416.337,
+              "score": 0.834
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_016",
+          "range_index": 0,
+          "start_time": 16.524,
+          "end_time": 17.444,
+          "duration_s": 0.92,
+          "text": "with the altar,",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "with",
+              "clip_start": 16.524,
+              "clip_end": 16.624,
+              "global_start": 416.377,
+              "global_end": 416.477,
+              "score": 0.838
+            },
+            {
+              "word": "the",
+              "clip_start": 16.644,
+              "clip_end": 16.744,
+              "global_start": 416.497,
+              "global_end": 416.597,
+              "score": 0.67
+            },
+            {
+              "word": "altar,",
+              "clip_start": 16.944,
+              "clip_end": 17.444,
+              "global_start": 416.797,
+              "global_end": 417.297,
+              "score": 0.726
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_017",
+          "range_index": 0,
+          "start_time": 17.704,
+          "end_time": 17.784,
+          "duration_s": 0.08,
+          "text": "if",
+          "word_count": 1,
+          "words": [
+            {
+              "word": "if",
+              "clip_start": 17.704,
+              "clip_end": 17.784,
+              "global_start": 417.557,
+              "global_end": 417.637,
+              "score": 0.887
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_018",
+          "range_index": 0,
+          "start_time": 18.204,
+          "end_time": 19.104,
+          "duration_s": 0.9,
+          "text": "somebody that you love",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "somebody",
+              "clip_start": 18.204,
+              "clip_end": 18.504,
+              "global_start": 418.057,
+              "global_end": 418.357,
+              "score": 0.852
+            },
+            {
+              "word": "that",
+              "clip_start": 18.524,
+              "clip_end": 18.624,
+              "global_start": 418.377,
+              "global_end": 418.477,
+              "score": 0.906
+            },
+            {
+              "word": "you",
+              "clip_start": 18.664,
+              "clip_end": 18.804,
+              "global_start": 418.517,
+              "global_end": 418.657,
+              "score": 0.83
+            },
+            {
+              "word": "love",
+              "clip_start": 18.864,
+              "clip_end": 19.104,
+              "global_start": 418.717,
+              "global_end": 418.957,
+              "score": 0.861
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_019",
+          "range_index": 0,
+          "start_time": 19.424,
+          "end_time": 20.645,
+          "duration_s": 1.221,
+          "text": "dies and you're feeling",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "dies",
+              "clip_start": 19.424,
+              "clip_end": 19.965,
+              "global_start": 419.277,
+              "global_end": 419.818,
+              "score": 0.78
+            },
+            {
+              "word": "and",
+              "clip_start": 20.105,
+              "clip_end": 20.165,
+              "global_start": 419.958,
+              "global_end": 420.018,
+              "score": 0.99
+            },
+            {
+              "word": "you're",
+              "clip_start": 20.205,
+              "clip_end": 20.325,
+              "global_start": 420.058,
+              "global_end": 420.178,
+              "score": 0.737
+            },
+            {
+              "word": "feeling",
+              "clip_start": 20.345,
+              "clip_end": 20.645,
+              "global_start": 420.198,
+              "global_end": 420.498,
+              "score": 0.751
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_020",
+          "range_index": 0,
+          "start_time": 20.705,
+          "end_time": 21.045,
+          "duration_s": 0.34,
+          "text": "grief,",
+          "word_count": 1,
+          "words": [
+            {
+              "word": "grief,",
+              "clip_start": 20.705,
+              "clip_end": 21.045,
+              "global_start": 420.558,
+              "global_end": 420.898,
+              "score": 0.845
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_021",
+          "range_index": 0,
+          "start_time": 21.645,
+          "end_time": 23.005,
+          "duration_s": 1.36,
+          "text": "That dorsal interior singular",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "That",
+              "clip_start": 21.645,
+              "clip_end": 21.785,
+              "global_start": 421.498,
+              "global_end": 421.638,
+              "score": 0.867
+            },
+            {
+              "word": "dorsal",
+              "clip_start": 21.845,
+              "clip_end": 22.205,
+              "global_start": 421.698,
+              "global_end": 422.058,
+              "score": 0.783
+            },
+            {
+              "word": "interior",
+              "clip_start": 22.225,
+              "clip_end": 22.625,
+              "global_start": 422.078,
+              "global_end": 422.478,
+              "score": 0.729
+            },
+            {
+              "word": "singular",
+              "clip_start": 22.665,
+              "clip_end": 23.005,
+              "global_start": 422.518,
+              "global_end": 422.858,
+              "score": 0.875
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_022",
+          "range_index": 0,
+          "start_time": 23.046,
+          "end_time": 24.306,
+          "duration_s": 1.26,
+          "text": "cortex is on full",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "cortex",
+              "clip_start": 23.046,
+              "clip_end": 23.526,
+              "global_start": 422.899,
+              "global_end": 423.379,
+              "score": 0.798
+            },
+            {
+              "word": "is",
+              "clip_start": 23.586,
+              "clip_end": 23.646,
+              "global_start": 423.439,
+              "global_end": 423.499,
+              "score": 0.844
+            },
+            {
+              "word": "on",
+              "clip_start": 23.766,
+              "clip_end": 23.866,
+              "global_start": 423.619,
+              "global_end": 423.719,
+              "score": 0.751
+            },
+            {
+              "word": "full",
+              "clip_start": 24.026,
+              "clip_end": 24.306,
+              "global_start": 423.879,
+              "global_end": 424.159,
+              "score": 0.877
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_023",
+          "range_index": 0,
+          "start_time": 24.346,
+          "end_time": 25.086,
+          "duration_s": 0.74,
+          "text": "blast. Now,",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "blast.",
+              "clip_start": 24.346,
+              "clip_end": 24.826,
+              "global_start": 424.199,
+              "global_end": 424.679,
+              "score": 0.879
+            },
+            {
+              "word": "Now,",
+              "clip_start": 24.946,
+              "clip_end": 25.086,
+              "global_start": 424.799,
+              "global_end": 424.939,
+              "score": 0.978
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_024",
+          "range_index": 0,
+          "start_time": 25.306,
+          "end_time": 27.007,
+          "duration_s": 1.701,
+          "text": "why would be evolved",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "why",
+              "clip_start": 25.306,
+              "clip_end": 25.626,
+              "global_start": 425.159,
+              "global_end": 425.479,
+              "score": 0.767
+            },
+            {
+              "word": "would",
+              "clip_start": 25.686,
+              "clip_end": 26.027,
+              "global_start": 425.539,
+              "global_end": 425.88,
+              "score": 0.704
+            },
+            {
+              "word": "be",
+              "clip_start": 26.327,
+              "clip_end": 26.467,
+              "global_start": 426.18,
+              "global_end": 426.32,
+              "score": 0.827
+            },
+            {
+              "word": "evolved",
+              "clip_start": 26.567,
+              "clip_end": 27.007,
+              "global_start": 426.42,
+              "global_end": 426.86,
+              "score": 0.861
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_025",
+          "range_index": 0,
+          "start_time": 27.027,
+          "end_time": 28.487,
+          "duration_s": 1.46,
+          "text": "to feel grief or",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "to",
+              "clip_start": 27.027,
+              "clip_end": 27.107,
+              "global_start": 426.88,
+              "global_end": 426.96,
+              "score": 0.508
+            },
+            {
+              "word": "feel",
+              "clip_start": 27.127,
+              "clip_end": 27.327,
+              "global_start": 426.98,
+              "global_end": 427.18,
+              "score": 0.83
+            },
+            {
+              "word": "grief",
+              "clip_start": 27.387,
+              "clip_end": 27.767,
+              "global_start": 427.24,
+              "global_end": 427.62,
+              "score": 0.949
+            },
+            {
+              "word": "or",
+              "clip_start": 27.847,
+              "clip_end": 28.487,
+              "global_start": 427.7,
+              "global_end": 428.34,
+              "score": 0.905
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_026",
+          "range_index": 0,
+          "start_time": 28.607,
+          "end_time": 29.528,
+          "duration_s": 0.921,
+          "text": "any sadness for that",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "any",
+              "clip_start": 28.607,
+              "clip_end": 28.768,
+              "global_start": 428.46,
+              "global_end": 428.621,
+              "score": 0.791
+            },
+            {
+              "word": "sadness",
+              "clip_start": 28.828,
+              "clip_end": 29.248,
+              "global_start": 428.681,
+              "global_end": 429.101,
+              "score": 0.873
+            },
+            {
+              "word": "for",
+              "clip_start": 29.268,
+              "clip_end": 29.348,
+              "global_start": 429.121,
+              "global_end": 429.201,
+              "score": 0.851
+            },
+            {
+              "word": "that",
+              "clip_start": 29.388,
+              "clip_end": 29.528,
+              "global_start": 429.241,
+              "global_end": 429.381,
+              "score": 0.828
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_027",
+          "range_index": 0,
+          "start_time": 29.588,
+          "end_time": 30.388,
+          "duration_s": 0.8,
+          "text": "matter? I hear people",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "matter?",
+              "clip_start": 29.588,
+              "clip_end": 29.868,
+              "global_start": 429.441,
+              "global_end": 429.721,
+              "score": 0.884
+            },
+            {
+              "word": "I",
+              "clip_start": 29.888,
+              "clip_end": 29.968,
+              "global_start": 429.741,
+              "global_end": 429.821,
+              "score": 0.545
+            },
+            {
+              "word": "hear",
+              "clip_start": 30.008,
+              "clip_end": 30.148,
+              "global_start": 429.861,
+              "global_end": 430.001,
+              "score": 0.751
+            },
+            {
+              "word": "people",
+              "clip_start": 30.188,
+              "clip_end": 30.388,
+              "global_start": 430.041,
+              "global_end": 430.241,
+              "score": 0.856
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_028",
+          "range_index": 0,
+          "start_time": 30.428,
+          "end_time": 30.928,
+          "duration_s": 0.5,
+          "text": "say, I want to",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "say,",
+              "clip_start": 30.428,
+              "clip_end": 30.568,
+              "global_start": 430.281,
+              "global_end": 430.421,
+              "score": 0.871
+            },
+            {
+              "word": "I",
+              "clip_start": 30.588,
+              "clip_end": 30.608,
+              "global_start": 430.441,
+              "global_end": 430.461,
+              "score": 0.015
+            },
+            {
+              "word": "want",
+              "clip_start": 30.748,
+              "clip_end": 30.868,
+              "global_start": 430.601,
+              "global_end": 430.721,
+              "score": 0.686
+            },
+            {
+              "word": "to",
+              "clip_start": 30.888,
+              "clip_end": 30.928,
+              "global_start": 430.741,
+              "global_end": 430.781,
+              "score": 0.488
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_029",
+          "range_index": 0,
+          "start_time": 30.948,
+          "end_time": 31.829,
+          "duration_s": 0.881,
+          "text": "live without sadness.",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "live",
+              "clip_start": 30.948,
+              "clip_end": 31.028,
+              "global_start": 430.801,
+              "global_end": 430.881,
+              "score": 0.998
+            },
+            {
+              "word": "without",
+              "clip_start": 31.048,
+              "clip_end": 31.268,
+              "global_start": 430.901,
+              "global_end": 431.121,
+              "score": 0.829
+            },
+            {
+              "word": "sadness.",
+              "clip_start": 31.328,
+              "clip_end": 31.829,
+              "global_start": 431.181,
+              "global_end": 431.682,
+              "score": 0.884
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_030",
+          "range_index": 0,
+          "start_time": 32.349,
+          "end_time": 32.889,
+          "duration_s": 0.54,
+          "text": "No, you don't.",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "No,",
+              "clip_start": 32.349,
+              "clip_end": 32.449,
+              "global_start": 432.202,
+              "global_end": 432.302,
+              "score": 0.775
+            },
+            {
+              "word": "you",
+              "clip_start": 32.469,
+              "clip_end": 32.549,
+              "global_start": 432.322,
+              "global_end": 432.402,
+              "score": 0.796
+            },
+            {
+              "word": "don't.",
+              "clip_start": 32.589,
+              "clip_end": 32.889,
+              "global_start": 432.442,
+              "global_end": 432.742,
+              "score": 0.834
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_031",
+          "range_index": 0,
+          "start_time": 33.589,
+          "end_time": 34.55,
+          "duration_s": 0.961,
+          "text": "If you never had",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "If",
+              "clip_start": 33.589,
+              "clip_end": 33.649,
+              "global_start": 433.442,
+              "global_end": 433.502,
+              "score": 0.999
+            },
+            {
+              "word": "you",
+              "clip_start": 33.689,
+              "clip_end": 33.849,
+              "global_start": 433.542,
+              "global_end": 433.702,
+              "score": 0.891
+            },
+            {
+              "word": "never",
+              "clip_start": 34.029,
+              "clip_end": 34.289,
+              "global_start": 433.882,
+              "global_end": 434.142,
+              "score": 0.788
+            },
+            {
+              "word": "had",
+              "clip_start": 34.369,
+              "clip_end": 34.55,
+              "global_start": 434.222,
+              "global_end": 434.403,
+              "score": 0.848
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_032",
+          "range_index": 0,
+          "start_time": 34.61,
+          "end_time": 35.51,
+          "duration_s": 0.9,
+          "text": "any sadness and it",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "any",
+              "clip_start": 34.61,
+              "clip_end": 34.75,
+              "global_start": 434.463,
+              "global_end": 434.603,
+              "score": 0.736
+            },
+            {
+              "word": "sadness",
+              "clip_start": 34.81,
+              "clip_end": 35.27,
+              "global_start": 434.663,
+              "global_end": 435.123,
+              "score": 0.857
+            },
+            {
+              "word": "and",
+              "clip_start": 35.33,
+              "clip_end": 35.41,
+              "global_start": 435.183,
+              "global_end": 435.263,
+              "score": 0.938
+            },
+            {
+              "word": "it",
+              "clip_start": 35.45,
+              "clip_end": 35.51,
+              "global_start": 435.303,
+              "global_end": 435.363,
+              "score": 0.744
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_033",
+          "range_index": 0,
+          "start_time": 35.59,
+          "end_time": 36.55,
+          "duration_s": 0.96,
+          "text": "didn't really bother you,",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "didn't",
+              "clip_start": 35.59,
+              "clip_end": 35.79,
+              "global_start": 435.443,
+              "global_end": 435.643,
+              "score": 0.923
+            },
+            {
+              "word": "really",
+              "clip_start": 35.83,
+              "clip_end": 36.03,
+              "global_start": 435.683,
+              "global_end": 435.883,
+              "score": 0.836
+            },
+            {
+              "word": "bother",
+              "clip_start": 36.09,
+              "clip_end": 36.39,
+              "global_start": 435.943,
+              "global_end": 436.243,
+              "score": 0.774
+            },
+            {
+              "word": "you,",
+              "clip_start": 36.43,
+              "clip_end": 36.55,
+              "global_start": 436.283,
+              "global_end": 436.403,
+              "score": 0.798
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_034",
+          "range_index": 0,
+          "start_time": 36.69,
+          "end_time": 37.27,
+          "duration_s": 0.58,
+          "text": "if it were not",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "if",
+              "clip_start": 36.69,
+              "clip_end": 36.75,
+              "global_start": 436.543,
+              "global_end": 436.603,
+              "score": 0.998
+            },
+            {
+              "word": "it",
+              "clip_start": 36.81,
+              "clip_end": 36.87,
+              "global_start": 436.663,
+              "global_end": 436.723,
+              "score": 0.756
+            },
+            {
+              "word": "were",
+              "clip_start": 36.91,
+              "clip_end": 37.05,
+              "global_start": 436.763,
+              "global_end": 436.903,
+              "score": 0.663
+            },
+            {
+              "word": "not",
+              "clip_start": 37.11,
+              "clip_end": 37.27,
+              "global_start": 436.963,
+              "global_end": 437.123,
+              "score": 0.898
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_035",
+          "range_index": 0,
+          "start_time": 37.351,
+          "end_time": 38.251,
+          "duration_s": 0.9,
+          "text": "incredibly uncomfortable,",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "incredibly",
+              "clip_start": 37.351,
+              "clip_end": 37.731,
+              "global_start": 437.204,
+              "global_end": 437.584,
+              "score": 0.856
+            },
+            {
+              "word": "uncomfortable,",
+              "clip_start": 37.751,
+              "clip_end": 38.251,
+              "global_start": 437.604,
+              "global_end": 438.104,
+              "score": 0.826
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_036",
+          "range_index": 0,
+          "start_time": 38.551,
+          "end_time": 39.511,
+          "duration_s": 0.96,
+          "text": "you wouldn't do what",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "you",
+              "clip_start": 38.551,
+              "clip_end": 38.671,
+              "global_start": 438.404,
+              "global_end": 438.524,
+              "score": 0.868
+            },
+            {
+              "word": "wouldn't",
+              "clip_start": 38.711,
+              "clip_end": 38.991,
+              "global_start": 438.564,
+              "global_end": 438.844,
+              "score": 0.799
+            },
+            {
+              "word": "do",
+              "clip_start": 39.091,
+              "clip_end": 39.331,
+              "global_start": 438.944,
+              "global_end": 439.184,
+              "score": 0.799
+            },
+            {
+              "word": "what",
+              "clip_start": 39.391,
+              "clip_end": 39.511,
+              "global_start": 439.244,
+              "global_end": 439.364,
+              "score": 0.871
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_037",
+          "range_index": 0,
+          "start_time": 39.571,
+          "end_time": 40.232,
+          "duration_s": 0.661,
+          "text": "you need to do",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "you",
+              "clip_start": 39.571,
+              "clip_end": 39.711,
+              "global_start": 439.424,
+              "global_end": 439.564,
+              "score": 0.914
+            },
+            {
+              "word": "need",
+              "clip_start": 39.751,
+              "clip_end": 39.911,
+              "global_start": 439.604,
+              "global_end": 439.764,
+              "score": 0.882
+            },
+            {
+              "word": "to",
+              "clip_start": 39.951,
+              "clip_end": 40.011,
+              "global_start": 439.804,
+              "global_end": 439.864,
+              "score": 0.996
+            },
+            {
+              "word": "do",
+              "clip_start": 40.051,
+              "clip_end": 40.232,
+              "global_start": 439.904,
+              "global_end": 440.085,
+              "score": 0.782
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_038",
+          "range_index": 0,
+          "start_time": 40.372,
+          "end_time": 41.132,
+          "duration_s": 0.76,
+          "text": "to avoid it.",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "to",
+              "clip_start": 40.372,
+              "clip_end": 40.492,
+              "global_start": 440.225,
+              "global_end": 440.345,
+              "score": 0.69
+            },
+            {
+              "word": "avoid",
+              "clip_start": 40.572,
+              "clip_end": 40.992,
+              "global_start": 440.425,
+              "global_end": 440.845,
+              "score": 0.773
+            },
+            {
+              "word": "it.",
+              "clip_start": 41.072,
+              "clip_end": 41.132,
+              "global_start": 440.925,
+              "global_end": 440.985,
+              "score": 0.874
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_039",
+          "range_index": 0,
+          "start_time": 41.692,
+          "end_time": 42.814,
+          "duration_s": 1.122,
+          "text": "You'd say everything that's",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "You'd",
+              "clip_start": 41.692,
+              "clip_end": 41.892,
+              "global_start": 441.545,
+              "global_end": 441.745,
+              "score": 0.832
+            },
+            {
+              "word": "say",
+              "clip_start": 41.973,
+              "clip_end": 42.233,
+              "global_start": 441.826,
+              "global_end": 442.086,
+              "score": 0.807
+            },
+            {
+              "word": "everything",
+              "clip_start": 42.313,
+              "clip_end": 42.614,
+              "global_start": 442.166,
+              "global_end": 442.467,
+              "score": 0.914
+            },
+            {
+              "word": "that's",
+              "clip_start": 42.634,
+              "clip_end": 42.814,
+              "global_start": 442.487,
+              "global_end": 442.667,
+              "score": 0.838
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_040",
+          "range_index": 0,
+          "start_time": 42.874,
+          "end_time": 43.676,
+          "duration_s": 0.802,
+          "text": "on your mind.",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "on",
+              "clip_start": 42.874,
+              "clip_end": 42.974,
+              "global_start": 442.727,
+              "global_end": 442.827,
+              "score": 0.487
+            },
+            {
+              "word": "your",
+              "clip_start": 43.015,
+              "clip_end": 43.155,
+              "global_start": 442.868,
+              "global_end": 443.008,
+              "score": 0.708
+            },
+            {
+              "word": "mind.",
+              "clip_start": 43.195,
+              "clip_end": 43.676,
+              "global_start": 443.048,
+              "global_end": 443.529,
+              "score": 0.821
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_041",
+          "range_index": 0,
+          "start_time": 43.956,
+          "end_time": 44.898,
+          "duration_s": 0.942,
+          "text": "You'd do all kinds",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "You'd",
+              "clip_start": 43.956,
+              "clip_end": 44.096,
+              "global_start": 443.809,
+              "global_end": 443.949,
+              "score": 0.722
+            },
+            {
+              "word": "do",
+              "clip_start": 44.117,
+              "clip_end": 44.197,
+              "global_start": 443.97,
+              "global_end": 444.05,
+              "score": 0.851
+            },
+            {
+              "word": "all",
+              "clip_start": 44.357,
+              "clip_end": 44.517,
+              "global_start": 444.21,
+              "global_end": 444.37,
+              "score": 0.766
+            },
+            {
+              "word": "kinds",
+              "clip_start": 44.597,
+              "clip_end": 44.898,
+              "global_start": 444.45,
+              "global_end": 444.751,
+              "score": 0.667
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_042",
+          "range_index": 0,
+          "start_time": 44.958,
+          "end_time": 45.679,
+          "duration_s": 0.721,
+          "text": "of things that would",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "of",
+              "clip_start": 44.958,
+              "clip_end": 45.018,
+              "global_start": 444.811,
+              "global_end": 444.871,
+              "score": 0.751
+            },
+            {
+              "word": "things",
+              "clip_start": 45.058,
+              "clip_end": 45.339,
+              "global_start": 444.911,
+              "global_end": 445.192,
+              "score": 0.684
+            },
+            {
+              "word": "that",
+              "clip_start": 45.379,
+              "clip_end": 45.479,
+              "global_start": 445.232,
+              "global_end": 445.332,
+              "score": 0.997
+            },
+            {
+              "word": "would",
+              "clip_start": 45.519,
+              "clip_end": 45.679,
+              "global_start": 445.372,
+              "global_end": 445.532,
+              "score": 0.711
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_043",
+          "range_index": 0,
+          "start_time": 45.719,
+          "end_time": 46.781,
+          "duration_s": 1.062,
+          "text": "make people throw you",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "make",
+              "clip_start": 45.719,
+              "clip_end": 45.88,
+              "global_start": 445.572,
+              "global_end": 445.733,
+              "score": 0.825
+            },
+            {
+              "word": "people",
+              "clip_start": 45.94,
+              "clip_end": 46.2,
+              "global_start": 445.793,
+              "global_end": 446.053,
+              "score": 0.626
+            },
+            {
+              "word": "throw",
+              "clip_start": 46.321,
+              "clip_end": 46.621,
+              "global_start": 446.174,
+              "global_end": 446.474,
+              "score": 0.791
+            },
+            {
+              "word": "you",
+              "clip_start": 46.661,
+              "clip_end": 46.781,
+              "global_start": 446.514,
+              "global_end": 446.634,
+              "score": 0.639
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_044",
+          "range_index": 0,
+          "start_time": 46.821,
+          "end_time": 48.164,
+          "duration_s": 1.343,
+          "text": "out of the tribe.",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "out",
+              "clip_start": 46.821,
+              "clip_end": 46.902,
+              "global_start": 446.674,
+              "global_end": 446.755,
+              "score": 0.834
+            },
+            {
+              "word": "of",
+              "clip_start": 46.942,
+              "clip_end": 46.982,
+              "global_start": 446.795,
+              "global_end": 446.835,
+              "score": 0.976
+            },
+            {
+              "word": "the",
+              "clip_start": 47.002,
+              "clip_end": 47.082,
+              "global_start": 446.855,
+              "global_end": 446.935,
+              "score": 0.675
+            },
+            {
+              "word": "tribe.",
+              "clip_start": 47.142,
+              "clip_end": 48.164,
+              "global_start": 446.995,
+              "global_end": 448.017,
+              "score": 0.765
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_045",
+          "range_index": 0,
+          "start_time": 48.204,
+          "end_time": 49.346,
+          "duration_s": 1.142,
+          "text": "250,000 years ago,",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "250,000",
+              "clip_start": 48.204,
+              "clip_end": 48.905,
+              "global_start": 448.057,
+              "global_end": 448.758,
+              "score": 0.651
+            },
+            {
+              "word": "years",
+              "clip_start": 48.945,
+              "clip_end": 49.106,
+              "global_start": 448.798,
+              "global_end": 448.959,
+              "score": 0.801
+            },
+            {
+              "word": "ago,",
+              "clip_start": 49.146,
+              "clip_end": 49.346,
+              "global_start": 448.999,
+              "global_end": 449.199,
+              "score": 0.899
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_046",
+          "range_index": 0,
+          "start_time": 49.386,
+          "end_time": 49.987,
+          "duration_s": 0.601,
+          "text": "that would mean that",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "that",
+              "clip_start": 49.386,
+              "clip_end": 49.506,
+              "global_start": 449.239,
+              "global_end": 449.359,
+              "score": 0.782
+            },
+            {
+              "word": "would",
+              "clip_start": 49.546,
+              "clip_end": 49.707,
+              "global_start": 449.399,
+              "global_end": 449.56,
+              "score": 0.701
+            },
+            {
+              "word": "mean",
+              "clip_start": 49.727,
+              "clip_end": 49.887,
+              "global_start": 449.58,
+              "global_end": 449.74,
+              "score": 0.834
+            },
+            {
+              "word": "that",
+              "clip_start": 49.907,
+              "clip_end": 49.987,
+              "global_start": 449.76,
+              "global_end": 449.84,
+              "score": 0.488
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_047",
+          "range_index": 0,
+          "start_time": 50.007,
+          "end_time": 50.608,
+          "duration_s": 0.601,
+          "text": "you're going to walk",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "you're",
+              "clip_start": 50.007,
+              "clip_end": 50.127,
+              "global_start": 449.86,
+              "global_end": 449.98,
+              "score": 0.981
+            },
+            {
+              "word": "going",
+              "clip_start": 50.148,
+              "clip_end": 50.248,
+              "global_start": 450.001,
+              "global_end": 450.101,
+              "score": 0.25
+            },
+            {
+              "word": "to",
+              "clip_start": 50.268,
+              "clip_end": 50.308,
+              "global_start": 450.121,
+              "global_end": 450.161,
+              "score": 0.334
+            },
+            {
+              "word": "walk",
+              "clip_start": 50.348,
+              "clip_end": 50.608,
+              "global_start": 450.201,
+              "global_end": 450.461,
+              "score": 0.942
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_048",
+          "range_index": 0,
+          "start_time": 50.648,
+          "end_time": 51.67,
+          "duration_s": 1.022,
+          "text": "the frozen tundra and",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "the",
+              "clip_start": 50.648,
+              "clip_end": 50.749,
+              "global_start": 450.501,
+              "global_end": 450.602,
+              "score": 0.718
+            },
+            {
+              "word": "frozen",
+              "clip_start": 50.789,
+              "clip_end": 51.109,
+              "global_start": 450.642,
+              "global_end": 450.962,
+              "score": 0.89
+            },
+            {
+              "word": "tundra",
+              "clip_start": 51.149,
+              "clip_end": 51.51,
+              "global_start": 451.002,
+              "global_end": 451.363,
+              "score": 0.896
+            },
+            {
+              "word": "and",
+              "clip_start": 51.57,
+              "clip_end": 51.67,
+              "global_start": 451.423,
+              "global_end": 451.523,
+              "score": 0.689
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_049",
+          "range_index": 0,
+          "start_time": 51.77,
+          "end_time": 52.472,
+          "duration_s": 0.702,
+          "text": "die alone,",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "die",
+              "clip_start": 51.77,
+              "clip_end": 52.031,
+              "global_start": 451.623,
+              "global_end": 451.884,
+              "score": 0.805
+            },
+            {
+              "word": "alone,",
+              "clip_start": 52.091,
+              "clip_end": 52.472,
+              "global_start": 451.944,
+              "global_end": 452.325,
+              "score": 0.834
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_050",
+          "range_index": 0,
+          "start_time": 52.852,
+          "end_time": 53.674,
+          "duration_s": 0.822,
+          "text": "and you don't want",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "and",
+              "clip_start": 52.852,
+              "clip_end": 52.953,
+              "global_start": 452.705,
+              "global_end": 452.806,
+              "score": 0.794
+            },
+            {
+              "word": "you",
+              "clip_start": 53.013,
+              "clip_end": 53.153,
+              "global_start": 452.866,
+              "global_end": 453.006,
+              "score": 0.667
+            },
+            {
+              "word": "don't",
+              "clip_start": 53.193,
+              "clip_end": 53.373,
+              "global_start": 453.046,
+              "global_end": 453.226,
+              "score": 0.609
+            },
+            {
+              "word": "want",
+              "clip_start": 53.433,
+              "clip_end": 53.674,
+              "global_start": 453.286,
+              "global_end": 453.527,
+              "score": 0.712
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_051",
+          "range_index": 0,
+          "start_time": 53.734,
+          "end_time": 54.756,
+          "duration_s": 1.022,
+          "text": "that. Today,",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "that.",
+              "clip_start": 53.734,
+              "clip_end": 53.974,
+              "global_start": 453.587,
+              "global_end": 453.827,
+              "score": 0.927
+            },
+            {
+              "word": "Today,",
+              "clip_start": 54.355,
+              "clip_end": 54.756,
+              "global_start": 454.208,
+              "global_end": 454.609,
+              "score": 0.781
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_052",
+          "range_index": 0,
+          "start_time": 54.916,
+          "end_time": 55.457,
+          "duration_s": 0.541,
+          "text": "it would mean that",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "it",
+              "clip_start": 54.916,
+              "clip_end": 54.976,
+              "global_start": 454.769,
+              "global_end": 454.829,
+              "score": 0.772
+            },
+            {
+              "word": "would",
+              "clip_start": 55.016,
+              "clip_end": 55.157,
+              "global_start": 454.869,
+              "global_end": 455.01,
+              "score": 0.8
+            },
+            {
+              "word": "mean",
+              "clip_start": 55.177,
+              "clip_end": 55.317,
+              "global_start": 455.03,
+              "global_end": 455.17,
+              "score": 0.858
+            },
+            {
+              "word": "that",
+              "clip_start": 55.357,
+              "clip_end": 55.457,
+              "global_start": 455.21,
+              "global_end": 455.31,
+              "score": 0.937
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_053",
+          "range_index": 0,
+          "start_time": 55.477,
+          "end_time": 56.118,
+          "duration_s": 0.641,
+          "text": "you're fired,",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "you're",
+              "clip_start": 55.477,
+              "clip_end": 55.638,
+              "global_start": 455.33,
+              "global_end": 455.491,
+              "score": 0.822
+            },
+            {
+              "word": "fired,",
+              "clip_start": 55.698,
+              "clip_end": 56.118,
+              "global_start": 455.551,
+              "global_end": 455.971,
+              "score": 0.86
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_054",
+          "range_index": 0,
+          "start_time": 56.239,
+          "end_time": 57.401,
+          "duration_s": 1.162,
+          "text": "friendless, and divorced in",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "friendless,",
+              "clip_start": 56.239,
+              "clip_end": 56.679,
+              "global_start": 456.092,
+              "global_end": 456.532,
+              "score": 0.813
+            },
+            {
+              "word": "and",
+              "clip_start": 56.699,
+              "clip_end": 56.78,
+              "global_start": 456.552,
+              "global_end": 456.633,
+              "score": 0.852
+            },
+            {
+              "word": "divorced",
+              "clip_start": 56.82,
+              "clip_end": 57.281,
+              "global_start": 456.673,
+              "global_end": 457.134,
+              "score": 0.857
+            },
+            {
+              "word": "in",
+              "clip_start": 57.321,
+              "clip_end": 57.401,
+              "global_start": 457.174,
+              "global_end": 457.254,
+              "score": 0.546
+            }
+          ]
+        },
+        {
+          "group_id": "cand_2_cap_055",
+          "range_index": 0,
+          "start_time": 57.421,
+          "end_time": 58.383,
+          "duration_s": 0.962,
+          "text": "about two weeks.",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "about",
+              "clip_start": 57.421,
+              "clip_end": 57.621,
+              "global_start": 457.274,
+              "global_end": 457.474,
+              "score": 0.817
+            },
+            {
+              "word": "two",
+              "clip_start": 57.781,
+              "clip_end": 57.982,
+              "global_start": 457.634,
+              "global_end": 457.835,
+              "score": 0.788
+            },
+            {
+              "word": "weeks.",
+              "clip_start": 58.042,
+              "clip_end": 58.383,
+              "global_start": 457.895,
+              "global_end": 458.236,
+              "score": 0.825
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "candidate_id": 3,
+      "total_clip_duration_s": 59.959,
+      "caption_group_count": 66,
+      "caption_groups": [
+        {
+          "group_id": "cand_3_cap_001",
+          "range_index": 0,
+          "start_time": 0.0,
+          "end_time": 0.761,
+          "duration_s": 0.761,
+          "text": "kid that you're ashamed",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "kid",
+              "clip_start": 0.0,
+              "clip_end": 0.18,
+              "global_start": 909.478,
+              "global_end": 909.658,
+              "score": 0.829
+            },
+            {
+              "word": "that",
+              "clip_start": 0.2,
+              "clip_end": 0.28,
+              "global_start": 909.678,
+              "global_end": 909.758,
+              "score": 0.955
+            },
+            {
+              "word": "you're",
+              "clip_start": 0.3,
+              "clip_end": 0.44,
+              "global_start": 909.778,
+              "global_end": 909.918,
+              "score": 0.921
+            },
+            {
+              "word": "ashamed",
+              "clip_start": 0.46,
+              "clip_end": 0.761,
+              "global_start": 909.938,
+              "global_end": 910.239,
+              "score": 0.88
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_002",
+          "range_index": 0,
+          "start_time": 0.841,
+          "end_time": 0.941,
+          "duration_s": 0.1,
+          "text": "of.",
+          "word_count": 1,
+          "words": [
+            {
+              "word": "of.",
+              "clip_start": 0.841,
+              "clip_end": 0.941,
+              "global_start": 910.319,
+              "global_end": 910.419,
+              "score": 0.96
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_003",
+          "range_index": 0,
+          "start_time": 2.319,
+          "end_time": 2.84,
+          "duration_s": 0.521,
+          "text": "Do that.",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "Do",
+              "clip_start": 2.319,
+              "clip_end": 2.499,
+              "global_start": 911.797,
+              "global_end": 911.977,
+              "score": 0.95
+            },
+            {
+              "word": "that.",
+              "clip_start": 2.559,
+              "clip_end": 2.84,
+              "global_start": 912.037,
+              "global_end": 912.318,
+              "score": 0.841
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_004",
+          "range_index": 0,
+          "start_time": 3.62,
+          "end_time": 4.06,
+          "duration_s": 0.44,
+          "text": "Fine.",
+          "word_count": 1,
+          "words": [
+            {
+              "word": "Fine.",
+              "clip_start": 3.62,
+              "clip_end": 4.06,
+              "global_start": 913.098,
+              "global_end": 913.538,
+              "score": 0.789
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_005",
+          "range_index": 0,
+          "start_time": 4.521,
+          "end_time": 5.201,
+          "duration_s": 0.68,
+          "text": "It means being honest",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "It",
+              "clip_start": 4.521,
+              "clip_end": 4.581,
+              "global_start": 913.999,
+              "global_end": 914.059,
+              "score": 0.707
+            },
+            {
+              "word": "means",
+              "clip_start": 4.621,
+              "clip_end": 4.761,
+              "global_start": 914.099,
+              "global_end": 914.239,
+              "score": 0.598
+            },
+            {
+              "word": "being",
+              "clip_start": 4.801,
+              "clip_end": 4.941,
+              "global_start": 914.279,
+              "global_end": 914.419,
+              "score": 0.878
+            },
+            {
+              "word": "honest",
+              "clip_start": 4.981,
+              "clip_end": 5.201,
+              "global_start": 914.459,
+              "global_end": 914.679,
+              "score": 0.881
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_006",
+          "range_index": 0,
+          "start_time": 5.221,
+          "end_time": 5.822,
+          "duration_s": 0.601,
+          "text": "with yourself.",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "with",
+              "clip_start": 5.221,
+              "clip_end": 5.321,
+              "global_start": 914.699,
+              "global_end": 914.799,
+              "score": 0.878
+            },
+            {
+              "word": "yourself.",
+              "clip_start": 5.361,
+              "clip_end": 5.822,
+              "global_start": 914.839,
+              "global_end": 915.3,
+              "score": 0.864
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_007",
+          "range_index": 0,
+          "start_time": 6.402,
+          "end_time": 7.083,
+          "duration_s": 0.681,
+          "text": "To get off the",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "To",
+              "clip_start": 6.402,
+              "clip_end": 6.522,
+              "global_start": 915.88,
+              "global_end": 916.0,
+              "score": 0.756
+            },
+            {
+              "word": "get",
+              "clip_start": 6.582,
+              "clip_end": 6.722,
+              "global_start": 916.06,
+              "global_end": 916.2,
+              "score": 0.847
+            },
+            {
+              "word": "off",
+              "clip_start": 6.822,
+              "clip_end": 6.963,
+              "global_start": 916.3,
+              "global_end": 916.441,
+              "score": 0.887
+            },
+            {
+              "word": "the",
+              "clip_start": 7.003,
+              "clip_end": 7.083,
+              "global_start": 916.481,
+              "global_end": 916.561,
+              "score": 0.936
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_008",
+          "range_index": 0,
+          "start_time": 7.143,
+          "end_time": 8.143,
+          "duration_s": 1.0,
+          "text": "sauce, if you're drinking",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "sauce,",
+              "clip_start": 7.143,
+              "clip_end": 7.503,
+              "global_start": 916.621,
+              "global_end": 916.981,
+              "score": 0.955
+            },
+            {
+              "word": "if",
+              "clip_start": 7.563,
+              "clip_end": 7.623,
+              "global_start": 917.041,
+              "global_end": 917.101,
+              "score": 0.96
+            },
+            {
+              "word": "you're",
+              "clip_start": 7.643,
+              "clip_end": 7.843,
+              "global_start": 917.121,
+              "global_end": 917.321,
+              "score": 0.816
+            },
+            {
+              "word": "drinking",
+              "clip_start": 7.883,
+              "clip_end": 8.143,
+              "global_start": 917.361,
+              "global_end": 917.621,
+              "score": 0.852
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_009",
+          "range_index": 0,
+          "start_time": 8.163,
+          "end_time": 8.844,
+          "duration_s": 0.681,
+          "text": "too much alcohol,",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "too",
+              "clip_start": 8.163,
+              "clip_end": 8.263,
+              "global_start": 917.641,
+              "global_end": 917.741,
+              "score": 0.887
+            },
+            {
+              "word": "much",
+              "clip_start": 8.283,
+              "clip_end": 8.404,
+              "global_start": 917.761,
+              "global_end": 917.882,
+              "score": 0.862
+            },
+            {
+              "word": "alcohol,",
+              "clip_start": 8.464,
+              "clip_end": 8.844,
+              "global_start": 917.942,
+              "global_end": 918.322,
+              "score": 0.813
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_010",
+          "range_index": 0,
+          "start_time": 8.864,
+          "end_time": 9.284,
+          "duration_s": 0.42,
+          "text": "you need to get",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "you",
+              "clip_start": 8.864,
+              "clip_end": 8.944,
+              "global_start": 918.342,
+              "global_end": 918.422,
+              "score": 0.893
+            },
+            {
+              "word": "need",
+              "clip_start": 8.964,
+              "clip_end": 9.064,
+              "global_start": 918.442,
+              "global_end": 918.542,
+              "score": 0.993
+            },
+            {
+              "word": "to",
+              "clip_start": 9.084,
+              "clip_end": 9.144,
+              "global_start": 918.562,
+              "global_end": 918.622,
+              "score": 0.42
+            },
+            {
+              "word": "get",
+              "clip_start": 9.184,
+              "clip_end": 9.284,
+              "global_start": 918.662,
+              "global_end": 918.762,
+              "score": 0.831
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_011",
+          "range_index": 0,
+          "start_time": 9.364,
+          "end_time": 10.345,
+          "duration_s": 0.981,
+          "text": "honest with yourself that",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "honest",
+              "clip_start": 9.364,
+              "clip_end": 9.624,
+              "global_start": 918.842,
+              "global_end": 919.102,
+              "score": 0.874
+            },
+            {
+              "word": "with",
+              "clip_start": 9.664,
+              "clip_end": 9.785,
+              "global_start": 919.142,
+              "global_end": 919.263,
+              "score": 0.779
+            },
+            {
+              "word": "yourself",
+              "clip_start": 9.805,
+              "clip_end": 10.225,
+              "global_start": 919.283,
+              "global_end": 919.703,
+              "score": 0.672
+            },
+            {
+              "word": "that",
+              "clip_start": 10.245,
+              "clip_end": 10.345,
+              "global_start": 919.723,
+              "global_end": 919.823,
+              "score": 0.91
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_012",
+          "range_index": 0,
+          "start_time": 10.365,
+          "end_time": 11.286,
+          "duration_s": 0.921,
+          "text": "you're doing something that",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "you're",
+              "clip_start": 10.365,
+              "clip_end": 10.525,
+              "global_start": 919.843,
+              "global_end": 920.003,
+              "score": 0.829
+            },
+            {
+              "word": "doing",
+              "clip_start": 10.565,
+              "clip_end": 10.805,
+              "global_start": 920.043,
+              "global_end": 920.283,
+              "score": 0.721
+            },
+            {
+              "word": "something",
+              "clip_start": 10.885,
+              "clip_end": 11.166,
+              "global_start": 920.363,
+              "global_end": 920.644,
+              "score": 0.84
+            },
+            {
+              "word": "that",
+              "clip_start": 11.206,
+              "clip_end": 11.286,
+              "global_start": 920.684,
+              "global_end": 920.764,
+              "score": 0.871
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_013",
+          "range_index": 0,
+          "start_time": 11.326,
+          "end_time": 12.066,
+          "duration_s": 0.74,
+          "text": "you shouldn't be doing",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "you",
+              "clip_start": 11.326,
+              "clip_end": 11.446,
+              "global_start": 920.804,
+              "global_end": 920.924,
+              "score": 0.916
+            },
+            {
+              "word": "shouldn't",
+              "clip_start": 11.486,
+              "clip_end": 11.726,
+              "global_start": 920.964,
+              "global_end": 921.204,
+              "score": 0.871
+            },
+            {
+              "word": "be",
+              "clip_start": 11.746,
+              "clip_end": 11.826,
+              "global_start": 921.224,
+              "global_end": 921.304,
+              "score": 0.682
+            },
+            {
+              "word": "doing",
+              "clip_start": 11.866,
+              "clip_end": 12.066,
+              "global_start": 921.344,
+              "global_end": 921.544,
+              "score": 0.853
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_014",
+          "range_index": 0,
+          "start_time": 12.106,
+          "end_time": 12.867,
+          "duration_s": 0.761,
+          "text": "in your shame to",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "in",
+              "clip_start": 12.106,
+              "clip_end": 12.186,
+              "global_start": 921.584,
+              "global_end": 921.664,
+              "score": 0.471
+            },
+            {
+              "word": "your",
+              "clip_start": 12.206,
+              "clip_end": 12.406,
+              "global_start": 921.684,
+              "global_end": 921.884,
+              "score": 0.387
+            },
+            {
+              "word": "shame",
+              "clip_start": 12.466,
+              "clip_end": 12.747,
+              "global_start": 921.944,
+              "global_end": 922.225,
+              "score": 0.557
+            },
+            {
+              "word": "to",
+              "clip_start": 12.767,
+              "clip_end": 12.867,
+              "global_start": 922.245,
+              "global_end": 922.345,
+              "score": 0.178
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_015",
+          "range_index": 0,
+          "start_time": 12.907,
+          "end_time": 13.407,
+          "duration_s": 0.5,
+          "text": "it and you don't",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "it",
+              "clip_start": 12.907,
+              "clip_end": 12.967,
+              "global_start": 922.385,
+              "global_end": 922.445,
+              "score": 0.756
+            },
+            {
+              "word": "and",
+              "clip_start": 13.007,
+              "clip_end": 13.087,
+              "global_start": 922.485,
+              "global_end": 922.565,
+              "score": 0.84
+            },
+            {
+              "word": "you",
+              "clip_start": 13.127,
+              "clip_end": 13.207,
+              "global_start": 922.605,
+              "global_end": 922.685,
+              "score": 0.978
+            },
+            {
+              "word": "don't",
+              "clip_start": 13.247,
+              "clip_end": 13.407,
+              "global_start": 922.725,
+              "global_end": 922.885,
+              "score": 0.703
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_016",
+          "range_index": 0,
+          "start_time": 13.427,
+          "end_time": 14.308,
+          "duration_s": 0.881,
+          "text": "like it and you",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "like",
+              "clip_start": 13.427,
+              "clip_end": 13.627,
+              "global_start": 922.905,
+              "global_end": 923.105,
+              "score": 0.746
+            },
+            {
+              "word": "it",
+              "clip_start": 13.687,
+              "clip_end": 13.747,
+              "global_start": 923.165,
+              "global_end": 923.225,
+              "score": 0.752
+            },
+            {
+              "word": "and",
+              "clip_start": 14.068,
+              "clip_end": 14.148,
+              "global_start": 923.546,
+              "global_end": 923.626,
+              "score": 0.892
+            },
+            {
+              "word": "you",
+              "clip_start": 14.168,
+              "clip_end": 14.308,
+              "global_start": 923.646,
+              "global_end": 923.786,
+              "score": 0.737
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_017",
+          "range_index": 0,
+          "start_time": 14.328,
+          "end_time": 14.848,
+          "duration_s": 0.52,
+          "text": "wanna stop.",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "wanna",
+              "clip_start": 14.328,
+              "clip_end": 14.508,
+              "global_start": 923.806,
+              "global_end": 923.986,
+              "score": 0.655
+            },
+            {
+              "word": "stop.",
+              "clip_start": 14.548,
+              "clip_end": 14.848,
+              "global_start": 924.026,
+              "global_end": 924.326,
+              "score": 0.859
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_018",
+          "range_index": 0,
+          "start_time": 15.108,
+          "end_time": 15.949,
+          "duration_s": 0.841,
+          "text": "And you've been lying",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "And",
+              "clip_start": 15.108,
+              "clip_end": 15.188,
+              "global_start": 924.586,
+              "global_end": 924.666,
+              "score": 0.848
+            },
+            {
+              "word": "you've",
+              "clip_start": 15.208,
+              "clip_end": 15.329,
+              "global_start": 924.686,
+              "global_end": 924.807,
+              "score": 0.595
+            },
+            {
+              "word": "been",
+              "clip_start": 15.349,
+              "clip_end": 15.449,
+              "global_start": 924.827,
+              "global_end": 924.927,
+              "score": 0.405
+            },
+            {
+              "word": "lying",
+              "clip_start": 15.609,
+              "clip_end": 15.949,
+              "global_start": 925.087,
+              "global_end": 925.427,
+              "score": 0.751
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_019",
+          "range_index": 0,
+          "start_time": 15.969,
+          "end_time": 16.71,
+          "duration_s": 0.741,
+          "text": "to yourself all this",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "to",
+              "clip_start": 15.969,
+              "clip_end": 16.029,
+              "global_start": 925.447,
+              "global_end": 925.507,
+              "score": 0.746
+            },
+            {
+              "word": "yourself",
+              "clip_start": 16.069,
+              "clip_end": 16.409,
+              "global_start": 925.547,
+              "global_end": 925.887,
+              "score": 0.796
+            },
+            {
+              "word": "all",
+              "clip_start": 16.449,
+              "clip_end": 16.549,
+              "global_start": 925.927,
+              "global_end": 926.027,
+              "score": 1.0
+            },
+            {
+              "word": "this",
+              "clip_start": 16.589,
+              "clip_end": 16.71,
+              "global_start": 926.067,
+              "global_end": 926.188,
+              "score": 0.754
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_020",
+          "range_index": 0,
+          "start_time": 16.75,
+          "end_time": 17.49,
+          "duration_s": 0.74,
+          "text": "time and thinking that",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "time",
+              "clip_start": 16.75,
+              "clip_end": 16.93,
+              "global_start": 926.228,
+              "global_end": 926.408,
+              "score": 0.888
+            },
+            {
+              "word": "and",
+              "clip_start": 16.97,
+              "clip_end": 17.05,
+              "global_start": 926.448,
+              "global_end": 926.528,
+              "score": 0.54
+            },
+            {
+              "word": "thinking",
+              "clip_start": 17.09,
+              "clip_end": 17.37,
+              "global_start": 926.568,
+              "global_end": 926.848,
+              "score": 0.852
+            },
+            {
+              "word": "that",
+              "clip_start": 17.41,
+              "clip_end": 17.49,
+              "global_start": 926.888,
+              "global_end": 926.968,
+              "score": 0.918
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_021",
+          "range_index": 0,
+          "start_time": 17.53,
+          "end_time": 18.331,
+          "duration_s": 0.801,
+          "text": "it's gonna be okay",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "it's",
+              "clip_start": 17.53,
+              "clip_end": 17.65,
+              "global_start": 927.008,
+              "global_end": 927.128,
+              "score": 0.774
+            },
+            {
+              "word": "gonna",
+              "clip_start": 17.67,
+              "clip_end": 17.85,
+              "global_start": 927.148,
+              "global_end": 927.328,
+              "score": 0.351
+            },
+            {
+              "word": "be",
+              "clip_start": 17.87,
+              "clip_end": 17.95,
+              "global_start": 927.348,
+              "global_end": 927.428,
+              "score": 0.714
+            },
+            {
+              "word": "okay",
+              "clip_start": 18.01,
+              "clip_end": 18.331,
+              "global_start": 927.488,
+              "global_end": 927.809,
+              "score": 0.714
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_022",
+          "range_index": 0,
+          "start_time": 18.351,
+          "end_time": 18.411,
+          "duration_s": 0.06,
+          "text": "and",
+          "word_count": 1,
+          "words": [
+            {
+              "word": "and",
+              "clip_start": 18.351,
+              "clip_end": 18.411,
+              "global_start": 927.829,
+              "global_end": 927.889,
+              "score": 0.988
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_023",
+          "range_index": 0,
+          "start_time": 18.831,
+          "end_time": 19.932,
+          "duration_s": 1.101,
+          "text": "you finally drink enough",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "you",
+              "clip_start": 18.831,
+              "clip_end": 19.011,
+              "global_start": 928.309,
+              "global_end": 928.489,
+              "score": 0.887
+            },
+            {
+              "word": "finally",
+              "clip_start": 19.031,
+              "clip_end": 19.351,
+              "global_start": 928.509,
+              "global_end": 928.829,
+              "score": 0.88
+            },
+            {
+              "word": "drink",
+              "clip_start": 19.452,
+              "clip_end": 19.672,
+              "global_start": 928.93,
+              "global_end": 929.15,
+              "score": 0.844
+            },
+            {
+              "word": "enough",
+              "clip_start": 19.732,
+              "clip_end": 19.932,
+              "global_start": 929.21,
+              "global_end": 929.41,
+              "score": 0.759
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_024",
+          "range_index": 0,
+          "start_time": 19.972,
+          "end_time": 20.812,
+          "duration_s": 0.84,
+          "text": "that you'll just lose",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "that",
+              "clip_start": 19.972,
+              "clip_end": 20.072,
+              "global_start": 929.45,
+              "global_end": 929.55,
+              "score": 0.897
+            },
+            {
+              "word": "you'll",
+              "clip_start": 20.092,
+              "clip_end": 20.252,
+              "global_start": 929.57,
+              "global_end": 929.73,
+              "score": 0.989
+            },
+            {
+              "word": "just",
+              "clip_start": 20.292,
+              "clip_end": 20.432,
+              "global_start": 929.77,
+              "global_end": 929.91,
+              "score": 0.711
+            },
+            {
+              "word": "lose",
+              "clip_start": 20.532,
+              "clip_end": 20.812,
+              "global_start": 930.01,
+              "global_end": 930.29,
+              "score": 0.782
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_025",
+          "range_index": 0,
+          "start_time": 20.853,
+          "end_time": 21.613,
+          "duration_s": 0.76,
+          "text": "the urge to do",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "the",
+              "clip_start": 20.853,
+              "clip_end": 20.973,
+              "global_start": 930.331,
+              "global_end": 930.451,
+              "score": 0.839
+            },
+            {
+              "word": "urge",
+              "clip_start": 21.113,
+              "clip_end": 21.353,
+              "global_start": 930.591,
+              "global_end": 930.831,
+              "score": 0.804
+            },
+            {
+              "word": "to",
+              "clip_start": 21.373,
+              "clip_end": 21.453,
+              "global_start": 930.851,
+              "global_end": 930.931,
+              "score": 0.842
+            },
+            {
+              "word": "do",
+              "clip_start": 21.493,
+              "clip_end": 21.613,
+              "global_start": 930.971,
+              "global_end": 931.091,
+              "score": 0.842
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_026",
+          "range_index": 0,
+          "start_time": 21.653,
+          "end_time": 22.974,
+          "duration_s": 1.321,
+          "text": "so. You know that's",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "so.",
+              "clip_start": 21.653,
+              "clip_end": 21.793,
+              "global_start": 931.131,
+              "global_end": 931.271,
+              "score": 0.896
+            },
+            {
+              "word": "You",
+              "clip_start": 22.073,
+              "clip_end": 22.254,
+              "global_start": 931.551,
+              "global_end": 931.732,
+              "score": 0.725
+            },
+            {
+              "word": "know",
+              "clip_start": 22.334,
+              "clip_end": 22.594,
+              "global_start": 931.812,
+              "global_end": 932.072,
+              "score": 0.658
+            },
+            {
+              "word": "that's",
+              "clip_start": 22.714,
+              "clip_end": 22.974,
+              "global_start": 932.192,
+              "global_end": 932.452,
+              "score": 0.764
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_027",
+          "range_index": 0,
+          "start_time": 23.014,
+          "end_time": 23.574,
+          "duration_s": 0.56,
+          "text": "a lie.",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "a",
+              "clip_start": 23.014,
+              "clip_end": 23.054,
+              "global_start": 932.492,
+              "global_end": 932.532,
+              "score": 0.585
+            },
+            {
+              "word": "lie.",
+              "clip_start": 23.174,
+              "clip_end": 23.574,
+              "global_start": 932.652,
+              "global_end": 933.052,
+              "score": 0.653
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_028",
+          "range_index": 0,
+          "start_time": 23.955,
+          "end_time": 24.515,
+          "duration_s": 0.56,
+          "text": "You know that you're",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "You",
+              "clip_start": 23.955,
+              "clip_end": 24.055,
+              "global_start": 933.433,
+              "global_end": 933.533,
+              "score": 0.992
+            },
+            {
+              "word": "know",
+              "clip_start": 24.095,
+              "clip_end": 24.195,
+              "global_start": 933.573,
+              "global_end": 933.673,
+              "score": 0.988
+            },
+            {
+              "word": "that",
+              "clip_start": 24.215,
+              "clip_end": 24.315,
+              "global_start": 933.693,
+              "global_end": 933.793,
+              "score": 0.775
+            },
+            {
+              "word": "you're",
+              "clip_start": 24.335,
+              "clip_end": 24.515,
+              "global_start": 933.813,
+              "global_end": 933.993,
+              "score": 0.799
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_029",
+          "range_index": 0,
+          "start_time": 24.575,
+          "end_time": 25.316,
+          "duration_s": 0.741,
+          "text": "doing something that you",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "doing",
+              "clip_start": 24.575,
+              "clip_end": 24.815,
+              "global_start": 934.053,
+              "global_end": 934.293,
+              "score": 0.793
+            },
+            {
+              "word": "something",
+              "clip_start": 24.875,
+              "clip_end": 25.116,
+              "global_start": 934.353,
+              "global_end": 934.594,
+              "score": 0.809
+            },
+            {
+              "word": "that",
+              "clip_start": 25.136,
+              "clip_end": 25.216,
+              "global_start": 934.614,
+              "global_end": 934.694,
+              "score": 0.002
+            },
+            {
+              "word": "you",
+              "clip_start": 25.236,
+              "clip_end": 25.316,
+              "global_start": 934.714,
+              "global_end": 934.794,
+              "score": 0.101
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_030",
+          "range_index": 0,
+          "start_time": 25.336,
+          "end_time": 25.976,
+          "duration_s": 0.64,
+          "text": "shouldn't be doing and",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "shouldn't",
+              "clip_start": 25.336,
+              "clip_end": 25.536,
+              "global_start": 934.814,
+              "global_end": 935.014,
+              "score": 0.956
+            },
+            {
+              "word": "be",
+              "clip_start": 25.556,
+              "clip_end": 25.636,
+              "global_start": 935.034,
+              "global_end": 935.114,
+              "score": 0.616
+            },
+            {
+              "word": "doing",
+              "clip_start": 25.656,
+              "clip_end": 25.896,
+              "global_start": 935.134,
+              "global_end": 935.374,
+              "score": 0.748
+            },
+            {
+              "word": "and",
+              "clip_start": 25.916,
+              "clip_end": 25.976,
+              "global_start": 935.394,
+              "global_end": 935.454,
+              "score": 0.954
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_031",
+          "range_index": 0,
+          "start_time": 25.996,
+          "end_time": 26.356,
+          "duration_s": 0.36,
+          "text": "you feel",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "you",
+              "clip_start": 25.996,
+              "clip_end": 26.176,
+              "global_start": 935.474,
+              "global_end": 935.654,
+              "score": 0.154
+            },
+            {
+              "word": "feel",
+              "clip_start": 26.196,
+              "clip_end": 26.356,
+              "global_start": 935.674,
+              "global_end": 935.834,
+              "score": 0.319
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_032",
+          "range_index": 0,
+          "start_time": 26.857,
+          "end_time": 27.798,
+          "duration_s": 0.941,
+          "text": "rotten about yourself.",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "rotten",
+              "clip_start": 26.857,
+              "clip_end": 27.117,
+              "global_start": 936.335,
+              "global_end": 936.595,
+              "score": 0.943
+            },
+            {
+              "word": "about",
+              "clip_start": 27.157,
+              "clip_end": 27.297,
+              "global_start": 936.635,
+              "global_end": 936.775,
+              "score": 0.824
+            },
+            {
+              "word": "yourself.",
+              "clip_start": 27.337,
+              "clip_end": 27.798,
+              "global_start": 936.815,
+              "global_end": 937.276,
+              "score": 0.763
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_033",
+          "range_index": 0,
+          "start_time": 28.798,
+          "end_time": 29.299,
+          "duration_s": 0.501,
+          "text": "Admit it.",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "Admit",
+              "clip_start": 28.798,
+              "clip_end": 29.138,
+              "global_start": 938.276,
+              "global_end": 938.616,
+              "score": 0.841
+            },
+            {
+              "word": "it.",
+              "clip_start": 29.219,
+              "clip_end": 29.299,
+              "global_start": 938.697,
+              "global_end": 938.777,
+              "score": 0.809
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_034",
+          "range_index": 0,
+          "start_time": 29.599,
+          "end_time": 30.6,
+          "duration_s": 1.001,
+          "text": "Be honest with yourself.",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "Be",
+              "clip_start": 29.599,
+              "clip_end": 29.719,
+              "global_start": 939.077,
+              "global_end": 939.197,
+              "score": 0.964
+            },
+            {
+              "word": "honest",
+              "clip_start": 29.779,
+              "clip_end": 30.019,
+              "global_start": 939.257,
+              "global_end": 939.497,
+              "score": 0.829
+            },
+            {
+              "word": "with",
+              "clip_start": 30.039,
+              "clip_end": 30.139,
+              "global_start": 939.517,
+              "global_end": 939.617,
+              "score": 0.874
+            },
+            {
+              "word": "yourself.",
+              "clip_start": 30.159,
+              "clip_end": 30.6,
+              "global_start": 939.637,
+              "global_end": 940.078,
+              "score": 0.834
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_035",
+          "range_index": 0,
+          "start_time": 31.579,
+          "end_time": 32.44,
+          "duration_s": 0.861,
+          "text": "Emerson talks about the",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "Emerson",
+              "clip_start": 31.579,
+              "clip_end": 31.939,
+              "global_start": 941.057,
+              "global_end": 941.417,
+              "score": 0.934
+            },
+            {
+              "word": "talks",
+              "clip_start": 31.999,
+              "clip_end": 32.179,
+              "global_start": 941.477,
+              "global_end": 941.657,
+              "score": 0.873
+            },
+            {
+              "word": "about",
+              "clip_start": 32.219,
+              "clip_end": 32.339,
+              "global_start": 941.697,
+              "global_end": 941.817,
+              "score": 0.929
+            },
+            {
+              "word": "the",
+              "clip_start": 32.36,
+              "clip_end": 32.44,
+              "global_start": 941.838,
+              "global_end": 941.918,
+              "score": 0.832
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_036",
+          "range_index": 0,
+          "start_time": 32.46,
+          "end_time": 33.56,
+          "duration_s": 1.1,
+          "text": "fact that everybody needs",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "fact",
+              "clip_start": 32.46,
+              "clip_end": 32.6,
+              "global_start": 941.938,
+              "global_end": 942.078,
+              "score": 0.706
+            },
+            {
+              "word": "that",
+              "clip_start": 32.62,
+              "clip_end": 32.74,
+              "global_start": 942.098,
+              "global_end": 942.218,
+              "score": 0.768
+            },
+            {
+              "word": "everybody",
+              "clip_start": 32.8,
+              "clip_end": 33.2,
+              "global_start": 942.278,
+              "global_end": 942.678,
+              "score": 0.827
+            },
+            {
+              "word": "needs",
+              "clip_start": 33.36,
+              "clip_end": 33.56,
+              "global_start": 942.838,
+              "global_end": 943.038,
+              "score": 0.858
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_037",
+          "range_index": 0,
+          "start_time": 33.6,
+          "end_time": 34.781,
+          "duration_s": 1.181,
+          "text": "a radical honesty in",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "a",
+              "clip_start": 33.6,
+              "clip_end": 33.62,
+              "global_start": 943.078,
+              "global_end": 943.098,
+              "score": 0.99
+            },
+            {
+              "word": "radical",
+              "clip_start": 33.86,
+              "clip_end": 34.301,
+              "global_start": 943.338,
+              "global_end": 943.779,
+              "score": 0.8
+            },
+            {
+              "word": "honesty",
+              "clip_start": 34.341,
+              "clip_end": 34.701,
+              "global_start": 943.819,
+              "global_end": 944.179,
+              "score": 0.873
+            },
+            {
+              "word": "in",
+              "clip_start": 34.741,
+              "clip_end": 34.781,
+              "global_start": 944.219,
+              "global_end": 944.259,
+              "score": 0.994
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_038",
+          "range_index": 0,
+          "start_time": 34.821,
+          "end_time": 35.461,
+          "duration_s": 0.64,
+          "text": "their lives",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "their",
+              "clip_start": 34.821,
+              "clip_end": 34.981,
+              "global_start": 944.299,
+              "global_end": 944.459,
+              "score": 0.846
+            },
+            {
+              "word": "lives",
+              "clip_start": 35.021,
+              "clip_end": 35.461,
+              "global_start": 944.499,
+              "global_end": 944.939,
+              "score": 0.691
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_039",
+          "range_index": 0,
+          "start_time": 35.942,
+          "end_time": 36.802,
+          "duration_s": 0.86,
+          "text": "in all parts of",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "in",
+              "clip_start": 35.942,
+              "clip_end": 36.042,
+              "global_start": 945.42,
+              "global_end": 945.52,
+              "score": 0.764
+            },
+            {
+              "word": "all",
+              "clip_start": 36.222,
+              "clip_end": 36.382,
+              "global_start": 945.7,
+              "global_end": 945.86,
+              "score": 0.853
+            },
+            {
+              "word": "parts",
+              "clip_start": 36.462,
+              "clip_end": 36.722,
+              "global_start": 945.94,
+              "global_end": 946.2,
+              "score": 0.67
+            },
+            {
+              "word": "of",
+              "clip_start": 36.762,
+              "clip_end": 36.802,
+              "global_start": 946.24,
+              "global_end": 946.28,
+              "score": 0.993
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_040",
+          "range_index": 0,
+          "start_time": 36.842,
+          "end_time": 37.342,
+          "duration_s": 0.5,
+          "text": "their lives.",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "their",
+              "clip_start": 36.842,
+              "clip_end": 36.982,
+              "global_start": 946.32,
+              "global_end": 946.46,
+              "score": 0.895
+            },
+            {
+              "word": "lives.",
+              "clip_start": 37.022,
+              "clip_end": 37.342,
+              "global_start": 946.5,
+              "global_end": 946.82,
+              "score": 0.831
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_041",
+          "range_index": 0,
+          "start_time": 37.523,
+          "end_time": 38.183,
+          "duration_s": 0.66,
+          "text": "And it's hard,",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "And",
+              "clip_start": 37.523,
+              "clip_end": 37.603,
+              "global_start": 947.001,
+              "global_end": 947.081,
+              "score": 0.842
+            },
+            {
+              "word": "it's",
+              "clip_start": 37.643,
+              "clip_end": 37.743,
+              "global_start": 947.121,
+              "global_end": 947.221,
+              "score": 0.883
+            },
+            {
+              "word": "hard,",
+              "clip_start": 37.843,
+              "clip_end": 38.183,
+              "global_start": 947.321,
+              "global_end": 947.661,
+              "score": 0.837
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_042",
+          "range_index": 0,
+          "start_time": 38.463,
+          "end_time": 39.184,
+          "duration_s": 0.721,
+          "text": "it's hard to do.",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "it's",
+              "clip_start": 38.463,
+              "clip_end": 38.583,
+              "global_start": 947.941,
+              "global_end": 948.061,
+              "score": 0.766
+            },
+            {
+              "word": "hard",
+              "clip_start": 38.603,
+              "clip_end": 38.743,
+              "global_start": 948.081,
+              "global_end": 948.221,
+              "score": 0.766
+            },
+            {
+              "word": "to",
+              "clip_start": 38.783,
+              "clip_end": 38.843,
+              "global_start": 948.261,
+              "global_end": 948.321,
+              "score": 0.9
+            },
+            {
+              "word": "do.",
+              "clip_start": 38.903,
+              "clip_end": 39.184,
+              "global_start": 948.381,
+              "global_end": 948.662,
+              "score": 0.888
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_043",
+          "range_index": 0,
+          "start_time": 39.264,
+          "end_time": 39.464,
+          "duration_s": 0.2,
+          "text": "I mean,",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "I",
+              "clip_start": 39.264,
+              "clip_end": 39.304,
+              "global_start": 948.742,
+              "global_end": 948.782,
+              "score": 0.957
+            },
+            {
+              "word": "mean,",
+              "clip_start": 39.344,
+              "clip_end": 39.464,
+              "global_start": 948.822,
+              "global_end": 948.942,
+              "score": 0.978
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_044",
+          "range_index": 0,
+          "start_time": 39.484,
+          "end_time": 40.044,
+          "duration_s": 0.56,
+          "text": "there's a ton of",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "there's",
+              "clip_start": 39.484,
+              "clip_end": 39.624,
+              "global_start": 948.962,
+              "global_end": 949.102,
+              "score": 0.486
+            },
+            {
+              "word": "a",
+              "clip_start": 39.684,
+              "clip_end": 39.724,
+              "global_start": 949.162,
+              "global_end": 949.202,
+              "score": 0.894
+            },
+            {
+              "word": "ton",
+              "clip_start": 39.764,
+              "clip_end": 39.964,
+              "global_start": 949.242,
+              "global_end": 949.442,
+              "score": 0.826
+            },
+            {
+              "word": "of",
+              "clip_start": 39.984,
+              "clip_end": 40.044,
+              "global_start": 949.462,
+              "global_end": 949.522,
+              "score": 0.746
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_045",
+          "range_index": 0,
+          "start_time": 40.184,
+          "end_time": 41.305,
+          "duration_s": 1.121,
+          "text": "behavioral science literature that",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "behavioral",
+              "clip_start": 40.184,
+              "clip_end": 40.504,
+              "global_start": 949.662,
+              "global_end": 949.982,
+              "score": 0.701
+            },
+            {
+              "word": "science",
+              "clip_start": 40.524,
+              "clip_end": 40.764,
+              "global_start": 950.002,
+              "global_end": 950.242,
+              "score": 0.863
+            },
+            {
+              "word": "literature",
+              "clip_start": 40.784,
+              "clip_end": 41.165,
+              "global_start": 950.262,
+              "global_end": 950.643,
+              "score": 0.833
+            },
+            {
+              "word": "that",
+              "clip_start": 41.205,
+              "clip_end": 41.305,
+              "global_start": 950.683,
+              "global_end": 950.783,
+              "score": 0.923
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_046",
+          "range_index": 0,
+          "start_time": 41.505,
+          "end_time": 42.926,
+          "duration_s": 1.421,
+          "text": "even research I participated",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "even",
+              "clip_start": 41.505,
+              "clip_end": 41.665,
+              "global_start": 950.983,
+              "global_end": 951.143,
+              "score": 0.804
+            },
+            {
+              "word": "research",
+              "clip_start": 41.765,
+              "clip_end": 42.085,
+              "global_start": 951.243,
+              "global_end": 951.563,
+              "score": 0.901
+            },
+            {
+              "word": "I",
+              "clip_start": 42.125,
+              "clip_end": 42.245,
+              "global_start": 951.603,
+              "global_end": 951.723,
+              "score": 0.587
+            },
+            {
+              "word": "participated",
+              "clip_start": 42.285,
+              "clip_end": 42.926,
+              "global_start": 951.763,
+              "global_end": 952.404,
+              "score": 0.911
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_047",
+          "range_index": 0,
+          "start_time": 43.066,
+          "end_time": 43.746,
+          "duration_s": 0.68,
+          "text": "in myself",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "in",
+              "clip_start": 43.066,
+              "clip_end": 43.146,
+              "global_start": 952.544,
+              "global_end": 952.624,
+              "score": 0.861
+            },
+            {
+              "word": "myself",
+              "clip_start": 43.186,
+              "clip_end": 43.746,
+              "global_start": 952.664,
+              "global_end": 953.224,
+              "score": 0.822
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_048",
+          "range_index": 0,
+          "start_time": 44.327,
+          "end_time": 44.847,
+          "duration_s": 0.52,
+          "text": "that shows that we",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "that",
+              "clip_start": 44.327,
+              "clip_end": 44.447,
+              "global_start": 953.805,
+              "global_end": 953.925,
+              "score": 0.814
+            },
+            {
+              "word": "shows",
+              "clip_start": 44.487,
+              "clip_end": 44.647,
+              "global_start": 953.965,
+              "global_end": 954.125,
+              "score": 0.936
+            },
+            {
+              "word": "that",
+              "clip_start": 44.667,
+              "clip_end": 44.767,
+              "global_start": 954.145,
+              "global_end": 954.245,
+              "score": 0.876
+            },
+            {
+              "word": "we",
+              "clip_start": 44.787,
+              "clip_end": 44.847,
+              "global_start": 954.265,
+              "global_end": 954.325,
+              "score": 0.751
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_049",
+          "range_index": 0,
+          "start_time": 44.867,
+          "end_time": 45.847,
+          "duration_s": 0.98,
+          "text": "don't know ourselves very",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "don't",
+              "clip_start": 44.867,
+              "clip_end": 45.007,
+              "global_start": 954.345,
+              "global_end": 954.485,
+              "score": 0.81
+            },
+            {
+              "word": "know",
+              "clip_start": 45.047,
+              "clip_end": 45.187,
+              "global_start": 954.525,
+              "global_end": 954.665,
+              "score": 0.758
+            },
+            {
+              "word": "ourselves",
+              "clip_start": 45.227,
+              "clip_end": 45.587,
+              "global_start": 954.705,
+              "global_end": 955.065,
+              "score": 0.823
+            },
+            {
+              "word": "very",
+              "clip_start": 45.627,
+              "clip_end": 45.847,
+              "global_start": 955.105,
+              "global_end": 955.325,
+              "score": 0.756
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_050",
+          "range_index": 0,
+          "start_time": 45.887,
+          "end_time": 46.468,
+          "duration_s": 0.581,
+          "text": "well. And the main",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "well.",
+              "clip_start": 45.887,
+              "clip_end": 46.108,
+              "global_start": 955.365,
+              "global_end": 955.586,
+              "score": 0.92
+            },
+            {
+              "word": "And",
+              "clip_start": 46.128,
+              "clip_end": 46.188,
+              "global_start": 955.606,
+              "global_end": 955.666,
+              "score": 0.943
+            },
+            {
+              "word": "the",
+              "clip_start": 46.208,
+              "clip_end": 46.288,
+              "global_start": 955.686,
+              "global_end": 955.766,
+              "score": 0.836
+            },
+            {
+              "word": "main",
+              "clip_start": 46.308,
+              "clip_end": 46.468,
+              "global_start": 955.786,
+              "global_end": 955.946,
+              "score": 0.821
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_051",
+          "range_index": 0,
+          "start_time": 46.508,
+          "end_time": 47.228,
+          "duration_s": 0.72,
+          "text": "reason is because we",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "reason",
+              "clip_start": 46.508,
+              "clip_end": 46.728,
+              "global_start": 955.986,
+              "global_end": 956.206,
+              "score": 0.78
+            },
+            {
+              "word": "is",
+              "clip_start": 46.768,
+              "clip_end": 46.848,
+              "global_start": 956.246,
+              "global_end": 956.326,
+              "score": 0.532
+            },
+            {
+              "word": "because",
+              "clip_start": 46.868,
+              "clip_end": 47.048,
+              "global_start": 956.346,
+              "global_end": 956.526,
+              "score": 0.868
+            },
+            {
+              "word": "we",
+              "clip_start": 47.088,
+              "clip_end": 47.228,
+              "global_start": 956.566,
+              "global_end": 956.706,
+              "score": 0.637
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_052",
+          "range_index": 0,
+          "start_time": 47.288,
+          "end_time": 48.229,
+          "duration_s": 0.941,
+          "text": "lied to ourselves all",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "lied",
+              "clip_start": 47.288,
+              "clip_end": 47.508,
+              "global_start": 956.766,
+              "global_end": 956.986,
+              "score": 0.723
+            },
+            {
+              "word": "to",
+              "clip_start": 47.528,
+              "clip_end": 47.588,
+              "global_start": 957.006,
+              "global_end": 957.066,
+              "score": 0.796
+            },
+            {
+              "word": "ourselves",
+              "clip_start": 47.628,
+              "clip_end": 48.029,
+              "global_start": 957.106,
+              "global_end": 957.507,
+              "score": 0.737
+            },
+            {
+              "word": "all",
+              "clip_start": 48.089,
+              "clip_end": 48.229,
+              "global_start": 957.567,
+              "global_end": 957.707,
+              "score": 0.799
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_053",
+          "range_index": 0,
+          "start_time": 48.269,
+          "end_time": 48.669,
+          "duration_s": 0.4,
+          "text": "day long.",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "day",
+              "clip_start": 48.269,
+              "clip_end": 48.389,
+              "global_start": 957.747,
+              "global_end": 957.867,
+              "score": 0.883
+            },
+            {
+              "word": "long.",
+              "clip_start": 48.429,
+              "clip_end": 48.669,
+              "global_start": 957.907,
+              "global_end": 958.147,
+              "score": 0.781
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_054",
+          "range_index": 0,
+          "start_time": 48.709,
+          "end_time": 49.97,
+          "duration_s": 1.261,
+          "text": "We got these biases",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "We",
+              "clip_start": 48.709,
+              "clip_end": 48.829,
+              "global_start": 958.187,
+              "global_end": 958.307,
+              "score": 0.787
+            },
+            {
+              "word": "got",
+              "clip_start": 48.849,
+              "clip_end": 48.949,
+              "global_start": 958.327,
+              "global_end": 958.427,
+              "score": 0.832
+            },
+            {
+              "word": "these",
+              "clip_start": 48.969,
+              "clip_end": 49.129,
+              "global_start": 958.447,
+              "global_end": 958.607,
+              "score": 0.807
+            },
+            {
+              "word": "biases",
+              "clip_start": 49.289,
+              "clip_end": 49.97,
+              "global_start": 958.767,
+              "global_end": 959.448,
+              "score": 0.877
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_055",
+          "range_index": 0,
+          "start_time": 50.01,
+          "end_time": 50.59,
+          "duration_s": 0.58,
+          "text": "that make us feel",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "that",
+              "clip_start": 50.01,
+              "clip_end": 50.15,
+              "global_start": 959.488,
+              "global_end": 959.628,
+              "score": 0.808
+            },
+            {
+              "word": "make",
+              "clip_start": 50.17,
+              "clip_end": 50.29,
+              "global_start": 959.648,
+              "global_end": 959.768,
+              "score": 0.83
+            },
+            {
+              "word": "us",
+              "clip_start": 50.33,
+              "clip_end": 50.39,
+              "global_start": 959.808,
+              "global_end": 959.868,
+              "score": 0.772
+            },
+            {
+              "word": "feel",
+              "clip_start": 50.41,
+              "clip_end": 50.59,
+              "global_start": 959.888,
+              "global_end": 960.068,
+              "score": 0.722
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_056",
+          "range_index": 0,
+          "start_time": 50.65,
+          "end_time": 51.751,
+          "duration_s": 1.101,
+          "text": "better about ourselves,",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "better",
+              "clip_start": 50.65,
+              "clip_end": 50.93,
+              "global_start": 960.128,
+              "global_end": 960.408,
+              "score": 0.824
+            },
+            {
+              "word": "about",
+              "clip_start": 50.97,
+              "clip_end": 51.111,
+              "global_start": 960.448,
+              "global_end": 960.589,
+              "score": 0.809
+            },
+            {
+              "word": "ourselves,",
+              "clip_start": 51.151,
+              "clip_end": 51.751,
+              "global_start": 960.629,
+              "global_end": 961.229,
+              "score": 0.772
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_057",
+          "range_index": 0,
+          "start_time": 51.771,
+          "end_time": 52.091,
+          "duration_s": 0.32,
+          "text": "you know?",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "you",
+              "clip_start": 51.771,
+              "clip_end": 51.871,
+              "global_start": 961.249,
+              "global_end": 961.349,
+              "score": 0.694
+            },
+            {
+              "word": "know?",
+              "clip_start": 51.891,
+              "clip_end": 52.091,
+              "global_start": 961.369,
+              "global_end": 961.569,
+              "score": 0.782
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_058",
+          "range_index": 0,
+          "start_time": 52.691,
+          "end_time": 53.652,
+          "duration_s": 0.961,
+          "text": "Yeah, you know,",
+          "word_count": 3,
+          "words": [
+            {
+              "word": "Yeah,",
+              "clip_start": 52.691,
+              "clip_end": 53.072,
+              "global_start": 962.169,
+              "global_end": 962.55,
+              "score": 0.777
+            },
+            {
+              "word": "you",
+              "clip_start": 53.112,
+              "clip_end": 53.192,
+              "global_start": 962.59,
+              "global_end": 962.67,
+              "score": 0.957
+            },
+            {
+              "word": "know,",
+              "clip_start": 53.232,
+              "clip_end": 53.652,
+              "global_start": 962.71,
+              "global_end": 963.13,
+              "score": 0.835
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_059",
+          "range_index": 0,
+          "start_time": 53.672,
+          "end_time": 54.172,
+          "duration_s": 0.5,
+          "text": "like I think to",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "like",
+              "clip_start": 53.672,
+              "clip_end": 53.832,
+              "global_start": 963.15,
+              "global_end": 963.31,
+              "score": 0.853
+            },
+            {
+              "word": "I",
+              "clip_start": 53.892,
+              "clip_end": 53.952,
+              "global_start": 963.37,
+              "global_end": 963.43,
+              "score": 0.671
+            },
+            {
+              "word": "think",
+              "clip_start": 53.972,
+              "clip_end": 54.112,
+              "global_start": 963.45,
+              "global_end": 963.59,
+              "score": 0.927
+            },
+            {
+              "word": "to",
+              "clip_start": 54.132,
+              "clip_end": 54.172,
+              "global_start": 963.61,
+              "global_end": 963.65,
+              "score": 0.976
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_060",
+          "range_index": 0,
+          "start_time": 54.212,
+          "end_time": 55.273,
+          "duration_s": 1.061,
+          "text": "myself, yeah,",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "myself,",
+              "clip_start": 54.212,
+              "clip_end": 54.653,
+              "global_start": 963.69,
+              "global_end": 964.131,
+              "score": 0.897
+            },
+            {
+              "word": "yeah,",
+              "clip_start": 55.033,
+              "clip_end": 55.273,
+              "global_start": 964.511,
+              "global_end": 964.751,
+              "score": 0.69
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_061",
+          "range_index": 0,
+          "start_time": 55.313,
+          "end_time": 55.793,
+          "duration_s": 0.48,
+          "text": "Arthur Brooks,",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "Arthur",
+              "clip_start": 55.313,
+              "clip_end": 55.553,
+              "global_start": 964.791,
+              "global_end": 965.031,
+              "score": 0.692
+            },
+            {
+              "word": "Brooks,",
+              "clip_start": 55.573,
+              "clip_end": 55.793,
+              "global_start": 965.051,
+              "global_end": 965.271,
+              "score": 0.983
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_062",
+          "range_index": 0,
+          "start_time": 55.813,
+          "end_time": 56.294,
+          "duration_s": 0.481,
+          "text": "he's a guy with",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "he's",
+              "clip_start": 55.813,
+              "clip_end": 55.913,
+              "global_start": 965.291,
+              "global_end": 965.391,
+              "score": 0.666
+            },
+            {
+              "word": "a",
+              "clip_start": 55.973,
+              "clip_end": 56.013,
+              "global_start": 965.451,
+              "global_end": 965.491,
+              "score": 0.535
+            },
+            {
+              "word": "guy",
+              "clip_start": 56.033,
+              "clip_end": 56.173,
+              "global_start": 965.511,
+              "global_end": 965.651,
+              "score": 0.567
+            },
+            {
+              "word": "with",
+              "clip_start": 56.194,
+              "clip_end": 56.294,
+              "global_start": 965.672,
+              "global_end": 965.772,
+              "score": 0.874
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_063",
+          "range_index": 0,
+          "start_time": 56.334,
+          "end_time": 56.854,
+          "duration_s": 0.52,
+          "text": "good hair,",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "good",
+              "clip_start": 56.334,
+              "clip_end": 56.474,
+              "global_start": 965.812,
+              "global_end": 965.952,
+              "score": 0.983
+            },
+            {
+              "word": "hair,",
+              "clip_start": 56.514,
+              "clip_end": 56.854,
+              "global_start": 965.992,
+              "global_end": 966.332,
+              "score": 0.821
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_064",
+          "range_index": 0,
+          "start_time": 57.154,
+          "end_time": 57.454,
+          "duration_s": 0.3,
+          "text": "you know,",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "you",
+              "clip_start": 57.154,
+              "clip_end": 57.234,
+              "global_start": 966.632,
+              "global_end": 966.712,
+              "score": 0.994
+            },
+            {
+              "word": "know,",
+              "clip_start": 57.274,
+              "clip_end": 57.454,
+              "global_start": 966.752,
+              "global_end": 966.932,
+              "score": 0.711
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_065",
+          "range_index": 0,
+          "start_time": 57.494,
+          "end_time": 58.095,
+          "duration_s": 0.601,
+          "text": "I can kind of,",
+          "word_count": 4,
+          "words": [
+            {
+              "word": "I",
+              "clip_start": 57.494,
+              "clip_end": 57.554,
+              "global_start": 966.972,
+              "global_end": 967.032,
+              "score": 0.94
+            },
+            {
+              "word": "can",
+              "clip_start": 57.574,
+              "clip_end": 57.694,
+              "global_start": 967.052,
+              "global_end": 967.172,
+              "score": 0.891
+            },
+            {
+              "word": "kind",
+              "clip_start": 57.915,
+              "clip_end": 58.015,
+              "global_start": 967.393,
+              "global_end": 967.493,
+              "score": 0.355
+            },
+            {
+              "word": "of,",
+              "clip_start": 58.035,
+              "clip_end": 58.095,
+              "global_start": 967.513,
+              "global_end": 967.573,
+              "score": 0.312
+            }
+          ]
+        },
+        {
+          "group_id": "cand_3_cap_066",
+          "range_index": 0,
+          "start_time": 59.016,
+          "end_time": 59.959,
+          "duration_s": 0.943,
+          "text": "I'm bald.",
+          "word_count": 2,
+          "words": [
+            {
+              "word": "I'm",
+              "clip_start": 59.016,
+              "clip_end": 59.177,
+              "global_start": 968.494,
+              "global_end": 968.655,
+              "score": 0.764
+            },
+            {
+              "word": "bald.",
+              "clip_start": 59.297,
+              "clip_end": 59.959,
+              "global_start": 968.775,
+              "global_end": 969.437,
+              "score": 0.877
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

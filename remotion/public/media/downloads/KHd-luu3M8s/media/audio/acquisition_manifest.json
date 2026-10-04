@@ -1,0 +1,55 @@
+{
+  "video_id": "KHd-luu3M8s",
+  "total_clip_duration_s": 59.959,
+  "audio_assets": [
+    {
+      "asset_id": "audio_background_music_001",
+      "type": "background_music",
+      "local_path": "/root/youtubr_clipper/media/downloads/KHd-luu3M8s/media/audio/background_music.wav",
+      "source_url": "placeholder://background_music",
+      "provider": "placeholder",
+      "license": "placeholder (sine tone)",
+      "query": "reflective minimal piano background",
+      "timing": {
+        "start": 0.0,
+        "end": 59.959
+      }
+    },
+    {
+      "asset_id": "audio_whoosh_001",
+      "type": "whoosh",
+      "local_path": "/root/youtubr_clipper/media/downloads/KHd-luu3M8s/media/audio/whoosh.mp3",
+      "source_url": "https://cdn.freesound.org/previews/364/364660_6687700-hq.mp3",
+      "provider": "freesound",
+      "license": "CC \u2014 see Freesound for details",
+      "freesound_id": 364660,
+      "freesound_name": "Whoosh Simpler",
+      "query": "soft cinematic whoosh",
+      "timing": {
+        "start": null,
+        "end": null
+      }
+    },
+    {
+      "asset_id": "audio_click_001",
+      "type": "click",
+      "local_path": "/root/youtubr_clipper/media/downloads/KHd-luu3M8s/media/audio/click.mp3",
+      "source_url": "https://cdn.freesound.org/previews/171/171697_2514850-hq.mp3",
+      "provider": "freesound",
+      "license": "CC \u2014 see Freesound for details",
+      "freesound_id": 171697,
+      "freesound_name": "Menu Selection Click",
+      "query": "subtle digital click",
+      "timing": {
+        "start": null,
+        "end": null
+      }
+    }
+  ],
+  "acquisition_summary": {
+    "acquired": 3,
+    "failed": 0,
+    "skipped": 0,
+    "total_attempted": 3
+  }
+}

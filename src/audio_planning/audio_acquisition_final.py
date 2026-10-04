@@ -176,19 +176,39 @@ def create_placeholder_wav(file_path: str, duration_seconds: float, sample_rate:
 # ---------------------------------------------------------------------------
 
 def main() -> None:
-    if len(sys.argv) < 2 or len(sys.argv) > 3:
-        print(f"Usage: {sys.argv[0]} VIDEO_ID [--force]")
+    manifest_path = None
+    force = False
+    if len(sys.argv) < 2:
+        print(f"Usage: {sys.argv[0]} VIDEO_ID [--force] [--manifest MANIFEST]")
         sys.exit(1)
     video_id = sys.argv[1]
-    force = len(sys.argv) == 3 and sys.argv[2] == "--force"
+    i = 2
+    while i < len(sys.argv):
+        arg = sys.argv[i]
+        if arg == "--force":
+            force = True
+            i += 1
+        elif arg == "--manifest":
+            i += 1
+            if i >= len(sys.argv):
+                print(f"Error: --manifest requires a path argument")
+                sys.exit(1)
+            manifest_path = sys.argv[i]
+            i += 1
+        else:
+            print(f"Error: unknown argument {arg}")
+            sys.exit(1)
 
     base_dir = f"/root/youtubr_clipper/media/downloads/{video_id}"
     audio_dir = os.path.join(base_dir, "media", "audio")
     os.makedirs(audio_dir, exist_ok=True)
 
-    # Read the LLM-generated search queries from the first candidate's manifest
-    # (acquisition is shared across candidates — search queries are per-video)
-    planning_path = os.path.join(base_dir, "audio_planning_manifest_cand1.json")
+    # Read the LLM-generated search queries from the specified manifest
+    # (acquisition is shared across candidates)
+    if manifest_path is not None:
+        planning_path = manifest_path
+    else:
+        planning_path = os.path.join(base_dir, "audio_planning_manifest_cand1.json")
     music_query = "upbeat corporate background"
     whoosh_query = "whoosh swoosh transition"
     click_query = "ui click button"

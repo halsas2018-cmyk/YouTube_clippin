@@ -1,0 +1,68 @@
+{
+  "video_id": "KHd-luu3M8s",
+  "llm_provider": "google",
+  "llm_model": "gemini-3.1-flash-lite",
+  "candidates": [
+    {
+      "candidate_id": 1,
+      "total_clip_duration_s": 55.631,
+      "emoji_selections": [
+        {
+          "text": "successful",
+          "emoji": "\ud83c\udfc6",
+          "reason": "Highlights the achievement and evolutionary success of the species.",
+          "group_id": "cand_1_cap_009",
+          "clip_start": 8.185,
+          "clip_end": 8.566,
+          "start_time": 7.245,
+          "end_time": 8.566,
+          "matched_text": "successful"
+        },
+        {
+          "text": "brains",
+          "emoji": "\ud83e\udde0",
+          "reason": "Emphasizes the biological focus of the explanation.",
+          "group_id": "cand_1_cap_011",
+          "clip_start": 10.066,
+          "clip_end": 10.427,
+          "start_time": 9.706,
+          "end_time": 10.427,
+          "matched_text": "brains"
+        },
+        {
+          "text": "dopamine",
+          "emoji": "\ud83e\uddea",
+          "reason": "Identifies the specific chemical subject being discussed.",
+          "group_id": "cand_1_cap_047",
+          "clip_start": 48.19,
+          "clip_end": 48.751,
+          "start_time": 47.849,
+          "end_time": 48.751,
+          "matched_text": "dopamine,"
+        },
+        {
+          "text": "anticipation",
+          "emoji": "\u2728",
+          "reason": "Highlights the core function of the reward system described.",
+          "group_id": "cand_1_cap_038",
+          "clip_start": 40.901,
+          "clip_end": 41.641,
+          "start_time": 40.781,
+          "end_time": 41.821,
+          "matched_text": "anticipation"
+        },
+        {
+          "text": "reinforces",
+          "emoji": "\ud83d\udd04",
+          "reason": "Visualizes the cyclical nature of the learning process.",
+          "group_id": "cand_1_cap_048",
+          "clip_start": 49.012,
+          "clip_end": 49.634,
+          "start_time": 48.792,
+          "end_time": 50.316,
+          "matched_text": "reinforces"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "section_id": "section_001",
+  "candidate_id": 1,
+  "video_id": "KHd-luu3M8s",
+  "file_name": "section_001.mp4",
+  "file_path": "/root/youtubr_clipper/media/downloads/KHd-luu3M8s/sections/section_001.mp4",
+  "start_offset": 118.28,
+  "end_offset": 190.0,
+  "target_duration_s": 71.72,
+  "probed_duration_s": 71.743,
+  "original_candidate_ranges": [
+    {
+      "start": 126.28,
+      "end": 182.0
+    }
+  ],
+  "padded_range": {
+    "start": 118.28,
+    "end": 190.0
+  },
+  "streams": [
+    {
+      "index": 0,
+      "codec_name": "av1",
+      "codec_type": "video",
+      "duration": "71.743000"
+    },
+    {
+      "index": 1,
+      "codec_name": "opus",
+      "codec_type": "audio",
+      "duration": "71.721000"
+    }
+  ],
+  "combined_text": "One of the most interesting areas of social science is that of human addiction. And and addiction is such a fascinating area of human behavior because it's based entirely on on a really great part of human life, which is our ability to learn, our ability to make progress. Our brains are designed to learn new things that make it easier for us to pass the winter and pass on our genes. And and we have neurochemicals that actually make this possible as well. We want to make sure that when we learn something that's an adaptive advantage that that we remember it and that we bank it and we learn new things after that. This makes us fit. This makes it more possible for us to find mates, for us to eat. And this is a real advantage to Homo sapiens. It's one of the reasons that we're so unbelievably successful is cuz we learn and we have brains designed to learn. Part of this is a a neurochemical that neuromodulator that most people are familiar with called dopamine. Dopamine is often mischaracterized as a pleasure hormone. It's not. What it does is it gives you the anticipation of reward. And and and here's how it works. You learn something, you come across something, you're surprised by something that that you like and you you encode that such that the next time you think about it, you get a little spritz of dopamine in your brain and that gives you the anticipation of the reward for getting that thing again and so you go in search of it again. If you find even more of it the second time, more dopamine which reinforces the cycle. And this is a great thing. This is why you would remember that there gazelles around a watering hole or berries on a bush and you're looking forward to going and getting that.",
+  "reason": "This clip provides a clear, scientific explanation of how the dopamine reward system works and why it is a fundamental, positive part of human evolution, setting the stage for understanding modern tech addiction."
+}

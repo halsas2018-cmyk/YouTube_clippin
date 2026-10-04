@@ -1,0 +1,2370 @@
+{
+  "section_id": "section_001",
+  "candidate_id": 1,
+  "video_id": "KHd-luu3M8s",
+  "file_name": "section_001.mp4",
+  "file_path": "/root/youtubr_clipper/media/downloads/KHd-luu3M8s/sections/section_001.mp4",
+  "start_offset": 118.28,
+  "end_offset": 190.0,
+  "target_duration_s": 71.72,
+  "probed_duration_s": 71.743,
+  "original_candidate_ranges": [
+    {
+      "start": 126.28,
+      "end": 182.0
+    }
+  ],
+  "padded_range": {
+    "start": 118.28,
+    "end": 190.0
+  },
+  "combined_text": "One of the most interesting areas of social science is that of human addiction. And and addiction is such a fascinating area of human behavior because it's based entirely on on a really great part of human life, which is our ability to learn, our ability to make progress. Our brains are designed to learn new things that make it easier for us to pass the winter and pass on our genes. And and we have neurochemicals that actually make this possible as well. We want to make sure that when we learn something that's an adaptive advantage that that we remember it and that we bank it and we learn new things after that. This makes us fit. This makes it more possible for us to find mates, for us to eat. And this is a real advantage to Homo sapiens. It's one of the reasons that we're so unbelievably successful is cuz we learn and we have brains designed to learn. Part of this is a a neurochemical that neuromodulator that most people are familiar with called dopamine. Dopamine is often mischaracterized as a pleasure hormone. It's not. What it does is it gives you the anticipation of reward. And and and here's how it works. You learn something, you come across something, you're surprised by something that that you like and you you encode that such that the next time you think about it, you get a little spritz of dopamine in your brain and that gives you the anticipation of the reward for getting that thing again and so you go in search of it again. If you find even more of it the second time, more dopamine which reinforces the cycle. And this is a great thing. This is why you would remember that there gazelles around a watering hole or berries on a bush and you're looking forward to going and getting that.",
+  "reason": "This clip provides a clear, scientific explanation of how the dopamine reward system works and why it is a fundamental, positive part of human evolution, setting the stage for understanding modern tech addiction.",
+  "alignment": {
+    "whisper_model": "base",
+    "language": "en",
+    "device": "cpu",
+    "compute_type": "float32",
+    "total_words": 232,
+    "timestamp_note": "local_start/local_end are relative to the section MP4 file (0-based seconds). global_start/global_end are authoritative original-video timestamps = local_timestamp + start_offset."
+  },
+  "words": [
+    {
+      "word": "adaptive",
+      "local_start": 0.071,
+      "local_end": 0.691,
+      "global_start": 118.351,
+      "global_end": 118.971,
+      "score": 0.897,
+      "segment_index": 0,
+      "segment_text": "adaptive advantage that we remember it, and that we bank it, and we learn new things after that."
+    },
+    {
+      "word": "advantage",
+      "local_start": 0.731,
+      "local_end": 1.272,
+      "global_start": 119.011,
+      "global_end": 119.552,
+      "score": 0.936,
+      "segment_index": 0,
+      "segment_text": "adaptive advantage that we remember it, and that we bank it, and we learn new things after that."
+    },
+    {
+      "word": "that",
+      "local_start": 1.312,
+      "local_end": 1.472,
+      "global_start": 119.592,
+      "global_end": 119.752,
+      "score": 0.921,
+      "segment_index": 0,
+      "segment_text": "adaptive advantage that we remember it, and that we bank it, and we learn new things after that."
+    },
+    {
+      "word": "we",
+      "local_start": 1.892,
+      "local_end": 2.012,
+      "global_start": 120.172,
+      "global_end": 120.292,
+      "score": 0.9,
+      "segment_index": 0,
+      "segment_text": "adaptive advantage that we remember it, and that we bank it, and we learn new things after that."
+    },
+    {
+      "word": "remember",
+      "local_start": 2.052,
+      "local_end": 2.533,
+      "global_start": 120.332,
+      "global_end": 120.813,
+      "score": 0.891,
+      "segment_index": 0,
+      "segment_text": "adaptive advantage that we remember it, and that we bank it, and we learn new things after that."
+    },
+    {
+      "word": "it,",
+      "local_start": 2.613,
+      "local_end": 2.713,
+      "global_start": 120.893,
+      "global_end": 120.993,
+      "score": 0.675,
+      "segment_index": 0,
+      "segment_text": "adaptive advantage that we remember it, and that we bank it, and we learn new things after that."
+    },
+    {
+      "word": "and",
+      "local_start": 3.053,
+      "local_end": 3.113,
+      "global_start": 121.333,
+      "global_end": 121.393,
+      "score": 0.998,
+      "segment_index": 0,
+      "segment_text": "adaptive advantage that we remember it, and that we bank it, and we learn new things after that."
+    },
+    {
+      "word": "that",
+      "local_start": 3.133,
+      "local_end": 3.233,
+      "global_start": 121.413,
+      "global_end": 121.513,
+      "score": 0.891,
+      "segment_index": 0,
+      "segment_text": "adaptive advantage that we remember it, and that we bank it, and we learn new things after that."
+    },
+    {
+      "word": "we",
+      "local_start": 3.273,
+      "local_end": 3.393,
+      "global_start": 121.553,
+      "global_end": 121.673,
+      "score": 0.644,
+      "segment_index": 0,
+      "segment_text": "adaptive advantage that we remember it, and that we bank it, and we learn new things after that."
+    },
+    {
+      "word": "bank",
+      "local_start": 3.453,
+      "local_end": 3.753,
+      "global_start": 121.733,
+      "global_end": 122.033,
+      "score": 0.795,
+      "segment_index": 0,
+      "segment_text": "adaptive advantage that we remember it, and that we bank it, and we learn new things after that."
+    },
+    {
+      "word": "it,",
+      "local_start": 3.833,
+      "local_end": 3.933,
+      "global_start": 122.113,
+      "global_end": 122.213,
+      "score": 0.859,
+      "segment_index": 0,
+      "segment_text": "adaptive advantage that we remember it, and that we bank it, and we learn new things after that."
+    },
+    {
+      "word": "and",
+      "local_start": 4.054,
+      "local_end": 4.154,
+      "global_start": 122.334,
+      "global_end": 122.434,
+      "score": 0.792,
+      "segment_index": 0,
+      "segment_text": "adaptive advantage that we remember it, and that we bank it, and we learn new things after that."
+    },
+    {
+      "word": "we",
+      "local_start": 4.214,
+      "local_end": 4.354,
+      "global_start": 122.494,
+      "global_end": 122.634,
+      "score": 0.899,
+      "segment_index": 0,
+      "segment_text": "adaptive advantage that we remember it, and that we bank it, and we learn new things after that."
+    },
+    {
+      "word": "learn",
+      "local_start": 4.374,
+      "local_end": 4.654,
+      "global_start": 122.654,
+      "global_end": 122.934,
+      "score": 0.734,
+      "segment_index": 0,
+      "segment_text": "adaptive advantage that we remember it, and that we bank it, and we learn new things after that."
+    },
+    {
+      "word": "new",
+      "local_start": 4.794,
+      "local_end": 4.934,
+      "global_start": 123.074,
+      "global_end": 123.214,
+      "score": 0.764,
+      "segment_index": 0,
+      "segment_text": "adaptive advantage that we remember it, and that we bank it, and we learn new things after that."
+    },
+    {
+      "word": "things",
+      "local_start": 4.974,
+      "local_end": 5.214,
+      "global_start": 123.254,
+      "global_end": 123.494,
+      "score": 0.794,
+      "segment_index": 0,
+      "segment_text": "adaptive advantage that we remember it, and that we bank it, and we learn new things after that."
+    },
+    {
+      "word": "after",
+      "local_start": 5.314,
+      "local_end": 5.494,
+      "global_start": 123.594,
+      "global_end": 123.774,
+      "score": 0.927,
+      "segment_index": 0,
+      "segment_text": "adaptive advantage that we remember it, and that we bank it, and we learn new things after that."
+    },
+    {
+      "word": "that.",
+      "local_start": 5.534,
+      "local_end": 5.815,
+      "global_start": 123.814,
+      "global_end": 124.095,
+      "score": 0.88,
+      "segment_index": 0,
+      "segment_text": "adaptive advantage that we remember it, and that we bank it, and we learn new things after that."
+    },
+    {
+      "word": "This",
+      "local_start": 5.955,
+      "local_end": 6.115,
+      "global_start": 124.235,
+      "global_end": 124.395,
+      "score": 0.708,
+      "segment_index": 1,
+      "segment_text": "This makes us fit."
+    },
+    {
+      "word": "makes",
+      "local_start": 6.175,
+      "local_end": 6.375,
+      "global_start": 124.455,
+      "global_end": 124.655,
+      "score": 0.785,
+      "segment_index": 1,
+      "segment_text": "This makes us fit."
+    },
+    {
+      "word": "us",
+      "local_start": 6.455,
+      "local_end": 6.555,
+      "global_start": 124.735,
+      "global_end": 124.835,
+      "score": 0.702,
+      "segment_index": 1,
+      "segment_text": "This makes us fit."
+    },
+    {
+      "word": "fit.",
+      "local_start": 7.256,
+      "local_end": 7.496,
+      "global_start": 125.536,
+      "global_end": 125.776,
+      "score": 0.968,
+      "segment_index": 1,
+      "segment_text": "This makes us fit."
+    },
+    {
+      "word": "This",
+      "local_start": 7.816,
+      "local_end": 7.976,
+      "global_start": 126.096,
+      "global_end": 126.256,
+      "score": 0.766,
+      "segment_index": 2,
+      "segment_text": "This makes it more possible for us to find mates, for us to eat."
+    },
+    {
+      "word": "makes",
+      "local_start": 8.076,
+      "local_end": 8.276,
+      "global_start": 126.356,
+      "global_end": 126.556,
+      "score": 0.781,
+      "segment_index": 2,
+      "segment_text": "This makes it more possible for us to find mates, for us to eat."
+    },
+    {
+      "word": "it",
+      "local_start": 8.336,
+      "local_end": 8.396,
+      "global_start": 126.616,
+      "global_end": 126.676,
+      "score": 0.75,
+      "segment_index": 2,
+      "segment_text": "This makes it more possible for us to find mates, for us to eat."
+    },
+    {
+      "word": "more",
+      "local_start": 8.436,
+      "local_end": 8.576,
+      "global_start": 126.716,
+      "global_end": 126.856,
+      "score": 0.802,
+      "segment_index": 2,
+      "segment_text": "This makes it more possible for us to find mates, for us to eat."
+    },
+    {
+      "word": "possible",
+      "local_start": 8.696,
+      "local_end": 9.197,
+      "global_start": 126.976,
+      "global_end": 127.477,
+      "score": 0.767,
+      "segment_index": 2,
+      "segment_text": "This makes it more possible for us to find mates, for us to eat."
+    },
+    {
+      "word": "for",
+      "local_start": 9.277,
+      "local_end": 9.357,
+      "global_start": 127.557,
+      "global_end": 127.637,
+      "score": 0.858,
+      "segment_index": 2,
+      "segment_text": "This makes it more possible for us to find mates, for us to eat."
+    },
+    {
+      "word": "us",
+      "local_start": 9.417,
+      "local_end": 9.497,
+      "global_start": 127.697,
+      "global_end": 127.777,
+      "score": 0.678,
+      "segment_index": 2,
+      "segment_text": "This makes it more possible for us to find mates, for us to eat."
+    },
+    {
+      "word": "to",
+      "local_start": 9.517,
+      "local_end": 9.597,
+      "global_start": 127.797,
+      "global_end": 127.877,
+      "score": 0.864,
+      "segment_index": 2,
+      "segment_text": "This makes it more possible for us to find mates, for us to eat."
+    },
+    {
+      "word": "find",
+      "local_start": 9.637,
+      "local_end": 9.897,
+      "global_start": 127.917,
+      "global_end": 128.177,
+      "score": 0.689,
+      "segment_index": 2,
+      "segment_text": "This makes it more possible for us to find mates, for us to eat."
+    },
+    {
+      "word": "mates,",
+      "local_start": 9.977,
+      "local_end": 10.338,
+      "global_start": 128.257,
+      "global_end": 128.618,
+      "score": 0.846,
+      "segment_index": 2,
+      "segment_text": "This makes it more possible for us to find mates, for us to eat."
+    },
+    {
+      "word": "for",
+      "local_start": 10.418,
+      "local_end": 10.538,
+      "global_start": 128.698,
+      "global_end": 128.818,
+      "score": 0.973,
+      "segment_index": 2,
+      "segment_text": "This makes it more possible for us to find mates, for us to eat."
+    },
+    {
+      "word": "us",
+      "local_start": 10.578,
+      "local_end": 10.658,
+      "global_start": 128.858,
+      "global_end": 128.938,
+      "score": 0.56,
+      "segment_index": 2,
+      "segment_text": "This makes it more possible for us to find mates, for us to eat."
+    },
+    {
+      "word": "to",
+      "local_start": 10.698,
+      "local_end": 10.798,
+      "global_start": 128.978,
+      "global_end": 129.078,
+      "score": 0.657,
+      "segment_index": 2,
+      "segment_text": "This makes it more possible for us to find mates, for us to eat."
+    },
+    {
+      "word": "eat.",
+      "local_start": 10.938,
+      "local_end": 11.118,
+      "global_start": 129.218,
+      "global_end": 129.398,
+      "score": 0.643,
+      "segment_index": 2,
+      "segment_text": "This makes it more possible for us to find mates, for us to eat."
+    },
+    {
+      "word": "And",
+      "local_start": 11.518,
+      "local_end": 11.618,
+      "global_start": 129.798,
+      "global_end": 129.898,
+      "score": 0.784,
+      "segment_index": 3,
+      "segment_text": "And this is a real advantage to Homo sapiens."
+    },
+    {
+      "word": "this",
+      "local_start": 11.778,
+      "local_end": 11.919,
+      "global_start": 130.058,
+      "global_end": 130.199,
+      "score": 0.889,
+      "segment_index": 3,
+      "segment_text": "And this is a real advantage to Homo sapiens."
+    },
+    {
+      "word": "is",
+      "local_start": 11.979,
+      "local_end": 12.059,
+      "global_start": 130.259,
+      "global_end": 130.339,
+      "score": 0.682,
+      "segment_index": 3,
+      "segment_text": "And this is a real advantage to Homo sapiens."
+    },
+    {
+      "word": "a",
+      "local_start": 12.099,
+      "local_end": 12.119,
+      "global_start": 130.379,
+      "global_end": 130.399,
+      "score": 0.994,
+      "segment_index": 3,
+      "segment_text": "And this is a real advantage to Homo sapiens."
+    },
+    {
+      "word": "real",
+      "local_start": 12.299,
+      "local_end": 12.619,
+      "global_start": 130.579,
+      "global_end": 130.899,
+      "score": 0.855,
+      "segment_index": 3,
+      "segment_text": "And this is a real advantage to Homo sapiens."
+    },
+    {
+      "word": "advantage",
+      "local_start": 12.699,
+      "local_end": 13.419,
+      "global_start": 130.979,
+      "global_end": 131.699,
+      "score": 0.792,
+      "segment_index": 3,
+      "segment_text": "And this is a real advantage to Homo sapiens."
+    },
+    {
+      "word": "to",
+      "local_start": 13.48,
+      "local_end": 13.56,
+      "global_start": 131.76,
+      "global_end": 131.84,
+      "score": 0.816,
+      "segment_index": 3,
+      "segment_text": "And this is a real advantage to Homo sapiens."
+    },
+    {
+      "word": "Homo",
+      "local_start": 13.62,
+      "local_end": 13.9,
+      "global_start": 131.9,
+      "global_end": 132.18,
+      "score": 0.996,
+      "segment_index": 3,
+      "segment_text": "And this is a real advantage to Homo sapiens."
+    },
+    {
+      "word": "sapiens.",
+      "local_start": 13.94,
+      "local_end": 14.44,
+      "global_start": 132.22,
+      "global_end": 132.72,
+      "score": 0.88,
+      "segment_index": 3,
+      "segment_text": "And this is a real advantage to Homo sapiens."
+    },
+    {
+      "word": "This",
+      "local_start": 14.46,
+      "local_end": 14.54,
+      "global_start": 132.74,
+      "global_end": 132.82,
+      "score": 0.114,
+      "segment_index": 4,
+      "segment_text": "This is one of the reasons that we're so unbelievably successful is because we learn, and we have brains designed to learn."
+    },
+    {
+      "word": "is",
+      "local_start": 14.56,
+      "local_end": 14.6,
+      "global_start": 132.84,
+      "global_end": 132.88,
+      "score": 0.491,
+      "segment_index": 4,
+      "segment_text": "This is one of the reasons that we're so unbelievably successful is because we learn, and we have brains designed to learn."
+    },
+    {
+      "word": "one",
+      "local_start": 14.64,
+      "local_end": 14.72,
+      "global_start": 132.92,
+      "global_end": 133.0,
+      "score": 0.834,
+      "segment_index": 4,
+      "segment_text": "This is one of the reasons that we're so unbelievably successful is because we learn, and we have brains designed to learn."
+    },
+    {
+      "word": "of",
+      "local_start": 14.74,
+      "local_end": 14.78,
+      "global_start": 133.02,
+      "global_end": 133.06,
+      "score": 0.999,
+      "segment_index": 4,
+      "segment_text": "This is one of the reasons that we're so unbelievably successful is because we learn, and we have brains designed to learn."
+    },
+    {
+      "word": "the",
+      "local_start": 14.8,
+      "local_end": 14.86,
+      "global_start": 133.08,
+      "global_end": 133.14,
+      "score": 0.995,
+      "segment_index": 4,
+      "segment_text": "This is one of the reasons that we're so unbelievably successful is because we learn, and we have brains designed to learn."
+    },
+    {
+      "word": "reasons",
+      "local_start": 14.9,
+      "local_end": 15.161,
+      "global_start": 133.18,
+      "global_end": 133.441,
+      "score": 0.854,
+      "segment_index": 4,
+      "segment_text": "This is one of the reasons that we're so unbelievably successful is because we learn, and we have brains designed to learn."
+    },
+    {
+      "word": "that",
+      "local_start": 15.201,
+      "local_end": 15.301,
+      "global_start": 133.481,
+      "global_end": 133.581,
+      "score": 0.879,
+      "segment_index": 4,
+      "segment_text": "This is one of the reasons that we're so unbelievably successful is because we learn, and we have brains designed to learn."
+    },
+    {
+      "word": "we're",
+      "local_start": 15.321,
+      "local_end": 15.441,
+      "global_start": 133.601,
+      "global_end": 133.721,
+      "score": 0.784,
+      "segment_index": 4,
+      "segment_text": "This is one of the reasons that we're so unbelievably successful is because we learn, and we have brains designed to learn."
+    },
+    {
+      "word": "so",
+      "local_start": 15.481,
+      "local_end": 15.601,
+      "global_start": 133.761,
+      "global_end": 133.881,
+      "score": 0.877,
+      "segment_index": 4,
+      "segment_text": "This is one of the reasons that we're so unbelievably successful is because we learn, and we have brains designed to learn."
+    },
+    {
+      "word": "unbelievably",
+      "local_start": 15.661,
+      "local_end": 16.221,
+      "global_start": 133.941,
+      "global_end": 134.501,
+      "score": 0.826,
+      "segment_index": 4,
+      "segment_text": "This is one of the reasons that we're so unbelievably successful is because we learn, and we have brains designed to learn."
+    },
+    {
+      "word": "successful",
+      "local_start": 16.261,
+      "local_end": 16.642,
+      "global_start": 134.541,
+      "global_end": 134.922,
+      "score": 0.862,
+      "segment_index": 4,
+      "segment_text": "This is one of the reasons that we're so unbelievably successful is because we learn, and we have brains designed to learn."
+    },
+    {
+      "word": "is",
+      "local_start": 16.682,
+      "local_end": 16.722,
+      "global_start": 134.962,
+      "global_end": 135.002,
+      "score": 0.622,
+      "segment_index": 4,
+      "segment_text": "This is one of the reasons that we're so unbelievably successful is because we learn, and we have brains designed to learn."
+    },
+    {
+      "word": "because",
+      "local_start": 16.742,
+      "local_end": 16.942,
+      "global_start": 135.022,
+      "global_end": 135.222,
+      "score": 0.669,
+      "segment_index": 4,
+      "segment_text": "This is one of the reasons that we're so unbelievably successful is because we learn, and we have brains designed to learn."
+    },
+    {
+      "word": "we",
+      "local_start": 16.982,
+      "local_end": 17.142,
+      "global_start": 135.262,
+      "global_end": 135.422,
+      "score": 0.628,
+      "segment_index": 4,
+      "segment_text": "This is one of the reasons that we're so unbelievably successful is because we learn, and we have brains designed to learn."
+    },
+    {
+      "word": "learn,",
+      "local_start": 17.182,
+      "local_end": 17.482,
+      "global_start": 135.462,
+      "global_end": 135.762,
+      "score": 0.785,
+      "segment_index": 4,
+      "segment_text": "This is one of the reasons that we're so unbelievably successful is because we learn, and we have brains designed to learn."
+    },
+    {
+      "word": "and",
+      "local_start": 17.782,
+      "local_end": 17.862,
+      "global_start": 136.062,
+      "global_end": 136.142,
+      "score": 0.885,
+      "segment_index": 4,
+      "segment_text": "This is one of the reasons that we're so unbelievably successful is because we learn, and we have brains designed to learn."
+    },
+    {
+      "word": "we",
+      "local_start": 17.882,
+      "local_end": 17.962,
+      "global_start": 136.162,
+      "global_end": 136.242,
+      "score": 0.735,
+      "segment_index": 4,
+      "segment_text": "This is one of the reasons that we're so unbelievably successful is because we learn, and we have brains designed to learn."
+    },
+    {
+      "word": "have",
+      "local_start": 18.002,
+      "local_end": 18.102,
+      "global_start": 136.282,
+      "global_end": 136.382,
+      "score": 0.886,
+      "segment_index": 4,
+      "segment_text": "This is one of the reasons that we're so unbelievably successful is because we learn, and we have brains designed to learn."
+    },
+    {
+      "word": "brains",
+      "local_start": 18.142,
+      "local_end": 18.503,
+      "global_start": 136.422,
+      "global_end": 136.783,
+      "score": 0.705,
+      "segment_index": 4,
+      "segment_text": "This is one of the reasons that we're so unbelievably successful is because we learn, and we have brains designed to learn."
+    },
+    {
+      "word": "designed",
+      "local_start": 18.563,
+      "local_end": 19.163,
+      "global_start": 136.843,
+      "global_end": 137.443,
+      "score": 0.706,
+      "segment_index": 4,
+      "segment_text": "This is one of the reasons that we're so unbelievably successful is because we learn, and we have brains designed to learn."
+    },
+    {
+      "word": "to",
+      "local_start": 19.263,
+      "local_end": 19.403,
+      "global_start": 137.543,
+      "global_end": 137.683,
+      "score": 0.548,
+      "segment_index": 4,
+      "segment_text": "This is one of the reasons that we're so unbelievably successful is because we learn, and we have brains designed to learn."
+    },
+    {
+      "word": "learn.",
+      "local_start": 19.443,
+      "local_end": 19.723,
+      "global_start": 137.723,
+      "global_end": 138.003,
+      "score": 0.758,
+      "segment_index": 4,
+      "segment_text": "This is one of the reasons that we're so unbelievably successful is because we learn, and we have brains designed to learn."
+    },
+    {
+      "word": "Part",
+      "local_start": 20.324,
+      "local_end": 20.504,
+      "global_start": 138.604,
+      "global_end": 138.784,
+      "score": 0.902,
+      "segment_index": 5,
+      "segment_text": "Part of this is a neurochemical, that neuromodulator that most people are familiar with, called dopamine."
+    },
+    {
+      "word": "of",
+      "local_start": 20.544,
+      "local_end": 20.604,
+      "global_start": 138.824,
+      "global_end": 138.884,
+      "score": 0.751,
+      "segment_index": 5,
+      "segment_text": "Part of this is a neurochemical, that neuromodulator that most people are familiar with, called dopamine."
+    },
+    {
+      "word": "this",
+      "local_start": 20.644,
+      "local_end": 20.824,
+      "global_start": 138.924,
+      "global_end": 139.104,
+      "score": 0.762,
+      "segment_index": 5,
+      "segment_text": "Part of this is a neurochemical, that neuromodulator that most people are familiar with, called dopamine."
+    },
+    {
+      "word": "is",
+      "local_start": 20.984,
+      "local_end": 21.084,
+      "global_start": 139.264,
+      "global_end": 139.364,
+      "score": 0.676,
+      "segment_index": 5,
+      "segment_text": "Part of this is a neurochemical, that neuromodulator that most people are familiar with, called dopamine."
+    },
+    {
+      "word": "a",
+      "local_start": 21.184,
+      "local_end": 21.244,
+      "global_start": 139.464,
+      "global_end": 139.524,
+      "score": 0.773,
+      "segment_index": 5,
+      "segment_text": "Part of this is a neurochemical, that neuromodulator that most people are familiar with, called dopamine."
+    },
+    {
+      "word": "neurochemical,",
+      "local_start": 21.585,
+      "local_end": 22.345,
+      "global_start": 139.865,
+      "global_end": 140.625,
+      "score": 0.882,
+      "segment_index": 5,
+      "segment_text": "Part of this is a neurochemical, that neuromodulator that most people are familiar with, called dopamine."
+    },
+    {
+      "word": "that",
+      "local_start": 22.385,
+      "local_end": 22.525,
+      "global_start": 140.665,
+      "global_end": 140.805,
+      "score": 0.792,
+      "segment_index": 5,
+      "segment_text": "Part of this is a neurochemical, that neuromodulator that most people are familiar with, called dopamine."
+    },
+    {
+      "word": "neuromodulator",
+      "local_start": 23.106,
+      "local_end": 24.066,
+      "global_start": 141.386,
+      "global_end": 142.346,
+      "score": 0.858,
+      "segment_index": 5,
+      "segment_text": "Part of this is a neurochemical, that neuromodulator that most people are familiar with, called dopamine."
+    },
+    {
+      "word": "that",
+      "local_start": 24.106,
+      "local_end": 24.266,
+      "global_start": 142.386,
+      "global_end": 142.546,
+      "score": 0.819,
+      "segment_index": 5,
+      "segment_text": "Part of this is a neurochemical, that neuromodulator that most people are familiar with, called dopamine."
+    },
+    {
+      "word": "most",
+      "local_start": 24.426,
+      "local_end": 24.607,
+      "global_start": 142.706,
+      "global_end": 142.887,
+      "score": 0.767,
+      "segment_index": 5,
+      "segment_text": "Part of this is a neurochemical, that neuromodulator that most people are familiar with, called dopamine."
+    },
+    {
+      "word": "people",
+      "local_start": 24.647,
+      "local_end": 24.867,
+      "global_start": 142.927,
+      "global_end": 143.147,
+      "score": 0.786,
+      "segment_index": 5,
+      "segment_text": "Part of this is a neurochemical, that neuromodulator that most people are familiar with, called dopamine."
+    },
+    {
+      "word": "are",
+      "local_start": 24.907,
+      "local_end": 24.987,
+      "global_start": 143.187,
+      "global_end": 143.267,
+      "score": 0.835,
+      "segment_index": 5,
+      "segment_text": "Part of this is a neurochemical, that neuromodulator that most people are familiar with, called dopamine."
+    },
+    {
+      "word": "familiar",
+      "local_start": 25.027,
+      "local_end": 25.387,
+      "global_start": 143.307,
+      "global_end": 143.667,
+      "score": 0.874,
+      "segment_index": 5,
+      "segment_text": "Part of this is a neurochemical, that neuromodulator that most people are familiar with, called dopamine."
+    },
+    {
+      "word": "with,",
+      "local_start": 25.427,
+      "local_end": 25.587,
+      "global_start": 143.707,
+      "global_end": 143.867,
+      "score": 0.828,
+      "segment_index": 5,
+      "segment_text": "Part of this is a neurochemical, that neuromodulator that most people are familiar with, called dopamine."
+    },
+    {
+      "word": "called",
+      "local_start": 25.607,
+      "local_end": 25.807,
+      "global_start": 143.887,
+      "global_end": 144.087,
+      "score": 0.887,
+      "segment_index": 5,
+      "segment_text": "Part of this is a neurochemical, that neuromodulator that most people are familiar with, called dopamine."
+    },
+    {
+      "word": "dopamine.",
+      "local_start": 25.907,
+      "local_end": 26.488,
+      "global_start": 144.187,
+      "global_end": 144.768,
+      "score": 0.876,
+      "segment_index": 5,
+      "segment_text": "Part of this is a neurochemical, that neuromodulator that most people are familiar with, called dopamine."
+    },
+    {
+      "word": "Dopamine",
+      "local_start": 26.948,
+      "local_end": 27.548,
+      "global_start": 145.228,
+      "global_end": 145.828,
+      "score": 0.871,
+      "segment_index": 6,
+      "segment_text": "Dopamine is often mischaracterized as a pleasure hormones."
+    },
+    {
+      "word": "is",
+      "local_start": 27.868,
+      "local_end": 27.948,
+      "global_start": 146.148,
+      "global_end": 146.228,
+      "score": 0.486,
+      "segment_index": 6,
+      "segment_text": "Dopamine is often mischaracterized as a pleasure hormones."
+    },
+    {
+      "word": "often",
+      "local_start": 28.028,
+      "local_end": 28.289,
+      "global_start": 146.308,
+      "global_end": 146.569,
+      "score": 0.89,
+      "segment_index": 6,
+      "segment_text": "Dopamine is often mischaracterized as a pleasure hormones."
+    },
+    {
+      "word": "mischaracterized",
+      "local_start": 28.309,
+      "local_end": 29.109,
+      "global_start": 146.589,
+      "global_end": 147.389,
+      "score": 0.811,
+      "segment_index": 6,
+      "segment_text": "Dopamine is often mischaracterized as a pleasure hormones."
+    },
+    {
+      "word": "as",
+      "local_start": 29.169,
+      "local_end": 29.229,
+      "global_start": 147.449,
+      "global_end": 147.509,
+      "score": 0.768,
+      "segment_index": 6,
+      "segment_text": "Dopamine is often mischaracterized as a pleasure hormones."
+    },
+    {
+      "word": "a",
+      "local_start": 29.269,
+      "local_end": 29.289,
+      "global_start": 147.549,
+      "global_end": 147.569,
+      "score": 0.994,
+      "segment_index": 6,
+      "segment_text": "Dopamine is often mischaracterized as a pleasure hormones."
+    },
+    {
+      "word": "pleasure",
+      "local_start": 29.349,
+      "local_end": 29.729,
+      "global_start": 147.629,
+      "global_end": 148.009,
+      "score": 0.891,
+      "segment_index": 6,
+      "segment_text": "Dopamine is often mischaracterized as a pleasure hormones."
+    },
+    {
+      "word": "hormones.",
+      "local_start": 29.769,
+      "local_end": 30.289,
+      "global_start": 148.049,
+      "global_end": 148.569,
+      "score": 0.838,
+      "segment_index": 6,
+      "segment_text": "Dopamine is often mischaracterized as a pleasure hormones."
+    },
+    {
+      "word": "It's",
+      "local_start": 30.429,
+      "local_end": 30.57,
+      "global_start": 148.709,
+      "global_end": 148.85,
+      "score": 0.756,
+      "segment_index": 7,
+      "segment_text": "It's not."
+    },
+    {
+      "word": "not.",
+      "local_start": 30.67,
+      "local_end": 31.03,
+      "global_start": 148.95,
+      "global_end": 149.31,
+      "score": 0.832,
+      "segment_index": 7,
+      "segment_text": "It's not."
+    },
+    {
+      "word": "What",
+      "local_start": 31.37,
+      "local_end": 31.51,
+      "global_start": 149.65,
+      "global_end": 149.79,
+      "score": 0.713,
+      "segment_index": 8,
+      "segment_text": "What it does is it gives you the anticipation of reward."
+    },
+    {
+      "word": "it",
+      "local_start": 31.53,
+      "local_end": 31.57,
+      "global_start": 149.81,
+      "global_end": 149.85,
+      "score": 0.879,
+      "segment_index": 8,
+      "segment_text": "What it does is it gives you the anticipation of reward."
+    },
+    {
+      "word": "does",
+      "local_start": 31.61,
+      "local_end": 31.81,
+      "global_start": 149.89,
+      "global_end": 150.09,
+      "score": 0.83,
+      "segment_index": 8,
+      "segment_text": "What it does is it gives you the anticipation of reward."
+    },
+    {
+      "word": "is",
+      "local_start": 31.89,
+      "local_end": 32.01,
+      "global_start": 150.17,
+      "global_end": 150.29,
+      "score": 0.614,
+      "segment_index": 8,
+      "segment_text": "What it does is it gives you the anticipation of reward."
+    },
+    {
+      "word": "it",
+      "local_start": 32.11,
+      "local_end": 32.19,
+      "global_start": 150.39,
+      "global_end": 150.47,
+      "score": 0.826,
+      "segment_index": 8,
+      "segment_text": "What it does is it gives you the anticipation of reward."
+    },
+    {
+      "word": "gives",
+      "local_start": 32.25,
+      "local_end": 32.45,
+      "global_start": 150.53,
+      "global_end": 150.73,
+      "score": 0.784,
+      "segment_index": 8,
+      "segment_text": "What it does is it gives you the anticipation of reward."
+    },
+    {
+      "word": "you",
+      "local_start": 32.49,
+      "local_end": 32.65,
+      "global_start": 150.77,
+      "global_end": 150.93,
+      "score": 0.811,
+      "segment_index": 8,
+      "segment_text": "What it does is it gives you the anticipation of reward."
+    },
+    {
+      "word": "the",
+      "local_start": 32.69,
+      "local_end": 32.79,
+      "global_start": 150.97,
+      "global_end": 151.07,
+      "score": 0.678,
+      "segment_index": 8,
+      "segment_text": "What it does is it gives you the anticipation of reward."
+    },
+    {
+      "word": "anticipation",
+      "local_start": 32.93,
+      "local_end": 33.971,
+      "global_start": 151.21,
+      "global_end": 152.251,
+      "score": 0.8,
+      "segment_index": 8,
+      "segment_text": "What it does is it gives you the anticipation of reward."
+    },
+    {
+      "word": "of",
+      "local_start": 34.011,
+      "local_end": 34.071,
+      "global_start": 152.291,
+      "global_end": 152.351,
+      "score": 0.75,
+      "segment_index": 8,
+      "segment_text": "What it does is it gives you the anticipation of reward."
+    },
+    {
+      "word": "reward.",
+      "local_start": 34.191,
+      "local_end": 34.811,
+      "global_start": 152.471,
+      "global_end": 153.091,
+      "score": 0.778,
+      "segment_index": 8,
+      "segment_text": "What it does is it gives you the anticipation of reward."
+    },
+    {
+      "word": "And",
+      "local_start": 35.972,
+      "local_end": 36.072,
+      "global_start": 154.252,
+      "global_end": 154.352,
+      "score": 0.743,
+      "segment_index": 9,
+      "segment_text": "And here's how it works."
+    },
+    {
+      "word": "here's",
+      "local_start": 36.092,
+      "local_end": 36.312,
+      "global_start": 154.372,
+      "global_end": 154.592,
+      "score": 0.609,
+      "segment_index": 9,
+      "segment_text": "And here's how it works."
+    },
+    {
+      "word": "how",
+      "local_start": 36.352,
+      "local_end": 36.472,
+      "global_start": 154.632,
+      "global_end": 154.752,
+      "score": 0.82,
+      "segment_index": 9,
+      "segment_text": "And here's how it works."
+    },
+    {
+      "word": "it",
+      "local_start": 36.552,
+      "local_end": 36.612,
+      "global_start": 154.832,
+      "global_end": 154.892,
+      "score": 0.754,
+      "segment_index": 9,
+      "segment_text": "And here's how it works."
+    },
+    {
+      "word": "works.",
+      "local_start": 36.652,
+      "local_end": 36.952,
+      "global_start": 154.932,
+      "global_end": 155.232,
+      "score": 0.911,
+      "segment_index": 9,
+      "segment_text": "And here's how it works."
+    },
+    {
+      "word": "You",
+      "local_start": 37.272,
+      "local_end": 37.472,
+      "global_start": 155.552,
+      "global_end": 155.752,
+      "score": 0.832,
+      "segment_index": 10,
+      "segment_text": "You learn something, you come across something, you're surprised by something that you like, and you encode that."
+    },
+    {
+      "word": "learn",
+      "local_start": 37.512,
+      "local_end": 37.812,
+      "global_start": 155.792,
+      "global_end": 156.092,
+      "score": 0.754,
+      "segment_index": 10,
+      "segment_text": "You learn something, you come across something, you're surprised by something that you like, and you encode that."
+    },
+    {
+      "word": "something,",
+      "local_start": 37.892,
+      "local_end": 38.313,
+      "global_start": 156.172,
+      "global_end": 156.593,
+      "score": 0.834,
+      "segment_index": 10,
+      "segment_text": "You learn something, you come across something, you're surprised by something that you like, and you encode that."
+    },
+    {
+      "word": "you",
+      "local_start": 38.333,
+      "local_end": 38.513,
+      "global_start": 156.613,
+      "global_end": 156.793,
+      "score": 0.949,
+      "segment_index": 10,
+      "segment_text": "You learn something, you come across something, you're surprised by something that you like, and you encode that."
+    },
+    {
+      "word": "come",
+      "local_start": 38.573,
+      "local_end": 38.713,
+      "global_start": 156.853,
+      "global_end": 156.993,
+      "score": 0.858,
+      "segment_index": 10,
+      "segment_text": "You learn something, you come across something, you're surprised by something that you like, and you encode that."
+    },
+    {
+      "word": "across",
+      "local_start": 38.753,
+      "local_end": 39.113,
+      "global_start": 157.033,
+      "global_end": 157.393,
+      "score": 0.902,
+      "segment_index": 10,
+      "segment_text": "You learn something, you come across something, you're surprised by something that you like, and you encode that."
+    },
+    {
+      "word": "something,",
+      "local_start": 39.193,
+      "local_end": 39.573,
+      "global_start": 157.473,
+      "global_end": 157.853,
+      "score": 0.815,
+      "segment_index": 10,
+      "segment_text": "You learn something, you come across something, you're surprised by something that you like, and you encode that."
+    },
+    {
+      "word": "you're",
+      "local_start": 39.593,
+      "local_end": 39.753,
+      "global_start": 157.873,
+      "global_end": 158.033,
+      "score": 0.91,
+      "segment_index": 10,
+      "segment_text": "You learn something, you come across something, you're surprised by something that you like, and you encode that."
+    },
+    {
+      "word": "surprised",
+      "local_start": 39.773,
+      "local_end": 40.253,
+      "global_start": 158.053,
+      "global_end": 158.533,
+      "score": 0.839,
+      "segment_index": 10,
+      "segment_text": "You learn something, you come across something, you're surprised by something that you like, and you encode that."
+    },
+    {
+      "word": "by",
+      "local_start": 40.293,
+      "local_end": 40.414,
+      "global_start": 158.573,
+      "global_end": 158.694,
+      "score": 0.803,
+      "segment_index": 10,
+      "segment_text": "You learn something, you come across something, you're surprised by something that you like, and you encode that."
+    },
+    {
+      "word": "something",
+      "local_start": 40.494,
+      "local_end": 40.854,
+      "global_start": 158.774,
+      "global_end": 159.134,
+      "score": 0.856,
+      "segment_index": 10,
+      "segment_text": "You learn something, you come across something, you're surprised by something that you like, and you encode that."
+    },
+    {
+      "word": "that",
+      "local_start": 41.254,
+      "local_end": 41.374,
+      "global_start": 159.534,
+      "global_end": 159.654,
+      "score": 0.961,
+      "segment_index": 10,
+      "segment_text": "You learn something, you come across something, you're surprised by something that you like, and you encode that."
+    },
+    {
+      "word": "you",
+      "local_start": 41.394,
+      "local_end": 41.554,
+      "global_start": 159.674,
+      "global_end": 159.834,
+      "score": 0.787,
+      "segment_index": 10,
+      "segment_text": "You learn something, you come across something, you're surprised by something that you like, and you encode that."
+    },
+    {
+      "word": "like,",
+      "local_start": 41.594,
+      "local_end": 41.874,
+      "global_start": 159.874,
+      "global_end": 160.154,
+      "score": 0.938,
+      "segment_index": 10,
+      "segment_text": "You learn something, you come across something, you're surprised by something that you like, and you encode that."
+    },
+    {
+      "word": "and",
+      "local_start": 42.514,
+      "local_end": 42.634,
+      "global_start": 160.794,
+      "global_end": 160.914,
+      "score": 0.732,
+      "segment_index": 10,
+      "segment_text": "You learn something, you come across something, you're surprised by something that you like, and you encode that."
+    },
+    {
+      "word": "you",
+      "local_start": 42.654,
+      "local_end": 42.714,
+      "global_start": 160.934,
+      "global_end": 160.994,
+      "score": 0.07,
+      "segment_index": 10,
+      "segment_text": "You learn something, you come across something, you're surprised by something that you like, and you encode that."
+    },
+    {
+      "word": "encode",
+      "local_start": 43.195,
+      "local_end": 43.775,
+      "global_start": 161.475,
+      "global_end": 162.055,
+      "score": 0.806,
+      "segment_index": 10,
+      "segment_text": "You learn something, you come across something, you're surprised by something that you like, and you encode that."
+    },
+    {
+      "word": "that.",
+      "local_start": 43.815,
+      "local_end": 44.075,
+      "global_start": 162.095,
+      "global_end": 162.355,
+      "score": 0.936,
+      "segment_index": 10,
+      "segment_text": "You learn something, you come across something, you're surprised by something that you like, and you encode that."
+    },
+    {
+      "word": "Such",
+      "local_start": 44.215,
+      "local_end": 44.395,
+      "global_start": 162.495,
+      "global_end": 162.675,
+      "score": 0.906,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "that",
+      "local_start": 44.415,
+      "local_end": 44.555,
+      "global_start": 162.695,
+      "global_end": 162.835,
+      "score": 0.805,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "the",
+      "local_start": 44.575,
+      "local_end": 44.655,
+      "global_start": 162.855,
+      "global_end": 162.935,
+      "score": 0.828,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "next",
+      "local_start": 44.695,
+      "local_end": 44.835,
+      "global_start": 162.975,
+      "global_end": 163.115,
+      "score": 0.787,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "time",
+      "local_start": 44.855,
+      "local_end": 45.015,
+      "global_start": 163.135,
+      "global_end": 163.295,
+      "score": 0.813,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "you",
+      "local_start": 45.055,
+      "local_end": 45.195,
+      "global_start": 163.335,
+      "global_end": 163.475,
+      "score": 0.927,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "think",
+      "local_start": 45.276,
+      "local_end": 45.516,
+      "global_start": 163.556,
+      "global_end": 163.796,
+      "score": 0.82,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "about",
+      "local_start": 45.576,
+      "local_end": 45.796,
+      "global_start": 163.856,
+      "global_end": 164.076,
+      "score": 0.845,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "it,",
+      "local_start": 45.816,
+      "local_end": 45.876,
+      "global_start": 164.096,
+      "global_end": 164.156,
+      "score": 0.897,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "you",
+      "local_start": 45.916,
+      "local_end": 46.036,
+      "global_start": 164.196,
+      "global_end": 164.316,
+      "score": 0.943,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "get",
+      "local_start": 46.076,
+      "local_end": 46.176,
+      "global_start": 164.356,
+      "global_end": 164.456,
+      "score": 0.792,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "a",
+      "local_start": 46.196,
+      "local_end": 46.216,
+      "global_start": 164.476,
+      "global_end": 164.496,
+      "score": 0.981,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "little",
+      "local_start": 46.256,
+      "local_end": 46.476,
+      "global_start": 164.536,
+      "global_end": 164.756,
+      "score": 0.765,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "spritz",
+      "local_start": 46.536,
+      "local_end": 46.896,
+      "global_start": 164.816,
+      "global_end": 165.176,
+      "score": 0.832,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "of",
+      "local_start": 46.936,
+      "local_end": 47.016,
+      "global_start": 165.216,
+      "global_end": 165.296,
+      "score": 0.846,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "dopamine",
+      "local_start": 47.176,
+      "local_end": 47.656,
+      "global_start": 165.456,
+      "global_end": 165.936,
+      "score": 0.838,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "in",
+      "local_start": 47.676,
+      "local_end": 47.737,
+      "global_start": 165.956,
+      "global_end": 166.017,
+      "score": 0.796,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "your",
+      "local_start": 47.777,
+      "local_end": 47.897,
+      "global_start": 166.057,
+      "global_end": 166.177,
+      "score": 0.754,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "brain,",
+      "local_start": 47.917,
+      "local_end": 48.237,
+      "global_start": 166.197,
+      "global_end": 166.517,
+      "score": 0.952,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "and",
+      "local_start": 48.257,
+      "local_end": 48.337,
+      "global_start": 166.537,
+      "global_end": 166.617,
+      "score": 0.853,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "that",
+      "local_start": 48.377,
+      "local_end": 48.497,
+      "global_start": 166.657,
+      "global_end": 166.777,
+      "score": 0.908,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "gives",
+      "local_start": 48.517,
+      "local_end": 48.677,
+      "global_start": 166.797,
+      "global_end": 166.957,
+      "score": 0.802,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "you",
+      "local_start": 48.697,
+      "local_end": 48.817,
+      "global_start": 166.977,
+      "global_end": 167.097,
+      "score": 0.814,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "the",
+      "local_start": 48.857,
+      "local_end": 48.917,
+      "global_start": 167.137,
+      "global_end": 167.197,
+      "score": 0.999,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "anticipation",
+      "local_start": 48.977,
+      "local_end": 49.717,
+      "global_start": 167.257,
+      "global_end": 167.997,
+      "score": 0.825,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "of",
+      "local_start": 49.737,
+      "local_end": 49.797,
+      "global_start": 168.017,
+      "global_end": 168.077,
+      "score": 0.796,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "the",
+      "local_start": 49.837,
+      "local_end": 49.897,
+      "global_start": 168.117,
+      "global_end": 168.177,
+      "score": 0.995,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "reward",
+      "local_start": 49.957,
+      "local_end": 50.298,
+      "global_start": 168.237,
+      "global_end": 168.578,
+      "score": 0.648,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "for",
+      "local_start": 50.638,
+      "local_end": 50.758,
+      "global_start": 168.918,
+      "global_end": 169.038,
+      "score": 0.849,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "getting",
+      "local_start": 50.778,
+      "local_end": 51.038,
+      "global_start": 169.058,
+      "global_end": 169.318,
+      "score": 0.888,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "that",
+      "local_start": 51.058,
+      "local_end": 51.178,
+      "global_start": 169.338,
+      "global_end": 169.458,
+      "score": 0.851,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "thing",
+      "local_start": 51.238,
+      "local_end": 51.458,
+      "global_start": 169.518,
+      "global_end": 169.738,
+      "score": 0.72,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "again.",
+      "local_start": 51.498,
+      "local_end": 51.738,
+      "global_start": 169.778,
+      "global_end": 170.018,
+      "score": 0.9,
+      "segment_index": 11,
+      "segment_text": "Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again."
+    },
+    {
+      "word": "And",
+      "local_start": 51.758,
+      "local_end": 51.818,
+      "global_start": 170.038,
+      "global_end": 170.098,
+      "score": 0.998,
+      "segment_index": 12,
+      "segment_text": "And so you go and search of it again."
+    },
+    {
+      "word": "so",
+      "local_start": 51.858,
+      "local_end": 51.958,
+      "global_start": 170.138,
+      "global_end": 170.238,
+      "score": 0.704,
+      "segment_index": 12,
+      "segment_text": "And so you go and search of it again."
+    },
+    {
+      "word": "you",
+      "local_start": 51.978,
+      "local_end": 52.098,
+      "global_start": 170.258,
+      "global_end": 170.378,
+      "score": 0.918,
+      "segment_index": 12,
+      "segment_text": "And so you go and search of it again."
+    },
+    {
+      "word": "go",
+      "local_start": 52.118,
+      "local_end": 52.198,
+      "global_start": 170.398,
+      "global_end": 170.478,
+      "score": 0.836,
+      "segment_index": 12,
+      "segment_text": "And so you go and search of it again."
+    },
+    {
+      "word": "and",
+      "local_start": 52.238,
+      "local_end": 52.318,
+      "global_start": 170.518,
+      "global_end": 170.598,
+      "score": 0.287,
+      "segment_index": 12,
+      "segment_text": "And so you go and search of it again."
+    },
+    {
+      "word": "search",
+      "local_start": 52.478,
+      "local_end": 52.759,
+      "global_start": 170.758,
+      "global_end": 171.039,
+      "score": 0.815,
+      "segment_index": 12,
+      "segment_text": "And so you go and search of it again."
+    },
+    {
+      "word": "of",
+      "local_start": 52.799,
+      "local_end": 52.859,
+      "global_start": 171.079,
+      "global_end": 171.139,
+      "score": 0.944,
+      "segment_index": 12,
+      "segment_text": "And so you go and search of it again."
+    },
+    {
+      "word": "it",
+      "local_start": 52.919,
+      "local_end": 52.979,
+      "global_start": 171.199,
+      "global_end": 171.259,
+      "score": 0.75,
+      "segment_index": 12,
+      "segment_text": "And so you go and search of it again."
+    },
+    {
+      "word": "again.",
+      "local_start": 53.039,
+      "local_end": 53.299,
+      "global_start": 171.319,
+      "global_end": 171.579,
+      "score": 0.955,
+      "segment_index": 12,
+      "segment_text": "And so you go and search of it again."
+    },
+    {
+      "word": "If",
+      "local_start": 53.979,
+      "local_end": 54.039,
+      "global_start": 172.259,
+      "global_end": 172.319,
+      "score": 0.998,
+      "segment_index": 13,
+      "segment_text": "If you find even more of it the second time, more dopamine, which reinforces the cycle."
+    },
+    {
+      "word": "you",
+      "local_start": 54.08,
+      "local_end": 54.2,
+      "global_start": 172.36,
+      "global_end": 172.48,
+      "score": 0.934,
+      "segment_index": 13,
+      "segment_text": "If you find even more of it the second time, more dopamine, which reinforces the cycle."
+    },
+    {
+      "word": "find",
+      "local_start": 54.24,
+      "local_end": 54.441,
+      "global_start": 172.52,
+      "global_end": 172.721,
+      "score": 0.766,
+      "segment_index": 13,
+      "segment_text": "If you find even more of it the second time, more dopamine, which reinforces the cycle."
+    },
+    {
+      "word": "even",
+      "local_start": 54.481,
+      "local_end": 54.661,
+      "global_start": 172.761,
+      "global_end": 172.941,
+      "score": 0.639,
+      "segment_index": 13,
+      "segment_text": "If you find even more of it the second time, more dopamine, which reinforces the cycle."
+    },
+    {
+      "word": "more",
+      "local_start": 54.741,
+      "local_end": 54.942,
+      "global_start": 173.021,
+      "global_end": 173.222,
+      "score": 0.828,
+      "segment_index": 13,
+      "segment_text": "If you find even more of it the second time, more dopamine, which reinforces the cycle."
+    },
+    {
+      "word": "of",
+      "local_start": 54.962,
+      "local_end": 55.002,
+      "global_start": 173.242,
+      "global_end": 173.282,
+      "score": 0.998,
+      "segment_index": 13,
+      "segment_text": "If you find even more of it the second time, more dopamine, which reinforces the cycle."
+    },
+    {
+      "word": "it",
+      "local_start": 55.062,
+      "local_end": 55.102,
+      "global_start": 173.342,
+      "global_end": 173.382,
+      "score": 0.994,
+      "segment_index": 13,
+      "segment_text": "If you find even more of it the second time, more dopamine, which reinforces the cycle."
+    },
+    {
+      "word": "the",
+      "local_start": 55.143,
+      "local_end": 55.223,
+      "global_start": 173.423,
+      "global_end": 173.503,
+      "score": 0.833,
+      "segment_index": 13,
+      "segment_text": "If you find even more of it the second time, more dopamine, which reinforces the cycle."
+    },
+    {
+      "word": "second",
+      "local_start": 55.263,
+      "local_end": 55.504,
+      "global_start": 173.543,
+      "global_end": 173.784,
+      "score": 0.927,
+      "segment_index": 13,
+      "segment_text": "If you find even more of it the second time, more dopamine, which reinforces the cycle."
+    },
+    {
+      "word": "time,",
+      "local_start": 55.544,
+      "local_end": 55.784,
+      "global_start": 173.824,
+      "global_end": 174.064,
+      "score": 0.806,
+      "segment_index": 13,
+      "segment_text": "If you find even more of it the second time, more dopamine, which reinforces the cycle."
+    },
+    {
+      "word": "more",
+      "local_start": 55.925,
+      "local_end": 56.166,
+      "global_start": 174.205,
+      "global_end": 174.446,
+      "score": 0.623,
+      "segment_index": 13,
+      "segment_text": "If you find even more of it the second time, more dopamine, which reinforces the cycle."
+    },
+    {
+      "word": "dopamine,",
+      "local_start": 56.266,
+      "local_end": 56.827,
+      "global_start": 174.546,
+      "global_end": 175.107,
+      "score": 0.901,
+      "segment_index": 13,
+      "segment_text": "If you find even more of it the second time, more dopamine, which reinforces the cycle."
+    },
+    {
+      "word": "which",
+      "local_start": 56.868,
+      "local_end": 57.008,
+      "global_start": 175.148,
+      "global_end": 175.288,
+      "score": 0.808,
+      "segment_index": 13,
+      "segment_text": "If you find even more of it the second time, more dopamine, which reinforces the cycle."
+    },
+    {
+      "word": "reinforces",
+      "local_start": 57.088,
+      "local_end": 57.71,
+      "global_start": 175.368,
+      "global_end": 175.99,
+      "score": 0.77,
+      "segment_index": 13,
+      "segment_text": "If you find even more of it the second time, more dopamine, which reinforces the cycle."
+    },
+    {
+      "word": "the",
+      "local_start": 57.75,
+      "local_end": 57.83,
+      "global_start": 176.03,
+      "global_end": 176.11,
+      "score": 0.974,
+      "segment_index": 13,
+      "segment_text": "If you find even more of it the second time, more dopamine, which reinforces the cycle."
+    },
+    {
+      "word": "cycle.",
+      "local_start": 57.89,
+      "local_end": 58.392,
+      "global_start": 176.17,
+      "global_end": 176.672,
+      "score": 0.782,
+      "segment_index": 13,
+      "segment_text": "If you find even more of it the second time, more dopamine, which reinforces the cycle."
+    },
+    {
+      "word": "And",
+      "local_start": 58.994,
+      "local_end": 59.074,
+      "global_start": 177.274,
+      "global_end": 177.354,
+      "score": 0.933,
+      "segment_index": 14,
+      "segment_text": "And this is a great thing."
+    },
+    {
+      "word": "this",
+      "local_start": 59.094,
+      "local_end": 59.214,
+      "global_start": 177.374,
+      "global_end": 177.494,
+      "score": 0.839,
+      "segment_index": 14,
+      "segment_text": "And this is a great thing."
+    },
+    {
+      "word": "is",
+      "local_start": 59.274,
+      "local_end": 59.355,
+      "global_start": 177.554,
+      "global_end": 177.635,
+      "score": 0.508,
+      "segment_index": 14,
+      "segment_text": "And this is a great thing."
+    },
+    {
+      "word": "a",
+      "local_start": 59.395,
+      "local_end": 59.435,
+      "global_start": 177.675,
+      "global_end": 177.715,
+      "score": 0.499,
+      "segment_index": 14,
+      "segment_text": "And this is a great thing."
+    },
+    {
+      "word": "great",
+      "local_start": 59.475,
+      "local_end": 59.696,
+      "global_start": 177.755,
+      "global_end": 177.976,
+      "score": 0.781,
+      "segment_index": 14,
+      "segment_text": "And this is a great thing."
+    },
+    {
+      "word": "thing.",
+      "local_start": 59.756,
+      "local_end": 60.017,
+      "global_start": 178.036,
+      "global_end": 178.297,
+      "score": 0.791,
+      "segment_index": 14,
+      "segment_text": "And this is a great thing."
+    },
+    {
+      "word": "This",
+      "local_start": 60.057,
+      "local_end": 60.197,
+      "global_start": 178.337,
+      "global_end": 178.477,
+      "score": 0.688,
+      "segment_index": 15,
+      "segment_text": "This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that."
+    },
+    {
+      "word": "is",
+      "local_start": 60.257,
+      "local_end": 60.337,
+      "global_start": 178.537,
+      "global_end": 178.617,
+      "score": 0.502,
+      "segment_index": 15,
+      "segment_text": "This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that."
+    },
+    {
+      "word": "why",
+      "local_start": 60.438,
+      "local_end": 60.759,
+      "global_start": 178.718,
+      "global_end": 179.039,
+      "score": 0.806,
+      "segment_index": 15,
+      "segment_text": "This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that."
+    },
+    {
+      "word": "you",
+      "local_start": 60.839,
+      "local_end": 60.919,
+      "global_start": 179.119,
+      "global_end": 179.199,
+      "score": 0.923,
+      "segment_index": 15,
+      "segment_text": "This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that."
+    },
+    {
+      "word": "would",
+      "local_start": 60.939,
+      "local_end": 61.1,
+      "global_start": 179.219,
+      "global_end": 179.38,
+      "score": 0.982,
+      "segment_index": 15,
+      "segment_text": "This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that."
+    },
+    {
+      "word": "remember",
+      "local_start": 61.14,
+      "local_end": 61.521,
+      "global_start": 179.42,
+      "global_end": 179.801,
+      "score": 0.813,
+      "segment_index": 15,
+      "segment_text": "This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that."
+    },
+    {
+      "word": "that",
+      "local_start": 61.581,
+      "local_end": 61.701,
+      "global_start": 179.861,
+      "global_end": 179.981,
+      "score": 0.818,
+      "segment_index": 15,
+      "segment_text": "This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that."
+    },
+    {
+      "word": "there",
+      "local_start": 61.721,
+      "local_end": 61.882,
+      "global_start": 180.001,
+      "global_end": 180.162,
+      "score": 0.942,
+      "segment_index": 15,
+      "segment_text": "This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that."
+    },
+    {
+      "word": "are",
+      "local_start": 61.922,
+      "local_end": 62.002,
+      "global_start": 180.202,
+      "global_end": 180.282,
+      "score": 0.849,
+      "segment_index": 15,
+      "segment_text": "This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that."
+    },
+    {
+      "word": "gazelles",
+      "local_start": 62.323,
+      "local_end": 62.845,
+      "global_start": 180.603,
+      "global_end": 181.125,
+      "score": 0.925,
+      "segment_index": 15,
+      "segment_text": "This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that."
+    },
+    {
+      "word": "around",
+      "local_start": 62.905,
+      "local_end": 63.166,
+      "global_start": 181.185,
+      "global_end": 181.446,
+      "score": 0.911,
+      "segment_index": 15,
+      "segment_text": "This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that."
+    },
+    {
+      "word": "a",
+      "local_start": 63.206,
+      "local_end": 63.246,
+      "global_start": 181.486,
+      "global_end": 181.526,
+      "score": 0.497,
+      "segment_index": 15,
+      "segment_text": "This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that."
+    },
+    {
+      "word": "watering",
+      "local_start": 63.286,
+      "local_end": 63.707,
+      "global_start": 181.566,
+      "global_end": 181.987,
+      "score": 0.853,
+      "segment_index": 15,
+      "segment_text": "This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that."
+    },
+    {
+      "word": "hole",
+      "local_start": 63.787,
+      "local_end": 64.088,
+      "global_start": 182.067,
+      "global_end": 182.368,
+      "score": 0.85,
+      "segment_index": 15,
+      "segment_text": "This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that."
+    },
+    {
+      "word": "or",
+      "local_start": 64.188,
+      "local_end": 64.269,
+      "global_start": 182.468,
+      "global_end": 182.549,
+      "score": 0.516,
+      "segment_index": 15,
+      "segment_text": "This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that."
+    },
+    {
+      "word": "berries",
+      "local_start": 64.409,
+      "local_end": 64.81,
+      "global_start": 182.689,
+      "global_end": 183.09,
+      "score": 0.904,
+      "segment_index": 15,
+      "segment_text": "This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that."
+    },
+    {
+      "word": "on",
+      "local_start": 64.91,
+      "local_end": 64.991,
+      "global_start": 183.19,
+      "global_end": 183.271,
+      "score": 0.832,
+      "segment_index": 15,
+      "segment_text": "This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that."
+    },
+    {
+      "word": "a",
+      "local_start": 65.031,
+      "local_end": 65.051,
+      "global_start": 183.311,
+      "global_end": 183.331,
+      "score": 0.996,
+      "segment_index": 15,
+      "segment_text": "This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that."
+    },
+    {
+      "word": "bush,",
+      "local_start": 65.091,
+      "local_end": 65.432,
+      "global_start": 183.371,
+      "global_end": 183.712,
+      "score": 0.924,
+      "segment_index": 15,
+      "segment_text": "This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that."
+    },
+    {
+      "word": "and",
+      "local_start": 65.813,
+      "local_end": 65.893,
+      "global_start": 184.093,
+      "global_end": 184.173,
+      "score": 0.839,
+      "segment_index": 15,
+      "segment_text": "This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that."
+    },
+    {
+      "word": "you're",
+      "local_start": 65.913,
+      "local_end": 66.074,
+      "global_start": 184.193,
+      "global_end": 184.354,
+      "score": 0.864,
+      "segment_index": 15,
+      "segment_text": "This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that."
+    },
+    {
+      "word": "looking",
+      "local_start": 66.114,
+      "local_end": 66.375,
+      "global_start": 184.394,
+      "global_end": 184.655,
+      "score": 0.866,
+      "segment_index": 15,
+      "segment_text": "This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that."
+    },
+    {
+      "word": "forward",
+      "local_start": 66.415,
+      "local_end": 66.655,
+      "global_start": 184.695,
+      "global_end": 184.935,
+      "score": 0.875,
+      "segment_index": 15,
+      "segment_text": "This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that."
+    },
+    {
+      "word": "to",
+      "local_start": 66.696,
+      "local_end": 66.756,
+      "global_start": 184.976,
+      "global_end": 185.036,
+      "score": 0.824,
+      "segment_index": 15,
+      "segment_text": "This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that."
+    },
+    {
+      "word": "going",
+      "local_start": 66.796,
+      "local_end": 66.996,
+      "global_start": 185.076,
+      "global_end": 185.276,
+      "score": 0.89,
+      "segment_index": 15,
+      "segment_text": "This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that."
+    },
+    {
+      "word": "and",
+      "local_start": 67.037,
+      "local_end": 67.117,
+      "global_start": 185.317,
+      "global_end": 185.397,
+      "score": 0.45,
+      "segment_index": 15,
+      "segment_text": "This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that."
+    },
+    {
+      "word": "getting",
+      "local_start": 67.157,
+      "local_end": 67.418,
+      "global_start": 185.437,
+      "global_end": 185.698,
+      "score": 0.796,
+      "segment_index": 15,
+      "segment_text": "This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that."
+    },
+    {
+      "word": "that.",
+      "local_start": 67.438,
+      "local_end": 67.658,
+      "global_start": 185.718,
+      "global_end": 185.938,
+      "score": 0.922,
+      "segment_index": 15,
+      "segment_text": "This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that."
+    },
+    {
+      "word": "The",
+      "local_start": 68.12,
+      "local_end": 68.22,
+      "global_start": 186.4,
+      "global_end": 186.5,
+      "score": 0.893,
+      "segment_index": 16,
+      "segment_text": "The same thing as simple and as innocent today is I happened to"
+    },
+    {
+      "word": "same",
+      "local_start": 68.26,
+      "local_end": 68.461,
+      "global_start": 186.54,
+      "global_end": 186.741,
+      "score": 0.885,
+      "segment_index": 16,
+      "segment_text": "The same thing as simple and as innocent today is I happened to"
+    },
+    {
+      "word": "thing",
+      "local_start": 68.501,
+      "local_end": 68.681,
+      "global_start": 186.781,
+      "global_end": 186.961,
+      "score": 0.83,
+      "segment_index": 16,
+      "segment_text": "The same thing as simple and as innocent today is I happened to"
+    },
+    {
+      "word": "as",
+      "local_start": 68.761,
+      "local_end": 68.822,
+      "global_start": 187.041,
+      "global_end": 187.102,
+      "score": 0.308,
+      "segment_index": 16,
+      "segment_text": "The same thing as simple and as innocent today is I happened to"
+    },
+    {
+      "word": "simple",
+      "local_start": 68.922,
+      "local_end": 69.263,
+      "global_start": 187.202,
+      "global_end": 187.543,
+      "score": 0.801,
+      "segment_index": 16,
+      "segment_text": "The same thing as simple and as innocent today is I happened to"
+    },
+    {
+      "word": "and",
+      "local_start": 69.343,
+      "local_end": 69.403,
+      "global_start": 187.623,
+      "global_end": 187.683,
+      "score": 0.957,
+      "segment_index": 16,
+      "segment_text": "The same thing as simple and as innocent today is I happened to"
+    },
+    {
+      "word": "as",
+      "local_start": 69.484,
+      "local_end": 69.544,
+      "global_start": 187.764,
+      "global_end": 187.824,
+      "score": 0.556,
+      "segment_index": 16,
+      "segment_text": "The same thing as simple and as innocent today is I happened to"
+    },
+    {
+      "word": "innocent",
+      "local_start": 69.584,
+      "local_end": 69.965,
+      "global_start": 187.864,
+      "global_end": 188.245,
+      "score": 0.928,
+      "segment_index": 16,
+      "segment_text": "The same thing as simple and as innocent today is I happened to"
+    },
+    {
+      "word": "today",
+      "local_start": 70.005,
+      "local_end": 70.286,
+      "global_start": 188.285,
+      "global_end": 188.566,
+      "score": 0.87,
+      "segment_index": 16,
+      "segment_text": "The same thing as simple and as innocent today is I happened to"
+    },
+    {
+      "word": "is",
+      "local_start": 70.366,
+      "local_end": 70.446,
+      "global_start": 188.646,
+      "global_end": 188.726,
+      "score": 0.59,
+      "segment_index": 16,
+      "segment_text": "The same thing as simple and as innocent today is I happened to"
+    },
+    {
+      "word": "I",
+      "local_start": 71.269,
+      "local_end": 71.349,
+      "global_start": 189.549,
+      "global_end": 189.629,
+      "score": 0.753,
+      "segment_index": 16,
+      "segment_text": "The same thing as simple and as innocent today is I happened to"
+    },
+    {
+      "word": "happened",
+      "local_start": 71.389,
+      "local_end": 71.63,
+      "global_start": 189.669,
+      "global_end": 189.91,
+      "score": 0.756,
+      "segment_index": 16,
+      "segment_text": "The same thing as simple and as innocent today is I happened to"
+    },
+    {
+      "word": "to",
+      "local_start": 71.65,
+      "local_end": 71.69,
+      "global_start": 189.93,
+      "global_end": 189.97,
+      "score": 0.989,
+      "segment_index": 16,
+      "segment_text": "The same thing as simple and as innocent today is I happened to"
+    }
+  ],
+  "raw_segments": [
+    {
+      "start": 0.031,
+      "end": 26.828,
+      "text": "adaptive advantage that we remember it, and that we bank it, and we learn new things after that. This makes us fit. This makes it more possible for us to find mates, for us to eat. And this is a real advantage to Homo sapiens. This is one of the reasons that we're so unbelievably successful is because we learn, and we have brains designed to learn. Part of this is a neurochemical, that neuromodulator that most people are familiar with, called dopamine."
+    },
+    {
+      "start": 26.828,
+      "end": 53.879,
+      "text": "Dopamine is often mischaracterized as a pleasure hormones. It's not. What it does is it gives you the anticipation of reward. And here's how it works. You learn something, you come across something, you're surprised by something that you like, and you encode that. Such that the next time you think about it, you get a little spritz of dopamine in your brain, and that gives you the anticipation of the reward for getting that thing again. And so you go and search of it again."
+    },
+    {
+      "start": 53.879,
+      "end": 71.75,
+      "text": "If you find even more of it the second time, more dopamine, which reinforces the cycle. And this is a great thing. This is why you would remember that there are gazelles around a watering hole or berries on a bush, and you're looking forward to going and getting that. The same thing as simple and as innocent today is I happened to"
+    }
+  ]
+}

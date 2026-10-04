@@ -1,0 +1,5378 @@
+{
+  "video_id": "KHd-luu3M8s",
+  "llm_provider": "google",
+  "llm_model": "gemini-3.1-flash-lite",
+  "candidate_count": 3,
+  "candidates": [
+    {
+      "candidate_id": 1,
+      "reason": "This clip provides a clear, scientific explanation of how the dopamine reward system works and why it is a fundamental, positive part of human evolution, setting the stage for understanding modern tech addiction.",
+      "cut_description": "",
+      "combined_text": "One of the most interesting areas of social science is that of human addiction. And and addiction is such a fascinating area of human behavior because it's based entirely on on a really great part of human life, which is our ability to learn, our ability to make progress. Our brains are designed to learn new things that make it easier for us to pass the winter and pass on our genes. And and we have neurochemicals that actually make this possible as well. We want to make sure that when we learn something that's an adaptive advantage that that we remember it and that we bank it and we learn new things after that. This makes us fit. This makes it more possible for us to find mates, for us to eat. And this is a real advantage to Homo sapiens. It's one of the reasons that we're so unbelievably successful is cuz we learn and we have brains designed to learn. Part of this is a a neurochemical that neuromodulator that most people are familiar with called dopamine. Dopamine is often mischaracterized as a pleasure hormone. It's not. What it does is it gives you the anticipation of reward. And and and here's how it works. You learn something, you come across something, you're surprised by something that that you like and you you encode that such that the next time you think about it, you get a little spritz of dopamine in your brain and that gives you the anticipation of the reward for getting that thing again and so you go in search of it again. If you find even more of it the second time, more dopamine which reinforces the cycle. And this is a great thing. This is why you would remember that there gazelles around a watering hole or berries on a bush and you're looking forward to going and getting that.",
+      "original_candidate_ranges": [
+        {
+          "start": 126.28,
+          "end": 182.0
+        }
+      ],
+      "padded_ranges": [
+        {
+          "start": 118.28,
+          "end": 190.0
+        }
+      ],
+      "selected_global_ranges": [
+        {
+          "range_index": 0,
+          "target_start": 126.28,
+          "target_end": 182.0,
+          "global_start": 126.356,
+          "global_end": 181.987,
+          "duration_s": 55.631,
+          "first_word": "makes",
+          "last_word": "watering",
+          "word_count": 181
+        }
+      ],
+      "clip_relative_ranges": [
+        {
+          "range_index": 0,
+          "clip_start": 0.0,
+          "clip_end": 55.631,
+          "duration_s": 55.631,
+          "global_start": 126.356,
+          "global_end": 181.987
+        }
+      ],
+      "total_clip_duration_s": 55.631,
+      "aligned_words": [
+        {
+          "word": "makes",
+          "global_start": 126.356,
+          "global_end": 126.556,
+          "clip_start": 0.0,
+          "clip_end": 0.2,
+          "score": 0.781,
+          "range_index": 0
+        },
+        {
+          "word": "it",
+          "global_start": 126.616,
+          "global_end": 126.676,
+          "clip_start": 0.26,
+          "clip_end": 0.32,
+          "score": 0.75,
+          "range_index": 0
+        },
+        {
+          "word": "more",
+          "global_start": 126.716,
+          "global_end": 126.856,
+          "clip_start": 0.36,
+          "clip_end": 0.5,
+          "score": 0.802,
+          "range_index": 0
+        },
+        {
+          "word": "possible",
+          "global_start": 126.976,
+          "global_end": 127.477,
+          "clip_start": 0.62,
+          "clip_end": 1.121,
+          "score": 0.767,
+          "range_index": 0
+        },
+        {
+          "word": "for",
+          "global_start": 127.557,
+          "global_end": 127.637,
+          "clip_start": 1.201,
+          "clip_end": 1.281,
+          "score": 0.858,
+          "range_index": 0
+        },
+        {
+          "word": "us",
+          "global_start": 127.697,
+          "global_end": 127.777,
+          "clip_start": 1.341,
+          "clip_end": 1.421,
+          "score": 0.678,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 127.797,
+          "global_end": 127.877,
+          "clip_start": 1.441,
+          "clip_end": 1.521,
+          "score": 0.864,
+          "range_index": 0
+        },
+        {
+          "word": "find",
+          "global_start": 127.917,
+          "global_end": 128.177,
+          "clip_start": 1.561,
+          "clip_end": 1.821,
+          "score": 0.689,
+          "range_index": 0
+        },
+        {
+          "word": "mates,",
+          "global_start": 128.257,
+          "global_end": 128.618,
+          "clip_start": 1.901,
+          "clip_end": 2.262,
+          "score": 0.846,
+          "range_index": 0
+        },
+        {
+          "word": "for",
+          "global_start": 128.698,
+          "global_end": 128.818,
+          "clip_start": 2.342,
+          "clip_end": 2.462,
+          "score": 0.973,
+          "range_index": 0
+        },
+        {
+          "word": "us",
+          "global_start": 128.858,
+          "global_end": 128.938,
+          "clip_start": 2.502,
+          "clip_end": 2.582,
+          "score": 0.56,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 128.978,
+          "global_end": 129.078,
+          "clip_start": 2.622,
+          "clip_end": 2.722,
+          "score": 0.657,
+          "range_index": 0
+        },
+        {
+          "word": "eat.",
+          "global_start": 129.218,
+          "global_end": 129.398,
+          "clip_start": 2.862,
+          "clip_end": 3.042,
+          "score": 0.643,
+          "range_index": 0
+        },
+        {
+          "word": "And",
+          "global_start": 129.798,
+          "global_end": 129.898,
+          "clip_start": 3.442,
+          "clip_end": 3.542,
+          "score": 0.784,
+          "range_index": 0
+        },
+        {
+          "word": "this",
+          "global_start": 130.058,
+          "global_end": 130.199,
+          "clip_start": 3.702,
+          "clip_end": 3.843,
+          "score": 0.889,
+          "range_index": 0
+        },
+        {
+          "word": "is",
+          "global_start": 130.259,
+          "global_end": 130.339,
+          "clip_start": 3.903,
+          "clip_end": 3.983,
+          "score": 0.682,
+          "range_index": 0
+        },
+        {
+          "word": "a",
+          "global_start": 130.379,
+          "global_end": 130.399,
+          "clip_start": 4.023,
+          "clip_end": 4.043,
+          "score": 0.994,
+          "range_index": 0
+        },
+        {
+          "word": "real",
+          "global_start": 130.579,
+          "global_end": 130.899,
+          "clip_start": 4.223,
+          "clip_end": 4.543,
+          "score": 0.855,
+          "range_index": 0
+        },
+        {
+          "word": "advantage",
+          "global_start": 130.979,
+          "global_end": 131.699,
+          "clip_start": 4.623,
+          "clip_end": 5.343,
+          "score": 0.792,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 131.76,
+          "global_end": 131.84,
+          "clip_start": 5.404,
+          "clip_end": 5.484,
+          "score": 0.816,
+          "range_index": 0
+        },
+        {
+          "word": "Homo",
+          "global_start": 131.9,
+          "global_end": 132.18,
+          "clip_start": 5.544,
+          "clip_end": 5.824,
+          "score": 0.996,
+          "range_index": 0
+        },
+        {
+          "word": "sapiens.",
+          "global_start": 132.22,
+          "global_end": 132.72,
+          "clip_start": 5.864,
+          "clip_end": 6.364,
+          "score": 0.88,
+          "range_index": 0
+        },
+        {
+          "word": "This",
+          "global_start": 132.74,
+          "global_end": 132.82,
+          "clip_start": 6.384,
+          "clip_end": 6.464,
+          "score": 0.114,
+          "range_index": 0
+        },
+        {
+          "word": "is",
+          "global_start": 132.84,
+          "global_end": 132.88,
+          "clip_start": 6.484,
+          "clip_end": 6.524,
+          "score": 0.491,
+          "range_index": 0
+        },
+        {
+          "word": "one",
+          "global_start": 132.92,
+          "global_end": 133.0,
+          "clip_start": 6.564,
+          "clip_end": 6.644,
+          "score": 0.834,
+          "range_index": 0
+        },
+        {
+          "word": "of",
+          "global_start": 133.02,
+          "global_end": 133.06,
+          "clip_start": 6.664,
+          "clip_end": 6.704,
+          "score": 0.999,
+          "range_index": 0
+        },
+        {
+          "word": "the",
+          "global_start": 133.08,
+          "global_end": 133.14,
+          "clip_start": 6.724,
+          "clip_end": 6.784,
+          "score": 0.995,
+          "range_index": 0
+        },
+        {
+          "word": "reasons",
+          "global_start": 133.18,
+          "global_end": 133.441,
+          "clip_start": 6.824,
+          "clip_end": 7.085,
+          "score": 0.854,
+          "range_index": 0
+        },
+        {
+          "word": "that",
+          "global_start": 133.481,
+          "global_end": 133.581,
+          "clip_start": 7.125,
+          "clip_end": 7.225,
+          "score": 0.879,
+          "range_index": 0
+        },
+        {
+          "word": "we're",
+          "global_start": 133.601,
+          "global_end": 133.721,
+          "clip_start": 7.245,
+          "clip_end": 7.365,
+          "score": 0.784,
+          "range_index": 0
+        },
+        {
+          "word": "so",
+          "global_start": 133.761,
+          "global_end": 133.881,
+          "clip_start": 7.405,
+          "clip_end": 7.525,
+          "score": 0.877,
+          "range_index": 0
+        },
+        {
+          "word": "unbelievably",
+          "global_start": 133.941,
+          "global_end": 134.501,
+          "clip_start": 7.585,
+          "clip_end": 8.145,
+          "score": 0.826,
+          "range_index": 0
+        },
+        {
+          "word": "successful",
+          "global_start": 134.541,
+          "global_end": 134.922,
+          "clip_start": 8.185,
+          "clip_end": 8.566,
+          "score": 0.862,
+          "range_index": 0
+        },
+        {
+          "word": "is",
+          "global_start": 134.962,
+          "global_end": 135.002,
+          "clip_start": 8.606,
+          "clip_end": 8.646,
+          "score": 0.622,
+          "range_index": 0
+        },
+        {
+          "word": "because",
+          "global_start": 135.022,
+          "global_end": 135.222,
+          "clip_start": 8.666,
+          "clip_end": 8.866,
+          "score": 0.669,
+          "range_index": 0
+        },
+        {
+          "word": "we",
+          "global_start": 135.262,
+          "global_end": 135.422,
+          "clip_start": 8.906,
+          "clip_end": 9.066,
+          "score": 0.628,
+          "range_index": 0
+        },
+        {
+          "word": "learn,",
+          "global_start": 135.462,
+          "global_end": 135.762,
+          "clip_start": 9.106,
+          "clip_end": 9.406,
+          "score": 0.785,
+          "range_index": 0
+        },
+        {
+          "word": "and",
+          "global_start": 136.062,
+          "global_end": 136.142,
+          "clip_start": 9.706,
+          "clip_end": 9.786,
+          "score": 0.885,
+          "range_index": 0
+        },
+        {
+          "word": "we",
+          "global_start": 136.162,
+          "global_end": 136.242,
+          "clip_start": 9.806,
+          "clip_end": 9.886,
+          "score": 0.735,
+          "range_index": 0
+        },
+        {
+          "word": "have",
+          "global_start": 136.282,
+          "global_end": 136.382,
+          "clip_start": 9.926,
+          "clip_end": 10.026,
+          "score": 0.886,
+          "range_index": 0
+        },
+        {
+          "word": "brains",
+          "global_start": 136.422,
+          "global_end": 136.783,
+          "clip_start": 10.066,
+          "clip_end": 10.427,
+          "score": 0.705,
+          "range_index": 0
+        },
+        {
+          "word": "designed",
+          "global_start": 136.843,
+          "global_end": 137.443,
+          "clip_start": 10.487,
+          "clip_end": 11.087,
+          "score": 0.706,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 137.543,
+          "global_end": 137.683,
+          "clip_start": 11.187,
+          "clip_end": 11.327,
+          "score": 0.548,
+          "range_index": 0
+        },
+        {
+          "word": "learn.",
+          "global_start": 137.723,
+          "global_end": 138.003,
+          "clip_start": 11.367,
+          "clip_end": 11.647,
+          "score": 0.758,
+          "range_index": 0
+        },
+        {
+          "word": "Part",
+          "global_start": 138.604,
+          "global_end": 138.784,
+          "clip_start": 12.248,
+          "clip_end": 12.428,
+          "score": 0.902,
+          "range_index": 0
+        },
+        {
+          "word": "of",
+          "global_start": 138.824,
+          "global_end": 138.884,
+          "clip_start": 12.468,
+          "clip_end": 12.528,
+          "score": 0.751,
+          "range_index": 0
+        },
+        {
+          "word": "this",
+          "global_start": 138.924,
+          "global_end": 139.104,
+          "clip_start": 12.568,
+          "clip_end": 12.748,
+          "score": 0.762,
+          "range_index": 0
+        },
+        {
+          "word": "is",
+          "global_start": 139.264,
+          "global_end": 139.364,
+          "clip_start": 12.908,
+          "clip_end": 13.008,
+          "score": 0.676,
+          "range_index": 0
+        },
+        {
+          "word": "a",
+          "global_start": 139.464,
+          "global_end": 139.524,
+          "clip_start": 13.108,
+          "clip_end": 13.168,
+          "score": 0.773,
+          "range_index": 0
+        },
+        {
+          "word": "neurochemical,",
+          "global_start": 139.865,
+          "global_end": 140.625,
+          "clip_start": 13.509,
+          "clip_end": 14.269,
+          "score": 0.882,
+          "range_index": 0
+        },
+        {
+          "word": "that",
+          "global_start": 140.665,
+          "global_end": 140.805,
+          "clip_start": 14.309,
+          "clip_end": 14.449,
+          "score": 0.792,
+          "range_index": 0
+        },
+        {
+          "word": "neuromodulator",
+          "global_start": 141.386,
+          "global_end": 142.346,
+          "clip_start": 15.03,
+          "clip_end": 15.99,
+          "score": 0.858,
+          "range_index": 0
+        },
+        {
+          "word": "that",
+          "global_start": 142.386,
+          "global_end": 142.546,
+          "clip_start": 16.03,
+          "clip_end": 16.19,
+          "score": 0.819,
+          "range_index": 0
+        },
+        {
+          "word": "most",
+          "global_start": 142.706,
+          "global_end": 142.887,
+          "clip_start": 16.35,
+          "clip_end": 16.531,
+          "score": 0.767,
+          "range_index": 0
+        },
+        {
+          "word": "people",
+          "global_start": 142.927,
+          "global_end": 143.147,
+          "clip_start": 16.571,
+          "clip_end": 16.791,
+          "score": 0.786,
+          "range_index": 0
+        },
+        {
+          "word": "are",
+          "global_start": 143.187,
+          "global_end": 143.267,
+          "clip_start": 16.831,
+          "clip_end": 16.911,
+          "score": 0.835,
+          "range_index": 0
+        },
+        {
+          "word": "familiar",
+          "global_start": 143.307,
+          "global_end": 143.667,
+          "clip_start": 16.951,
+          "clip_end": 17.311,
+          "score": 0.874,
+          "range_index": 0
+        },
+        {
+          "word": "with,",
+          "global_start": 143.707,
+          "global_end": 143.867,
+          "clip_start": 17.351,
+          "clip_end": 17.511,
+          "score": 0.828,
+          "range_index": 0
+        },
+        {
+          "word": "called",
+          "global_start": 143.887,
+          "global_end": 144.087,
+          "clip_start": 17.531,
+          "clip_end": 17.731,
+          "score": 0.887,
+          "range_index": 0
+        },
+        {
+          "word": "dopamine.",
+          "global_start": 144.187,
+          "global_end": 144.768,
+          "clip_start": 17.831,
+          "clip_end": 18.412,
+          "score": 0.876,
+          "range_index": 0
+        },
+        {
+          "word": "Dopamine",
+          "global_start": 145.228,
+          "global_end": 145.828,
+          "clip_start": 18.872,
+          "clip_end": 19.472,
+          "score": 0.871,
+          "range_index": 0
+        },
+        {
+          "word": "is",
+          "global_start": 146.148,
+          "global_end": 146.228,
+          "clip_start": 19.792,
+          "clip_end": 19.872,
+          "score": 0.486,
+          "range_index": 0
+        },
+        {
+          "word": "often",
+          "global_start": 146.308,
+          "global_end": 146.569,
+          "clip_start": 19.952,
+          "clip_end": 20.213,
+          "score": 0.89,
+          "range_index": 0
+        },
+        {
+          "word": "mischaracterized",
+          "global_start": 146.589,
+          "global_end": 147.389,
+          "clip_start": 20.233,
+          "clip_end": 21.033,
+          "score": 0.811,
+          "range_index": 0
+        },
+        {
+          "word": "as",
+          "global_start": 147.449,
+          "global_end": 147.509,
+          "clip_start": 21.093,
+          "clip_end": 21.153,
+          "score": 0.768,
+          "range_index": 0
+        },
+        {
+          "word": "a",
+          "global_start": 147.549,
+          "global_end": 147.569,
+          "clip_start": 21.193,
+          "clip_end": 21.213,
+          "score": 0.994,
+          "range_index": 0
+        },
+        {
+          "word": "pleasure",
+          "global_start": 147.629,
+          "global_end": 148.009,
+          "clip_start": 21.273,
+          "clip_end": 21.653,
+          "score": 0.891,
+          "range_index": 0
+        },
+        {
+          "word": "hormones.",
+          "global_start": 148.049,
+          "global_end": 148.569,
+          "clip_start": 21.693,
+          "clip_end": 22.213,
+          "score": 0.838,
+          "range_index": 0
+        },
+        {
+          "word": "It's",
+          "global_start": 148.709,
+          "global_end": 148.85,
+          "clip_start": 22.353,
+          "clip_end": 22.494,
+          "score": 0.756,
+          "range_index": 0
+        },
+        {
+          "word": "not.",
+          "global_start": 148.95,
+          "global_end": 149.31,
+          "clip_start": 22.594,
+          "clip_end": 22.954,
+          "score": 0.832,
+          "range_index": 0
+        },
+        {
+          "word": "What",
+          "global_start": 149.65,
+          "global_end": 149.79,
+          "clip_start": 23.294,
+          "clip_end": 23.434,
+          "score": 0.713,
+          "range_index": 0
+        },
+        {
+          "word": "it",
+          "global_start": 149.81,
+          "global_end": 149.85,
+          "clip_start": 23.454,
+          "clip_end": 23.494,
+          "score": 0.879,
+          "range_index": 0
+        },
+        {
+          "word": "does",
+          "global_start": 149.89,
+          "global_end": 150.09,
+          "clip_start": 23.534,
+          "clip_end": 23.734,
+          "score": 0.83,
+          "range_index": 0
+        },
+        {
+          "word": "is",
+          "global_start": 150.17,
+          "global_end": 150.29,
+          "clip_start": 23.814,
+          "clip_end": 23.934,
+          "score": 0.614,
+          "range_index": 0
+        },
+        {
+          "word": "it",
+          "global_start": 150.39,
+          "global_end": 150.47,
+          "clip_start": 24.034,
+          "clip_end": 24.114,
+          "score": 0.826,
+          "range_index": 0
+        },
+        {
+          "word": "gives",
+          "global_start": 150.53,
+          "global_end": 150.73,
+          "clip_start": 24.174,
+          "clip_end": 24.374,
+          "score": 0.784,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 150.77,
+          "global_end": 150.93,
+          "clip_start": 24.414,
+          "clip_end": 24.574,
+          "score": 0.811,
+          "range_index": 0
+        },
+        {
+          "word": "the",
+          "global_start": 150.97,
+          "global_end": 151.07,
+          "clip_start": 24.614,
+          "clip_end": 24.714,
+          "score": 0.678,
+          "range_index": 0
+        },
+        {
+          "word": "anticipation",
+          "global_start": 151.21,
+          "global_end": 152.251,
+          "clip_start": 24.854,
+          "clip_end": 25.895,
+          "score": 0.8,
+          "range_index": 0
+        },
+        {
+          "word": "of",
+          "global_start": 152.291,
+          "global_end": 152.351,
+          "clip_start": 25.935,
+          "clip_end": 25.995,
+          "score": 0.75,
+          "range_index": 0
+        },
+        {
+          "word": "reward.",
+          "global_start": 152.471,
+          "global_end": 153.091,
+          "clip_start": 26.115,
+          "clip_end": 26.735,
+          "score": 0.778,
+          "range_index": 0
+        },
+        {
+          "word": "And",
+          "global_start": 154.252,
+          "global_end": 154.352,
+          "clip_start": 27.896,
+          "clip_end": 27.996,
+          "score": 0.743,
+          "range_index": 0
+        },
+        {
+          "word": "here's",
+          "global_start": 154.372,
+          "global_end": 154.592,
+          "clip_start": 28.016,
+          "clip_end": 28.236,
+          "score": 0.609,
+          "range_index": 0
+        },
+        {
+          "word": "how",
+          "global_start": 154.632,
+          "global_end": 154.752,
+          "clip_start": 28.276,
+          "clip_end": 28.396,
+          "score": 0.82,
+          "range_index": 0
+        },
+        {
+          "word": "it",
+          "global_start": 154.832,
+          "global_end": 154.892,
+          "clip_start": 28.476,
+          "clip_end": 28.536,
+          "score": 0.754,
+          "range_index": 0
+        },
+        {
+          "word": "works.",
+          "global_start": 154.932,
+          "global_end": 155.232,
+          "clip_start": 28.576,
+          "clip_end": 28.876,
+          "score": 0.911,
+          "range_index": 0
+        },
+        {
+          "word": "You",
+          "global_start": 155.552,
+          "global_end": 155.752,
+          "clip_start": 29.196,
+          "clip_end": 29.396,
+          "score": 0.832,
+          "range_index": 0
+        },
+        {
+          "word": "learn",
+          "global_start": 155.792,
+          "global_end": 156.092,
+          "clip_start": 29.436,
+          "clip_end": 29.736,
+          "score": 0.754,
+          "range_index": 0
+        },
+        {
+          "word": "something,",
+          "global_start": 156.172,
+          "global_end": 156.593,
+          "clip_start": 29.816,
+          "clip_end": 30.237,
+          "score": 0.834,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 156.613,
+          "global_end": 156.793,
+          "clip_start": 30.257,
+          "clip_end": 30.437,
+          "score": 0.949,
+          "range_index": 0
+        },
+        {
+          "word": "come",
+          "global_start": 156.853,
+          "global_end": 156.993,
+          "clip_start": 30.497,
+          "clip_end": 30.637,
+          "score": 0.858,
+          "range_index": 0
+        },
+        {
+          "word": "across",
+          "global_start": 157.033,
+          "global_end": 157.393,
+          "clip_start": 30.677,
+          "clip_end": 31.037,
+          "score": 0.902,
+          "range_index": 0
+        },
+        {
+          "word": "something,",
+          "global_start": 157.473,
+          "global_end": 157.853,
+          "clip_start": 31.117,
+          "clip_end": 31.497,
+          "score": 0.815,
+          "range_index": 0
+        },
+        {
+          "word": "you're",
+          "global_start": 157.873,
+          "global_end": 158.033,
+          "clip_start": 31.517,
+          "clip_end": 31.677,
+          "score": 0.91,
+          "range_index": 0
+        },
+        {
+          "word": "surprised",
+          "global_start": 158.053,
+          "global_end": 158.533,
+          "clip_start": 31.697,
+          "clip_end": 32.177,
+          "score": 0.839,
+          "range_index": 0
+        },
+        {
+          "word": "by",
+          "global_start": 158.573,
+          "global_end": 158.694,
+          "clip_start": 32.217,
+          "clip_end": 32.338,
+          "score": 0.803,
+          "range_index": 0
+        },
+        {
+          "word": "something",
+          "global_start": 158.774,
+          "global_end": 159.134,
+          "clip_start": 32.418,
+          "clip_end": 32.778,
+          "score": 0.856,
+          "range_index": 0
+        },
+        {
+          "word": "that",
+          "global_start": 159.534,
+          "global_end": 159.654,
+          "clip_start": 33.178,
+          "clip_end": 33.298,
+          "score": 0.961,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 159.674,
+          "global_end": 159.834,
+          "clip_start": 33.318,
+          "clip_end": 33.478,
+          "score": 0.787,
+          "range_index": 0
+        },
+        {
+          "word": "like,",
+          "global_start": 159.874,
+          "global_end": 160.154,
+          "clip_start": 33.518,
+          "clip_end": 33.798,
+          "score": 0.938,
+          "range_index": 0
+        },
+        {
+          "word": "and",
+          "global_start": 160.794,
+          "global_end": 160.914,
+          "clip_start": 34.438,
+          "clip_end": 34.558,
+          "score": 0.732,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 160.934,
+          "global_end": 160.994,
+          "clip_start": 34.578,
+          "clip_end": 34.638,
+          "score": 0.07,
+          "range_index": 0
+        },
+        {
+          "word": "encode",
+          "global_start": 161.475,
+          "global_end": 162.055,
+          "clip_start": 35.119,
+          "clip_end": 35.699,
+          "score": 0.806,
+          "range_index": 0
+        },
+        {
+          "word": "that.",
+          "global_start": 162.095,
+          "global_end": 162.355,
+          "clip_start": 35.739,
+          "clip_end": 35.999,
+          "score": 0.936,
+          "range_index": 0
+        },
+        {
+          "word": "Such",
+          "global_start": 162.495,
+          "global_end": 162.675,
+          "clip_start": 36.139,
+          "clip_end": 36.319,
+          "score": 0.906,
+          "range_index": 0
+        },
+        {
+          "word": "that",
+          "global_start": 162.695,
+          "global_end": 162.835,
+          "clip_start": 36.339,
+          "clip_end": 36.479,
+          "score": 0.805,
+          "range_index": 0
+        },
+        {
+          "word": "the",
+          "global_start": 162.855,
+          "global_end": 162.935,
+          "clip_start": 36.499,
+          "clip_end": 36.579,
+          "score": 0.828,
+          "range_index": 0
+        },
+        {
+          "word": "next",
+          "global_start": 162.975,
+          "global_end": 163.115,
+          "clip_start": 36.619,
+          "clip_end": 36.759,
+          "score": 0.787,
+          "range_index": 0
+        },
+        {
+          "word": "time",
+          "global_start": 163.135,
+          "global_end": 163.295,
+          "clip_start": 36.779,
+          "clip_end": 36.939,
+          "score": 0.813,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 163.335,
+          "global_end": 163.475,
+          "clip_start": 36.979,
+          "clip_end": 37.119,
+          "score": 0.927,
+          "range_index": 0
+        },
+        {
+          "word": "think",
+          "global_start": 163.556,
+          "global_end": 163.796,
+          "clip_start": 37.2,
+          "clip_end": 37.44,
+          "score": 0.82,
+          "range_index": 0
+        },
+        {
+          "word": "about",
+          "global_start": 163.856,
+          "global_end": 164.076,
+          "clip_start": 37.5,
+          "clip_end": 37.72,
+          "score": 0.845,
+          "range_index": 0
+        },
+        {
+          "word": "it,",
+          "global_start": 164.096,
+          "global_end": 164.156,
+          "clip_start": 37.74,
+          "clip_end": 37.8,
+          "score": 0.897,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 164.196,
+          "global_end": 164.316,
+          "clip_start": 37.84,
+          "clip_end": 37.96,
+          "score": 0.943,
+          "range_index": 0
+        },
+        {
+          "word": "get",
+          "global_start": 164.356,
+          "global_end": 164.456,
+          "clip_start": 38.0,
+          "clip_end": 38.1,
+          "score": 0.792,
+          "range_index": 0
+        },
+        {
+          "word": "a",
+          "global_start": 164.476,
+          "global_end": 164.496,
+          "clip_start": 38.12,
+          "clip_end": 38.14,
+          "score": 0.981,
+          "range_index": 0
+        },
+        {
+          "word": "little",
+          "global_start": 164.536,
+          "global_end": 164.756,
+          "clip_start": 38.18,
+          "clip_end": 38.4,
+          "score": 0.765,
+          "range_index": 0
+        },
+        {
+          "word": "spritz",
+          "global_start": 164.816,
+          "global_end": 165.176,
+          "clip_start": 38.46,
+          "clip_end": 38.82,
+          "score": 0.832,
+          "range_index": 0
+        },
+        {
+          "word": "of",
+          "global_start": 165.216,
+          "global_end": 165.296,
+          "clip_start": 38.86,
+          "clip_end": 38.94,
+          "score": 0.846,
+          "range_index": 0
+        },
+        {
+          "word": "dopamine",
+          "global_start": 165.456,
+          "global_end": 165.936,
+          "clip_start": 39.1,
+          "clip_end": 39.58,
+          "score": 0.838,
+          "range_index": 0
+        },
+        {
+          "word": "in",
+          "global_start": 165.956,
+          "global_end": 166.017,
+          "clip_start": 39.6,
+          "clip_end": 39.661,
+          "score": 0.796,
+          "range_index": 0
+        },
+        {
+          "word": "your",
+          "global_start": 166.057,
+          "global_end": 166.177,
+          "clip_start": 39.701,
+          "clip_end": 39.821,
+          "score": 0.754,
+          "range_index": 0
+        },
+        {
+          "word": "brain,",
+          "global_start": 166.197,
+          "global_end": 166.517,
+          "clip_start": 39.841,
+          "clip_end": 40.161,
+          "score": 0.952,
+          "range_index": 0
+        },
+        {
+          "word": "and",
+          "global_start": 166.537,
+          "global_end": 166.617,
+          "clip_start": 40.181,
+          "clip_end": 40.261,
+          "score": 0.853,
+          "range_index": 0
+        },
+        {
+          "word": "that",
+          "global_start": 166.657,
+          "global_end": 166.777,
+          "clip_start": 40.301,
+          "clip_end": 40.421,
+          "score": 0.908,
+          "range_index": 0
+        },
+        {
+          "word": "gives",
+          "global_start": 166.797,
+          "global_end": 166.957,
+          "clip_start": 40.441,
+          "clip_end": 40.601,
+          "score": 0.802,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 166.977,
+          "global_end": 167.097,
+          "clip_start": 40.621,
+          "clip_end": 40.741,
+          "score": 0.814,
+          "range_index": 0
+        },
+        {
+          "word": "the",
+          "global_start": 167.137,
+          "global_end": 167.197,
+          "clip_start": 40.781,
+          "clip_end": 40.841,
+          "score": 0.999,
+          "range_index": 0
+        },
+        {
+          "word": "anticipation",
+          "global_start": 167.257,
+          "global_end": 167.997,
+          "clip_start": 40.901,
+          "clip_end": 41.641,
+          "score": 0.825,
+          "range_index": 0
+        },
+        {
+          "word": "of",
+          "global_start": 168.017,
+          "global_end": 168.077,
+          "clip_start": 41.661,
+          "clip_end": 41.721,
+          "score": 0.796,
+          "range_index": 0
+        },
+        {
+          "word": "the",
+          "global_start": 168.117,
+          "global_end": 168.177,
+          "clip_start": 41.761,
+          "clip_end": 41.821,
+          "score": 0.995,
+          "range_index": 0
+        },
+        {
+          "word": "reward",
+          "global_start": 168.237,
+          "global_end": 168.578,
+          "clip_start": 41.881,
+          "clip_end": 42.222,
+          "score": 0.648,
+          "range_index": 0
+        },
+        {
+          "word": "for",
+          "global_start": 168.918,
+          "global_end": 169.038,
+          "clip_start": 42.562,
+          "clip_end": 42.682,
+          "score": 0.849,
+          "range_index": 0
+        },
+        {
+          "word": "getting",
+          "global_start": 169.058,
+          "global_end": 169.318,
+          "clip_start": 42.702,
+          "clip_end": 42.962,
+          "score": 0.888,
+          "range_index": 0
+        },
+        {
+          "word": "that",
+          "global_start": 169.338,
+          "global_end": 169.458,
+          "clip_start": 42.982,
+          "clip_end": 43.102,
+          "score": 0.851,
+          "range_index": 0
+        },
+        {
+          "word": "thing",
+          "global_start": 169.518,
+          "global_end": 169.738,
+          "clip_start": 43.162,
+          "clip_end": 43.382,
+          "score": 0.72,
+          "range_index": 0
+        },
+        {
+          "word": "again.",
+          "global_start": 169.778,
+          "global_end": 170.018,
+          "clip_start": 43.422,
+          "clip_end": 43.662,
+          "score": 0.9,
+          "range_index": 0
+        },
+        {
+          "word": "And",
+          "global_start": 170.038,
+          "global_end": 170.098,
+          "clip_start": 43.682,
+          "clip_end": 43.742,
+          "score": 0.998,
+          "range_index": 0
+        },
+        {
+          "word": "so",
+          "global_start": 170.138,
+          "global_end": 170.238,
+          "clip_start": 43.782,
+          "clip_end": 43.882,
+          "score": 0.704,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 170.258,
+          "global_end": 170.378,
+          "clip_start": 43.902,
+          "clip_end": 44.022,
+          "score": 0.918,
+          "range_index": 0
+        },
+        {
+          "word": "go",
+          "global_start": 170.398,
+          "global_end": 170.478,
+          "clip_start": 44.042,
+          "clip_end": 44.122,
+          "score": 0.836,
+          "range_index": 0
+        },
+        {
+          "word": "and",
+          "global_start": 170.518,
+          "global_end": 170.598,
+          "clip_start": 44.162,
+          "clip_end": 44.242,
+          "score": 0.287,
+          "range_index": 0
+        },
+        {
+          "word": "search",
+          "global_start": 170.758,
+          "global_end": 171.039,
+          "clip_start": 44.402,
+          "clip_end": 44.683,
+          "score": 0.815,
+          "range_index": 0
+        },
+        {
+          "word": "of",
+          "global_start": 171.079,
+          "global_end": 171.139,
+          "clip_start": 44.723,
+          "clip_end": 44.783,
+          "score": 0.944,
+          "range_index": 0
+        },
+        {
+          "word": "it",
+          "global_start": 171.199,
+          "global_end": 171.259,
+          "clip_start": 44.843,
+          "clip_end": 44.903,
+          "score": 0.75,
+          "range_index": 0
+        },
+        {
+          "word": "again.",
+          "global_start": 171.319,
+          "global_end": 171.579,
+          "clip_start": 44.963,
+          "clip_end": 45.223,
+          "score": 0.955,
+          "range_index": 0
+        },
+        {
+          "word": "If",
+          "global_start": 172.259,
+          "global_end": 172.319,
+          "clip_start": 45.903,
+          "clip_end": 45.963,
+          "score": 0.998,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 172.36,
+          "global_end": 172.48,
+          "clip_start": 46.004,
+          "clip_end": 46.124,
+          "score": 0.934,
+          "range_index": 0
+        },
+        {
+          "word": "find",
+          "global_start": 172.52,
+          "global_end": 172.721,
+          "clip_start": 46.164,
+          "clip_end": 46.365,
+          "score": 0.766,
+          "range_index": 0
+        },
+        {
+          "word": "even",
+          "global_start": 172.761,
+          "global_end": 172.941,
+          "clip_start": 46.405,
+          "clip_end": 46.585,
+          "score": 0.639,
+          "range_index": 0
+        },
+        {
+          "word": "more",
+          "global_start": 173.021,
+          "global_end": 173.222,
+          "clip_start": 46.665,
+          "clip_end": 46.866,
+          "score": 0.828,
+          "range_index": 0
+        },
+        {
+          "word": "of",
+          "global_start": 173.242,
+          "global_end": 173.282,
+          "clip_start": 46.886,
+          "clip_end": 46.926,
+          "score": 0.998,
+          "range_index": 0
+        },
+        {
+          "word": "it",
+          "global_start": 173.342,
+          "global_end": 173.382,
+          "clip_start": 46.986,
+          "clip_end": 47.026,
+          "score": 0.994,
+          "range_index": 0
+        },
+        {
+          "word": "the",
+          "global_start": 173.423,
+          "global_end": 173.503,
+          "clip_start": 47.067,
+          "clip_end": 47.147,
+          "score": 0.833,
+          "range_index": 0
+        },
+        {
+          "word": "second",
+          "global_start": 173.543,
+          "global_end": 173.784,
+          "clip_start": 47.187,
+          "clip_end": 47.428,
+          "score": 0.927,
+          "range_index": 0
+        },
+        {
+          "word": "time,",
+          "global_start": 173.824,
+          "global_end": 174.064,
+          "clip_start": 47.468,
+          "clip_end": 47.708,
+          "score": 0.806,
+          "range_index": 0
+        },
+        {
+          "word": "more",
+          "global_start": 174.205,
+          "global_end": 174.446,
+          "clip_start": 47.849,
+          "clip_end": 48.09,
+          "score": 0.623,
+          "range_index": 0
+        },
+        {
+          "word": "dopamine,",
+          "global_start": 174.546,
+          "global_end": 175.107,
+          "clip_start": 48.19,
+          "clip_end": 48.751,
+          "score": 0.901,
+          "range_index": 0
+        },
+        {
+          "word": "which",
+          "global_start": 175.148,
+          "global_end": 175.288,
+          "clip_start": 48.792,
+          "clip_end": 48.932,
+          "score": 0.808,
+          "range_index": 0
+        },
+        {
+          "word": "reinforces",
+          "global_start": 175.368,
+          "global_end": 175.99,
+          "clip_start": 49.012,
+          "clip_end": 49.634,
+          "score": 0.77,
+          "range_index": 0
+        },
+        {
+          "word": "the",
+          "global_start": 176.03,
+          "global_end": 176.11,
+          "clip_start": 49.674,
+          "clip_end": 49.754,
+          "score": 0.974,
+          "range_index": 0
+        },
+        {
+          "word": "cycle.",
+          "global_start": 176.17,
+          "global_end": 176.672,
+          "clip_start": 49.814,
+          "clip_end": 50.316,
+          "score": 0.782,
+          "range_index": 0
+        },
+        {
+          "word": "And",
+          "global_start": 177.274,
+          "global_end": 177.354,
+          "clip_start": 50.918,
+          "clip_end": 50.998,
+          "score": 0.933,
+          "range_index": 0
+        },
+        {
+          "word": "this",
+          "global_start": 177.374,
+          "global_end": 177.494,
+          "clip_start": 51.018,
+          "clip_end": 51.138,
+          "score": 0.839,
+          "range_index": 0
+        },
+        {
+          "word": "is",
+          "global_start": 177.554,
+          "global_end": 177.635,
+          "clip_start": 51.198,
+          "clip_end": 51.279,
+          "score": 0.508,
+          "range_index": 0
+        },
+        {
+          "word": "a",
+          "global_start": 177.675,
+          "global_end": 177.715,
+          "clip_start": 51.319,
+          "clip_end": 51.359,
+          "score": 0.499,
+          "range_index": 0
+        },
+        {
+          "word": "great",
+          "global_start": 177.755,
+          "global_end": 177.976,
+          "clip_start": 51.399,
+          "clip_end": 51.62,
+          "score": 0.781,
+          "range_index": 0
+        },
+        {
+          "word": "thing.",
+          "global_start": 178.036,
+          "global_end": 178.297,
+          "clip_start": 51.68,
+          "clip_end": 51.941,
+          "score": 0.791,
+          "range_index": 0
+        },
+        {
+          "word": "This",
+          "global_start": 178.337,
+          "global_end": 178.477,
+          "clip_start": 51.981,
+          "clip_end": 52.121,
+          "score": 0.688,
+          "range_index": 0
+        },
+        {
+          "word": "is",
+          "global_start": 178.537,
+          "global_end": 178.617,
+          "clip_start": 52.181,
+          "clip_end": 52.261,
+          "score": 0.502,
+          "range_index": 0
+        },
+        {
+          "word": "why",
+          "global_start": 178.718,
+          "global_end": 179.039,
+          "clip_start": 52.362,
+          "clip_end": 52.683,
+          "score": 0.806,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 179.119,
+          "global_end": 179.199,
+          "clip_start": 52.763,
+          "clip_end": 52.843,
+          "score": 0.923,
+          "range_index": 0
+        },
+        {
+          "word": "would",
+          "global_start": 179.219,
+          "global_end": 179.38,
+          "clip_start": 52.863,
+          "clip_end": 53.024,
+          "score": 0.982,
+          "range_index": 0
+        },
+        {
+          "word": "remember",
+          "global_start": 179.42,
+          "global_end": 179.801,
+          "clip_start": 53.064,
+          "clip_end": 53.445,
+          "score": 0.813,
+          "range_index": 0
+        },
+        {
+          "word": "that",
+          "global_start": 179.861,
+          "global_end": 179.981,
+          "clip_start": 53.505,
+          "clip_end": 53.625,
+          "score": 0.818,
+          "range_index": 0
+        },
+        {
+          "word": "there",
+          "global_start": 180.001,
+          "global_end": 180.162,
+          "clip_start": 53.645,
+          "clip_end": 53.806,
+          "score": 0.942,
+          "range_index": 0
+        },
+        {
+          "word": "are",
+          "global_start": 180.202,
+          "global_end": 180.282,
+          "clip_start": 53.846,
+          "clip_end": 53.926,
+          "score": 0.849,
+          "range_index": 0
+        },
+        {
+          "word": "gazelles",
+          "global_start": 180.603,
+          "global_end": 181.125,
+          "clip_start": 54.247,
+          "clip_end": 54.769,
+          "score": 0.925,
+          "range_index": 0
+        },
+        {
+          "word": "around",
+          "global_start": 181.185,
+          "global_end": 181.446,
+          "clip_start": 54.829,
+          "clip_end": 55.09,
+          "score": 0.911,
+          "range_index": 0
+        },
+        {
+          "word": "a",
+          "global_start": 181.486,
+          "global_end": 181.526,
+          "clip_start": 55.13,
+          "clip_end": 55.17,
+          "score": 0.497,
+          "range_index": 0
+        },
+        {
+          "word": "watering",
+          "global_start": 181.566,
+          "global_end": 181.987,
+          "clip_start": 55.21,
+          "clip_end": 55.631,
+          "score": 0.853,
+          "range_index": 0
+        }
+      ]
+    },
+    {
+      "candidate_id": 2,
+      "reason": "This segment introduces a compelling philosophical framework for overcoming addiction through radical honesty, using Ralph Waldo Emerson as a relatable and authoritative anchor.",
+      "cut_description": "",
+      "combined_text": "So, since I do that, one of the questions that a lot of my students ask me is you know, professor, who's your favorite philosopher? Uh maybe Aristotle is so great. I don't know. Maybe throw in a little bit of uh Thomas Aquinas. Got to love that. Yeah, I do. I love all that stuff. But my favorite philosopher, hands-down, is an American from the 19th century, from from the 1840s. That's Ralph Waldo Emerson. The really the most American philosopher because he talked about the spirit of self-reliance. What it actually means to rebel against the things that are holding you down. It's like a tall glass of cold water on a hot summer's day as far as I'm concerned because we all need to rebel against a lot of things. You know, we're we especially need to rebel against ourselves when we're chained by our technology. And Ralph Waldo Emerson, writing in 1841, his most famous essay, Self-Reliance, talks about exactly how to do it. Even though there wasn't even the shadow of an iPhone in his pocket, nonetheless, he had the philosophy that we can all still use today. Emerson's philosophy has a lot of different parts to it. And and I write about it extensively. But but really what it comes down to is this. If we want to be free, we need to be honest. And and and that doesn't mean, you know, going and telling mom everything you did when you were a kid that you're ashamed of. Do that. Fine. It means being honest with yourself. To get off the sauce if you're drinking too much alcohol, you need to get honest with yourself that you're doing something that you shouldn't be doing and that you're ashamed of it and you don't like it and you want to stop. And you've been lying to yourself all this time and thinking that it's going to be okay and then you have you finally drink enough that you'll just lose the urge to do so. You know that's a lie. You know that you're doing something that you shouldn't be doing and you feel rotten about yourself. Admit it. Be honest with yourself.",
+      "original_candidate_ranges": [
+        {
+          "start": 399.96,
+          "end": 458.16
+        }
+      ],
+      "padded_ranges": [
+        {
+          "start": 391.96,
+          "end": 466.16
+        }
+      ],
+      "selected_global_ranges": [
+        {
+          "range_index": 0,
+          "target_start": 399.96,
+          "target_end": 458.16,
+          "global_start": 399.853,
+          "global_end": 458.236,
+          "duration_s": 58.383,
+          "first_word": "for",
+          "last_word": "weeks.",
+          "word_count": 185
+        }
+      ],
+      "clip_relative_ranges": [
+        {
+          "range_index": 0,
+          "clip_start": 0.0,
+          "clip_end": 58.383,
+          "duration_s": 58.383,
+          "global_start": 399.853,
+          "global_end": 458.236
+        }
+      ],
+      "total_clip_duration_s": 58.383,
+      "aligned_words": [
+        {
+          "word": "for",
+          "global_start": 399.853,
+          "global_end": 399.993,
+          "clip_start": 0.0,
+          "clip_end": 0.14,
+          "score": 0.731,
+          "range_index": 0
+        },
+        {
+          "word": "specific",
+          "global_start": 400.053,
+          "global_end": 400.533,
+          "clip_start": 0.2,
+          "clip_end": 0.68,
+          "score": 0.851,
+          "range_index": 0
+        },
+        {
+          "word": "reasons.",
+          "global_start": 400.593,
+          "global_end": 400.853,
+          "clip_start": 0.74,
+          "clip_end": 1.0,
+          "score": 0.922,
+          "range_index": 0
+        },
+        {
+          "word": "I'll",
+          "global_start": 400.873,
+          "global_end": 400.973,
+          "clip_start": 1.02,
+          "clip_end": 1.12,
+          "score": 0.912,
+          "range_index": 0
+        },
+        {
+          "word": "give",
+          "global_start": 400.993,
+          "global_end": 401.073,
+          "clip_start": 1.14,
+          "clip_end": 1.22,
+          "score": 0.996,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 401.093,
+          "global_end": 401.153,
+          "clip_start": 1.24,
+          "clip_end": 1.3,
+          "score": 0.963,
+          "range_index": 0
+        },
+        {
+          "word": "an",
+          "global_start": 401.173,
+          "global_end": 401.213,
+          "clip_start": 1.32,
+          "clip_end": 1.36,
+          "score": 0.634,
+          "range_index": 0
+        },
+        {
+          "word": "example.",
+          "global_start": 401.253,
+          "global_end": 401.653,
+          "clip_start": 1.4,
+          "clip_end": 1.8,
+          "score": 0.897,
+          "range_index": 0
+        },
+        {
+          "word": "There's",
+          "global_start": 402.253,
+          "global_end": 402.453,
+          "clip_start": 2.4,
+          "clip_end": 2.6,
+          "score": 0.843,
+          "range_index": 0
+        },
+        {
+          "word": "a",
+          "global_start": 402.493,
+          "global_end": 402.514,
+          "clip_start": 2.64,
+          "clip_end": 2.661,
+          "score": 0.997,
+          "range_index": 0
+        },
+        {
+          "word": "part",
+          "global_start": 402.594,
+          "global_end": 402.834,
+          "clip_start": 2.741,
+          "clip_end": 2.981,
+          "score": 0.781,
+          "range_index": 0
+        },
+        {
+          "word": "of",
+          "global_start": 402.854,
+          "global_end": 402.894,
+          "clip_start": 3.001,
+          "clip_end": 3.041,
+          "score": 0.632,
+          "range_index": 0
+        },
+        {
+          "word": "the",
+          "global_start": 402.914,
+          "global_end": 402.994,
+          "clip_start": 3.061,
+          "clip_end": 3.141,
+          "score": 0.811,
+          "range_index": 0
+        },
+        {
+          "word": "limbic",
+          "global_start": 403.034,
+          "global_end": 403.234,
+          "clip_start": 3.181,
+          "clip_end": 3.381,
+          "score": 0.676,
+          "range_index": 0
+        },
+        {
+          "word": "system",
+          "global_start": 403.254,
+          "global_end": 403.494,
+          "clip_start": 3.401,
+          "clip_end": 3.641,
+          "score": 0.738,
+          "range_index": 0
+        },
+        {
+          "word": "called",
+          "global_start": 403.534,
+          "global_end": 403.694,
+          "clip_start": 3.681,
+          "clip_end": 3.841,
+          "score": 0.823,
+          "range_index": 0
+        },
+        {
+          "word": "the",
+          "global_start": 403.714,
+          "global_end": 403.774,
+          "clip_start": 3.861,
+          "clip_end": 3.921,
+          "score": 0.894,
+          "range_index": 0
+        },
+        {
+          "word": "dorsal",
+          "global_start": 403.894,
+          "global_end": 404.374,
+          "clip_start": 4.041,
+          "clip_end": 4.521,
+          "score": 0.728,
+          "range_index": 0
+        },
+        {
+          "word": "anterior",
+          "global_start": 404.494,
+          "global_end": 405.054,
+          "clip_start": 4.641,
+          "clip_end": 5.201,
+          "score": 0.835,
+          "range_index": 0
+        },
+        {
+          "word": "singulate",
+          "global_start": 405.074,
+          "global_end": 405.434,
+          "clip_start": 5.221,
+          "clip_end": 5.581,
+          "score": 0.702,
+          "range_index": 0
+        },
+        {
+          "word": "cortex.",
+          "global_start": 405.474,
+          "global_end": 405.894,
+          "clip_start": 5.621,
+          "clip_end": 6.041,
+          "score": 0.672,
+          "range_index": 0
+        },
+        {
+          "word": "It's",
+          "global_start": 406.374,
+          "global_end": 406.514,
+          "clip_start": 6.521,
+          "clip_end": 6.661,
+          "score": 0.769,
+          "range_index": 0
+        },
+        {
+          "word": "dedicated",
+          "global_start": 406.674,
+          "global_end": 407.295,
+          "clip_start": 6.821,
+          "clip_end": 7.442,
+          "score": 0.879,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 407.415,
+          "global_end": 407.575,
+          "clip_start": 7.562,
+          "clip_end": 7.722,
+          "score": 0.858,
+          "range_index": 0
+        },
+        {
+          "word": "help",
+          "global_start": 407.915,
+          "global_end": 408.195,
+          "clip_start": 8.062,
+          "clip_end": 8.342,
+          "score": 0.795,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 408.295,
+          "global_end": 408.495,
+          "clip_start": 8.442,
+          "clip_end": 8.642,
+          "score": 0.86,
+          "range_index": 0
+        },
+        {
+          "word": "feel",
+          "global_start": 408.635,
+          "global_end": 408.975,
+          "clip_start": 8.782,
+          "clip_end": 9.122,
+          "score": 0.843,
+          "range_index": 0
+        },
+        {
+          "word": "social",
+          "global_start": 409.215,
+          "global_end": 409.595,
+          "clip_start": 9.362,
+          "clip_end": 9.742,
+          "score": 0.775,
+          "range_index": 0
+        },
+        {
+          "word": "exclusion,",
+          "global_start": 409.655,
+          "global_end": 410.275,
+          "clip_start": 9.802,
+          "clip_end": 10.422,
+          "score": 0.908,
+          "range_index": 0
+        },
+        {
+          "word": "sadness.",
+          "global_start": 410.455,
+          "global_end": 411.096,
+          "clip_start": 10.602,
+          "clip_end": 11.243,
+          "score": 0.876,
+          "range_index": 0
+        },
+        {
+          "word": "It",
+          "global_start": 411.756,
+          "global_end": 411.836,
+          "clip_start": 11.903,
+          "clip_end": 11.983,
+          "score": 0.832,
+          "range_index": 0
+        },
+        {
+          "word": "lights",
+          "global_start": 411.996,
+          "global_end": 412.216,
+          "clip_start": 12.143,
+          "clip_end": 12.363,
+          "score": 0.933,
+          "range_index": 0
+        },
+        {
+          "word": "up",
+          "global_start": 412.276,
+          "global_end": 412.336,
+          "clip_start": 12.423,
+          "clip_end": 12.483,
+          "score": 0.878,
+          "range_index": 0
+        },
+        {
+          "word": "like",
+          "global_start": 412.376,
+          "global_end": 412.476,
+          "clip_start": 12.523,
+          "clip_end": 12.623,
+          "score": 0.874,
+          "range_index": 0
+        },
+        {
+          "word": "a",
+          "global_start": 412.516,
+          "global_end": 412.556,
+          "clip_start": 12.663,
+          "clip_end": 12.703,
+          "score": 0.499,
+          "range_index": 0
+        },
+        {
+          "word": "Christmas",
+          "global_start": 412.676,
+          "global_end": 413.176,
+          "clip_start": 12.823,
+          "clip_end": 13.323,
+          "score": 0.7,
+          "range_index": 0
+        },
+        {
+          "word": "tree.",
+          "global_start": 413.236,
+          "global_end": 413.516,
+          "clip_start": 13.383,
+          "clip_end": 13.663,
+          "score": 0.873,
+          "range_index": 0
+        },
+        {
+          "word": "If",
+          "global_start": 413.596,
+          "global_end": 413.656,
+          "clip_start": 13.743,
+          "clip_end": 13.803,
+          "score": 0.972,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 413.696,
+          "global_end": 413.856,
+          "clip_start": 13.843,
+          "clip_end": 14.003,
+          "score": 0.773,
+          "range_index": 0
+        },
+        {
+          "word": "lose",
+          "global_start": 413.916,
+          "global_end": 414.176,
+          "clip_start": 14.063,
+          "clip_end": 14.323,
+          "score": 0.823,
+          "range_index": 0
+        },
+        {
+          "word": "somebody",
+          "global_start": 414.216,
+          "global_end": 414.516,
+          "clip_start": 14.363,
+          "clip_end": 14.663,
+          "score": 0.848,
+          "range_index": 0
+        },
+        {
+          "word": "that",
+          "global_start": 414.536,
+          "global_end": 414.636,
+          "clip_start": 14.683,
+          "clip_end": 14.783,
+          "score": 0.871,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 414.676,
+          "global_end": 414.816,
+          "clip_start": 14.823,
+          "clip_end": 14.963,
+          "score": 0.867,
+          "range_index": 0
+        },
+        {
+          "word": "love,",
+          "global_start": 414.876,
+          "global_end": 415.257,
+          "clip_start": 15.023,
+          "clip_end": 15.404,
+          "score": 0.827,
+          "range_index": 0
+        },
+        {
+          "word": "if",
+          "global_start": 415.337,
+          "global_end": 415.417,
+          "clip_start": 15.484,
+          "clip_end": 15.564,
+          "score": 0.986,
+          "range_index": 0
+        },
+        {
+          "word": "somebody",
+          "global_start": 415.457,
+          "global_end": 415.777,
+          "clip_start": 15.604,
+          "clip_end": 15.924,
+          "score": 0.691,
+          "range_index": 0
+        },
+        {
+          "word": "leaves",
+          "global_start": 415.897,
+          "global_end": 416.197,
+          "clip_start": 16.044,
+          "clip_end": 16.344,
+          "score": 0.794,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 416.237,
+          "global_end": 416.337,
+          "clip_start": 16.384,
+          "clip_end": 16.484,
+          "score": 0.834,
+          "range_index": 0
+        },
+        {
+          "word": "with",
+          "global_start": 416.377,
+          "global_end": 416.477,
+          "clip_start": 16.524,
+          "clip_end": 16.624,
+          "score": 0.838,
+          "range_index": 0
+        },
+        {
+          "word": "the",
+          "global_start": 416.497,
+          "global_end": 416.597,
+          "clip_start": 16.644,
+          "clip_end": 16.744,
+          "score": 0.67,
+          "range_index": 0
+        },
+        {
+          "word": "altar,",
+          "global_start": 416.797,
+          "global_end": 417.297,
+          "clip_start": 16.944,
+          "clip_end": 17.444,
+          "score": 0.726,
+          "range_index": 0
+        },
+        {
+          "word": "if",
+          "global_start": 417.557,
+          "global_end": 417.637,
+          "clip_start": 17.704,
+          "clip_end": 17.784,
+          "score": 0.887,
+          "range_index": 0
+        },
+        {
+          "word": "somebody",
+          "global_start": 418.057,
+          "global_end": 418.357,
+          "clip_start": 18.204,
+          "clip_end": 18.504,
+          "score": 0.852,
+          "range_index": 0
+        },
+        {
+          "word": "that",
+          "global_start": 418.377,
+          "global_end": 418.477,
+          "clip_start": 18.524,
+          "clip_end": 18.624,
+          "score": 0.906,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 418.517,
+          "global_end": 418.657,
+          "clip_start": 18.664,
+          "clip_end": 18.804,
+          "score": 0.83,
+          "range_index": 0
+        },
+        {
+          "word": "love",
+          "global_start": 418.717,
+          "global_end": 418.957,
+          "clip_start": 18.864,
+          "clip_end": 19.104,
+          "score": 0.861,
+          "range_index": 0
+        },
+        {
+          "word": "dies",
+          "global_start": 419.277,
+          "global_end": 419.818,
+          "clip_start": 19.424,
+          "clip_end": 19.965,
+          "score": 0.78,
+          "range_index": 0
+        },
+        {
+          "word": "and",
+          "global_start": 419.958,
+          "global_end": 420.018,
+          "clip_start": 20.105,
+          "clip_end": 20.165,
+          "score": 0.99,
+          "range_index": 0
+        },
+        {
+          "word": "you're",
+          "global_start": 420.058,
+          "global_end": 420.178,
+          "clip_start": 20.205,
+          "clip_end": 20.325,
+          "score": 0.737,
+          "range_index": 0
+        },
+        {
+          "word": "feeling",
+          "global_start": 420.198,
+          "global_end": 420.498,
+          "clip_start": 20.345,
+          "clip_end": 20.645,
+          "score": 0.751,
+          "range_index": 0
+        },
+        {
+          "word": "grief,",
+          "global_start": 420.558,
+          "global_end": 420.898,
+          "clip_start": 20.705,
+          "clip_end": 21.045,
+          "score": 0.845,
+          "range_index": 0
+        },
+        {
+          "word": "That",
+          "global_start": 421.498,
+          "global_end": 421.638,
+          "clip_start": 21.645,
+          "clip_end": 21.785,
+          "score": 0.867,
+          "range_index": 0
+        },
+        {
+          "word": "dorsal",
+          "global_start": 421.698,
+          "global_end": 422.058,
+          "clip_start": 21.845,
+          "clip_end": 22.205,
+          "score": 0.783,
+          "range_index": 0
+        },
+        {
+          "word": "interior",
+          "global_start": 422.078,
+          "global_end": 422.478,
+          "clip_start": 22.225,
+          "clip_end": 22.625,
+          "score": 0.729,
+          "range_index": 0
+        },
+        {
+          "word": "singular",
+          "global_start": 422.518,
+          "global_end": 422.858,
+          "clip_start": 22.665,
+          "clip_end": 23.005,
+          "score": 0.875,
+          "range_index": 0
+        },
+        {
+          "word": "cortex",
+          "global_start": 422.899,
+          "global_end": 423.379,
+          "clip_start": 23.046,
+          "clip_end": 23.526,
+          "score": 0.798,
+          "range_index": 0
+        },
+        {
+          "word": "is",
+          "global_start": 423.439,
+          "global_end": 423.499,
+          "clip_start": 23.586,
+          "clip_end": 23.646,
+          "score": 0.844,
+          "range_index": 0
+        },
+        {
+          "word": "on",
+          "global_start": 423.619,
+          "global_end": 423.719,
+          "clip_start": 23.766,
+          "clip_end": 23.866,
+          "score": 0.751,
+          "range_index": 0
+        },
+        {
+          "word": "full",
+          "global_start": 423.879,
+          "global_end": 424.159,
+          "clip_start": 24.026,
+          "clip_end": 24.306,
+          "score": 0.877,
+          "range_index": 0
+        },
+        {
+          "word": "blast.",
+          "global_start": 424.199,
+          "global_end": 424.679,
+          "clip_start": 24.346,
+          "clip_end": 24.826,
+          "score": 0.879,
+          "range_index": 0
+        },
+        {
+          "word": "Now,",
+          "global_start": 424.799,
+          "global_end": 424.939,
+          "clip_start": 24.946,
+          "clip_end": 25.086,
+          "score": 0.978,
+          "range_index": 0
+        },
+        {
+          "word": "why",
+          "global_start": 425.159,
+          "global_end": 425.479,
+          "clip_start": 25.306,
+          "clip_end": 25.626,
+          "score": 0.767,
+          "range_index": 0
+        },
+        {
+          "word": "would",
+          "global_start": 425.539,
+          "global_end": 425.88,
+          "clip_start": 25.686,
+          "clip_end": 26.027,
+          "score": 0.704,
+          "range_index": 0
+        },
+        {
+          "word": "be",
+          "global_start": 426.18,
+          "global_end": 426.32,
+          "clip_start": 26.327,
+          "clip_end": 26.467,
+          "score": 0.827,
+          "range_index": 0
+        },
+        {
+          "word": "evolved",
+          "global_start": 426.42,
+          "global_end": 426.86,
+          "clip_start": 26.567,
+          "clip_end": 27.007,
+          "score": 0.861,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 426.88,
+          "global_end": 426.96,
+          "clip_start": 27.027,
+          "clip_end": 27.107,
+          "score": 0.508,
+          "range_index": 0
+        },
+        {
+          "word": "feel",
+          "global_start": 426.98,
+          "global_end": 427.18,
+          "clip_start": 27.127,
+          "clip_end": 27.327,
+          "score": 0.83,
+          "range_index": 0
+        },
+        {
+          "word": "grief",
+          "global_start": 427.24,
+          "global_end": 427.62,
+          "clip_start": 27.387,
+          "clip_end": 27.767,
+          "score": 0.949,
+          "range_index": 0
+        },
+        {
+          "word": "or",
+          "global_start": 427.7,
+          "global_end": 428.34,
+          "clip_start": 27.847,
+          "clip_end": 28.487,
+          "score": 0.905,
+          "range_index": 0
+        },
+        {
+          "word": "any",
+          "global_start": 428.46,
+          "global_end": 428.621,
+          "clip_start": 28.607,
+          "clip_end": 28.768,
+          "score": 0.791,
+          "range_index": 0
+        },
+        {
+          "word": "sadness",
+          "global_start": 428.681,
+          "global_end": 429.101,
+          "clip_start": 28.828,
+          "clip_end": 29.248,
+          "score": 0.873,
+          "range_index": 0
+        },
+        {
+          "word": "for",
+          "global_start": 429.121,
+          "global_end": 429.201,
+          "clip_start": 29.268,
+          "clip_end": 29.348,
+          "score": 0.851,
+          "range_index": 0
+        },
+        {
+          "word": "that",
+          "global_start": 429.241,
+          "global_end": 429.381,
+          "clip_start": 29.388,
+          "clip_end": 29.528,
+          "score": 0.828,
+          "range_index": 0
+        },
+        {
+          "word": "matter?",
+          "global_start": 429.441,
+          "global_end": 429.721,
+          "clip_start": 29.588,
+          "clip_end": 29.868,
+          "score": 0.884,
+          "range_index": 0
+        },
+        {
+          "word": "I",
+          "global_start": 429.741,
+          "global_end": 429.821,
+          "clip_start": 29.888,
+          "clip_end": 29.968,
+          "score": 0.545,
+          "range_index": 0
+        },
+        {
+          "word": "hear",
+          "global_start": 429.861,
+          "global_end": 430.001,
+          "clip_start": 30.008,
+          "clip_end": 30.148,
+          "score": 0.751,
+          "range_index": 0
+        },
+        {
+          "word": "people",
+          "global_start": 430.041,
+          "global_end": 430.241,
+          "clip_start": 30.188,
+          "clip_end": 30.388,
+          "score": 0.856,
+          "range_index": 0
+        },
+        {
+          "word": "say,",
+          "global_start": 430.281,
+          "global_end": 430.421,
+          "clip_start": 30.428,
+          "clip_end": 30.568,
+          "score": 0.871,
+          "range_index": 0
+        },
+        {
+          "word": "I",
+          "global_start": 430.441,
+          "global_end": 430.461,
+          "clip_start": 30.588,
+          "clip_end": 30.608,
+          "score": 0.015,
+          "range_index": 0
+        },
+        {
+          "word": "want",
+          "global_start": 430.601,
+          "global_end": 430.721,
+          "clip_start": 30.748,
+          "clip_end": 30.868,
+          "score": 0.686,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 430.741,
+          "global_end": 430.781,
+          "clip_start": 30.888,
+          "clip_end": 30.928,
+          "score": 0.488,
+          "range_index": 0
+        },
+        {
+          "word": "live",
+          "global_start": 430.801,
+          "global_end": 430.881,
+          "clip_start": 30.948,
+          "clip_end": 31.028,
+          "score": 0.998,
+          "range_index": 0
+        },
+        {
+          "word": "without",
+          "global_start": 430.901,
+          "global_end": 431.121,
+          "clip_start": 31.048,
+          "clip_end": 31.268,
+          "score": 0.829,
+          "range_index": 0
+        },
+        {
+          "word": "sadness.",
+          "global_start": 431.181,
+          "global_end": 431.682,
+          "clip_start": 31.328,
+          "clip_end": 31.829,
+          "score": 0.884,
+          "range_index": 0
+        },
+        {
+          "word": "No,",
+          "global_start": 432.202,
+          "global_end": 432.302,
+          "clip_start": 32.349,
+          "clip_end": 32.449,
+          "score": 0.775,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 432.322,
+          "global_end": 432.402,
+          "clip_start": 32.469,
+          "clip_end": 32.549,
+          "score": 0.796,
+          "range_index": 0
+        },
+        {
+          "word": "don't.",
+          "global_start": 432.442,
+          "global_end": 432.742,
+          "clip_start": 32.589,
+          "clip_end": 32.889,
+          "score": 0.834,
+          "range_index": 0
+        },
+        {
+          "word": "If",
+          "global_start": 433.442,
+          "global_end": 433.502,
+          "clip_start": 33.589,
+          "clip_end": 33.649,
+          "score": 0.999,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 433.542,
+          "global_end": 433.702,
+          "clip_start": 33.689,
+          "clip_end": 33.849,
+          "score": 0.891,
+          "range_index": 0
+        },
+        {
+          "word": "never",
+          "global_start": 433.882,
+          "global_end": 434.142,
+          "clip_start": 34.029,
+          "clip_end": 34.289,
+          "score": 0.788,
+          "range_index": 0
+        },
+        {
+          "word": "had",
+          "global_start": 434.222,
+          "global_end": 434.403,
+          "clip_start": 34.369,
+          "clip_end": 34.55,
+          "score": 0.848,
+          "range_index": 0
+        },
+        {
+          "word": "any",
+          "global_start": 434.463,
+          "global_end": 434.603,
+          "clip_start": 34.61,
+          "clip_end": 34.75,
+          "score": 0.736,
+          "range_index": 0
+        },
+        {
+          "word": "sadness",
+          "global_start": 434.663,
+          "global_end": 435.123,
+          "clip_start": 34.81,
+          "clip_end": 35.27,
+          "score": 0.857,
+          "range_index": 0
+        },
+        {
+          "word": "and",
+          "global_start": 435.183,
+          "global_end": 435.263,
+          "clip_start": 35.33,
+          "clip_end": 35.41,
+          "score": 0.938,
+          "range_index": 0
+        },
+        {
+          "word": "it",
+          "global_start": 435.303,
+          "global_end": 435.363,
+          "clip_start": 35.45,
+          "clip_end": 35.51,
+          "score": 0.744,
+          "range_index": 0
+        },
+        {
+          "word": "didn't",
+          "global_start": 435.443,
+          "global_end": 435.643,
+          "clip_start": 35.59,
+          "clip_end": 35.79,
+          "score": 0.923,
+          "range_index": 0
+        },
+        {
+          "word": "really",
+          "global_start": 435.683,
+          "global_end": 435.883,
+          "clip_start": 35.83,
+          "clip_end": 36.03,
+          "score": 0.836,
+          "range_index": 0
+        },
+        {
+          "word": "bother",
+          "global_start": 435.943,
+          "global_end": 436.243,
+          "clip_start": 36.09,
+          "clip_end": 36.39,
+          "score": 0.774,
+          "range_index": 0
+        },
+        {
+          "word": "you,",
+          "global_start": 436.283,
+          "global_end": 436.403,
+          "clip_start": 36.43,
+          "clip_end": 36.55,
+          "score": 0.798,
+          "range_index": 0
+        },
+        {
+          "word": "if",
+          "global_start": 436.543,
+          "global_end": 436.603,
+          "clip_start": 36.69,
+          "clip_end": 36.75,
+          "score": 0.998,
+          "range_index": 0
+        },
+        {
+          "word": "it",
+          "global_start": 436.663,
+          "global_end": 436.723,
+          "clip_start": 36.81,
+          "clip_end": 36.87,
+          "score": 0.756,
+          "range_index": 0
+        },
+        {
+          "word": "were",
+          "global_start": 436.763,
+          "global_end": 436.903,
+          "clip_start": 36.91,
+          "clip_end": 37.05,
+          "score": 0.663,
+          "range_index": 0
+        },
+        {
+          "word": "not",
+          "global_start": 436.963,
+          "global_end": 437.123,
+          "clip_start": 37.11,
+          "clip_end": 37.27,
+          "score": 0.898,
+          "range_index": 0
+        },
+        {
+          "word": "incredibly",
+          "global_start": 437.204,
+          "global_end": 437.584,
+          "clip_start": 37.351,
+          "clip_end": 37.731,
+          "score": 0.856,
+          "range_index": 0
+        },
+        {
+          "word": "uncomfortable,",
+          "global_start": 437.604,
+          "global_end": 438.104,
+          "clip_start": 37.751,
+          "clip_end": 38.251,
+          "score": 0.826,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 438.404,
+          "global_end": 438.524,
+          "clip_start": 38.551,
+          "clip_end": 38.671,
+          "score": 0.868,
+          "range_index": 0
+        },
+        {
+          "word": "wouldn't",
+          "global_start": 438.564,
+          "global_end": 438.844,
+          "clip_start": 38.711,
+          "clip_end": 38.991,
+          "score": 0.799,
+          "range_index": 0
+        },
+        {
+          "word": "do",
+          "global_start": 438.944,
+          "global_end": 439.184,
+          "clip_start": 39.091,
+          "clip_end": 39.331,
+          "score": 0.799,
+          "range_index": 0
+        },
+        {
+          "word": "what",
+          "global_start": 439.244,
+          "global_end": 439.364,
+          "clip_start": 39.391,
+          "clip_end": 39.511,
+          "score": 0.871,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 439.424,
+          "global_end": 439.564,
+          "clip_start": 39.571,
+          "clip_end": 39.711,
+          "score": 0.914,
+          "range_index": 0
+        },
+        {
+          "word": "need",
+          "global_start": 439.604,
+          "global_end": 439.764,
+          "clip_start": 39.751,
+          "clip_end": 39.911,
+          "score": 0.882,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 439.804,
+          "global_end": 439.864,
+          "clip_start": 39.951,
+          "clip_end": 40.011,
+          "score": 0.996,
+          "range_index": 0
+        },
+        {
+          "word": "do",
+          "global_start": 439.904,
+          "global_end": 440.085,
+          "clip_start": 40.051,
+          "clip_end": 40.232,
+          "score": 0.782,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 440.225,
+          "global_end": 440.345,
+          "clip_start": 40.372,
+          "clip_end": 40.492,
+          "score": 0.69,
+          "range_index": 0
+        },
+        {
+          "word": "avoid",
+          "global_start": 440.425,
+          "global_end": 440.845,
+          "clip_start": 40.572,
+          "clip_end": 40.992,
+          "score": 0.773,
+          "range_index": 0
+        },
+        {
+          "word": "it.",
+          "global_start": 440.925,
+          "global_end": 440.985,
+          "clip_start": 41.072,
+          "clip_end": 41.132,
+          "score": 0.874,
+          "range_index": 0
+        },
+        {
+          "word": "You'd",
+          "global_start": 441.545,
+          "global_end": 441.745,
+          "clip_start": 41.692,
+          "clip_end": 41.892,
+          "score": 0.832,
+          "range_index": 0
+        },
+        {
+          "word": "say",
+          "global_start": 441.826,
+          "global_end": 442.086,
+          "clip_start": 41.973,
+          "clip_end": 42.233,
+          "score": 0.807,
+          "range_index": 0
+        },
+        {
+          "word": "everything",
+          "global_start": 442.166,
+          "global_end": 442.467,
+          "clip_start": 42.313,
+          "clip_end": 42.614,
+          "score": 0.914,
+          "range_index": 0
+        },
+        {
+          "word": "that's",
+          "global_start": 442.487,
+          "global_end": 442.667,
+          "clip_start": 42.634,
+          "clip_end": 42.814,
+          "score": 0.838,
+          "range_index": 0
+        },
+        {
+          "word": "on",
+          "global_start": 442.727,
+          "global_end": 442.827,
+          "clip_start": 42.874,
+          "clip_end": 42.974,
+          "score": 0.487,
+          "range_index": 0
+        },
+        {
+          "word": "your",
+          "global_start": 442.868,
+          "global_end": 443.008,
+          "clip_start": 43.015,
+          "clip_end": 43.155,
+          "score": 0.708,
+          "range_index": 0
+        },
+        {
+          "word": "mind.",
+          "global_start": 443.048,
+          "global_end": 443.529,
+          "clip_start": 43.195,
+          "clip_end": 43.676,
+          "score": 0.821,
+          "range_index": 0
+        },
+        {
+          "word": "You'd",
+          "global_start": 443.809,
+          "global_end": 443.949,
+          "clip_start": 43.956,
+          "clip_end": 44.096,
+          "score": 0.722,
+          "range_index": 0
+        },
+        {
+          "word": "do",
+          "global_start": 443.97,
+          "global_end": 444.05,
+          "clip_start": 44.117,
+          "clip_end": 44.197,
+          "score": 0.851,
+          "range_index": 0
+        },
+        {
+          "word": "all",
+          "global_start": 444.21,
+          "global_end": 444.37,
+          "clip_start": 44.357,
+          "clip_end": 44.517,
+          "score": 0.766,
+          "range_index": 0
+        },
+        {
+          "word": "kinds",
+          "global_start": 444.45,
+          "global_end": 444.751,
+          "clip_start": 44.597,
+          "clip_end": 44.898,
+          "score": 0.667,
+          "range_index": 0
+        },
+        {
+          "word": "of",
+          "global_start": 444.811,
+          "global_end": 444.871,
+          "clip_start": 44.958,
+          "clip_end": 45.018,
+          "score": 0.751,
+          "range_index": 0
+        },
+        {
+          "word": "things",
+          "global_start": 444.911,
+          "global_end": 445.192,
+          "clip_start": 45.058,
+          "clip_end": 45.339,
+          "score": 0.684,
+          "range_index": 0
+        },
+        {
+          "word": "that",
+          "global_start": 445.232,
+          "global_end": 445.332,
+          "clip_start": 45.379,
+          "clip_end": 45.479,
+          "score": 0.997,
+          "range_index": 0
+        },
+        {
+          "word": "would",
+          "global_start": 445.372,
+          "global_end": 445.532,
+          "clip_start": 45.519,
+          "clip_end": 45.679,
+          "score": 0.711,
+          "range_index": 0
+        },
+        {
+          "word": "make",
+          "global_start": 445.572,
+          "global_end": 445.733,
+          "clip_start": 45.719,
+          "clip_end": 45.88,
+          "score": 0.825,
+          "range_index": 0
+        },
+        {
+          "word": "people",
+          "global_start": 445.793,
+          "global_end": 446.053,
+          "clip_start": 45.94,
+          "clip_end": 46.2,
+          "score": 0.626,
+          "range_index": 0
+        },
+        {
+          "word": "throw",
+          "global_start": 446.174,
+          "global_end": 446.474,
+          "clip_start": 46.321,
+          "clip_end": 46.621,
+          "score": 0.791,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 446.514,
+          "global_end": 446.634,
+          "clip_start": 46.661,
+          "clip_end": 46.781,
+          "score": 0.639,
+          "range_index": 0
+        },
+        {
+          "word": "out",
+          "global_start": 446.674,
+          "global_end": 446.755,
+          "clip_start": 46.821,
+          "clip_end": 46.902,
+          "score": 0.834,
+          "range_index": 0
+        },
+        {
+          "word": "of",
+          "global_start": 446.795,
+          "global_end": 446.835,
+          "clip_start": 46.942,
+          "clip_end": 46.982,
+          "score": 0.976,
+          "range_index": 0
+        },
+        {
+          "word": "the",
+          "global_start": 446.855,
+          "global_end": 446.935,
+          "clip_start": 47.002,
+          "clip_end": 47.082,
+          "score": 0.675,
+          "range_index": 0
+        },
+        {
+          "word": "tribe.",
+          "global_start": 446.995,
+          "global_end": 448.017,
+          "clip_start": 47.142,
+          "clip_end": 48.164,
+          "score": 0.765,
+          "range_index": 0
+        },
+        {
+          "word": "250,000",
+          "global_start": 448.057,
+          "global_end": 448.758,
+          "clip_start": 48.204,
+          "clip_end": 48.905,
+          "score": 0.651,
+          "range_index": 0
+        },
+        {
+          "word": "years",
+          "global_start": 448.798,
+          "global_end": 448.959,
+          "clip_start": 48.945,
+          "clip_end": 49.106,
+          "score": 0.801,
+          "range_index": 0
+        },
+        {
+          "word": "ago,",
+          "global_start": 448.999,
+          "global_end": 449.199,
+          "clip_start": 49.146,
+          "clip_end": 49.346,
+          "score": 0.899,
+          "range_index": 0
+        },
+        {
+          "word": "that",
+          "global_start": 449.239,
+          "global_end": 449.359,
+          "clip_start": 49.386,
+          "clip_end": 49.506,
+          "score": 0.782,
+          "range_index": 0
+        },
+        {
+          "word": "would",
+          "global_start": 449.399,
+          "global_end": 449.56,
+          "clip_start": 49.546,
+          "clip_end": 49.707,
+          "score": 0.701,
+          "range_index": 0
+        },
+        {
+          "word": "mean",
+          "global_start": 449.58,
+          "global_end": 449.74,
+          "clip_start": 49.727,
+          "clip_end": 49.887,
+          "score": 0.834,
+          "range_index": 0
+        },
+        {
+          "word": "that",
+          "global_start": 449.76,
+          "global_end": 449.84,
+          "clip_start": 49.907,
+          "clip_end": 49.987,
+          "score": 0.488,
+          "range_index": 0
+        },
+        {
+          "word": "you're",
+          "global_start": 449.86,
+          "global_end": 449.98,
+          "clip_start": 50.007,
+          "clip_end": 50.127,
+          "score": 0.981,
+          "range_index": 0
+        },
+        {
+          "word": "going",
+          "global_start": 450.001,
+          "global_end": 450.101,
+          "clip_start": 50.148,
+          "clip_end": 50.248,
+          "score": 0.25,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 450.121,
+          "global_end": 450.161,
+          "clip_start": 50.268,
+          "clip_end": 50.308,
+          "score": 0.334,
+          "range_index": 0
+        },
+        {
+          "word": "walk",
+          "global_start": 450.201,
+          "global_end": 450.461,
+          "clip_start": 50.348,
+          "clip_end": 50.608,
+          "score": 0.942,
+          "range_index": 0
+        },
+        {
+          "word": "the",
+          "global_start": 450.501,
+          "global_end": 450.602,
+          "clip_start": 50.648,
+          "clip_end": 50.749,
+          "score": 0.718,
+          "range_index": 0
+        },
+        {
+          "word": "frozen",
+          "global_start": 450.642,
+          "global_end": 450.962,
+          "clip_start": 50.789,
+          "clip_end": 51.109,
+          "score": 0.89,
+          "range_index": 0
+        },
+        {
+          "word": "tundra",
+          "global_start": 451.002,
+          "global_end": 451.363,
+          "clip_start": 51.149,
+          "clip_end": 51.51,
+          "score": 0.896,
+          "range_index": 0
+        },
+        {
+          "word": "and",
+          "global_start": 451.423,
+          "global_end": 451.523,
+          "clip_start": 51.57,
+          "clip_end": 51.67,
+          "score": 0.689,
+          "range_index": 0
+        },
+        {
+          "word": "die",
+          "global_start": 451.623,
+          "global_end": 451.884,
+          "clip_start": 51.77,
+          "clip_end": 52.031,
+          "score": 0.805,
+          "range_index": 0
+        },
+        {
+          "word": "alone,",
+          "global_start": 451.944,
+          "global_end": 452.325,
+          "clip_start": 52.091,
+          "clip_end": 52.472,
+          "score": 0.834,
+          "range_index": 0
+        },
+        {
+          "word": "and",
+          "global_start": 452.705,
+          "global_end": 452.806,
+          "clip_start": 52.852,
+          "clip_end": 52.953,
+          "score": 0.794,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 452.866,
+          "global_end": 453.006,
+          "clip_start": 53.013,
+          "clip_end": 53.153,
+          "score": 0.667,
+          "range_index": 0
+        },
+        {
+          "word": "don't",
+          "global_start": 453.046,
+          "global_end": 453.226,
+          "clip_start": 53.193,
+          "clip_end": 53.373,
+          "score": 0.609,
+          "range_index": 0
+        },
+        {
+          "word": "want",
+          "global_start": 453.286,
+          "global_end": 453.527,
+          "clip_start": 53.433,
+          "clip_end": 53.674,
+          "score": 0.712,
+          "range_index": 0
+        },
+        {
+          "word": "that.",
+          "global_start": 453.587,
+          "global_end": 453.827,
+          "clip_start": 53.734,
+          "clip_end": 53.974,
+          "score": 0.927,
+          "range_index": 0
+        },
+        {
+          "word": "Today,",
+          "global_start": 454.208,
+          "global_end": 454.609,
+          "clip_start": 54.355,
+          "clip_end": 54.756,
+          "score": 0.781,
+          "range_index": 0
+        },
+        {
+          "word": "it",
+          "global_start": 454.769,
+          "global_end": 454.829,
+          "clip_start": 54.916,
+          "clip_end": 54.976,
+          "score": 0.772,
+          "range_index": 0
+        },
+        {
+          "word": "would",
+          "global_start": 454.869,
+          "global_end": 455.01,
+          "clip_start": 55.016,
+          "clip_end": 55.157,
+          "score": 0.8,
+          "range_index": 0
+        },
+        {
+          "word": "mean",
+          "global_start": 455.03,
+          "global_end": 455.17,
+          "clip_start": 55.177,
+          "clip_end": 55.317,
+          "score": 0.858,
+          "range_index": 0
+        },
+        {
+          "word": "that",
+          "global_start": 455.21,
+          "global_end": 455.31,
+          "clip_start": 55.357,
+          "clip_end": 55.457,
+          "score": 0.937,
+          "range_index": 0
+        },
+        {
+          "word": "you're",
+          "global_start": 455.33,
+          "global_end": 455.491,
+          "clip_start": 55.477,
+          "clip_end": 55.638,
+          "score": 0.822,
+          "range_index": 0
+        },
+        {
+          "word": "fired,",
+          "global_start": 455.551,
+          "global_end": 455.971,
+          "clip_start": 55.698,
+          "clip_end": 56.118,
+          "score": 0.86,
+          "range_index": 0
+        },
+        {
+          "word": "friendless,",
+          "global_start": 456.092,
+          "global_end": 456.532,
+          "clip_start": 56.239,
+          "clip_end": 56.679,
+          "score": 0.813,
+          "range_index": 0
+        },
+        {
+          "word": "and",
+          "global_start": 456.552,
+          "global_end": 456.633,
+          "clip_start": 56.699,
+          "clip_end": 56.78,
+          "score": 0.852,
+          "range_index": 0
+        },
+        {
+          "word": "divorced",
+          "global_start": 456.673,
+          "global_end": 457.134,
+          "clip_start": 56.82,
+          "clip_end": 57.281,
+          "score": 0.857,
+          "range_index": 0
+        },
+        {
+          "word": "in",
+          "global_start": 457.174,
+          "global_end": 457.254,
+          "clip_start": 57.321,
+          "clip_end": 57.401,
+          "score": 0.546,
+          "range_index": 0
+        },
+        {
+          "word": "about",
+          "global_start": 457.274,
+          "global_end": 457.474,
+          "clip_start": 57.421,
+          "clip_end": 57.621,
+          "score": 0.817,
+          "range_index": 0
+        },
+        {
+          "word": "two",
+          "global_start": 457.634,
+          "global_end": 457.835,
+          "clip_start": 57.781,
+          "clip_end": 57.982,
+          "score": 0.788,
+          "range_index": 0
+        },
+        {
+          "word": "weeks.",
+          "global_start": 457.895,
+          "global_end": 458.236,
+          "clip_start": 58.042,
+          "clip_end": 58.383,
+          "score": 0.825,
+          "range_index": 0
+        }
+      ]
+    },
+    {
+      "candidate_id": 3,
+      "reason": "This is a powerful, emotionally resonant conclusion that challenges the viewer to reconsider their relationship with technology by focusing on the long-term regret of a life spent behind a screen.",
+      "cut_description": "",
+      "combined_text": "We're not bored moment to moment. On the contrary, we've wiped out boredom moment to moment. We cracked the case. We look at the phone. We scroll the social media. We listen to the podcast. We wipe out every moment of boredom. But when you do that all day, be honest with yourself, how interesting is your life? I bet it's grindingly boring. And if you're spending 10 to 12 hours a day behind the screen and checking your phone 205 times a day, you're in danger of getting to the end of your life saying, \"Well, that was pretty boring because I was never bored.\" If you want to know the stakes here, think about your eulogy and what you want people to say about you. Think about what you want to think about yourself at the end of your days. How do you want to look back on your life? Now, compare it to how you're spending your life right now. I dare say that if you're like the average American, checking your phone 205 times a day, spending somewhere between 4 and 9 hours on your screens, small and large. If you were honest and you got to the end of your life right now, you'd say, \"I spent a lot of time online.\" But one thing you wouldn't say is, \"I sure wish I'd spent more time online.\" You'd say, \"I wish I'd spent more time with my loved ones, with my friends, with my family, getting to know people, having real-life experiences.\" That's what you'd say, right? Well, that's what to go do. That's the argument for this. I know breaking a tech addiction is hard. I get it. It's hard for me, too. And the younger you are, the harder it is. But those are the stakes. What are you going to say when you come to the end of your days? \"It was really boring cuz I wiped out boredom. Well, and and I could have done even even better if I spent even more time on Instagram. I don't think so. I think you're going to want to have had deeper relationships and love, been fully and passionately alive in the world. So, you got to get after it now.",
+      "original_candidate_ranges": [
+        {
+          "start": 909.56,
+          "end": 968.88
+        }
+      ],
+      "padded_ranges": [
+        {
+          "start": 901.56,
+          "end": 976.88
+        }
+      ],
+      "selected_global_ranges": [
+        {
+          "range_index": 0,
+          "target_start": 909.56,
+          "target_end": 968.88,
+          "global_start": 909.478,
+          "global_end": 969.437,
+          "duration_s": 59.959,
+          "first_word": "kid",
+          "last_word": "bald.",
+          "word_count": 216
+        }
+      ],
+      "clip_relative_ranges": [
+        {
+          "range_index": 0,
+          "clip_start": 0.0,
+          "clip_end": 59.959,
+          "duration_s": 59.959,
+          "global_start": 909.478,
+          "global_end": 969.437
+        }
+      ],
+      "total_clip_duration_s": 59.959,
+      "aligned_words": [
+        {
+          "word": "kid",
+          "global_start": 909.478,
+          "global_end": 909.658,
+          "clip_start": 0.0,
+          "clip_end": 0.18,
+          "score": 0.829,
+          "range_index": 0
+        },
+        {
+          "word": "that",
+          "global_start": 909.678,
+          "global_end": 909.758,
+          "clip_start": 0.2,
+          "clip_end": 0.28,
+          "score": 0.955,
+          "range_index": 0
+        },
+        {
+          "word": "you're",
+          "global_start": 909.778,
+          "global_end": 909.918,
+          "clip_start": 0.3,
+          "clip_end": 0.44,
+          "score": 0.921,
+          "range_index": 0
+        },
+        {
+          "word": "ashamed",
+          "global_start": 909.938,
+          "global_end": 910.239,
+          "clip_start": 0.46,
+          "clip_end": 0.761,
+          "score": 0.88,
+          "range_index": 0
+        },
+        {
+          "word": "of.",
+          "global_start": 910.319,
+          "global_end": 910.419,
+          "clip_start": 0.841,
+          "clip_end": 0.941,
+          "score": 0.96,
+          "range_index": 0
+        },
+        {
+          "word": "Do",
+          "global_start": 911.797,
+          "global_end": 911.977,
+          "clip_start": 2.319,
+          "clip_end": 2.499,
+          "score": 0.95,
+          "range_index": 0
+        },
+        {
+          "word": "that.",
+          "global_start": 912.037,
+          "global_end": 912.318,
+          "clip_start": 2.559,
+          "clip_end": 2.84,
+          "score": 0.841,
+          "range_index": 0
+        },
+        {
+          "word": "Fine.",
+          "global_start": 913.098,
+          "global_end": 913.538,
+          "clip_start": 3.62,
+          "clip_end": 4.06,
+          "score": 0.789,
+          "range_index": 0
+        },
+        {
+          "word": "It",
+          "global_start": 913.999,
+          "global_end": 914.059,
+          "clip_start": 4.521,
+          "clip_end": 4.581,
+          "score": 0.707,
+          "range_index": 0
+        },
+        {
+          "word": "means",
+          "global_start": 914.099,
+          "global_end": 914.239,
+          "clip_start": 4.621,
+          "clip_end": 4.761,
+          "score": 0.598,
+          "range_index": 0
+        },
+        {
+          "word": "being",
+          "global_start": 914.279,
+          "global_end": 914.419,
+          "clip_start": 4.801,
+          "clip_end": 4.941,
+          "score": 0.878,
+          "range_index": 0
+        },
+        {
+          "word": "honest",
+          "global_start": 914.459,
+          "global_end": 914.679,
+          "clip_start": 4.981,
+          "clip_end": 5.201,
+          "score": 0.881,
+          "range_index": 0
+        },
+        {
+          "word": "with",
+          "global_start": 914.699,
+          "global_end": 914.799,
+          "clip_start": 5.221,
+          "clip_end": 5.321,
+          "score": 0.878,
+          "range_index": 0
+        },
+        {
+          "word": "yourself.",
+          "global_start": 914.839,
+          "global_end": 915.3,
+          "clip_start": 5.361,
+          "clip_end": 5.822,
+          "score": 0.864,
+          "range_index": 0
+        },
+        {
+          "word": "To",
+          "global_start": 915.88,
+          "global_end": 916.0,
+          "clip_start": 6.402,
+          "clip_end": 6.522,
+          "score": 0.756,
+          "range_index": 0
+        },
+        {
+          "word": "get",
+          "global_start": 916.06,
+          "global_end": 916.2,
+          "clip_start": 6.582,
+          "clip_end": 6.722,
+          "score": 0.847,
+          "range_index": 0
+        },
+        {
+          "word": "off",
+          "global_start": 916.3,
+          "global_end": 916.441,
+          "clip_start": 6.822,
+          "clip_end": 6.963,
+          "score": 0.887,
+          "range_index": 0
+        },
+        {
+          "word": "the",
+          "global_start": 916.481,
+          "global_end": 916.561,
+          "clip_start": 7.003,
+          "clip_end": 7.083,
+          "score": 0.936,
+          "range_index": 0
+        },
+        {
+          "word": "sauce,",
+          "global_start": 916.621,
+          "global_end": 916.981,
+          "clip_start": 7.143,
+          "clip_end": 7.503,
+          "score": 0.955,
+          "range_index": 0
+        },
+        {
+          "word": "if",
+          "global_start": 917.041,
+          "global_end": 917.101,
+          "clip_start": 7.563,
+          "clip_end": 7.623,
+          "score": 0.96,
+          "range_index": 0
+        },
+        {
+          "word": "you're",
+          "global_start": 917.121,
+          "global_end": 917.321,
+          "clip_start": 7.643,
+          "clip_end": 7.843,
+          "score": 0.816,
+          "range_index": 0
+        },
+        {
+          "word": "drinking",
+          "global_start": 917.361,
+          "global_end": 917.621,
+          "clip_start": 7.883,
+          "clip_end": 8.143,
+          "score": 0.852,
+          "range_index": 0
+        },
+        {
+          "word": "too",
+          "global_start": 917.641,
+          "global_end": 917.741,
+          "clip_start": 8.163,
+          "clip_end": 8.263,
+          "score": 0.887,
+          "range_index": 0
+        },
+        {
+          "word": "much",
+          "global_start": 917.761,
+          "global_end": 917.882,
+          "clip_start": 8.283,
+          "clip_end": 8.404,
+          "score": 0.862,
+          "range_index": 0
+        },
+        {
+          "word": "alcohol,",
+          "global_start": 917.942,
+          "global_end": 918.322,
+          "clip_start": 8.464,
+          "clip_end": 8.844,
+          "score": 0.813,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 918.342,
+          "global_end": 918.422,
+          "clip_start": 8.864,
+          "clip_end": 8.944,
+          "score": 0.893,
+          "range_index": 0
+        },
+        {
+          "word": "need",
+          "global_start": 918.442,
+          "global_end": 918.542,
+          "clip_start": 8.964,
+          "clip_end": 9.064,
+          "score": 0.993,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 918.562,
+          "global_end": 918.622,
+          "clip_start": 9.084,
+          "clip_end": 9.144,
+          "score": 0.42,
+          "range_index": 0
+        },
+        {
+          "word": "get",
+          "global_start": 918.662,
+          "global_end": 918.762,
+          "clip_start": 9.184,
+          "clip_end": 9.284,
+          "score": 0.831,
+          "range_index": 0
+        },
+        {
+          "word": "honest",
+          "global_start": 918.842,
+          "global_end": 919.102,
+          "clip_start": 9.364,
+          "clip_end": 9.624,
+          "score": 0.874,
+          "range_index": 0
+        },
+        {
+          "word": "with",
+          "global_start": 919.142,
+          "global_end": 919.263,
+          "clip_start": 9.664,
+          "clip_end": 9.785,
+          "score": 0.779,
+          "range_index": 0
+        },
+        {
+          "word": "yourself",
+          "global_start": 919.283,
+          "global_end": 919.703,
+          "clip_start": 9.805,
+          "clip_end": 10.225,
+          "score": 0.672,
+          "range_index": 0
+        },
+        {
+          "word": "that",
+          "global_start": 919.723,
+          "global_end": 919.823,
+          "clip_start": 10.245,
+          "clip_end": 10.345,
+          "score": 0.91,
+          "range_index": 0
+        },
+        {
+          "word": "you're",
+          "global_start": 919.843,
+          "global_end": 920.003,
+          "clip_start": 10.365,
+          "clip_end": 10.525,
+          "score": 0.829,
+          "range_index": 0
+        },
+        {
+          "word": "doing",
+          "global_start": 920.043,
+          "global_end": 920.283,
+          "clip_start": 10.565,
+          "clip_end": 10.805,
+          "score": 0.721,
+          "range_index": 0
+        },
+        {
+          "word": "something",
+          "global_start": 920.363,
+          "global_end": 920.644,
+          "clip_start": 10.885,
+          "clip_end": 11.166,
+          "score": 0.84,
+          "range_index": 0
+        },
+        {
+          "word": "that",
+          "global_start": 920.684,
+          "global_end": 920.764,
+          "clip_start": 11.206,
+          "clip_end": 11.286,
+          "score": 0.871,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 920.804,
+          "global_end": 920.924,
+          "clip_start": 11.326,
+          "clip_end": 11.446,
+          "score": 0.916,
+          "range_index": 0
+        },
+        {
+          "word": "shouldn't",
+          "global_start": 920.964,
+          "global_end": 921.204,
+          "clip_start": 11.486,
+          "clip_end": 11.726,
+          "score": 0.871,
+          "range_index": 0
+        },
+        {
+          "word": "be",
+          "global_start": 921.224,
+          "global_end": 921.304,
+          "clip_start": 11.746,
+          "clip_end": 11.826,
+          "score": 0.682,
+          "range_index": 0
+        },
+        {
+          "word": "doing",
+          "global_start": 921.344,
+          "global_end": 921.544,
+          "clip_start": 11.866,
+          "clip_end": 12.066,
+          "score": 0.853,
+          "range_index": 0
+        },
+        {
+          "word": "in",
+          "global_start": 921.584,
+          "global_end": 921.664,
+          "clip_start": 12.106,
+          "clip_end": 12.186,
+          "score": 0.471,
+          "range_index": 0
+        },
+        {
+          "word": "your",
+          "global_start": 921.684,
+          "global_end": 921.884,
+          "clip_start": 12.206,
+          "clip_end": 12.406,
+          "score": 0.387,
+          "range_index": 0
+        },
+        {
+          "word": "shame",
+          "global_start": 921.944,
+          "global_end": 922.225,
+          "clip_start": 12.466,
+          "clip_end": 12.747,
+          "score": 0.557,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 922.245,
+          "global_end": 922.345,
+          "clip_start": 12.767,
+          "clip_end": 12.867,
+          "score": 0.178,
+          "range_index": 0
+        },
+        {
+          "word": "it",
+          "global_start": 922.385,
+          "global_end": 922.445,
+          "clip_start": 12.907,
+          "clip_end": 12.967,
+          "score": 0.756,
+          "range_index": 0
+        },
+        {
+          "word": "and",
+          "global_start": 922.485,
+          "global_end": 922.565,
+          "clip_start": 13.007,
+          "clip_end": 13.087,
+          "score": 0.84,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 922.605,
+          "global_end": 922.685,
+          "clip_start": 13.127,
+          "clip_end": 13.207,
+          "score": 0.978,
+          "range_index": 0
+        },
+        {
+          "word": "don't",
+          "global_start": 922.725,
+          "global_end": 922.885,
+          "clip_start": 13.247,
+          "clip_end": 13.407,
+          "score": 0.703,
+          "range_index": 0
+        },
+        {
+          "word": "like",
+          "global_start": 922.905,
+          "global_end": 923.105,
+          "clip_start": 13.427,
+          "clip_end": 13.627,
+          "score": 0.746,
+          "range_index": 0
+        },
+        {
+          "word": "it",
+          "global_start": 923.165,
+          "global_end": 923.225,
+          "clip_start": 13.687,
+          "clip_end": 13.747,
+          "score": 0.752,
+          "range_index": 0
+        },
+        {
+          "word": "and",
+          "global_start": 923.546,
+          "global_end": 923.626,
+          "clip_start": 14.068,
+          "clip_end": 14.148,
+          "score": 0.892,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 923.646,
+          "global_end": 923.786,
+          "clip_start": 14.168,
+          "clip_end": 14.308,
+          "score": 0.737,
+          "range_index": 0
+        },
+        {
+          "word": "wanna",
+          "global_start": 923.806,
+          "global_end": 923.986,
+          "clip_start": 14.328,
+          "clip_end": 14.508,
+          "score": 0.655,
+          "range_index": 0
+        },
+        {
+          "word": "stop.",
+          "global_start": 924.026,
+          "global_end": 924.326,
+          "clip_start": 14.548,
+          "clip_end": 14.848,
+          "score": 0.859,
+          "range_index": 0
+        },
+        {
+          "word": "And",
+          "global_start": 924.586,
+          "global_end": 924.666,
+          "clip_start": 15.108,
+          "clip_end": 15.188,
+          "score": 0.848,
+          "range_index": 0
+        },
+        {
+          "word": "you've",
+          "global_start": 924.686,
+          "global_end": 924.807,
+          "clip_start": 15.208,
+          "clip_end": 15.329,
+          "score": 0.595,
+          "range_index": 0
+        },
+        {
+          "word": "been",
+          "global_start": 924.827,
+          "global_end": 924.927,
+          "clip_start": 15.349,
+          "clip_end": 15.449,
+          "score": 0.405,
+          "range_index": 0
+        },
+        {
+          "word": "lying",
+          "global_start": 925.087,
+          "global_end": 925.427,
+          "clip_start": 15.609,
+          "clip_end": 15.949,
+          "score": 0.751,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 925.447,
+          "global_end": 925.507,
+          "clip_start": 15.969,
+          "clip_end": 16.029,
+          "score": 0.746,
+          "range_index": 0
+        },
+        {
+          "word": "yourself",
+          "global_start": 925.547,
+          "global_end": 925.887,
+          "clip_start": 16.069,
+          "clip_end": 16.409,
+          "score": 0.796,
+          "range_index": 0
+        },
+        {
+          "word": "all",
+          "global_start": 925.927,
+          "global_end": 926.027,
+          "clip_start": 16.449,
+          "clip_end": 16.549,
+          "score": 1.0,
+          "range_index": 0
+        },
+        {
+          "word": "this",
+          "global_start": 926.067,
+          "global_end": 926.188,
+          "clip_start": 16.589,
+          "clip_end": 16.71,
+          "score": 0.754,
+          "range_index": 0
+        },
+        {
+          "word": "time",
+          "global_start": 926.228,
+          "global_end": 926.408,
+          "clip_start": 16.75,
+          "clip_end": 16.93,
+          "score": 0.888,
+          "range_index": 0
+        },
+        {
+          "word": "and",
+          "global_start": 926.448,
+          "global_end": 926.528,
+          "clip_start": 16.97,
+          "clip_end": 17.05,
+          "score": 0.54,
+          "range_index": 0
+        },
+        {
+          "word": "thinking",
+          "global_start": 926.568,
+          "global_end": 926.848,
+          "clip_start": 17.09,
+          "clip_end": 17.37,
+          "score": 0.852,
+          "range_index": 0
+        },
+        {
+          "word": "that",
+          "global_start": 926.888,
+          "global_end": 926.968,
+          "clip_start": 17.41,
+          "clip_end": 17.49,
+          "score": 0.918,
+          "range_index": 0
+        },
+        {
+          "word": "it's",
+          "global_start": 927.008,
+          "global_end": 927.128,
+          "clip_start": 17.53,
+          "clip_end": 17.65,
+          "score": 0.774,
+          "range_index": 0
+        },
+        {
+          "word": "gonna",
+          "global_start": 927.148,
+          "global_end": 927.328,
+          "clip_start": 17.67,
+          "clip_end": 17.85,
+          "score": 0.351,
+          "range_index": 0
+        },
+        {
+          "word": "be",
+          "global_start": 927.348,
+          "global_end": 927.428,
+          "clip_start": 17.87,
+          "clip_end": 17.95,
+          "score": 0.714,
+          "range_index": 0
+        },
+        {
+          "word": "okay",
+          "global_start": 927.488,
+          "global_end": 927.809,
+          "clip_start": 18.01,
+          "clip_end": 18.331,
+          "score": 0.714,
+          "range_index": 0
+        },
+        {
+          "word": "and",
+          "global_start": 927.829,
+          "global_end": 927.889,
+          "clip_start": 18.351,
+          "clip_end": 18.411,
+          "score": 0.988,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 928.309,
+          "global_end": 928.489,
+          "clip_start": 18.831,
+          "clip_end": 19.011,
+          "score": 0.887,
+          "range_index": 0
+        },
+        {
+          "word": "finally",
+          "global_start": 928.509,
+          "global_end": 928.829,
+          "clip_start": 19.031,
+          "clip_end": 19.351,
+          "score": 0.88,
+          "range_index": 0
+        },
+        {
+          "word": "drink",
+          "global_start": 928.93,
+          "global_end": 929.15,
+          "clip_start": 19.452,
+          "clip_end": 19.672,
+          "score": 0.844,
+          "range_index": 0
+        },
+        {
+          "word": "enough",
+          "global_start": 929.21,
+          "global_end": 929.41,
+          "clip_start": 19.732,
+          "clip_end": 19.932,
+          "score": 0.759,
+          "range_index": 0
+        },
+        {
+          "word": "that",
+          "global_start": 929.45,
+          "global_end": 929.55,
+          "clip_start": 19.972,
+          "clip_end": 20.072,
+          "score": 0.897,
+          "range_index": 0
+        },
+        {
+          "word": "you'll",
+          "global_start": 929.57,
+          "global_end": 929.73,
+          "clip_start": 20.092,
+          "clip_end": 20.252,
+          "score": 0.989,
+          "range_index": 0
+        },
+        {
+          "word": "just",
+          "global_start": 929.77,
+          "global_end": 929.91,
+          "clip_start": 20.292,
+          "clip_end": 20.432,
+          "score": 0.711,
+          "range_index": 0
+        },
+        {
+          "word": "lose",
+          "global_start": 930.01,
+          "global_end": 930.29,
+          "clip_start": 20.532,
+          "clip_end": 20.812,
+          "score": 0.782,
+          "range_index": 0
+        },
+        {
+          "word": "the",
+          "global_start": 930.331,
+          "global_end": 930.451,
+          "clip_start": 20.853,
+          "clip_end": 20.973,
+          "score": 0.839,
+          "range_index": 0
+        },
+        {
+          "word": "urge",
+          "global_start": 930.591,
+          "global_end": 930.831,
+          "clip_start": 21.113,
+          "clip_end": 21.353,
+          "score": 0.804,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 930.851,
+          "global_end": 930.931,
+          "clip_start": 21.373,
+          "clip_end": 21.453,
+          "score": 0.842,
+          "range_index": 0
+        },
+        {
+          "word": "do",
+          "global_start": 930.971,
+          "global_end": 931.091,
+          "clip_start": 21.493,
+          "clip_end": 21.613,
+          "score": 0.842,
+          "range_index": 0
+        },
+        {
+          "word": "so.",
+          "global_start": 931.131,
+          "global_end": 931.271,
+          "clip_start": 21.653,
+          "clip_end": 21.793,
+          "score": 0.896,
+          "range_index": 0
+        },
+        {
+          "word": "You",
+          "global_start": 931.551,
+          "global_end": 931.732,
+          "clip_start": 22.073,
+          "clip_end": 22.254,
+          "score": 0.725,
+          "range_index": 0
+        },
+        {
+          "word": "know",
+          "global_start": 931.812,
+          "global_end": 932.072,
+          "clip_start": 22.334,
+          "clip_end": 22.594,
+          "score": 0.658,
+          "range_index": 0
+        },
+        {
+          "word": "that's",
+          "global_start": 932.192,
+          "global_end": 932.452,
+          "clip_start": 22.714,
+          "clip_end": 22.974,
+          "score": 0.764,
+          "range_index": 0
+        },
+        {
+          "word": "a",
+          "global_start": 932.492,
+          "global_end": 932.532,
+          "clip_start": 23.014,
+          "clip_end": 23.054,
+          "score": 0.585,
+          "range_index": 0
+        },
+        {
+          "word": "lie.",
+          "global_start": 932.652,
+          "global_end": 933.052,
+          "clip_start": 23.174,
+          "clip_end": 23.574,
+          "score": 0.653,
+          "range_index": 0
+        },
+        {
+          "word": "You",
+          "global_start": 933.433,
+          "global_end": 933.533,
+          "clip_start": 23.955,
+          "clip_end": 24.055,
+          "score": 0.992,
+          "range_index": 0
+        },
+        {
+          "word": "know",
+          "global_start": 933.573,
+          "global_end": 933.673,
+          "clip_start": 24.095,
+          "clip_end": 24.195,
+          "score": 0.988,
+          "range_index": 0
+        },
+        {
+          "word": "that",
+          "global_start": 933.693,
+          "global_end": 933.793,
+          "clip_start": 24.215,
+          "clip_end": 24.315,
+          "score": 0.775,
+          "range_index": 0
+        },
+        {
+          "word": "you're",
+          "global_start": 933.813,
+          "global_end": 933.993,
+          "clip_start": 24.335,
+          "clip_end": 24.515,
+          "score": 0.799,
+          "range_index": 0
+        },
+        {
+          "word": "doing",
+          "global_start": 934.053,
+          "global_end": 934.293,
+          "clip_start": 24.575,
+          "clip_end": 24.815,
+          "score": 0.793,
+          "range_index": 0
+        },
+        {
+          "word": "something",
+          "global_start": 934.353,
+          "global_end": 934.594,
+          "clip_start": 24.875,
+          "clip_end": 25.116,
+          "score": 0.809,
+          "range_index": 0
+        },
+        {
+          "word": "that",
+          "global_start": 934.614,
+          "global_end": 934.694,
+          "clip_start": 25.136,
+          "clip_end": 25.216,
+          "score": 0.002,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 934.714,
+          "global_end": 934.794,
+          "clip_start": 25.236,
+          "clip_end": 25.316,
+          "score": 0.101,
+          "range_index": 0
+        },
+        {
+          "word": "shouldn't",
+          "global_start": 934.814,
+          "global_end": 935.014,
+          "clip_start": 25.336,
+          "clip_end": 25.536,
+          "score": 0.956,
+          "range_index": 0
+        },
+        {
+          "word": "be",
+          "global_start": 935.034,
+          "global_end": 935.114,
+          "clip_start": 25.556,
+          "clip_end": 25.636,
+          "score": 0.616,
+          "range_index": 0
+        },
+        {
+          "word": "doing",
+          "global_start": 935.134,
+          "global_end": 935.374,
+          "clip_start": 25.656,
+          "clip_end": 25.896,
+          "score": 0.748,
+          "range_index": 0
+        },
+        {
+          "word": "and",
+          "global_start": 935.394,
+          "global_end": 935.454,
+          "clip_start": 25.916,
+          "clip_end": 25.976,
+          "score": 0.954,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 935.474,
+          "global_end": 935.654,
+          "clip_start": 25.996,
+          "clip_end": 26.176,
+          "score": 0.154,
+          "range_index": 0
+        },
+        {
+          "word": "feel",
+          "global_start": 935.674,
+          "global_end": 935.834,
+          "clip_start": 26.196,
+          "clip_end": 26.356,
+          "score": 0.319,
+          "range_index": 0
+        },
+        {
+          "word": "rotten",
+          "global_start": 936.335,
+          "global_end": 936.595,
+          "clip_start": 26.857,
+          "clip_end": 27.117,
+          "score": 0.943,
+          "range_index": 0
+        },
+        {
+          "word": "about",
+          "global_start": 936.635,
+          "global_end": 936.775,
+          "clip_start": 27.157,
+          "clip_end": 27.297,
+          "score": 0.824,
+          "range_index": 0
+        },
+        {
+          "word": "yourself.",
+          "global_start": 936.815,
+          "global_end": 937.276,
+          "clip_start": 27.337,
+          "clip_end": 27.798,
+          "score": 0.763,
+          "range_index": 0
+        },
+        {
+          "word": "Admit",
+          "global_start": 938.276,
+          "global_end": 938.616,
+          "clip_start": 28.798,
+          "clip_end": 29.138,
+          "score": 0.841,
+          "range_index": 0
+        },
+        {
+          "word": "it.",
+          "global_start": 938.697,
+          "global_end": 938.777,
+          "clip_start": 29.219,
+          "clip_end": 29.299,
+          "score": 0.809,
+          "range_index": 0
+        },
+        {
+          "word": "Be",
+          "global_start": 939.077,
+          "global_end": 939.197,
+          "clip_start": 29.599,
+          "clip_end": 29.719,
+          "score": 0.964,
+          "range_index": 0
+        },
+        {
+          "word": "honest",
+          "global_start": 939.257,
+          "global_end": 939.497,
+          "clip_start": 29.779,
+          "clip_end": 30.019,
+          "score": 0.829,
+          "range_index": 0
+        },
+        {
+          "word": "with",
+          "global_start": 939.517,
+          "global_end": 939.617,
+          "clip_start": 30.039,
+          "clip_end": 30.139,
+          "score": 0.874,
+          "range_index": 0
+        },
+        {
+          "word": "yourself.",
+          "global_start": 939.637,
+          "global_end": 940.078,
+          "clip_start": 30.159,
+          "clip_end": 30.6,
+          "score": 0.834,
+          "range_index": 0
+        },
+        {
+          "word": "Emerson",
+          "global_start": 941.057,
+          "global_end": 941.417,
+          "clip_start": 31.579,
+          "clip_end": 31.939,
+          "score": 0.934,
+          "range_index": 0
+        },
+        {
+          "word": "talks",
+          "global_start": 941.477,
+          "global_end": 941.657,
+          "clip_start": 31.999,
+          "clip_end": 32.179,
+          "score": 0.873,
+          "range_index": 0
+        },
+        {
+          "word": "about",
+          "global_start": 941.697,
+          "global_end": 941.817,
+          "clip_start": 32.219,
+          "clip_end": 32.339,
+          "score": 0.929,
+          "range_index": 0
+        },
+        {
+          "word": "the",
+          "global_start": 941.838,
+          "global_end": 941.918,
+          "clip_start": 32.36,
+          "clip_end": 32.44,
+          "score": 0.832,
+          "range_index": 0
+        },
+        {
+          "word": "fact",
+          "global_start": 941.938,
+          "global_end": 942.078,
+          "clip_start": 32.46,
+          "clip_end": 32.6,
+          "score": 0.706,
+          "range_index": 0
+        },
+        {
+          "word": "that",
+          "global_start": 942.098,
+          "global_end": 942.218,
+          "clip_start": 32.62,
+          "clip_end": 32.74,
+          "score": 0.768,
+          "range_index": 0
+        },
+        {
+          "word": "everybody",
+          "global_start": 942.278,
+          "global_end": 942.678,
+          "clip_start": 32.8,
+          "clip_end": 33.2,
+          "score": 0.827,
+          "range_index": 0
+        },
+        {
+          "word": "needs",
+          "global_start": 942.838,
+          "global_end": 943.038,
+          "clip_start": 33.36,
+          "clip_end": 33.56,
+          "score": 0.858,
+          "range_index": 0
+        },
+        {
+          "word": "a",
+          "global_start": 943.078,
+          "global_end": 943.098,
+          "clip_start": 33.6,
+          "clip_end": 33.62,
+          "score": 0.99,
+          "range_index": 0
+        },
+        {
+          "word": "radical",
+          "global_start": 943.338,
+          "global_end": 943.779,
+          "clip_start": 33.86,
+          "clip_end": 34.301,
+          "score": 0.8,
+          "range_index": 0
+        },
+        {
+          "word": "honesty",
+          "global_start": 943.819,
+          "global_end": 944.179,
+          "clip_start": 34.341,
+          "clip_end": 34.701,
+          "score": 0.873,
+          "range_index": 0
+        },
+        {
+          "word": "in",
+          "global_start": 944.219,
+          "global_end": 944.259,
+          "clip_start": 34.741,
+          "clip_end": 34.781,
+          "score": 0.994,
+          "range_index": 0
+        },
+        {
+          "word": "their",
+          "global_start": 944.299,
+          "global_end": 944.459,
+          "clip_start": 34.821,
+          "clip_end": 34.981,
+          "score": 0.846,
+          "range_index": 0
+        },
+        {
+          "word": "lives",
+          "global_start": 944.499,
+          "global_end": 944.939,
+          "clip_start": 35.021,
+          "clip_end": 35.461,
+          "score": 0.691,
+          "range_index": 0
+        },
+        {
+          "word": "in",
+          "global_start": 945.42,
+          "global_end": 945.52,
+          "clip_start": 35.942,
+          "clip_end": 36.042,
+          "score": 0.764,
+          "range_index": 0
+        },
+        {
+          "word": "all",
+          "global_start": 945.7,
+          "global_end": 945.86,
+          "clip_start": 36.222,
+          "clip_end": 36.382,
+          "score": 0.853,
+          "range_index": 0
+        },
+        {
+          "word": "parts",
+          "global_start": 945.94,
+          "global_end": 946.2,
+          "clip_start": 36.462,
+          "clip_end": 36.722,
+          "score": 0.67,
+          "range_index": 0
+        },
+        {
+          "word": "of",
+          "global_start": 946.24,
+          "global_end": 946.28,
+          "clip_start": 36.762,
+          "clip_end": 36.802,
+          "score": 0.993,
+          "range_index": 0
+        },
+        {
+          "word": "their",
+          "global_start": 946.32,
+          "global_end": 946.46,
+          "clip_start": 36.842,
+          "clip_end": 36.982,
+          "score": 0.895,
+          "range_index": 0
+        },
+        {
+          "word": "lives.",
+          "global_start": 946.5,
+          "global_end": 946.82,
+          "clip_start": 37.022,
+          "clip_end": 37.342,
+          "score": 0.831,
+          "range_index": 0
+        },
+        {
+          "word": "And",
+          "global_start": 947.001,
+          "global_end": 947.081,
+          "clip_start": 37.523,
+          "clip_end": 37.603,
+          "score": 0.842,
+          "range_index": 0
+        },
+        {
+          "word": "it's",
+          "global_start": 947.121,
+          "global_end": 947.221,
+          "clip_start": 37.643,
+          "clip_end": 37.743,
+          "score": 0.883,
+          "range_index": 0
+        },
+        {
+          "word": "hard,",
+          "global_start": 947.321,
+          "global_end": 947.661,
+          "clip_start": 37.843,
+          "clip_end": 38.183,
+          "score": 0.837,
+          "range_index": 0
+        },
+        {
+          "word": "it's",
+          "global_start": 947.941,
+          "global_end": 948.061,
+          "clip_start": 38.463,
+          "clip_end": 38.583,
+          "score": 0.766,
+          "range_index": 0
+        },
+        {
+          "word": "hard",
+          "global_start": 948.081,
+          "global_end": 948.221,
+          "clip_start": 38.603,
+          "clip_end": 38.743,
+          "score": 0.766,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 948.261,
+          "global_end": 948.321,
+          "clip_start": 38.783,
+          "clip_end": 38.843,
+          "score": 0.9,
+          "range_index": 0
+        },
+        {
+          "word": "do.",
+          "global_start": 948.381,
+          "global_end": 948.662,
+          "clip_start": 38.903,
+          "clip_end": 39.184,
+          "score": 0.888,
+          "range_index": 0
+        },
+        {
+          "word": "I",
+          "global_start": 948.742,
+          "global_end": 948.782,
+          "clip_start": 39.264,
+          "clip_end": 39.304,
+          "score": 0.957,
+          "range_index": 0
+        },
+        {
+          "word": "mean,",
+          "global_start": 948.822,
+          "global_end": 948.942,
+          "clip_start": 39.344,
+          "clip_end": 39.464,
+          "score": 0.978,
+          "range_index": 0
+        },
+        {
+          "word": "there's",
+          "global_start": 948.962,
+          "global_end": 949.102,
+          "clip_start": 39.484,
+          "clip_end": 39.624,
+          "score": 0.486,
+          "range_index": 0
+        },
+        {
+          "word": "a",
+          "global_start": 949.162,
+          "global_end": 949.202,
+          "clip_start": 39.684,
+          "clip_end": 39.724,
+          "score": 0.894,
+          "range_index": 0
+        },
+        {
+          "word": "ton",
+          "global_start": 949.242,
+          "global_end": 949.442,
+          "clip_start": 39.764,
+          "clip_end": 39.964,
+          "score": 0.826,
+          "range_index": 0
+        },
+        {
+          "word": "of",
+          "global_start": 949.462,
+          "global_end": 949.522,
+          "clip_start": 39.984,
+          "clip_end": 40.044,
+          "score": 0.746,
+          "range_index": 0
+        },
+        {
+          "word": "behavioral",
+          "global_start": 949.662,
+          "global_end": 949.982,
+          "clip_start": 40.184,
+          "clip_end": 40.504,
+          "score": 0.701,
+          "range_index": 0
+        },
+        {
+          "word": "science",
+          "global_start": 950.002,
+          "global_end": 950.242,
+          "clip_start": 40.524,
+          "clip_end": 40.764,
+          "score": 0.863,
+          "range_index": 0
+        },
+        {
+          "word": "literature",
+          "global_start": 950.262,
+          "global_end": 950.643,
+          "clip_start": 40.784,
+          "clip_end": 41.165,
+          "score": 0.833,
+          "range_index": 0
+        },
+        {
+          "word": "that",
+          "global_start": 950.683,
+          "global_end": 950.783,
+          "clip_start": 41.205,
+          "clip_end": 41.305,
+          "score": 0.923,
+          "range_index": 0
+        },
+        {
+          "word": "even",
+          "global_start": 950.983,
+          "global_end": 951.143,
+          "clip_start": 41.505,
+          "clip_end": 41.665,
+          "score": 0.804,
+          "range_index": 0
+        },
+        {
+          "word": "research",
+          "global_start": 951.243,
+          "global_end": 951.563,
+          "clip_start": 41.765,
+          "clip_end": 42.085,
+          "score": 0.901,
+          "range_index": 0
+        },
+        {
+          "word": "I",
+          "global_start": 951.603,
+          "global_end": 951.723,
+          "clip_start": 42.125,
+          "clip_end": 42.245,
+          "score": 0.587,
+          "range_index": 0
+        },
+        {
+          "word": "participated",
+          "global_start": 951.763,
+          "global_end": 952.404,
+          "clip_start": 42.285,
+          "clip_end": 42.926,
+          "score": 0.911,
+          "range_index": 0
+        },
+        {
+          "word": "in",
+          "global_start": 952.544,
+          "global_end": 952.624,
+          "clip_start": 43.066,
+          "clip_end": 43.146,
+          "score": 0.861,
+          "range_index": 0
+        },
+        {
+          "word": "myself",
+          "global_start": 952.664,
+          "global_end": 953.224,
+          "clip_start": 43.186,
+          "clip_end": 43.746,
+          "score": 0.822,
+          "range_index": 0
+        },
+        {
+          "word": "that",
+          "global_start": 953.805,
+          "global_end": 953.925,
+          "clip_start": 44.327,
+          "clip_end": 44.447,
+          "score": 0.814,
+          "range_index": 0
+        },
+        {
+          "word": "shows",
+          "global_start": 953.965,
+          "global_end": 954.125,
+          "clip_start": 44.487,
+          "clip_end": 44.647,
+          "score": 0.936,
+          "range_index": 0
+        },
+        {
+          "word": "that",
+          "global_start": 954.145,
+          "global_end": 954.245,
+          "clip_start": 44.667,
+          "clip_end": 44.767,
+          "score": 0.876,
+          "range_index": 0
+        },
+        {
+          "word": "we",
+          "global_start": 954.265,
+          "global_end": 954.325,
+          "clip_start": 44.787,
+          "clip_end": 44.847,
+          "score": 0.751,
+          "range_index": 0
+        },
+        {
+          "word": "don't",
+          "global_start": 954.345,
+          "global_end": 954.485,
+          "clip_start": 44.867,
+          "clip_end": 45.007,
+          "score": 0.81,
+          "range_index": 0
+        },
+        {
+          "word": "know",
+          "global_start": 954.525,
+          "global_end": 954.665,
+          "clip_start": 45.047,
+          "clip_end": 45.187,
+          "score": 0.758,
+          "range_index": 0
+        },
+        {
+          "word": "ourselves",
+          "global_start": 954.705,
+          "global_end": 955.065,
+          "clip_start": 45.227,
+          "clip_end": 45.587,
+          "score": 0.823,
+          "range_index": 0
+        },
+        {
+          "word": "very",
+          "global_start": 955.105,
+          "global_end": 955.325,
+          "clip_start": 45.627,
+          "clip_end": 45.847,
+          "score": 0.756,
+          "range_index": 0
+        },
+        {
+          "word": "well.",
+          "global_start": 955.365,
+          "global_end": 955.586,
+          "clip_start": 45.887,
+          "clip_end": 46.108,
+          "score": 0.92,
+          "range_index": 0
+        },
+        {
+          "word": "And",
+          "global_start": 955.606,
+          "global_end": 955.666,
+          "clip_start": 46.128,
+          "clip_end": 46.188,
+          "score": 0.943,
+          "range_index": 0
+        },
+        {
+          "word": "the",
+          "global_start": 955.686,
+          "global_end": 955.766,
+          "clip_start": 46.208,
+          "clip_end": 46.288,
+          "score": 0.836,
+          "range_index": 0
+        },
+        {
+          "word": "main",
+          "global_start": 955.786,
+          "global_end": 955.946,
+          "clip_start": 46.308,
+          "clip_end": 46.468,
+          "score": 0.821,
+          "range_index": 0
+        },
+        {
+          "word": "reason",
+          "global_start": 955.986,
+          "global_end": 956.206,
+          "clip_start": 46.508,
+          "clip_end": 46.728,
+          "score": 0.78,
+          "range_index": 0
+        },
+        {
+          "word": "is",
+          "global_start": 956.246,
+          "global_end": 956.326,
+          "clip_start": 46.768,
+          "clip_end": 46.848,
+          "score": 0.532,
+          "range_index": 0
+        },
+        {
+          "word": "because",
+          "global_start": 956.346,
+          "global_end": 956.526,
+          "clip_start": 46.868,
+          "clip_end": 47.048,
+          "score": 0.868,
+          "range_index": 0
+        },
+        {
+          "word": "we",
+          "global_start": 956.566,
+          "global_end": 956.706,
+          "clip_start": 47.088,
+          "clip_end": 47.228,
+          "score": 0.637,
+          "range_index": 0
+        },
+        {
+          "word": "lied",
+          "global_start": 956.766,
+          "global_end": 956.986,
+          "clip_start": 47.288,
+          "clip_end": 47.508,
+          "score": 0.723,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 957.006,
+          "global_end": 957.066,
+          "clip_start": 47.528,
+          "clip_end": 47.588,
+          "score": 0.796,
+          "range_index": 0
+        },
+        {
+          "word": "ourselves",
+          "global_start": 957.106,
+          "global_end": 957.507,
+          "clip_start": 47.628,
+          "clip_end": 48.029,
+          "score": 0.737,
+          "range_index": 0
+        },
+        {
+          "word": "all",
+          "global_start": 957.567,
+          "global_end": 957.707,
+          "clip_start": 48.089,
+          "clip_end": 48.229,
+          "score": 0.799,
+          "range_index": 0
+        },
+        {
+          "word": "day",
+          "global_start": 957.747,
+          "global_end": 957.867,
+          "clip_start": 48.269,
+          "clip_end": 48.389,
+          "score": 0.883,
+          "range_index": 0
+        },
+        {
+          "word": "long.",
+          "global_start": 957.907,
+          "global_end": 958.147,
+          "clip_start": 48.429,
+          "clip_end": 48.669,
+          "score": 0.781,
+          "range_index": 0
+        },
+        {
+          "word": "We",
+          "global_start": 958.187,
+          "global_end": 958.307,
+          "clip_start": 48.709,
+          "clip_end": 48.829,
+          "score": 0.787,
+          "range_index": 0
+        },
+        {
+          "word": "got",
+          "global_start": 958.327,
+          "global_end": 958.427,
+          "clip_start": 48.849,
+          "clip_end": 48.949,
+          "score": 0.832,
+          "range_index": 0
+        },
+        {
+          "word": "these",
+          "global_start": 958.447,
+          "global_end": 958.607,
+          "clip_start": 48.969,
+          "clip_end": 49.129,
+          "score": 0.807,
+          "range_index": 0
+        },
+        {
+          "word": "biases",
+          "global_start": 958.767,
+          "global_end": 959.448,
+          "clip_start": 49.289,
+          "clip_end": 49.97,
+          "score": 0.877,
+          "range_index": 0
+        },
+        {
+          "word": "that",
+          "global_start": 959.488,
+          "global_end": 959.628,
+          "clip_start": 50.01,
+          "clip_end": 50.15,
+          "score": 0.808,
+          "range_index": 0
+        },
+        {
+          "word": "make",
+          "global_start": 959.648,
+          "global_end": 959.768,
+          "clip_start": 50.17,
+          "clip_end": 50.29,
+          "score": 0.83,
+          "range_index": 0
+        },
+        {
+          "word": "us",
+          "global_start": 959.808,
+          "global_end": 959.868,
+          "clip_start": 50.33,
+          "clip_end": 50.39,
+          "score": 0.772,
+          "range_index": 0
+        },
+        {
+          "word": "feel",
+          "global_start": 959.888,
+          "global_end": 960.068,
+          "clip_start": 50.41,
+          "clip_end": 50.59,
+          "score": 0.722,
+          "range_index": 0
+        },
+        {
+          "word": "better",
+          "global_start": 960.128,
+          "global_end": 960.408,
+          "clip_start": 50.65,
+          "clip_end": 50.93,
+          "score": 0.824,
+          "range_index": 0
+        },
+        {
+          "word": "about",
+          "global_start": 960.448,
+          "global_end": 960.589,
+          "clip_start": 50.97,
+          "clip_end": 51.111,
+          "score": 0.809,
+          "range_index": 0
+        },
+        {
+          "word": "ourselves,",
+          "global_start": 960.629,
+          "global_end": 961.229,
+          "clip_start": 51.151,
+          "clip_end": 51.751,
+          "score": 0.772,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 961.249,
+          "global_end": 961.349,
+          "clip_start": 51.771,
+          "clip_end": 51.871,
+          "score": 0.694,
+          "range_index": 0
+        },
+        {
+          "word": "know?",
+          "global_start": 961.369,
+          "global_end": 961.569,
+          "clip_start": 51.891,
+          "clip_end": 52.091,
+          "score": 0.782,
+          "range_index": 0
+        },
+        {
+          "word": "Yeah,",
+          "global_start": 962.169,
+          "global_end": 962.55,
+          "clip_start": 52.691,
+          "clip_end": 53.072,
+          "score": 0.777,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 962.59,
+          "global_end": 962.67,
+          "clip_start": 53.112,
+          "clip_end": 53.192,
+          "score": 0.957,
+          "range_index": 0
+        },
+        {
+          "word": "know,",
+          "global_start": 962.71,
+          "global_end": 963.13,
+          "clip_start": 53.232,
+          "clip_end": 53.652,
+          "score": 0.835,
+          "range_index": 0
+        },
+        {
+          "word": "like",
+          "global_start": 963.15,
+          "global_end": 963.31,
+          "clip_start": 53.672,
+          "clip_end": 53.832,
+          "score": 0.853,
+          "range_index": 0
+        },
+        {
+          "word": "I",
+          "global_start": 963.37,
+          "global_end": 963.43,
+          "clip_start": 53.892,
+          "clip_end": 53.952,
+          "score": 0.671,
+          "range_index": 0
+        },
+        {
+          "word": "think",
+          "global_start": 963.45,
+          "global_end": 963.59,
+          "clip_start": 53.972,
+          "clip_end": 54.112,
+          "score": 0.927,
+          "range_index": 0
+        },
+        {
+          "word": "to",
+          "global_start": 963.61,
+          "global_end": 963.65,
+          "clip_start": 54.132,
+          "clip_end": 54.172,
+          "score": 0.976,
+          "range_index": 0
+        },
+        {
+          "word": "myself,",
+          "global_start": 963.69,
+          "global_end": 964.131,
+          "clip_start": 54.212,
+          "clip_end": 54.653,
+          "score": 0.897,
+          "range_index": 0
+        },
+        {
+          "word": "yeah,",
+          "global_start": 964.511,
+          "global_end": 964.751,
+          "clip_start": 55.033,
+          "clip_end": 55.273,
+          "score": 0.69,
+          "range_index": 0
+        },
+        {
+          "word": "Arthur",
+          "global_start": 964.791,
+          "global_end": 965.031,
+          "clip_start": 55.313,
+          "clip_end": 55.553,
+          "score": 0.692,
+          "range_index": 0
+        },
+        {
+          "word": "Brooks,",
+          "global_start": 965.051,
+          "global_end": 965.271,
+          "clip_start": 55.573,
+          "clip_end": 55.793,
+          "score": 0.983,
+          "range_index": 0
+        },
+        {
+          "word": "he's",
+          "global_start": 965.291,
+          "global_end": 965.391,
+          "clip_start": 55.813,
+          "clip_end": 55.913,
+          "score": 0.666,
+          "range_index": 0
+        },
+        {
+          "word": "a",
+          "global_start": 965.451,
+          "global_end": 965.491,
+          "clip_start": 55.973,
+          "clip_end": 56.013,
+          "score": 0.535,
+          "range_index": 0
+        },
+        {
+          "word": "guy",
+          "global_start": 965.511,
+          "global_end": 965.651,
+          "clip_start": 56.033,
+          "clip_end": 56.173,
+          "score": 0.567,
+          "range_index": 0
+        },
+        {
+          "word": "with",
+          "global_start": 965.672,
+          "global_end": 965.772,
+          "clip_start": 56.194,
+          "clip_end": 56.294,
+          "score": 0.874,
+          "range_index": 0
+        },
+        {
+          "word": "good",
+          "global_start": 965.812,
+          "global_end": 965.952,
+          "clip_start": 56.334,
+          "clip_end": 56.474,
+          "score": 0.983,
+          "range_index": 0
+        },
+        {
+          "word": "hair,",
+          "global_start": 965.992,
+          "global_end": 966.332,
+          "clip_start": 56.514,
+          "clip_end": 56.854,
+          "score": 0.821,
+          "range_index": 0
+        },
+        {
+          "word": "you",
+          "global_start": 966.632,
+          "global_end": 966.712,
+          "clip_start": 57.154,
+          "clip_end": 57.234,
+          "score": 0.994,
+          "range_index": 0
+        },
+        {
+          "word": "know,",
+          "global_start": 966.752,
+          "global_end": 966.932,
+          "clip_start": 57.274,
+          "clip_end": 57.454,
+          "score": 0.711,
+          "range_index": 0
+        },
+        {
+          "word": "I",
+          "global_start": 966.972,
+          "global_end": 967.032,
+          "clip_start": 57.494,
+          "clip_end": 57.554,
+          "score": 0.94,
+          "range_index": 0
+        },
+        {
+          "word": "can",
+          "global_start": 967.052,
+          "global_end": 967.172,
+          "clip_start": 57.574,
+          "clip_end": 57.694,
+          "score": 0.891,
+          "range_index": 0
+        },
+        {
+          "word": "kind",
+          "global_start": 967.393,
+          "global_end": 967.493,
+          "clip_start": 57.915,
+          "clip_end": 58.015,
+          "score": 0.355,
+          "range_index": 0
+        },
+        {
+          "word": "of,",
+          "global_start": 967.513,
+          "global_end": 967.573,
+          "clip_start": 58.035,
+          "clip_end": 58.095,
+          "score": 0.312,
+          "range_index": 0
+        },
+        {
+          "word": "I'm",
+          "global_start": 968.494,
+          "global_end": 968.655,
+          "clip_start": 59.016,
+          "clip_end": 59.177,
+          "score": 0.764,
+          "range_index": 0
+        },
+        {
+          "word": "bald.",
+          "global_start": 968.775,
+          "global_end": 969.437,
+          "clip_start": 59.297,
+          "clip_end": 59.959,
+          "score": 0.877,
+          "range_index": 0
+        }
+      ]
+    }
+  ]
+}
