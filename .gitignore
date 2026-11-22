@@ -10,3 +10,7 @@ __pycache__/
 /media/
 
 .claude/settings.local.json
+
+# yt-dlp cookies (never commit authentication cookies)
+cookies.txt
+*.cookies.txt

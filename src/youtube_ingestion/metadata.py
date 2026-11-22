@@ -8,9 +8,21 @@ import os
 import shutil
 import subprocess
 import sys
+from pathlib import Path
 
 # Prefer PATH / environment variable, fallback to kinetic_typo_vid venv if on local dev
 YTDLP_PATH = os.environ.get("YTDLP_PATH") or shutil.which("yt-dlp") or "/root/kinetic_typo_vid/venv/bin/yt-dlp"
+
+# Optional Netscape-format cookies file for yt-dlp authentication.
+# Resolution order:
+#   1. YTDLP_COOKIES_FILE env var  (set by CI from the decoded GitHub secret)
+#   2. cookies.txt in the project root  (local dev convenience)
+# Never commit cookies.txt — it is listed in .gitignore.
+_COOKIES_FILE: str | None = os.environ.get("YTDLP_COOKIES_FILE") or (
+    str(Path(__file__).resolve().parent.parent.parent / "cookies.txt")
+    if (Path(__file__).resolve().parent.parent.parent / "cookies.txt").exists()
+    else None
+)
 
 # Player clients to try in order. tv/web_creator don't require sign-in on CI runners.
 _METADATA_PLAYER_CLIENTS = [
@@ -31,7 +43,11 @@ def _ensure_yt_dlp() -> None:
 
 
 def _run_ytdlp_metadata(url: str, player_clients: str) -> subprocess.CompletedProcess:
-    """Run yt-dlp --dump-json with the given player_clients extractor arg."""
+    """Run yt-dlp --dump-json with the given player_clients extractor arg.
+
+    Passes ``--cookies`` when a cookies file is configured, to bypass YouTube
+    bot-detection / sign-in checks on CI runners.
+    """
     cmd = [
         YTDLP_PATH,
         "--dump-json",
@@ -39,8 +55,11 @@ def _run_ytdlp_metadata(url: str, player_clients: str) -> subprocess.CompletedPr
         "--no-playlist",
         "--extractor-args",
         f"youtube:player_client={player_clients}",
-        url,
     ]
+    if _COOKIES_FILE:
+        cmd += ["--cookies", _COOKIES_FILE]
+        sys.stderr.write(f"[yt-dlp] Using cookies file: {_COOKIES_FILE}\n")
+    cmd.append(url)
     return subprocess.run(cmd, capture_output=True, text=True)
 
 

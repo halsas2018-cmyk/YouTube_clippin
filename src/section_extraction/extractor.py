@@ -21,6 +21,13 @@ _PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 _DEFAULT_DOWNLOADS_ROOT = _PROJECT_ROOT / "media" / "downloads"
 _VENV_YTDLP = Path("/root/kinetic_typo_vid/venv/bin/yt-dlp")
 
+# Optional Netscape-format cookies file for yt-dlp authentication.
+_COOKIES_FILE: str | None = os.environ.get("YTDLP_COOKIES_FILE") or (
+    str(_PROJECT_ROOT / "cookies.txt")
+    if (_PROJECT_ROOT / "cookies.txt").exists()
+    else None
+)
+
 
 def get_ytdlp_binary() -> str:
     """Find the yt-dlp binary, preferring environment variable or PATH."""
@@ -176,8 +183,10 @@ def download_section_range(
                 outtmpl,
                 "--force-overwrites",
                 "--no-warnings",
-                video_url,
             ]
+            if _COOKIES_FILE:
+                cmd.extend(["--cookies", _COOKIES_FILE])
+            cmd.append(video_url)
 
             for attempt in range(1, max_retries + 1):
                 # Remove partial files before attempting

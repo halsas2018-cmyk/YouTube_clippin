@@ -63,6 +63,20 @@ jobs:
           echo "video_id=$VIDEO_ID" >> $GITHUB_OUTPUT
           echo "Detected Video ID: $VIDEO_ID"
 
+      - name: Setup yt-dlp Cookies
+        env:
+          YTDLP_COOKIES: ${{ secrets.YTDLP_COOKIES }}
+        run: |
+          if [ -n "$YTDLP_COOKIES" ]; then
+            COOKIE_FILE="${RUNNER_TEMP:-/tmp}/yt_cookies.txt"
+            echo "$YTDLP_COOKIES" | base64 --decode > "$COOKIE_FILE"
+            chmod 600 "$COOKIE_FILE"
+            echo "YTDLP_COOKIES_FILE=$COOKIE_FILE" >> $GITHUB_ENV
+            echo "yt-dlp auth: Netscape cookie file loaded securely"
+          else
+            echo "yt-dlp auth: No YTDLP_COOKIES configured; running with default player client fallbacks"
+          fi
+
       - name: Run Python Processing Pipeline (Stages 1-13)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -118,3 +132,11 @@ jobs:
             remotion/clip_cand*.json
             remotion/clip_metadata_manifest.json
           retention-days: 7
+
+      - name: Cleanup yt-dlp Cookies
+        if: always()
+        run: |
+          if [ -n "$YTDLP_COOKIES_FILE" ] && [ -f "$YTDLP_COOKIES_FILE" ]; then
+            shred -u "$YTDLP_COOKIES_FILE" 2>/dev/null || rm -f "$YTDLP_COOKIES_FILE"
+            echo "yt-dlp temporary cookies cleaned up"
+          fi
