@@ -36,12 +36,46 @@ def fetch_metadata(url: str) -> dict:
         ValueError: If yt-dlp produces no output (invalid URL / unavailable video).
     """
     _ensure_yt_dlp()
-    result = subprocess.run(
-        [YTDLP_PATH, "--dump-json", "--no-warnings", "--no-playlist", "-f", "bestvideo[vcodec^=avc1]+bestaudio[acodec^=mp4a]/best", url],
-        capture_output=True,
-        text=True,
-        check=True,
-    )
+    cmd = [
+        YTDLP_PATH,
+        "--dump-json",
+        "--no-warnings",
+        "--no-playlist",
+        "--extractor-args",
+        "youtube:player_client=android,web",
+        "-f",
+        "bestvideo[vcodec^=avc1]+bestaudio[acodec^=mp4a]/best",
+        url,
+    ]
+    try:
+        result = subprocess.run(
+            cmd,
+            capture_output=True,
+            text=True,
+            check=True,
+        )
+    except subprocess.CalledProcessError as e:
+        # Fallback without format filter in case specific format constraint failed
+        fallback_cmd = [
+            YTDLP_PATH,
+            "--dump-json",
+            "--no-warnings",
+            "--no-playlist",
+            "--extractor-args",
+            "youtube:player_client=android,web",
+            url,
+        ]
+        try:
+            result = subprocess.run(
+                fallback_cmd,
+                capture_output=True,
+                text=True,
+                check=True,
+            )
+        except subprocess.CalledProcessError as e2:
+            sys.stderr.write(f"yt-dlp stderr: {e2.stderr or e.stderr}\n")
+            raise e2
+
     stdout = result.stdout.strip()
     if not stdout:
         raise ValueError(

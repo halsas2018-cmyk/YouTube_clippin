@@ -156,6 +156,8 @@ def download_section_range(
             binary,
             "--download-sections",
             section_arg,
+            "--extractor-args",
+            "youtube:player_client=android,web",
             "-f",
             fmt,
             "--merge-output-format",
