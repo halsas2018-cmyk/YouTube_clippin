@@ -4,19 +4,20 @@ This module wraps the ``yt-dlp`` CLI to fetch basic video metadata.
 No video/audio is downloaded — only metadata and caption-track awareness.
 """
 import json
+import os
 import shutil
 import subprocess
 
-# Explicit path to yt-dlp in the kinetic_typo_vid venv — do NOT resolve from PATH.
-YTDLP_PATH = "/root/kinetic_typo_vid/venv/bin/yt-dlp"
+# Prefer PATH / environment variable, fallback to kinetic_typo_vid venv if on local dev
+YTDLP_PATH = os.environ.get("YTDLP_PATH") or shutil.which("yt-dlp") or "/root/kinetic_typo_vid/venv/bin/yt-dlp"
 
 
 def _ensure_yt_dlp() -> None:
-    """Raise FileNotFoundError if yt-dlp is not available at the explicit path."""
+    """Raise FileNotFoundError if yt-dlp is not available."""
     if not shutil.which(YTDLP_PATH):
         raise FileNotFoundError(
             f"yt-dlp not found at {YTDLP_PATH}. "
-            "Ensure the virtual environment is populated."
+            "Ensure yt-dlp is installed and available on PATH."
         )
 
 

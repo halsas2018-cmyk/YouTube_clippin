@@ -23,6 +23,8 @@ from pathlib import Path
 
 import requests
 
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+
 # ---------------------------------------------------------------------------
 # Load .env
 # ---------------------------------------------------------------------------
@@ -199,7 +201,12 @@ def main() -> None:
             print(f"Error: unknown argument {arg}")
             sys.exit(1)
 
-    base_dir = f"/root/youtubr_clipper/media/downloads/{video_id}"
+    base_path = PROJECT_ROOT / "media" / "downloads" / video_id
+    if not base_path.exists():
+        alt_path = PROJECT_ROOT / "remotion" / "public" / "media" / "downloads" / video_id
+        if alt_path.exists():
+            base_path = alt_path
+    base_dir = str(base_path)
     audio_dir = os.path.join(base_dir, "media", "audio")
     os.makedirs(audio_dir, exist_ok=True)
 

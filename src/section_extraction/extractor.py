@@ -23,13 +23,16 @@ _VENV_YTDLP = Path("/root/kinetic_typo_vid/venv/bin/yt-dlp")
 
 
 def get_ytdlp_binary() -> str:
-    """Find the yt-dlp binary, preferring the designated venv."""
-    if _VENV_YTDLP.exists() and os.access(_VENV_YTDLP, os.X_OK):
-        return str(_VENV_YTDLP)
+    """Find the yt-dlp binary, preferring environment variable or PATH."""
+    env_bin = os.environ.get("YTDLP_PATH")
+    if env_bin and shutil.which(env_bin):
+        return env_bin
     system_ytdlp = shutil.which("yt-dlp")
     if system_ytdlp:
         return system_ytdlp
-    raise FileNotFoundError("yt-dlp executable not found in venv or system PATH.")
+    if _VENV_YTDLP.exists() and os.access(_VENV_YTDLP, os.X_OK):
+        return str(_VENV_YTDLP)
+    raise FileNotFoundError("yt-dlp executable not found in PATH or venv.")
 
 
 def probe_media_info(file_path: Path | str) -> dict[str, Any]:

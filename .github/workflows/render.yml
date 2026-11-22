@@ -61,9 +61,21 @@ jobs:
               --output "$OUTPUT_FILE"
           done
 
-      - name: Upload rendered videos
+      - name: Copy metadata files for artifact upload
+        working-directory: remotion
+        env:
+          VIDEO_ID: ${{ github.event.inputs.video_id }}
+        run: |
+          cp -v "public/media/downloads/$VIDEO_ID"/clip_cand* . 2>/dev/null || true
+          cp -v "public/media/downloads/$VIDEO_ID"/clip_metadata_manifest.json . 2>/dev/null || true
+
+      - name: Upload rendered videos and metadata
         uses: actions/upload-artifact@v4
         with:
           name: rendered-videos
-          path: remotion/*.mp4
+          path: |
+            remotion/*.mp4
+            remotion/*.txt
+            remotion/clip_cand*.json
+            remotion/clip_metadata_manifest.json
           retention-days: 7

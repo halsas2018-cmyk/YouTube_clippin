@@ -1,0 +1,16 @@
+TITLE:
+Watch AI Agents Talk to Each Other! 🤖
+
+DESCRIPTION:
+See the magic of Paperclip in action as agents delegate tasks to one another in real-time. This is the future of autonomous workflows! Have you ever seen AI collaborate like this? Let us know your thoughts in the comments.
+
+HASHTAGS:
+#Shorts #AI #Paperclip #Automation #TechInnovation #ArtificialIntelligence #FutureOfWork
+
+TAGS:
+AI agents, autonomous agents, Paperclip AI, task delegation, AI collaboration, tech demo, workflow automation, AI tools
+
+DURATION: 25.2s
+
+TRANSCRIPT:
+Here, what you're about to see is one of the most powerful parts of Paperclip, and it's how we talk with our agents, how we interface with them. And that's through tasks. Now, we're about to assign our toilet task. But first, I want to just test this and make sure it works. Cuz so far, we haven't even talked to our agents, and our agents haven't talked to each other. We're going to do both of those right now. So, we'll set up a task and assign it to Dumbledore. Just to say, "Hey, why don't you talk to Ron? Test Ron, make sure he works." So, we'll set up our task and go. And within moments, watch what happens here. Boom, Dumbledore assigns a task to Ron. And that right there is our first moment where we talk to an agent and then an agent talk to another agent. And they're both working here. Dumbledore is actually waiting and then when Ron finishes his task, Dumbledore is like, "Hey, we tested, we're good." Isn't that sick? Now, some movie magic's about to happen.

@@ -32,7 +32,8 @@ def save_json(data: dict, path: str) -> None:
 # LLM client (re-use the existing shared client)
 # ---------------------------------------------------------------------------
 
-sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(PROJECT_ROOT))
 from src.transcript_discovery.llm_client import chat_json, active_config  # noqa: E402
 
 
@@ -218,7 +219,12 @@ def main() -> None:
         print(f"Usage: {sys.argv[0]} VIDEO_ID [--candidate-id N]")
         sys.exit(1)
 
-    base_dir = f"/root/youtubr_clipper/media/downloads/{video_id}"
+    base_path = PROJECT_ROOT / "media" / "downloads" / video_id
+    if not base_path.exists():
+        alt_path = PROJECT_ROOT / "remotion" / "public" / "media" / "downloads" / video_id
+        if alt_path.exists():
+            base_path = alt_path
+    base_dir = str(base_path)
 
     # --- Load data ---
     final_clip_timings = load_json(os.path.join(base_dir, "final_clip_timings.json"))

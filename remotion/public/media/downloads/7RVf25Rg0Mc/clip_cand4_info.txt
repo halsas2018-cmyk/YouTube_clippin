@@ -1,0 +1,16 @@
+TITLE:
+Automate Your Life: AI Routines Explained
+
+DESCRIPTION:
+Stop doing repetitive tasks manually! See how you can set up AI routines to handle server checks, daily reports, and automated decision-making in seconds. How would you use an AI assistant to save time in your day? Let us know in the comments!
+
+HASHTAGS:
+#Shorts #Automation #AI #ProductivityHacks #TechTips #ArtificialIntelligence #WorkflowAutomation
+
+TAGS:
+AI automation, AI agents, productivity tools, workflow automation, tech tutorial, AI routines, automated tasks, software automation
+
+DURATION: 37.3s
+
+TRANSCRIPT:
+Routines are actually pretty sick. Let's create one right now. You can think of a routine like a scheduled task, right? It's going to run on a schedule that you set, and we can do a ton of things with this. It's actually pretty powerful. [...] Check storage. And I'm going to voice dictate this because I'm lazy. Every day, check the storage on the SEF server and check for any health issues. I'll have you report back the amount of storage we have left. And if there's anything that's low, you need to create a decision for Chuck. [...] It's like every day at 10:00 a.m. Add trigger. Boom. It's active. It's saved. If I go to routines, I see it sitting right there. You can also run it at any time. By the way, this is how I run my stand-ups. Run now. Run the routine.

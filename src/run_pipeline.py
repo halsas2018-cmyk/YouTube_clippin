@@ -53,6 +53,7 @@ def copy_remotion_assets(video_id: str, project_root: Path) -> dict:
         "caption_manifest.json",
         "emoji_manifest.json",
         "broll_manifest.json",
+        "clip_metadata_manifest.json",
     ]
 
     copied_manifests = []
@@ -75,7 +76,7 @@ def copy_remotion_assets(video_id: str, project_root: Path) -> dict:
         for cand in timings.get("candidates", []):
             candidate_ids.append(cand.get("candidate_id"))
 
-    # Also copy mix manifests for all discovered candidates
+    # Also copy mix manifests and clip metadata files for all discovered candidates
     for cand_id in candidate_ids:
         mix_manifest = f"mix_manifest_cand{cand_id}.json"
         src = src_base / "media" / "audio" / mix_manifest
@@ -86,6 +87,14 @@ def copy_remotion_assets(video_id: str, project_root: Path) -> dict:
             print(f"  Copied manifest: {mix_manifest}")
         else:
             print(f"  Warning: Mix manifest not found: {mix_manifest}")
+
+        # Copy clip metadata and info files
+        for fname in [f"clip_cand{cand_id}_metadata.json", f"clip_cand{cand_id}_info.txt"]:
+            src_file = src_base / fname
+            dst_file = dst_base / fname
+            if src_file.exists():
+                shutil.copy2(src_file, dst_file)
+                print(f"  Copied {fname}")
 
     # Copy section MP4s (for all candidates)
     src_sections = src_base / "sections"
@@ -139,10 +148,10 @@ def main():
     parser.add_argument(
         "--from-stage",
         type=int,
-        choices=range(1, 13),
+        choices=range(1, 25),
         metavar="N",
         default=1,
-        help="Start pipeline at stage N (1-12). Stages 1..N-1 are skipped. Default: 1",
+        help="Start pipeline at stage N. Stages 1..N-1 are skipped. Default: 1",
     )
     args = parser.parse_args()
 
@@ -155,32 +164,32 @@ def main():
     print(f"Project root: {project_root}")
     print(f"=" * 60)
 
-    # Define all 12 stages (stages 1-9 are per-video, 10-12 are per-candidate)
+    # Define per-video initial stages (stages 1-10)
     stages = [
-        (1, ["python3", "-m", "src.youtube_ingestion", args.url]),
-        (2, ["python3", "-m", "src.transcript_discovery", video_id]),
-        (3, ["python3", "-m", "src.section_extraction", video_id, "--overwrite"]),
-        (4, ["python3", "-m", "src.whisperx_alignment.align_sections", video_id]),
-        (5, ["python3", "-m", "src.clip_timing.clip_timing", f"media/downloads/{video_id}"]),
-        (6, ["python3", "-m", "src.clip_timing.caption_planner", f"media/downloads/{video_id}"]),
-        (7, ["python3", "-m", "src.emoji_planning.emoji_planner", video_id]),
-        (8, ["python3", "-m", "src.broll_planning.broll_planner", f"media/downloads/{video_id}"]),
-        (9, ["python3", "-m", "src.broll_planning.broll_acquirer", f"media/downloads/{video_id}"]),
+        (1, [sys.executable, "-m", "src.youtube_ingestion", args.url]),
+        (2, [sys.executable, "-m", "src.transcript_discovery", video_id]),
+        (3, [sys.executable, "-m", "src.section_extraction", video_id, "--overwrite"]),
+        (4, [sys.executable, "-m", "src.whisperx_alignment.align_sections", video_id]),
+        (5, [sys.executable, "-m", "src.clip_timing.clip_timing", f"media/downloads/{video_id}"]),
+        (6, [sys.executable, "-m", "src.clip_metadata", f"media/downloads/{video_id}"]),
+        (7, [sys.executable, "-m", "src.clip_timing.caption_planner", f"media/downloads/{video_id}"]),
+        (8, [sys.executable, "-m", "src.emoji_planning.emoji_planner", video_id]),
+        (9, [sys.executable, "-m", "src.broll_planning.broll_planner", f"media/downloads/{video_id}"]),
+        (10, [sys.executable, "-m", "src.broll_planning.broll_acquirer", f"media/downloads/{video_id}"]),
     ]
 
-    total_stages = len(stages)
+    initial_stage_count = len(stages)
 
-    # Run all stages 1-9
+    # Run initial per-video stages
     for stage_num, cmd in stages:
         if stage_num < args.from_stage:
-            print(f"\n[{stage_num}/{total_stages}] [SKIP] {' '.join(cmd)}")
+            print(f"\n[{stage_num}/{initial_stage_count}] [SKIP] {' '.join(cmd)}")
             continue
         try:
-            run_stage(stage_num, total_stages, cmd, project_root)
+            run_stage(stage_num, initial_stage_count, cmd, project_root)
         except subprocess.CalledProcessError as e:
-            print(f"\n[{stage_num}/{total_stages}] ✗ FAILED with exit code {e.returncode}")
+            print(f"\n[{stage_num}/{initial_stage_count}] ✗ FAILED with exit code {e.returncode}")
             sys.exit(1)
-
 
     # Discover candidate IDs from final_clip_timings.json
     timings_path = project_root / "media" / "downloads" / video_id / "final_clip_timings.json"
@@ -193,12 +202,12 @@ def main():
 
     print(f"\nDiscovered candidate IDs: {candidate_ids}")
 
-    total_stages = 9 + 3 * len(candidate_ids)
-    stage_num = 10  # first stage after the initial 9
+    total_stages = 10 + 3 * len(candidate_ids)
+    stage_num = 11  # first stage after the initial 10
 
     for cand_id in candidate_ids:
         # Stage {stage_num}: Audio planning for this candidate
-        planning_cmd = ["python3", "-m", "src.audio_planning.audio_planning", video_id, "--candidate-id", str(cand_id)]
+        planning_cmd = [sys.executable, "-m", "src.audio_planning.audio_planning", video_id, "--candidate-id", str(cand_id)]
         if stage_num < args.from_stage:
             print(f"\n[{stage_num}/{total_stages}] [SKIP] {' '.join(planning_cmd)}")
         else:
@@ -211,7 +220,7 @@ def main():
 
         # Stage {stage_num}: Audio acquisition for this candidate
         manifest_path = project_root / "media" / "downloads" / video_id / f"audio_planning_manifest_cand{cand_id}.json"
-        acquisition_cmd = ["python3", "-m", "src.audio_planning.audio_acquisition_final", video_id, "--force", "--manifest", str(manifest_path)]
+        acquisition_cmd = [sys.executable, "-m", "src.audio_planning.audio_acquisition_final", video_id, "--force", "--manifest", str(manifest_path)]
         if stage_num < args.from_stage:
             print(f"\n[{stage_num}/{total_stages}] [SKIP] {' '.join(acquisition_cmd)}")
         else:
@@ -223,7 +232,7 @@ def main():
         stage_num += 1
 
         # Stage {stage_num}: Audio mixing for this candidate
-        mix_cmd = ["python3", "-m", "src.audio_planning.mix_audio", video_id, "--candidate-id", str(cand_id)]
+        mix_cmd = [sys.executable, "-m", "src.audio_planning.mix_audio", video_id, "--candidate-id", str(cand_id)]
         if stage_num < args.from_stage:
             print(f"\n[{stage_num}/{total_stages}] [SKIP] {' '.join(mix_cmd)}")
         else:

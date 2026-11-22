@@ -12,6 +12,7 @@ from pathlib import Path
 from typing import Dict, List, Any
 
 # Add the src directory to the path so we can import transcript_discovery
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
 sys.path.append(str(Path(__file__).resolve().parents[1]))
 
 from transcript_discovery.llm_client import chat_json
@@ -19,7 +20,11 @@ from transcript_discovery.llm_client import chat_json
 
 def load_caption_manifest(video_id: str) -> Dict[str, Any]:
     """Load the existing caption manifest for the given video."""
-    manifest_path = Path(f"/root/youtubr_clipper/media/downloads/{video_id}/caption_manifest.json")
+    manifest_path = PROJECT_ROOT / "media" / "downloads" / video_id / "caption_manifest.json"
+    if not manifest_path.exists():
+        alt_path = PROJECT_ROOT / "remotion" / "public" / "media" / "downloads" / video_id / "caption_manifest.json"
+        if alt_path.exists():
+            manifest_path = alt_path
     with open(manifest_path, 'r') as f:
         return json.load(f)
 
@@ -253,7 +258,7 @@ def main():
     emoji_manifest = create_emoji_manifest(caption_data, llm_selections)
 
     # Save emoji manifest
-    output_dir = Path(f"/root/youtubr_clipper/media/downloads/{video_id}")
+    output_dir = PROJECT_ROOT / "media" / "downloads" / video_id
     output_dir.mkdir(parents=True, exist_ok=True)
     output_path = output_dir / "emoji_manifest.json"
 

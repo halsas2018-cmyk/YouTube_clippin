@@ -19,6 +19,8 @@ import wave
 import struct
 from pathlib import Path
 
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+
 
 # ---------------------------------------------------------------------------
 # Helpers
@@ -195,7 +197,12 @@ def main() -> None:
         print(f"Usage: {sys.argv[0]} VIDEO_ID [--candidate-id N]")
         sys.exit(1)
 
-    base_dir = f"/root/youtubr_clipper/media/downloads/{video_id}"
+    base_path = PROJECT_ROOT / "media" / "downloads" / video_id
+    if not base_path.exists():
+        alt_path = PROJECT_ROOT / "remotion" / "public" / "media" / "downloads" / video_id
+        if alt_path.exists():
+            base_path = alt_path
+    base_dir = str(base_path)
     audio_dir = os.path.join(base_dir, "media", "audio")
 
     planning_path = os.path.join(base_dir, f"audio_planning_manifest_cand{candidate_id}.json")

@@ -1,0 +1,119 @@
+name: Run Full Clipper Pipeline
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "YouTube Video URL (e.g., https://www.youtube.com/watch?v=S-7VkwSU0gs)"
+        required: true
+        type: string
+      from_stage:
+        description: "Start pipeline at stage N (1-10). Default: 1"
+        required: false
+        default: "1"
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  pipeline:
+    name: Ingest, Process, and Render Clips
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup System Packages (ffmpeg, sox)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg sox
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+          cache-dependency-path: remotion/package-lock.json
+
+      - name: Install Remotion Dependencies
+        working-directory: remotion
+        run: |
+          npm ci
+          npx remotion browser ensure
+
+      - name: Extract Video ID
+        id: video_info
+        run: |
+          VIDEO_ID=$(python3 -c "import sys, re; url=sys.argv[1]; match=re.search(r'(?:v=|/)([0-9A-Za-z_-]{11})', url); print(match.group(1))" "${{ github.event.inputs.url }}")
+          echo "video_id=$VIDEO_ID" >> $GITHUB_OUTPUT
+          echo "Detected Video ID: $VIDEO_ID"
+
+      - name: Run Python Processing Pipeline (Stages 1-13)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          FREESOUND_API_KEY: ${{ secrets.FREESOUND_API_KEY }}
+          CLIPPER_LLM_PROVIDER: ${{ vars.CLIPPER_LLM_PROVIDER || 'google' }}
+        run: |
+          python3 src/run_pipeline.py "${{ github.event.inputs.url }}" --from-stage "${{ github.event.inputs.from_stage }}"
+
+      - name: Discover candidate IDs
+        id: discover
+        working-directory: remotion
+        env:
+          VIDEO_ID: ${{ steps.video_info.outputs.video_id }}
+        run: |
+          CANDIDATE_IDS=$(cat "public/media/downloads/$VIDEO_ID/final_clip_timings.json" | \
+            python3 -c "import json, sys; data = json.load(sys.stdin); print(' '.join(str(c['candidate_id']) for c in data['candidates']))")
+          echo "candidate_ids=$CANDIDATE_IDS" >> $GITHUB_OUTPUT
+          echo "Discovered Candidates: $CANDIDATE_IDS"
+
+      - name: Render Remotion Videos
+        working-directory: remotion
+        env:
+          VIDEO_ID: ${{ steps.video_info.outputs.video_id }}
+          CANDIDATE_IDS: ${{ steps.discover.outputs.candidate_ids }}
+        run: |
+          for CANDIDATE_ID in $CANDIDATE_IDS; do
+            COMPOSITION_ID="${VIDEO_ID}-cand${CANDIDATE_ID}"
+            OUTPUT_FILE="${VIDEO_ID}-cand${CANDIDATE_ID}.mp4"
+            echo "Rendering $COMPOSITION_ID -> $OUTPUT_FILE"
+            npx remotion render src/index.tsx "$COMPOSITION_ID" \
+              --props "{\"videoId\":\"$VIDEO_ID\",\"candidateId\":$CANDIDATE_ID}" \
+              --output "$OUTPUT_FILE"
+          done
+
+      - name: Stage Metadata & Info Files for Upload
+        working-directory: remotion
+        env:
+          VIDEO_ID: ${{ steps.video_info.outputs.video_id }}
+        run: |
+          cp -v "public/media/downloads/$VIDEO_ID"/clip_cand* . 2>/dev/null || true
+          cp -v "public/media/downloads/$VIDEO_ID"/clip_metadata_manifest.json . 2>/dev/null || true
+
+      - name: Upload Rendered Clips and Metadata
+        uses: actions/upload-artifact@v4
+        with:
+          name: clips-${{ steps.video_info.outputs.video_id }}
+          path: |
+            remotion/*.mp4
+            remotion/*.txt
+            remotion/clip_cand*.json
+            remotion/clip_metadata_manifest.json
+          retention-days: 7
