@@ -28,6 +28,14 @@ _COOKIES_FILE: str | None = os.environ.get("YTDLP_COOKIES_FILE") or (
     else None
 )
 
+# Player clients to try in order for section downloads.
+# None represents yt-dlp's default player client selection (recommended with JS runtimes like Deno).
+_DOWNLOAD_PLAYER_CLIENTS: list[str | None] = [
+    None,  # default player client selection
+    "tv_embedded,mweb",
+    "android,ios",
+]
+
 
 def get_ytdlp_binary() -> str:
     """Find the yt-dlp binary, preferring environment variable or PATH."""
@@ -151,14 +159,6 @@ def download_section_range(
     section_arg = f"*{start_time:.2f}-{end_time:.2f}"
     outtmpl = str(out_file.with_suffix("")) + ".%(ext)s"
 
-    # Try multiple player clients to work around YouTube bot-detection on CI runners.
-    # tv/web_creator don't require sign-in; android/ios are fallbacks.
-    _DOWNLOAD_PLAYER_CLIENTS = [
-        "tv,web_creator",
-        "tv_embedded,mweb",
-        "android,ios",
-    ]
-
     # Try MP4 first, then fallback to best available video merged into MP4
     format_specs = [
         format_spec,
@@ -168,13 +168,16 @@ def download_section_range(
 
     last_error: Exception | None = None
     for player_clients in _DOWNLOAD_PLAYER_CLIENTS:
+        client_label = player_clients if player_clients else "default"
         for fmt_idx, fmt in enumerate(format_specs):
             cmd = [
                 binary,
                 "--download-sections",
                 section_arg,
-                "--extractor-args",
-                f"youtube:player_client={player_clients}",
+            ]
+            if player_clients:
+                cmd.extend(["--extractor-args", f"youtube:player_client={player_clients}"])
+            cmd.extend([
                 "-f",
                 fmt,
                 "--merge-output-format",
@@ -183,7 +186,7 @@ def download_section_range(
                 outtmpl,
                 "--force-overwrites",
                 "--no-warnings",
-            ]
+            ])
             if _COOKIES_FILE:
                 cmd.extend(["--cookies", _COOKIES_FILE])
             cmd.append(video_url)
@@ -198,7 +201,7 @@ def download_section_range(
 
                 logger.info(
                     "Executing section download (client=%s, format %d/%d, attempt %d/%d): %s",
-                    player_clients,
+                    client_label,
                     fmt_idx + 1,
                     len(format_specs),
                     attempt,
@@ -209,12 +212,12 @@ def download_section_range(
                 if res.returncode != 0:
                     logger.warning(
                         "yt-dlp failed (client=%s, code %d): %s",
-                        player_clients,
+                        client_label,
                         res.returncode,
                         (res.stderr or res.stdout)[:300],
                     )
                     last_error = RuntimeError(
-                        f"yt-dlp failed (client={player_clients}, code {res.returncode}): {res.stderr or res.stdout}"
+                        f"yt-dlp failed (client={client_label}, code {res.returncode}): {res.stderr or res.stdout}"
                     )
                     continue
 
@@ -232,7 +235,7 @@ def download_section_range(
                 if actual_file and is_valid_media_file(actual_file):
                     logger.info(
                         "Successfully downloaded with client=%s, format: %s",
-                        player_clients,
+                        client_label,
                         actual_file.suffix,
                     )
                     return actual_file

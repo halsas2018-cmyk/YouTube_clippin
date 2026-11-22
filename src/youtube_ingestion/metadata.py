@@ -24,9 +24,11 @@ _COOKIES_FILE: str | None = os.environ.get("YTDLP_COOKIES_FILE") or (
     else None
 )
 
-# Player clients to try in order. tv/web_creator don't require sign-in on CI runners.
-_METADATA_PLAYER_CLIENTS = [
-    "tv,web_creator",
+# Player clients to try in order.
+# None represents yt-dlp's default player-client selection (recommended with JS runtimes like Deno).
+# Fallbacks are only attempted if the default selection fails.
+_METADATA_PLAYER_CLIENTS: list[str | None] = [
+    None,  # yt-dlp default player-client selection
     "tv_embedded,mweb",
     "android,ios",
     "web",
@@ -42,9 +44,10 @@ def _ensure_yt_dlp() -> None:
         )
 
 
-def _run_ytdlp_metadata(url: str, player_clients: str) -> subprocess.CompletedProcess:
-    """Run yt-dlp --dump-json with the given player_clients extractor arg.
+def _run_ytdlp_metadata(url: str, player_clients: str | None = None) -> subprocess.CompletedProcess:
+    """Run yt-dlp --dump-json with optional player_clients extractor arg.
 
+    When *player_clients* is None, uses yt-dlp's default player-client selection.
     Passes ``--cookies`` when a cookies file is configured, to bypass YouTube
     bot-detection / sign-in checks on CI runners.
     """
@@ -53,12 +56,11 @@ def _run_ytdlp_metadata(url: str, player_clients: str) -> subprocess.CompletedPr
         "--dump-json",
         "--no-warnings",
         "--no-playlist",
-        "--extractor-args",
-        f"youtube:player_client={player_clients}",
     ]
+    if player_clients:
+        cmd.extend(["--extractor-args", f"youtube:player_client={player_clients}"])
     if _COOKIES_FILE:
         cmd += ["--cookies", _COOKIES_FILE]
-        sys.stderr.write(f"[yt-dlp] Using cookies file: {_COOKIES_FILE}\n")
     cmd.append(url)
     return subprocess.run(cmd, capture_output=True, text=True)
 
@@ -84,19 +86,21 @@ def fetch_metadata(url: str) -> dict:
 
     last_error: Exception | None = None
     for clients in _METADATA_PLAYER_CLIENTS:
-        sys.stderr.write(f"[yt-dlp] Trying player_client={clients} ...\n")
+        client_label = clients if clients else "default"
+        sys.stderr.write(f"[yt-dlp] Trying player_client={client_label} ...\n")
         result = _run_ytdlp_metadata(url, clients)
         if result.returncode == 0 and result.stdout.strip():
-            sys.stderr.write(f"[yt-dlp] Success with player_client={clients}\n")
+            sys.stderr.write(f"[yt-dlp] Success with player_client={client_label}\n")
             return json.loads(result.stdout.strip())
 
-        sys.stderr.write(f"[yt-dlp] Failed with player_client={clients}: {result.stderr.strip()[:200]}\n")
+        sys.stderr.write(f"[yt-dlp] Failed with player_client={client_label}: {result.stderr.strip()[:200]}\n")
         last_error = subprocess.CalledProcessError(result.returncode, result.args, result.stderr)
 
     # All clients failed — raise the last error
+    client_labels = [c if c else "default" for c in _METADATA_PLAYER_CLIENTS]
     raise RuntimeError(
         f"yt-dlp failed to fetch metadata for {url} with all player clients "
-        f"({', '.join(_METADATA_PLAYER_CLIENTS)}). "
+        f"({', '.join(client_labels)}). "
         f"Last error: {last_error}"
     )
 
