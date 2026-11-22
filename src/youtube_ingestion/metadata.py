@@ -7,6 +7,7 @@ import json
 import os
 import shutil
 import subprocess
+import sys
 
 # Prefer PATH / environment variable, fallback to kinetic_typo_vid venv if on local dev
 YTDLP_PATH = os.environ.get("YTDLP_PATH") or shutil.which("yt-dlp") or "/root/kinetic_typo_vid/venv/bin/yt-dlp"
@@ -42,9 +43,7 @@ def fetch_metadata(url: str) -> dict:
         "--no-warnings",
         "--no-playlist",
         "--extractor-args",
-        "youtube:player_client=android,web",
-        "-f",
-        "bestvideo[vcodec^=avc1]+bestaudio[acodec^=mp4a]/best",
+        "youtube:player_client=android,ios",
         url,
     ]
     try:
@@ -55,26 +54,8 @@ def fetch_metadata(url: str) -> dict:
             check=True,
         )
     except subprocess.CalledProcessError as e:
-        # Fallback without format filter in case specific format constraint failed
-        fallback_cmd = [
-            YTDLP_PATH,
-            "--dump-json",
-            "--no-warnings",
-            "--no-playlist",
-            "--extractor-args",
-            "youtube:player_client=android,web",
-            url,
-        ]
-        try:
-            result = subprocess.run(
-                fallback_cmd,
-                capture_output=True,
-                text=True,
-                check=True,
-            )
-        except subprocess.CalledProcessError as e2:
-            sys.stderr.write(f"yt-dlp stderr: {e2.stderr or e.stderr}\n")
-            raise e2
+        sys.stderr.write(f"yt-dlp stderr: {e.stderr}\n")
+        raise e
 
     stdout = result.stdout.strip()
     if not stdout:

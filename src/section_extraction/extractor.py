@@ -147,6 +147,7 @@ def download_section_range(
     # Try MP4 first, then fallback to best available video merged into MP4
     format_specs = [
         format_spec,
+        "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best",
         "bestvideo+bestaudio/bestvideo",
     ]
 
@@ -157,7 +158,7 @@ def download_section_range(
             "--download-sections",
             section_arg,
             "--extractor-args",
-            "youtube:player_client=android,web",
+            "youtube:player_client=android,ios",
             "-f",
             fmt,
             "--merge-output-format",
