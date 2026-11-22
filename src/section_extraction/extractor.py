@@ -144,6 +144,14 @@ def download_section_range(
     section_arg = f"*{start_time:.2f}-{end_time:.2f}"
     outtmpl = str(out_file.with_suffix("")) + ".%(ext)s"
 
+    # Try multiple player clients to work around YouTube bot-detection on CI runners.
+    # tv/web_creator don't require sign-in; android/ios are fallbacks.
+    _DOWNLOAD_PLAYER_CLIENTS = [
+        "tv,web_creator",
+        "tv_embedded,mweb",
+        "android,ios",
+    ]
+
     # Try MP4 first, then fallback to best available video merged into MP4
     format_specs = [
         format_spec,
@@ -152,70 +160,82 @@ def download_section_range(
     ]
 
     last_error: Exception | None = None
-    for fmt_idx, fmt in enumerate(format_specs):
-        cmd = [
-            binary,
-            "--download-sections",
-            section_arg,
-            "--extractor-args",
-            "youtube:player_client=android,ios",
-            "-f",
-            fmt,
-            "--merge-output-format",
-            "mp4",
-            "-o",
-            outtmpl,
-            "--force-overwrites",
-            "--no-warnings",
-            video_url,
-        ]
+    for player_clients in _DOWNLOAD_PLAYER_CLIENTS:
+        for fmt_idx, fmt in enumerate(format_specs):
+            cmd = [
+                binary,
+                "--download-sections",
+                section_arg,
+                "--extractor-args",
+                f"youtube:player_client={player_clients}",
+                "-f",
+                fmt,
+                "--merge-output-format",
+                "mp4",
+                "-o",
+                outtmpl,
+                "--force-overwrites",
+                "--no-warnings",
+                video_url,
+            ]
 
-        for attempt in range(1, max_retries + 1):
-            # Remove partial files before attempting
-            for part_file in out_file.parent.glob(f"{out_file.stem}.*part"):
-                try:
-                    part_file.unlink(missing_ok=True)
-                except Exception:
-                    pass
+            for attempt in range(1, max_retries + 1):
+                # Remove partial files before attempting
+                for part_file in out_file.parent.glob(f"{out_file.stem}.*part"):
+                    try:
+                        part_file.unlink(missing_ok=True)
+                    except Exception:
+                        pass
 
-            logger.info(
-                "Executing section download (format %d/%d, attempt %d/%d): %s",
-                fmt_idx + 1,
-                len(format_specs),
-                attempt,
-                max_retries,
-                " ".join(cmd),
-            )
-            res = subprocess.run(cmd, capture_output=True, text=True)
-            if res.returncode != 0:
-                last_error = RuntimeError(
-                    f"yt-dlp failed (code {res.returncode}): {res.stderr or res.stdout}"
+                logger.info(
+                    "Executing section download (client=%s, format %d/%d, attempt %d/%d): %s",
+                    player_clients,
+                    fmt_idx + 1,
+                    len(format_specs),
+                    attempt,
+                    max_retries,
+                    " ".join(cmd),
                 )
-                continue
+                res = subprocess.run(cmd, capture_output=True, text=True)
+                if res.returncode != 0:
+                    logger.warning(
+                        "yt-dlp failed (client=%s, code %d): %s",
+                        player_clients,
+                        res.returncode,
+                        (res.stderr or res.stdout)[:300],
+                    )
+                    last_error = RuntimeError(
+                        f"yt-dlp failed (client={player_clients}, code {res.returncode}): {res.stderr or res.stdout}"
+                    )
+                    continue
 
-            # Locate output file
-            actual_file: Path | None = None
-            if out_file.exists():
-                actual_file = out_file
-            else:
-                candidates = list(out_file.parent.glob(f"{out_file.stem}.*"))
-                for cand in candidates:
-                    if cand.suffix in (".mp4", ".mkv", ".webm") and not cand.name.endswith(".part"):
-                        actual_file = cand
-                        break
+                # Locate output file
+                actual_file: Path | None = None
+                if out_file.exists():
+                    actual_file = out_file
+                else:
+                    candidates = list(out_file.parent.glob(f"{out_file.stem}.*"))
+                    for cand in candidates:
+                        if cand.suffix in (".mp4", ".mkv", ".webm") and not cand.name.endswith(".part"):
+                            actual_file = cand
+                            break
 
-            if actual_file and is_valid_media_file(actual_file):
-                logger.info("Successfully downloaded with format: %s", actual_file.suffix)
-                return actual_file
+                if actual_file and is_valid_media_file(actual_file):
+                    logger.info(
+                        "Successfully downloaded with client=%s, format: %s",
+                        player_clients,
+                        actual_file.suffix,
+                    )
+                    return actual_file
 
-            last_error = RuntimeError(
-                f"Downloaded file at {actual_file or out_file} failed ffprobe integrity check."
-            )
-            if actual_file and actual_file.exists():
-                try:
-                    actual_file.unlink(missing_ok=True)
-                except Exception:
-                    pass
+                last_error = RuntimeError(
+                    f"Downloaded file at {actual_file or out_file} failed ffprobe integrity check."
+                )
+                if actual_file and actual_file.exists():
+                    try:
+                        actual_file.unlink(missing_ok=True)
+                    except Exception:
+                        pass
 
     raise last_error or RuntimeError(f"Failed to download section range [{start_time} - {end_time}]")
 

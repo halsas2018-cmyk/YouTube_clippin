@@ -12,6 +12,14 @@ import sys
 # Prefer PATH / environment variable, fallback to kinetic_typo_vid venv if on local dev
 YTDLP_PATH = os.environ.get("YTDLP_PATH") or shutil.which("yt-dlp") or "/root/kinetic_typo_vid/venv/bin/yt-dlp"
 
+# Player clients to try in order. tv/web_creator don't require sign-in on CI runners.
+_METADATA_PLAYER_CLIENTS = [
+    "tv,web_creator",
+    "tv_embedded,mweb",
+    "android,ios",
+    "web",
+]
+
 
 def _ensure_yt_dlp() -> None:
     """Raise FileNotFoundError if yt-dlp is not available."""
@@ -22,8 +30,25 @@ def _ensure_yt_dlp() -> None:
         )
 
 
+def _run_ytdlp_metadata(url: str, player_clients: str) -> subprocess.CompletedProcess:
+    """Run yt-dlp --dump-json with the given player_clients extractor arg."""
+    cmd = [
+        YTDLP_PATH,
+        "--dump-json",
+        "--no-warnings",
+        "--no-playlist",
+        "--extractor-args",
+        f"youtube:player_client={player_clients}",
+        url,
+    ]
+    return subprocess.run(cmd, capture_output=True, text=True)
+
+
 def fetch_metadata(url: str) -> dict:
     """Fetch video metadata using ``yt-dlp --dump-json``.
+
+    Tries multiple player clients in order to work around YouTube bot-detection
+    on CI/cloud runners (GitHub Actions, etc.).
 
     Args:
         url: YouTube video URL.
@@ -33,37 +58,28 @@ def fetch_metadata(url: str) -> dict:
 
     Raises:
         FileNotFoundError: If yt-dlp is not installed.
-        subprocess.CalledProcessError: If yt-dlp exits non-zero.
+        RuntimeError: If all player client attempts fail.
         ValueError: If yt-dlp produces no output (invalid URL / unavailable video).
     """
     _ensure_yt_dlp()
-    cmd = [
-        YTDLP_PATH,
-        "--dump-json",
-        "--no-warnings",
-        "--no-playlist",
-        "--extractor-args",
-        "youtube:player_client=android,ios",
-        url,
-    ]
-    try:
-        result = subprocess.run(
-            cmd,
-            capture_output=True,
-            text=True,
-            check=True,
-        )
-    except subprocess.CalledProcessError as e:
-        sys.stderr.write(f"yt-dlp stderr: {e.stderr}\n")
-        raise e
 
-    stdout = result.stdout.strip()
-    if not stdout:
-        raise ValueError(
-            "yt-dlp returned no output — the URL may be invalid "
-            "or the video may be unavailable."
-        )
-    return json.loads(stdout)
+    last_error: Exception | None = None
+    for clients in _METADATA_PLAYER_CLIENTS:
+        sys.stderr.write(f"[yt-dlp] Trying player_client={clients} ...\n")
+        result = _run_ytdlp_metadata(url, clients)
+        if result.returncode == 0 and result.stdout.strip():
+            sys.stderr.write(f"[yt-dlp] Success with player_client={clients}\n")
+            return json.loads(result.stdout.strip())
+
+        sys.stderr.write(f"[yt-dlp] Failed with player_client={clients}: {result.stderr.strip()[:200]}\n")
+        last_error = subprocess.CalledProcessError(result.returncode, result.args, result.stderr)
+
+    # All clients failed — raise the last error
+    raise RuntimeError(
+        f"yt-dlp failed to fetch metadata for {url} with all player clients "
+        f"({', '.join(_METADATA_PLAYER_CLIENTS)}). "
+        f"Last error: {last_error}"
+    )
 
 
 def extract_video_id(metadata: dict) -> str:
