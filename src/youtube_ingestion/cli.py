@@ -66,6 +66,13 @@ def main() -> int:
         print(f"Error: {type(exc).__name__}: {exc}", file=sys.stderr)
         return 1
 
+    if not result.transcript_paths:
+        print(
+            f"Error: Ingestion failed: No transcripts were saved for video {result.video_id}",
+            file=sys.stderr,
+        )
+        return 1
+
     print(json.dumps({
         "video_id": result.video_id,
         "metadata_path": str(result.metadata_path),

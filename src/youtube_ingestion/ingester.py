@@ -140,6 +140,15 @@ class Ingester:
                 f"No transcripts found for requested languages: {languages}"
             )
 
+        if not transcript_paths:
+            error_details = "; ".join(warnings) if warnings else "no transcripts found"
+            err_msg = (
+                f"Ingestion failed: No transcripts could be extracted for video '{video_id}' "
+                f"(requested languages: {languages}). Details: {error_details}"
+            )
+            print(f"[ingest] ERROR: {err_msg}", file=sys.stderr)
+            raise RuntimeError(err_msg)
+
         return IngestionResult(
             video_id=video_id,
             metadata_path=metadata_path,
